@@ -12,7 +12,7 @@
     { "sprache": "it", "name": "Ufficio federale degli affari particolari", "kurz": "UFAP" },
     { "sprache": "rm", "name": "Uffizi federal per fatgs particulars", "kurz": "UFFP" }
   ],
-  "markeZeile": "BBA · OFAP · UFAP · UFFP",
+  "markeZeile": "BBA",
   "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "typ": "Bundesamt",
   "geschaeftsbereich": "Eidgenössisches Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
@@ -23,19 +23,19 @@
     "titel": "Bundesgesetz über die besonderen Angelegenheiten (BABG)",
     "fundstelle": "SR 999.42 (fiktiv)"
   },
-  "claim": "Wo kein Amt zuständig ist, sind wir es – in allen vier Landessprachen.",
+  "claim": "Für alles, was zwischen Bund und Kantonen durchfällt. Pünktlich erledigt.",
   "auftrag": "Das Bundesamt für besondere Angelegenheiten (BBA) ist das Kompetenzzentrum des Bundes für alles, was weder in eine Bundes- noch in eine Kantonszuständigkeit passt. Es klärt Sonderfälle zwischen den 26 Kantonen, führt Vernehmlassungen zu Unvorhergesehenem durch, entscheidet über alpine Sonderfälle und führt das Eidgenössische Register besonderer Angelegenheiten (ERbA). Selbstverständlich termingerecht.",
   "leitbild": [
     { "titel": "Pünktlich", "text": "Auch das Unvorhersehbare erledigen wir fristgerecht – auf die Sekunde." },
     { "titel": "Ausgewogen", "text": "Wir suchen den Kompromiss, bis alle gleich wenig zufrieden sind." },
-    { "titel": "Mehrsprachig", "text": "Jeder Sonderfall verdient eine Antwort in seiner Landessprache." },
+    { "titel": "Neutral", "text": "Wir nehmen zu jedem Sonderfall Stellung – aber nie Partei." },
     { "titel": "Gründlich", "text": "Was wir nicht vernehmlasst haben, haben wir noch nicht entschieden." }
   ],
   "kennzahlen": [
     { "label": "Mitarbeitende (318 Vollzeitstellen)", "wert": "412" },
     { "label": "Behandelte Sonderfälle 2025", "wert": "9'874" },
     { "label": "Einträge im ERbA", "wert": "61'205" },
-    { "label": "Landessprachen", "wert": "4" }
+    { "label": "Vernehmlassungen 2025", "wert": "37" }
   ],
   "leitungPersonId": "p-braendli-ursula",
   "pressePersonId": "p-cadonau-seraina",

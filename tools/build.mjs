@@ -226,7 +226,7 @@ ${body}
 <section class="section section-soft"><div class="container greeting"><img src="@/${portrait(leitung)}" alt="Porträt ${esc(fullName(leitung))}" width="640" height="800" loading="lazy">
 <div><div class="eyebrow">${esc(behoerde.grusswort.titel)}</div><h2>Willkommen beim ${esc(behoerde.kurzname)}</h2><blockquote><p>${VID === "ch" ? "«" : "„"}${esc(behoerde.grusswort.text)}${VID === "ch" ? "»" : "“"}</p></blockquote>
 <p><strong><a href="@/${url.person(leitung.id)}">${esc(fullName(leitung))}</a></strong><br>${esc(leitung.funktion)}, ${esc(behoerde.name)}</p></div></div></section>
-${behoerde.namenLandessprachen ? `<section class="section"><div class="container"><div class="eyebrow">Vier Landessprachen</div><h2>Ein Amt, vier Namen</h2><div class="grid grid-4">${behoerde.namenLandessprachen.map((n) => `<div class="card"><div class="card-body" lang="${n.sprache}"><span class="tag">${n.sprache.toUpperCase()}</span><h3 style="margin-top:.5em">${esc(n.name)}</h3><p class="person-role">${esc(n.kurz)}</p></div></div>`).join("")}</div></div></section>` : ""}`,
+`,
   });
 
   page({

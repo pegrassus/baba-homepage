@@ -15,7 +15,7 @@ VARIANTS = {
     "ch": {
         "prefix": "bba", "tile": "#2B2F33", "accent": "#B5121B", "shape": "diamond", "text": "#2B2F33",
         "title": "Bundesamt für besondere Angelegenheiten (BBA)",
-        "lines": ["Bundesamt für besondere Angelegenheiten", "Office fédéral des affaires particulières", "Ufficio federale degli affari particolari", "Uffizi federal per fatgs particulars"],
+        "lines": ["Bundesamt für besondere", "Angelegenheiten"],
         "short": "BBA",
     },
     "at": {
