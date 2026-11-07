@@ -1,0 +1,65 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-esser-martin",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Martin",
+    "nachname": "Esser",
+    "funktion": "Referatsleiter 12",
+    "einheitId": "ref-12",
+    "email": "martin.esser@baba-bund.example",
+    "telefon": "+49 228 4711-3200",
+    "kurzvita": "Zuständig für die Frage, ob etwas überhaupt besonders ist.",
+    "name": "Martin Esser",
+    "portrait": "assets/img/personen/p-esser-martin.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-esser-martin.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/personen/p-esser-martin.html",
+    "einheit": {
+      "id": "ref-12",
+      "name": "Referat 12: Abgrenzung des Gewöhnlichen",
+      "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-12.html"
+    },
+    "abteilungId": "abt-1",
+    "standortId": "st-bonn",
+    "leitetEinheitIds": [
+      "ref-12"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-esser-martin.json"
+  },
+  "einheit": {
+    "id": "ref-12",
+    "typ": "referat",
+    "kuerzel": "12",
+    "name": "Abgrenzung des Gewöhnlichen",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-esser-martin",
+    "standortId": "st-bonn",
+    "titel": "Referat 12: Abgrenzung des Gewöhnlichen",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-12.html",
+    "leitung": {
+      "id": "p-esser-martin",
+      "name": "Martin Esser",
+      "funktion": "Referatsleiter 12"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-esser-martin"
+    ],
+    "aufgabeIds": [
+      "auf-abgrenzung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-12.json"
+  },
+  "news": [
+    {
+      "id": "2026-08-leitfaden",
+      "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“",
+      "datum": "2026-08-21",
+      "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-08-leitfaden.html"
+    }
+  ]
+}

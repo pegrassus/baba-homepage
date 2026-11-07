@@ -1,0 +1,138 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-11",
+    "typ": "referat",
+    "kuerzel": "11",
+    "name": "Grundsatzfragen der Besonderheit",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-rohrbach-elisabeth",
+    "standortId": "st-bonn",
+    "titel": "Referat 11: Grundsatzfragen der Besonderheit",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-11.html",
+    "leitung": {
+      "id": "p-rohrbach-elisabeth",
+      "name": "Dr. Elisabeth Rohrbach",
+      "funktion": "Referatsleiterin 11"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-rohrbach-elisabeth"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit",
+      "auf-beratung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-11.json"
+  },
+  "parent": {
+    "id": "abt-1",
+    "typ": "abteilung",
+    "kuerzel": "1",
+    "name": "Grundsatz und Sonderfälle",
+    "parentId": "leitung",
+    "leitungPersonId": "p-achenbach-miriam",
+    "beschreibung": "Grundsatzfragen der Zuständigkeit, Abgrenzung zum Gewöhnlichen und Ausnahmegenehmigungen.",
+    "standortId": "st-bonn",
+    "titel": "Abteilung 1: Grundsatz und Sonderfälle",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/abt-1.html",
+    "leitung": {
+      "id": "p-achenbach-miriam",
+      "name": "Dr. Miriam Achenbach",
+      "funktion": "Abteilungsleiterin 1"
+    },
+    "childIds": [
+      "ref-11",
+      "ref-12",
+      "ref-13",
+      "ref-14"
+    ],
+    "personIds": [
+      "p-achenbach-miriam"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/abt-1.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-rohrbach-elisabeth",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Elisabeth",
+      "nachname": "Rohrbach",
+      "funktion": "Referatsleiterin 11",
+      "einheitId": "ref-11",
+      "email": "elisabeth.rohrbach@baba-bund.example",
+      "telefon": "+49 228 4711-3100",
+      "kurzvita": "Seit über 30 Jahren im Amt; gilt als Gedächtnis der Behörde in Grundsatzfragen.",
+      "name": "Dr. Elisabeth Rohrbach",
+      "portrait": "assets/img/personen/p-rohrbach-elisabeth.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-rohrbach-elisabeth.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-rohrbach-elisabeth.html",
+      "einheit": {
+        "id": "ref-11",
+        "name": "Referat 11: Grundsatzfragen der Besonderheit",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-11.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-11"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-rohrbach-elisabeth.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-zustaendigkeit",
+      "titel": "Auffangzuständigkeit des Bundes",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Das BAbA übernimmt Angelegenheiten des Bundes, für die keine andere Behörde eindeutig zuständig ist, und führt sie einer sachgerechten Bearbeitung zu.",
+      "einheitIds": [
+        "abt-1",
+        "ref-11",
+        "ref-13"
+      ],
+      "rechtsgrundlage": "§ 2 Abs. 1 BAbAG"
+    },
+    {
+      "id": "auf-beratung",
+      "titel": "Beratung von Behörden in Grenzfällen",
+      "kategorie": "Beratung",
+      "beschreibung": "Fachliche Unterstützung von Bundes-, Landes- und Kommunalbehörden bei Zuständigkeits- und Grenzfragen.",
+      "einheitIds": [
+        "ref-13",
+        "ref-11"
+      ],
+      "rechtsgrundlage": "§ 4 BAbAG"
+    }
+  ],
+  "standort": {
+    "id": "st-bonn",
+    "name": "Hauptsitz Bonn",
+    "typ": "Hauptsitz",
+    "strasse": "Am Sonderweg 1",
+    "plz": "53113",
+    "ort": "Bonn",
+    "telefon": "+49 228 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+    "bild": "assets/img/standorte/bonn.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

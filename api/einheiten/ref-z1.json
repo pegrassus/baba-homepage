@@ -1,0 +1,116 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-z1",
+    "typ": "referat",
+    "kuerzel": "Z 1",
+    "name": "Personal und Ausbildung",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-hollweg-petra",
+    "standortId": "st-bonn",
+    "titel": "Referat Z 1: Personal und Ausbildung",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-z1.html",
+    "leitung": {
+      "id": "p-hollweg-petra",
+      "name": "Petra Hollweg",
+      "funktion": "Referatsleiterin Z 1"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-hollweg-petra"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-z1.json"
+  },
+  "parent": {
+    "id": "abt-z",
+    "typ": "abteilung",
+    "kuerzel": "Z",
+    "name": "Zentrale Dienste",
+    "parentId": "leitung",
+    "leitungPersonId": "p-brandauer-thomas",
+    "beschreibung": "Personal, Haushalt, Organisation, Liegenschaften und Recht.",
+    "standortId": "st-bonn",
+    "titel": "Abteilung Z: Zentrale Dienste",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/abt-z.html",
+    "leitung": {
+      "id": "p-brandauer-thomas",
+      "name": "Thomas Brandauer",
+      "funktion": "Abteilungsleiter Z"
+    },
+    "childIds": [
+      "ref-z1",
+      "ref-z2",
+      "ref-z3",
+      "ref-z4"
+    ],
+    "personIds": [
+      "p-brandauer-thomas"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/abt-z.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-hollweg-petra",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Petra",
+      "nachname": "Hollweg",
+      "funktion": "Referatsleiterin Z 1",
+      "einheitId": "ref-z1",
+      "email": "petra.hollweg@baba-bund.example",
+      "telefon": "+49 228 4711-2100",
+      "kurzvita": "Verantwortet Personalgewinnung, -entwicklung und Ausbildung.",
+      "name": "Petra Hollweg",
+      "portrait": "assets/img/personen/p-hollweg-petra.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-hollweg-petra.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-hollweg-petra.html",
+      "einheit": {
+        "id": "ref-z1",
+        "name": "Referat Z 1: Personal und Ausbildung",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-z1.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-z1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-hollweg-petra.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-bonn",
+    "name": "Hauptsitz Bonn",
+    "typ": "Hauptsitz",
+    "strasse": "Am Sonderweg 1",
+    "plz": "53113",
+    "ort": "Bonn",
+    "telefon": "+49 228 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+    "bild": "assets/img/standorte/bonn.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-02-ausbildungsstart",
+      "titel": "24 Nachwuchskräfte starten ihre Ausbildung beim BAbA",
+      "datum": "2026-02-02",
+      "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-02-ausbildungsstart.html"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-14",
+    "typ": "referat",
+    "kuerzel": "14",
+    "name": "Ausnahmegenehmigungen",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-strobl-benedikt",
+    "standortId": "st-bonn",
+    "titel": "Referat 14: Ausnahmegenehmigungen",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-14.html",
+    "leitung": {
+      "id": "p-strobl-benedikt",
+      "name": "Benedikt Strobl",
+      "funktion": "Referatsleiter 14"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-strobl-benedikt"
+    ],
+    "aufgabeIds": [
+      "auf-ausnahme"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-14.json"
+  },
+  "parent": {
+    "id": "abt-1",
+    "typ": "abteilung",
+    "kuerzel": "1",
+    "name": "Grundsatz und Sonderfälle",
+    "parentId": "leitung",
+    "leitungPersonId": "p-achenbach-miriam",
+    "beschreibung": "Grundsatzfragen der Zuständigkeit, Abgrenzung zum Gewöhnlichen und Ausnahmegenehmigungen.",
+    "standortId": "st-bonn",
+    "titel": "Abteilung 1: Grundsatz und Sonderfälle",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/abt-1.html",
+    "leitung": {
+      "id": "p-achenbach-miriam",
+      "name": "Dr. Miriam Achenbach",
+      "funktion": "Abteilungsleiterin 1"
+    },
+    "childIds": [
+      "ref-11",
+      "ref-12",
+      "ref-13",
+      "ref-14"
+    ],
+    "personIds": [
+      "p-achenbach-miriam"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/abt-1.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-strobl-benedikt",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Benedikt",
+      "nachname": "Strobl",
+      "funktion": "Referatsleiter 14",
+      "einheitId": "ref-14",
+      "email": "benedikt.strobl@baba-bund.example",
+      "telefon": "+49 228 4711-3400",
+      "kurzvita": "Erteilt Ausnahmegenehmigungen nach § 7 BAbAG.",
+      "name": "Benedikt Strobl",
+      "portrait": "assets/img/personen/p-strobl-benedikt.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-strobl-benedikt.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-strobl-benedikt.html",
+      "einheit": {
+        "id": "ref-14",
+        "name": "Referat 14: Ausnahmegenehmigungen",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-14.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-14"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-strobl-benedikt.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-ausnahme",
+      "titel": "Ausnahmegenehmigungen",
+      "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Erteilung von Ausnahmegenehmigungen in Fällen, die von bestehenden Regelungen nicht erfasst werden.",
+      "einheitIds": [
+        "ref-14"
+      ],
+      "rechtsgrundlage": "§ 7 BAbAG"
+    }
+  ],
+  "standort": {
+    "id": "st-bonn",
+    "name": "Hauptsitz Bonn",
+    "typ": "Hauptsitz",
+    "strasse": "Am Sonderweg 1",
+    "plz": "53113",
+    "ort": "Bonn",
+    "telefon": "+49 228 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+    "bild": "assets/img/standorte/bonn.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

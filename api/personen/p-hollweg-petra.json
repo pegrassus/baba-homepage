@@ -1,0 +1,63 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-hollweg-petra",
+    "anrede": "Frau",
+    "titel": "",
+    "vorname": "Petra",
+    "nachname": "Hollweg",
+    "funktion": "Referatsleiterin Z 1",
+    "einheitId": "ref-z1",
+    "email": "petra.hollweg@baba-bund.example",
+    "telefon": "+49 228 4711-2100",
+    "kurzvita": "Verantwortet Personalgewinnung, -entwicklung und Ausbildung.",
+    "name": "Petra Hollweg",
+    "portrait": "assets/img/personen/p-hollweg-petra.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-hollweg-petra.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/personen/p-hollweg-petra.html",
+    "einheit": {
+      "id": "ref-z1",
+      "name": "Referat Z 1: Personal und Ausbildung",
+      "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-z1.html"
+    },
+    "abteilungId": "abt-z",
+    "standortId": "st-bonn",
+    "leitetEinheitIds": [
+      "ref-z1"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-hollweg-petra.json"
+  },
+  "einheit": {
+    "id": "ref-z1",
+    "typ": "referat",
+    "kuerzel": "Z 1",
+    "name": "Personal und Ausbildung",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-hollweg-petra",
+    "standortId": "st-bonn",
+    "titel": "Referat Z 1: Personal und Ausbildung",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-z1.html",
+    "leitung": {
+      "id": "p-hollweg-petra",
+      "name": "Petra Hollweg",
+      "funktion": "Referatsleiterin Z 1"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-hollweg-petra"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-z1.json"
+  },
+  "news": [
+    {
+      "id": "2026-02-ausbildungsstart",
+      "titel": "24 Nachwuchskräfte starten ihre Ausbildung beim BAbA",
+      "datum": "2026-02-02",
+      "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-02-ausbildungsstart.html"
+    }
+  ]
+}

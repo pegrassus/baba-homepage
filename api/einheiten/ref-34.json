@@ -1,0 +1,125 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-34",
+    "typ": "referat",
+    "kuerzel": "34",
+    "name": "Prävention des Unwahrscheinlichen",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-raband-sophie",
+    "standortId": "st-bonn",
+    "titel": "Referat 34: Prävention des Unwahrscheinlichen",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-34.html",
+    "leitung": {
+      "id": "p-raband-sophie",
+      "name": "Sophie Raband",
+      "funktion": "Referatsleiterin 34"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-raband-sophie"
+    ],
+    "aufgabeIds": [
+      "auf-praevention"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-34.json"
+  },
+  "parent": {
+    "id": "abt-3",
+    "typ": "abteilung",
+    "kuerzel": "3",
+    "name": "Außergewöhnliche Ereignisse",
+    "parentId": "leitung",
+    "leitungPersonId": "p-velten-katharina",
+    "beschreibung": "Lagebeobachtung, Bewältigung und Dokumentation unvorhergesehener Ereignisse.",
+    "standortId": "st-bonn",
+    "titel": "Abteilung 3: Außergewöhnliche Ereignisse",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/abt-3.html",
+    "leitung": {
+      "id": "p-velten-katharina",
+      "name": "Katharina Velten",
+      "funktion": "Abteilungsleiterin 3"
+    },
+    "childIds": [
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34"
+    ],
+    "personIds": [
+      "p-velten-katharina"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/abt-3.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-raband-sophie",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Sophie",
+      "nachname": "Raband",
+      "funktion": "Referatsleiterin 34",
+      "einheitId": "ref-34",
+      "email": "sophie.raband@baba-bund.example",
+      "telefon": "+49 228 4711-5400",
+      "kurzvita": "Risikoanalystin; entwickelt Vorsorgekonzepte für unwahrscheinliche Szenarien.",
+      "name": "Sophie Raband",
+      "portrait": "assets/img/personen/p-raband-sophie.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-raband-sophie.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-raband-sophie.html",
+      "einheit": {
+        "id": "ref-34",
+        "name": "Referat 34: Prävention des Unwahrscheinlichen",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-34.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-34"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-raband-sophie.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-praevention",
+      "titel": "Vorsorge für unwahrscheinliche Szenarien",
+      "kategorie": "Beratung",
+      "beschreibung": "Erarbeitung von Vorsorgekonzepten und Übungen für Ereignisse mit geringer Eintrittswahrscheinlichkeit.",
+      "einheitIds": [
+        "ref-34",
+        "ref-31"
+      ],
+      "rechtsgrundlage": "§ 20 BAbAG"
+    }
+  ],
+  "standort": {
+    "id": "st-bonn",
+    "name": "Hauptsitz Bonn",
+    "typ": "Hauptsitz",
+    "strasse": "Am Sonderweg 1",
+    "plz": "53113",
+    "ort": "Bonn",
+    "telefon": "+49 228 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+    "bild": "assets/img/standorte/bonn.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

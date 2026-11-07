@@ -1,0 +1,40 @@
+{
+  "stand": "2026-11-01",
+  "einheiten": [
+    { "id": "leitung", "typ": "leitung", "kuerzel": "P", "name": "Amtsleitung", "parentId": null, "leitungPersonId": "p-wellbrock-hanna", "vertretungPersonId": "p-oberreiter-matthias", "beschreibung": "Präsidentin und Vizepräsident leiten das Amt und vertreten es nach außen.", "standortId": "st-bonn" },
+
+    { "id": "stab-ls", "typ": "stab", "kuerzel": "LS", "name": "Leitungsstab", "parentId": "leitung", "leitungPersonId": "p-feldhaus-jonas", "beschreibung": "Unterstützt die Amtsleitung, koordiniert Grundsatzangelegenheiten, Gremienarbeit und das Controlling.", "standortId": "st-bonn" },
+    { "id": "stab-ps", "typ": "stab", "kuerzel": "PS", "name": "Presse- und Öffentlichkeitsarbeit", "parentId": "leitung", "leitungPersonId": "p-imhoff-clara", "beschreibung": "Pressestelle, Internetredaktion, Veranstaltungen und Bürgerkommunikation.", "standortId": "st-bonn" },
+    { "id": "stab-ds", "typ": "stab", "kuerzel": "DS", "name": "Datenschutz und Innenrevision", "parentId": "leitung", "leitungPersonId": "p-krell-sabine", "beschreibung": "Behördliche Datenschutzbeauftragte, Innenrevision und Korruptionsprävention.", "standortId": "st-bonn" },
+
+    { "id": "abt-z", "typ": "abteilung", "kuerzel": "Z", "name": "Zentrale Dienste", "parentId": "leitung", "leitungPersonId": "p-brandauer-thomas", "beschreibung": "Personal, Haushalt, Organisation, Liegenschaften und Recht.", "standortId": "st-bonn" },
+    { "id": "ref-z1", "typ": "referat", "kuerzel": "Z 1", "name": "Personal und Ausbildung", "parentId": "abt-z", "leitungPersonId": "p-hollweg-petra", "standortId": "st-bonn" },
+    { "id": "ref-z2", "typ": "referat", "kuerzel": "Z 2", "name": "Haushalt und Beschaffung", "parentId": "abt-z", "leitungPersonId": "p-marquardt-stefan", "standortId": "st-bonn" },
+    { "id": "ref-z3", "typ": "referat", "kuerzel": "Z 3", "name": "Organisation, Innerer Dienst und Liegenschaften", "parentId": "abt-z", "leitungPersonId": "p-demirtas-ayse", "standortId": "st-bonn" },
+    { "id": "ref-z4", "typ": "referat", "kuerzel": "Z 4", "name": "Justiziariat", "parentId": "abt-z", "leitungPersonId": "p-lindqvist-felix", "standortId": "st-bonn" },
+
+    { "id": "abt-1", "typ": "abteilung", "kuerzel": "1", "name": "Grundsatz und Sonderfälle", "parentId": "leitung", "leitungPersonId": "p-achenbach-miriam", "beschreibung": "Grundsatzfragen der Zuständigkeit, Abgrenzung zum Gewöhnlichen und Ausnahmegenehmigungen.", "standortId": "st-bonn" },
+    { "id": "ref-11", "typ": "referat", "kuerzel": "11", "name": "Grundsatzfragen der Besonderheit", "parentId": "abt-1", "leitungPersonId": "p-rohrbach-elisabeth", "standortId": "st-bonn" },
+    { "id": "ref-12", "typ": "referat", "kuerzel": "12", "name": "Abgrenzung des Gewöhnlichen", "parentId": "abt-1", "leitungPersonId": "p-esser-martin", "standortId": "st-bonn" },
+    { "id": "ref-13", "typ": "referat", "kuerzel": "13", "name": "Grenzfälle und Sonderkonstellationen", "parentId": "abt-1", "leitungPersonId": "p-weissenfels-nora", "standortId": "st-bonn" },
+    { "id": "ref-14", "typ": "referat", "kuerzel": "14", "name": "Ausnahmegenehmigungen", "parentId": "abt-1", "leitungPersonId": "p-strobl-benedikt", "standortId": "st-bonn" },
+
+    { "id": "abt-2", "typ": "abteilung", "kuerzel": "2", "name": "Besondere Verfahren", "parentId": "leitung", "leitungPersonId": "p-rheinfelder-lukas", "beschreibung": "Durchführung besonderer Verwaltungsverfahren einschließlich Widerspruchs- und Fristenangelegenheiten.", "standortId": "st-berlin" },
+    { "id": "ref-21", "typ": "referat", "kuerzel": "21", "name": "Verfahren erster Ordnung", "parentId": "abt-2", "leitungPersonId": "p-kranich-julia", "standortId": "st-berlin" },
+    { "id": "ref-22", "typ": "referat", "kuerzel": "22", "name": "Mehrfach besondere Verfahren", "parentId": "abt-2", "leitungPersonId": "p-hain-tobias", "standortId": "st-berlin" },
+    { "id": "ref-23", "typ": "referat", "kuerzel": "23", "name": "Widersprüche und Einwendungen", "parentId": "abt-2", "leitungPersonId": "p-lutz-verena", "standortId": "st-berlin" },
+    { "id": "ref-24", "typ": "referat", "kuerzel": "24", "name": "Fristen außergewöhnlicher Art", "parentId": "abt-2", "leitungPersonId": "p-pfeiffer-lang-markus", "standortId": "st-berlin" },
+
+    { "id": "abt-3", "typ": "abteilung", "kuerzel": "3", "name": "Außergewöhnliche Ereignisse", "parentId": "leitung", "leitungPersonId": "p-velten-katharina", "beschreibung": "Lagebeobachtung, Bewältigung und Dokumentation unvorhergesehener Ereignisse.", "standortId": "st-bonn" },
+    { "id": "ref-31", "typ": "referat", "kuerzel": "31", "name": "Lagezentrum Besonderheiten", "parentId": "abt-3", "leitungPersonId": "p-sander-oliver", "standortId": "st-bonn" },
+    { "id": "ref-32", "typ": "referat", "kuerzel": "32", "name": "Unvorhergesehenes", "parentId": "abt-3", "leitungPersonId": "p-amsel-lena", "standortId": "st-bonn" },
+    { "id": "ref-33", "typ": "referat", "kuerzel": "33", "name": "Kuriosa-Register und Dokumentation", "parentId": "abt-3", "leitungPersonId": "p-kobold-friedrich", "standortId": "st-bonn" },
+    { "id": "ref-34", "typ": "referat", "kuerzel": "34", "name": "Prävention des Unwahrscheinlichen", "parentId": "abt-3", "leitungPersonId": "p-raband-sophie", "standortId": "st-bonn" },
+
+    { "id": "abt-4", "typ": "abteilung", "kuerzel": "4", "name": "Digitales und Register", "parentId": "leitung", "leitungPersonId": "p-okafor-daniel", "beschreibung": "Bundesregister besonderer Angelegenheiten, IT-Verfahren, Daten und Informationssicherheit.", "standortId": "st-erfurt" },
+    { "id": "ref-41", "typ": "referat", "kuerzel": "41", "name": "Bundesregister besonderer Angelegenheiten (BRbA)", "parentId": "abt-4", "leitungPersonId": "p-wendt-ingo", "standortId": "st-erfurt" },
+    { "id": "ref-42", "typ": "referat", "kuerzel": "42", "name": "IT-Verfahren und E-Akte", "parentId": "abt-4", "leitungPersonId": "p-kowalczyk-marta", "standortId": "st-erfurt" },
+    { "id": "ref-43", "typ": "referat", "kuerzel": "43", "name": "Daten und Schnittstellen", "parentId": "abt-4", "leitungPersonId": "p-baumgart-leonie", "standortId": "st-erfurt" },
+    { "id": "ref-44", "typ": "referat", "kuerzel": "44", "name": "Informationssicherheit", "parentId": "abt-4", "leitungPersonId": "p-reinhold-kai-uwe", "standortId": "st-erfurt" }
+  ]
+}

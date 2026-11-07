@@ -1,0 +1,56 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-lindqvist-felix",
+    "anrede": "Herr",
+    "titel": "Dr.",
+    "vorname": "Felix",
+    "nachname": "Lindqvist",
+    "funktion": "Referatsleiter Z 4 (Justiziar)",
+    "einheitId": "ref-z4",
+    "email": "felix.lindqvist@baba-bund.example",
+    "telefon": "+49 228 4711-2400",
+    "kurzvita": "Justiziar des Amtes; Prozessvertretung und Rechtsberatung.",
+    "name": "Dr. Felix Lindqvist",
+    "portrait": "assets/img/personen/p-lindqvist-felix.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-lindqvist-felix.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/personen/p-lindqvist-felix.html",
+    "einheit": {
+      "id": "ref-z4",
+      "name": "Referat Z 4: Justiziariat",
+      "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-z4.html"
+    },
+    "abteilungId": "abt-z",
+    "standortId": "st-bonn",
+    "leitetEinheitIds": [
+      "ref-z4"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-lindqvist-felix.json"
+  },
+  "einheit": {
+    "id": "ref-z4",
+    "typ": "referat",
+    "kuerzel": "Z 4",
+    "name": "Justiziariat",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-lindqvist-felix",
+    "standortId": "st-bonn",
+    "titel": "Referat Z 4: Justiziariat",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-z4.html",
+    "leitung": {
+      "id": "p-lindqvist-felix",
+      "name": "Dr. Felix Lindqvist",
+      "funktion": "Referatsleiter Z 4 (Justiziar)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-lindqvist-felix"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-z4.json"
+  },
+  "news": []
+}

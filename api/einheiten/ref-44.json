@@ -1,0 +1,119 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-44",
+    "typ": "referat",
+    "kuerzel": "44",
+    "name": "Informationssicherheit",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-reinhold-kai-uwe",
+    "standortId": "st-erfurt",
+    "titel": "Referat 44: Informationssicherheit",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-44.html",
+    "leitung": {
+      "id": "p-reinhold-kai-uwe",
+      "name": "Kai-Uwe Reinhold",
+      "funktion": "Referatsleiter 44 (ISB)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-reinhold-kai-uwe"
+    ],
+    "aufgabeIds": [
+      "auf-digital"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-44.json"
+  },
+  "parent": {
+    "id": "abt-4",
+    "typ": "abteilung",
+    "kuerzel": "4",
+    "name": "Digitales und Register",
+    "parentId": "leitung",
+    "leitungPersonId": "p-okafor-daniel",
+    "beschreibung": "Bundesregister besonderer Angelegenheiten, IT-Verfahren, Daten und Informationssicherheit.",
+    "standortId": "st-erfurt",
+    "titel": "Abteilung 4: Digitales und Register",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/abt-4.html",
+    "leitung": {
+      "id": "p-okafor-daniel",
+      "name": "Daniel Okafor",
+      "funktion": "Abteilungsleiter 4 (CIO)"
+    },
+    "childIds": [
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "personIds": [
+      "p-okafor-daniel"
+    ],
+    "aufgabeIds": [
+      "auf-brba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/abt-4.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-reinhold-kai-uwe",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Kai-Uwe",
+      "nachname": "Reinhold",
+      "funktion": "Referatsleiter 44 (ISB)",
+      "einheitId": "ref-44",
+      "email": "kai-uwe.reinhold@baba-bund.example",
+      "telefon": "+49 361 4711-6400",
+      "kurzvita": "Informationssicherheitsbeauftragter des Amtes.",
+      "name": "Kai-Uwe Reinhold",
+      "portrait": "assets/img/personen/p-reinhold-kai-uwe.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-reinhold-kai-uwe.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-reinhold-kai-uwe.html",
+      "einheit": {
+        "id": "ref-44",
+        "name": "Referat 44: Informationssicherheit",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-44.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-erfurt",
+      "leitetEinheitIds": [
+        "ref-44"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-reinhold-kai-uwe.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-digital",
+      "titel": "Digitale Antragstellung",
+      "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Bereitstellung digitaler Antragswege und der E-Akte für alle Verfahren des Amtes.",
+      "einheitIds": [
+        "ref-42",
+        "ref-44"
+      ],
+      "rechtsgrundlage": "OZG (fiktiver Bezug)"
+    }
+  ],
+  "standort": {
+    "id": "st-erfurt",
+    "name": "Außenstelle Erfurt",
+    "typ": "Außenstelle",
+    "strasse": "Registerplatz 3",
+    "plz": "99084",
+    "ort": "Erfurt",
+    "telefon": "+49 361 4711-0",
+    "beschreibung": "Standort der Abteilung 4 (Digitales und Register) und des Rechenzentrums des BRbA. Neubau, bezogen 2026.",
+    "bild": "assets/img/standorte/erfurt.jpg",
+    "einheitIds": [
+      "abt-4"
+    ]
+  },
+  "news": []
+}

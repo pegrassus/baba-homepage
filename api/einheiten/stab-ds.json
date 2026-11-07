@@ -1,0 +1,116 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "stab-ds",
+    "typ": "stab",
+    "kuerzel": "DS",
+    "name": "Datenschutz und Innenrevision",
+    "parentId": "leitung",
+    "leitungPersonId": "p-krell-sabine",
+    "beschreibung": "Behördliche Datenschutzbeauftragte, Innenrevision und Korruptionsprävention.",
+    "standortId": "st-bonn",
+    "titel": "Datenschutz und Innenrevision",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/stab-ds.html",
+    "leitung": {
+      "id": "p-krell-sabine",
+      "name": "Sabine Krell",
+      "funktion": "Behördliche Datenschutzbeauftragte"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-krell-sabine"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/stab-ds.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-wellbrock-hanna",
+    "vertretungPersonId": "p-oberreiter-matthias",
+    "beschreibung": "Präsidentin und Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-bonn",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/leitung.html",
+    "leitung": {
+      "id": "p-wellbrock-hanna",
+      "name": "Dr. Hanna Wellbrock",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-wellbrock-hanna",
+      "p-oberreiter-matthias"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/leitung.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-krell-sabine",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Sabine",
+      "nachname": "Krell",
+      "funktion": "Behördliche Datenschutzbeauftragte",
+      "einheitId": "stab-ds",
+      "email": "datenschutz@baba-bund.example",
+      "telefon": "+49 228 4711-1030",
+      "kurzvita": "Diplom-Verwaltungswirtin; seit 2015 Datenschutzbeauftragte des Amtes.",
+      "name": "Sabine Krell",
+      "portrait": "assets/img/personen/p-krell-sabine.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-krell-sabine.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-krell-sabine.html",
+      "einheit": {
+        "id": "stab-ds",
+        "name": "Datenschutz und Innenrevision",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/stab-ds.html"
+      },
+      "abteilungId": "stab-ds",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "stab-ds"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-krell-sabine.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-bonn",
+    "name": "Hauptsitz Bonn",
+    "typ": "Hauptsitz",
+    "strasse": "Am Sonderweg 1",
+    "plz": "53113",
+    "ort": "Bonn",
+    "telefon": "+49 228 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+    "bild": "assets/img/standorte/bonn.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

@@ -1,0 +1,79 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-05-kuriosa-10000",
+    "datum": "2026-05-05",
+    "kategorie": "Meldung",
+    "titel": "Kuriosa-Register erreicht 10.000. Eintrag",
+    "teaser": "Der Jubiläumseintrag betrifft einen Antrag auf Genehmigung eines Antrags. Das Register dokumentiert seit 1994 kuriose Verwaltungsvorgänge.",
+    "text": [
+      "Das Kuriosa-Register des BAbA hat seinen 10.000. Eintrag erfasst. Der Jubiläumsfall: ein formgerechter Antrag auf Genehmigung der Stellung eines Antrags.",
+      "Referatsleiter Friedrich Kobold führt das Register seit seiner Gründung. „Jeder Eintrag erzählt etwas darüber, wie Verwaltung und Wirklichkeit aufeinandertreffen“, sagt er.",
+      "Eine Auswahl der Einträge wird im kommenden Jahr als Bildband veröffentlicht."
+    ],
+    "bild": "assets/img/news/2026-05-kuriosa-10000.jpg",
+    "einheitId": "ref-33",
+    "personIds": [
+      "p-kobold-friedrich"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-05-kuriosa-10000.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-05-kuriosa-10000.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/api/news/2026-05-kuriosa-10000.json"
+  },
+  "einheit": {
+    "id": "ref-33",
+    "typ": "referat",
+    "kuerzel": "33",
+    "name": "Kuriosa-Register und Dokumentation",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-kobold-friedrich",
+    "standortId": "st-bonn",
+    "titel": "Referat 33: Kuriosa-Register und Dokumentation",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-33.html",
+    "leitung": {
+      "id": "p-kobold-friedrich",
+      "name": "Friedrich Kobold",
+      "funktion": "Referatsleiter 33"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-kobold-friedrich"
+    ],
+    "aufgabeIds": [
+      "auf-kuriosa"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-33.json"
+  },
+  "personen": [
+    {
+      "id": "p-kobold-friedrich",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Friedrich",
+      "nachname": "Kobold",
+      "funktion": "Referatsleiter 33",
+      "einheitId": "ref-33",
+      "email": "friedrich.kobold@baba-bund.example",
+      "telefon": "+49 228 4711-5300",
+      "kurzvita": "Archivar mit Leidenschaft; führt das Kuriosa-Register seit 1994.",
+      "name": "Friedrich Kobold",
+      "portrait": "assets/img/personen/p-kobold-friedrich.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-kobold-friedrich.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-kobold-friedrich.html",
+      "einheit": {
+        "id": "ref-33",
+        "name": "Referat 33: Kuriosa-Register und Dokumentation",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-33.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-33"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-kobold-friedrich.json"
+    }
+  ]
+}

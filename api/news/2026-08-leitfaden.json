@@ -1,0 +1,107 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-08-leitfaden",
+    "datum": "2026-08-21",
+    "kategorie": "Publikation",
+    "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“",
+    "teaser": "Der überarbeitete Leitfaden gibt Behörden und Antragstellenden erstmals einen Prüfkatalog mit 14 Kriterien an die Hand.",
+    "text": [
+      "Die Abteilung Grundsatz und Sonderfälle hat den Leitfaden zur Abgrenzung besonderer von gewöhnlichen Angelegenheiten grundlegend überarbeitet.",
+      "Kern ist ein Prüfkatalog mit 14 Kriterien, darunter Einmaligkeit, fehlende Regelungszuständigkeit und das sogenannte Kopfschüttel-Kriterium.",
+      "„Der Leitfaden schafft Transparenz und spart allen Beteiligten Zeit“, so Abteilungsleiterin Dr. Miriam Achenbach. Der Leitfaden steht als PDF zum Download bereit."
+    ],
+    "bild": "assets/img/news/2026-08-leitfaden.jpg",
+    "einheitId": "ref-12",
+    "personIds": [
+      "p-achenbach-miriam",
+      "p-esser-martin"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-08-leitfaden.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-08-leitfaden.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/api/news/2026-08-leitfaden.json"
+  },
+  "einheit": {
+    "id": "ref-12",
+    "typ": "referat",
+    "kuerzel": "12",
+    "name": "Abgrenzung des Gewöhnlichen",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-esser-martin",
+    "standortId": "st-bonn",
+    "titel": "Referat 12: Abgrenzung des Gewöhnlichen",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-12.html",
+    "leitung": {
+      "id": "p-esser-martin",
+      "name": "Martin Esser",
+      "funktion": "Referatsleiter 12"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-esser-martin"
+    ],
+    "aufgabeIds": [
+      "auf-abgrenzung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-12.json"
+  },
+  "personen": [
+    {
+      "id": "p-achenbach-miriam",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Miriam",
+      "nachname": "Achenbach",
+      "funktion": "Abteilungsleiterin 1",
+      "einheitId": "abt-1",
+      "email": "miriam.achenbach@baba-bund.example",
+      "telefon": "+49 228 4711-3000",
+      "kurzvita": "Rechtswissenschaftlerin; prägte maßgeblich den Leitfaden zur Abgrenzung besonderer Angelegenheiten.",
+      "name": "Dr. Miriam Achenbach",
+      "portrait": "assets/img/personen/p-achenbach-miriam.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-achenbach-miriam.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-achenbach-miriam.html",
+      "einheit": {
+        "id": "abt-1",
+        "name": "Abteilung 1: Grundsatz und Sonderfälle",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/abt-1.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "abt-1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-achenbach-miriam.json"
+    },
+    {
+      "id": "p-esser-martin",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Martin",
+      "nachname": "Esser",
+      "funktion": "Referatsleiter 12",
+      "einheitId": "ref-12",
+      "email": "martin.esser@baba-bund.example",
+      "telefon": "+49 228 4711-3200",
+      "kurzvita": "Zuständig für die Frage, ob etwas überhaupt besonders ist.",
+      "name": "Martin Esser",
+      "portrait": "assets/img/personen/p-esser-martin.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-esser-martin.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-esser-martin.html",
+      "einheit": {
+        "id": "ref-12",
+        "name": "Referat 12: Abgrenzung des Gewöhnlichen",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-12.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-12"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-esser-martin.json"
+    }
+  ]
+}

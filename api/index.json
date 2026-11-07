@@ -1,0 +1,144 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "name": "Bundesamt für besondere Angelegenheiten",
+  "kurzname": "BAbA",
+  "beschreibung": "Maschinenlesbare Schnittstelle der (fiktiven) Behörde. Alle Inhalte der Website sind hier als JSON abrufbar. IDs sind stabil und dateiübergreifend referenzierbar.",
+  "logo": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+  "endpunkte": [
+    {
+      "pfad": "api/behoerde.json",
+      "url": "https://pegrassus.github.io/baba-homepage/api/behoerde.json",
+      "beschreibung": "Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte"
+    },
+    {
+      "pfad": "api/organisation.json",
+      "url": "https://pegrassus.github.io/baba-homepage/api/organisation.json",
+      "beschreibung": "Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)"
+    },
+    {
+      "pfad": "api/personen.json",
+      "url": "https://pegrassus.github.io/baba-homepage/api/personen.json",
+      "beschreibung": "Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL"
+    },
+    {
+      "pfad": "api/aufgaben.json",
+      "url": "https://pegrassus.github.io/baba-homepage/api/aufgaben.json",
+      "beschreibung": "Aufgaben und Leistungen mit zuständigen Einheiten"
+    },
+    {
+      "pfad": "api/news.json",
+      "url": "https://pegrassus.github.io/baba-homepage/api/news.json",
+      "beschreibung": "Meldungen und Pressemitteilungen, neueste zuerst"
+    },
+    {
+      "pfad": "api/standorte.json",
+      "url": "https://pegrassus.github.io/baba-homepage/api/standorte.json",
+      "beschreibung": "Standorte mit Adressen"
+    },
+    {
+      "pfad": "api/downloads.json",
+      "url": "https://pegrassus.github.io/baba-homepage/api/downloads.json",
+      "beschreibung": "Formulare und Publikationen"
+    },
+    {
+      "pfad": "api/alles.json",
+      "url": "https://pegrassus.github.io/baba-homepage/api/alles.json",
+      "beschreibung": "Gesamtexport aller Inhalte in einer Datei"
+    },
+    {
+      "pfad": "api/personen/{id}.json",
+      "url": "https://pegrassus.github.io/baba-homepage/api/personen/{id}.json",
+      "beschreibung": "Einzelne Person inkl. Einheit und Erwähnungen"
+    },
+    {
+      "pfad": "api/einheiten/{id}.json",
+      "url": "https://pegrassus.github.io/baba-homepage/api/einheiten/{id}.json",
+      "beschreibung": "Einzelne Organisationseinheit inkl. Leitung, Personen, Unter-Einheiten, Aufgaben"
+    },
+    {
+      "pfad": "api/news/{id}.json",
+      "url": "https://pegrassus.github.io/baba-homepage/api/news/{id}.json",
+      "beschreibung": "Einzelne Meldung inkl. beteiligter Personen"
+    }
+  ],
+  "ids": {
+    "personen": [
+      "p-wellbrock-hanna",
+      "p-oberreiter-matthias",
+      "p-feldhaus-jonas",
+      "p-imhoff-clara",
+      "p-krell-sabine",
+      "p-brandauer-thomas",
+      "p-hollweg-petra",
+      "p-marquardt-stefan",
+      "p-demirtas-ayse",
+      "p-lindqvist-felix",
+      "p-achenbach-miriam",
+      "p-rohrbach-elisabeth",
+      "p-esser-martin",
+      "p-weissenfels-nora",
+      "p-strobl-benedikt",
+      "p-rheinfelder-lukas",
+      "p-kranich-julia",
+      "p-hain-tobias",
+      "p-lutz-verena",
+      "p-pfeiffer-lang-markus",
+      "p-velten-katharina",
+      "p-sander-oliver",
+      "p-amsel-lena",
+      "p-kobold-friedrich",
+      "p-raband-sophie",
+      "p-okafor-daniel",
+      "p-wendt-ingo",
+      "p-kowalczyk-marta",
+      "p-baumgart-leonie",
+      "p-reinhold-kai-uwe"
+    ],
+    "einheiten": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "ref-z1",
+      "ref-z2",
+      "ref-z3",
+      "ref-z4",
+      "abt-1",
+      "ref-11",
+      "ref-12",
+      "ref-13",
+      "ref-14",
+      "abt-2",
+      "ref-21",
+      "ref-22",
+      "ref-23",
+      "ref-24",
+      "abt-3",
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34",
+      "abt-4",
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "news": [
+      "2026-10-jahresbericht",
+      "2026-10-brba-start",
+      "2026-09-tag-der-offenen-tuer",
+      "2026-08-leitfaden",
+      "2026-07-europaeisches-forum",
+      "2026-06-erfurt-neubau",
+      "2026-05-kuriosa-10000",
+      "2026-03-fristenregelung",
+      "2026-02-ausbildungsstart",
+      "2025-12-uebung-schaltjahr"
+    ]
+  },
+  "jsonLd": "Jede HTML-Seite enthält zusätzlich schema.org-JSON-LD (GovernmentOrganization, Person, NewsArticle)."
+}

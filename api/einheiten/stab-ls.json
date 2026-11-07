@@ -1,0 +1,116 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "stab-ls",
+    "typ": "stab",
+    "kuerzel": "LS",
+    "name": "Leitungsstab",
+    "parentId": "leitung",
+    "leitungPersonId": "p-feldhaus-jonas",
+    "beschreibung": "Unterstützt die Amtsleitung, koordiniert Grundsatzangelegenheiten, Gremienarbeit und das Controlling.",
+    "standortId": "st-bonn",
+    "titel": "Leitungsstab",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/stab-ls.html",
+    "leitung": {
+      "id": "p-feldhaus-jonas",
+      "name": "Dr. Jonas Feldhaus",
+      "funktion": "Leiter des Leitungsstabs"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-feldhaus-jonas"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/stab-ls.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-wellbrock-hanna",
+    "vertretungPersonId": "p-oberreiter-matthias",
+    "beschreibung": "Präsidentin und Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-bonn",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/leitung.html",
+    "leitung": {
+      "id": "p-wellbrock-hanna",
+      "name": "Dr. Hanna Wellbrock",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-wellbrock-hanna",
+      "p-oberreiter-matthias"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/leitung.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-feldhaus-jonas",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Jonas",
+      "nachname": "Feldhaus",
+      "funktion": "Leiter des Leitungsstabs",
+      "einheitId": "stab-ls",
+      "email": "jonas.feldhaus@baba-bund.example",
+      "telefon": "+49 228 4711-1010",
+      "kurzvita": "Politikwissenschaftler; seit 2019 im BAbA, zuvor Referent im Leitungsstab.",
+      "name": "Dr. Jonas Feldhaus",
+      "portrait": "assets/img/personen/p-feldhaus-jonas.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-feldhaus-jonas.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-feldhaus-jonas.html",
+      "einheit": {
+        "id": "stab-ls",
+        "name": "Leitungsstab",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/stab-ls.html"
+      },
+      "abteilungId": "stab-ls",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "stab-ls"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-feldhaus-jonas.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-bonn",
+    "name": "Hauptsitz Bonn",
+    "typ": "Hauptsitz",
+    "strasse": "Am Sonderweg 1",
+    "plz": "53113",
+    "ort": "Bonn",
+    "telefon": "+49 228 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+    "bild": "assets/img/standorte/bonn.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

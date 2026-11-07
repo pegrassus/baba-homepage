@@ -1,0 +1,126 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-32",
+    "typ": "referat",
+    "kuerzel": "32",
+    "name": "Unvorhergesehenes",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-amsel-lena",
+    "standortId": "st-bonn",
+    "titel": "Referat 32: Unvorhergesehenes",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-32.html",
+    "leitung": {
+      "id": "p-amsel-lena",
+      "name": "Dr. Lena Amsel",
+      "funktion": "Referatsleiterin 32"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-amsel-lena"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-32.json"
+  },
+  "parent": {
+    "id": "abt-3",
+    "typ": "abteilung",
+    "kuerzel": "3",
+    "name": "Außergewöhnliche Ereignisse",
+    "parentId": "leitung",
+    "leitungPersonId": "p-velten-katharina",
+    "beschreibung": "Lagebeobachtung, Bewältigung und Dokumentation unvorhergesehener Ereignisse.",
+    "standortId": "st-bonn",
+    "titel": "Abteilung 3: Außergewöhnliche Ereignisse",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/abt-3.html",
+    "leitung": {
+      "id": "p-velten-katharina",
+      "name": "Katharina Velten",
+      "funktion": "Abteilungsleiterin 3"
+    },
+    "childIds": [
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34"
+    ],
+    "personIds": [
+      "p-velten-katharina"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/abt-3.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-amsel-lena",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Lena",
+      "nachname": "Amsel",
+      "funktion": "Referatsleiterin 32",
+      "einheitId": "ref-32",
+      "email": "lena.amsel@baba-bund.example",
+      "telefon": "+49 228 4711-5200",
+      "kurzvita": "Physikerin; bewertet Ereignisse, mit denen niemand gerechnet hat.",
+      "name": "Dr. Lena Amsel",
+      "portrait": "assets/img/personen/p-amsel-lena.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-amsel-lena.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-amsel-lena.html",
+      "einheit": {
+        "id": "ref-32",
+        "name": "Referat 32: Unvorhergesehenes",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-32.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-32"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-amsel-lena.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-lage",
+      "titel": "Lagebeobachtung außergewöhnlicher Ereignisse",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Rund-um-die-Uhr-Beobachtung, Bewertung und Meldung außergewöhnlicher Ereignisse an Bundes- und Landesbehörden.",
+      "einheitIds": [
+        "abt-3",
+        "ref-31",
+        "ref-32"
+      ],
+      "rechtsgrundlage": "§ 18 BAbAG"
+    }
+  ],
+  "standort": {
+    "id": "st-bonn",
+    "name": "Hauptsitz Bonn",
+    "typ": "Hauptsitz",
+    "strasse": "Am Sonderweg 1",
+    "plz": "53113",
+    "ort": "Bonn",
+    "telefon": "+49 228 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+    "bild": "assets/img/standorte/bonn.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

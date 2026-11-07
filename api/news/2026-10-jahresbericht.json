@@ -1,0 +1,107 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-10-jahresbericht",
+    "datum": "2026-10-28",
+    "kategorie": "Pressemitteilung",
+    "titel": "Jahresbericht 2025/26: So viele besondere Angelegenheiten wie nie",
+    "teaser": "Das BAbA hat im Berichtsjahr 38.912 Sonderfälle bearbeitet – ein Plus von 11 Prozent. Präsidentin Dr. Wellbrock stellt den Bericht in Bonn vor.",
+    "text": [
+      "Das Bundesamt für besondere Angelegenheiten hat heute in Bonn seinen Jahresbericht 2025/26 vorgestellt. Mit 38.912 bearbeiteten Sonderfällen verzeichnet das Amt einen neuen Höchststand.",
+      "„Die Welt wird nicht gewöhnlicher – und das ist gut so“, sagte Präsidentin Dr. Hanna Wellbrock. „Unsere Aufgabe ist es, dem Besonderen ein verlässliches Verfahren zu geben.“",
+      "Besonders stark gestiegen sind Anträge auf Feststellung der Besonderheit (+18 %) sowie Ausnahmegenehmigungen (+9 %). Die durchschnittliche Bearbeitungsdauer konnte dank der Digitalisierung auf 23 Arbeitstage gesenkt werden.",
+      "Der vollständige Bericht steht im Bereich Service zum Download bereit."
+    ],
+    "bild": "assets/img/news/2026-10-jahresbericht.jpg",
+    "einheitId": "stab-ps",
+    "personIds": [
+      "p-wellbrock-hanna",
+      "p-imhoff-clara"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-10-jahresbericht.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-10-jahresbericht.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/api/news/2026-10-jahresbericht.json"
+  },
+  "einheit": {
+    "id": "stab-ps",
+    "typ": "stab",
+    "kuerzel": "PS",
+    "name": "Presse- und Öffentlichkeitsarbeit",
+    "parentId": "leitung",
+    "leitungPersonId": "p-imhoff-clara",
+    "beschreibung": "Pressestelle, Internetredaktion, Veranstaltungen und Bürgerkommunikation.",
+    "standortId": "st-bonn",
+    "titel": "Presse- und Öffentlichkeitsarbeit",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/stab-ps.html",
+    "leitung": {
+      "id": "p-imhoff-clara",
+      "name": "Clara Imhoff",
+      "funktion": "Pressesprecherin"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-imhoff-clara"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/stab-ps.json"
+  },
+  "personen": [
+    {
+      "id": "p-wellbrock-hanna",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Hanna",
+      "nachname": "Wellbrock",
+      "funktion": "Präsidentin",
+      "einheitId": "leitung",
+      "email": "praesidentin@baba-bund.example",
+      "telefon": "+49 228 4711-1000",
+      "kurzvita": "Promovierte Verwaltungswissenschaftlerin. Nach Stationen im Bundesministerium für Allgemeines und Übriges und als Abteilungsleiterin im BAbA seit 2021 Präsidentin des Amtes. Schwerpunkte: Modernisierung der Verwaltung, Digitalisierung des Registers, Bürgernähe.",
+      "name": "Dr. Hanna Wellbrock",
+      "portrait": "assets/img/personen/p-wellbrock-hanna.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-wellbrock-hanna.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-wellbrock-hanna.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Amtsleitung",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "leitung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-wellbrock-hanna.json"
+    },
+    {
+      "id": "p-imhoff-clara",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Clara",
+      "nachname": "Imhoff",
+      "funktion": "Pressesprecherin",
+      "einheitId": "stab-ps",
+      "email": "presse@baba-bund.example",
+      "telefon": "+49 228 4711-1020",
+      "kurzvita": "Journalistin und Kommunikationswirtin; seit 2020 Pressesprecherin des BAbA.",
+      "name": "Clara Imhoff",
+      "portrait": "assets/img/personen/p-imhoff-clara.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-imhoff-clara.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-imhoff-clara.html",
+      "einheit": {
+        "id": "stab-ps",
+        "name": "Presse- und Öffentlichkeitsarbeit",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/stab-ps.html"
+      },
+      "abteilungId": "stab-ps",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "stab-ps"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-imhoff-clara.json"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-02-ausbildungsstart",
+    "datum": "2026-02-02",
+    "kategorie": "Karriere",
+    "titel": "24 Nachwuchskräfte starten ihre Ausbildung beim BAbA",
+    "teaser": "Verwaltungsfachangestellte, Fachinformatikerinnen und Fachinformatiker sowie dual Studierende beginnen ihren Weg in einer besonderen Behörde.",
+    "text": [
+      "Am Montag begrüßte das BAbA 24 neue Nachwuchskräfte an den Standorten Bonn, Berlin und Erfurt.",
+      "„Bei uns lernen Sie, dass es für fast alles ein Verfahren gibt – und für den Rest sind wir da“, sagte Referatsleiterin Petra Hollweg bei der Begrüßung.",
+      "Bewerbungen für den Ausbildungsjahrgang 2027 sind ab sofort möglich."
+    ],
+    "bild": "assets/img/news/2026-02-ausbildungsstart.jpg",
+    "einheitId": "ref-z1",
+    "personIds": [
+      "p-hollweg-petra"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-02-ausbildungsstart.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-02-ausbildungsstart.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/api/news/2026-02-ausbildungsstart.json"
+  },
+  "einheit": {
+    "id": "ref-z1",
+    "typ": "referat",
+    "kuerzel": "Z 1",
+    "name": "Personal und Ausbildung",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-hollweg-petra",
+    "standortId": "st-bonn",
+    "titel": "Referat Z 1: Personal und Ausbildung",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-z1.html",
+    "leitung": {
+      "id": "p-hollweg-petra",
+      "name": "Petra Hollweg",
+      "funktion": "Referatsleiterin Z 1"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-hollweg-petra"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-z1.json"
+  },
+  "personen": [
+    {
+      "id": "p-hollweg-petra",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Petra",
+      "nachname": "Hollweg",
+      "funktion": "Referatsleiterin Z 1",
+      "einheitId": "ref-z1",
+      "email": "petra.hollweg@baba-bund.example",
+      "telefon": "+49 228 4711-2100",
+      "kurzvita": "Verantwortet Personalgewinnung, -entwicklung und Ausbildung.",
+      "name": "Petra Hollweg",
+      "portrait": "assets/img/personen/p-hollweg-petra.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-hollweg-petra.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-hollweg-petra.html",
+      "einheit": {
+        "id": "ref-z1",
+        "name": "Referat Z 1: Personal und Ausbildung",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-z1.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-z1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-hollweg-petra.json"
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "eintraege": [
+    {
+      "typ": "Person",
+      "titel": "Dr. Hanna Wellbrock",
+      "text": "Präsidentin – Amtsleitung. Promovierte Verwaltungswissenschaftlerin. Nach Stationen im Bundesministerium für Allgemeines und Übriges und als Abteilungsleiterin im BAbA seit 2021 Präsidentin des Amtes. Schwerpunkte: Modernisierung der Verwaltung, Digitalisierung des Registers, Bürgernähe.",
+      "url": "personen/p-wellbrock-hanna.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Matthias Oberreiter",
+      "text": "Vizepräsident – Amtsleitung. Volljurist, seit 1998 in der Bundesverwaltung. Leitete zuvor die Abteilung Besondere Verfahren. Seit 2022 Vizepräsident; zuständig für Internationales und die Zusammenarbeit mit europäischen Partnerbehörden.",
+      "url": "personen/p-oberreiter-matthias.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Jonas Feldhaus",
+      "text": "Leiter des Leitungsstabs – Leitungsstab. Politikwissenschaftler; seit 2019 im BAbA, zuvor Referent im Leitungsstab.",
+      "url": "personen/p-feldhaus-jonas.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Clara Imhoff",
+      "text": "Pressesprecherin – Presse- und Öffentlichkeitsarbeit. Journalistin und Kommunikationswirtin; seit 2020 Pressesprecherin des BAbA.",
+      "url": "personen/p-imhoff-clara.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Sabine Krell",
+      "text": "Behördliche Datenschutzbeauftragte – Datenschutz und Innenrevision. Diplom-Verwaltungswirtin; seit 2015 Datenschutzbeauftragte des Amtes.",
+      "url": "personen/p-krell-sabine.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Thomas Brandauer",
+      "text": "Abteilungsleiter Z – Abteilung Z: Zentrale Dienste. Leitet die Zentralen Dienste seit 2018; zuvor Haushaltsreferent.",
+      "url": "personen/p-brandauer-thomas.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Petra Hollweg",
+      "text": "Referatsleiterin Z 1 – Referat Z 1: Personal und Ausbildung. Verantwortet Personalgewinnung, -entwicklung und Ausbildung.",
+      "url": "personen/p-hollweg-petra.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Stefan Marquardt",
+      "text": "Referatsleiter Z 2 – Referat Z 2: Haushalt und Beschaffung. Beauftragter für den Haushalt; zuständig für Vergabe und Beschaffung.",
+      "url": "personen/p-marquardt-stefan.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Ayşe Demirtaş",
+      "text": "Referatsleiterin Z 3 – Referat Z 3: Organisation, Innerer Dienst und Liegenschaften. Organisationsentwicklung, Innerer Dienst und Liegenschaften aller drei Standorte.",
+      "url": "personen/p-demirtas-ayse.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Felix Lindqvist",
+      "text": "Referatsleiter Z 4 (Justiziar) – Referat Z 4: Justiziariat. Justiziar des Amtes; Prozessvertretung und Rechtsberatung.",
+      "url": "personen/p-lindqvist-felix.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Miriam Achenbach",
+      "text": "Abteilungsleiterin 1 – Abteilung 1: Grundsatz und Sonderfälle. Rechtswissenschaftlerin; prägte maßgeblich den Leitfaden zur Abgrenzung besonderer Angelegenheiten.",
+      "url": "personen/p-achenbach-miriam.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Elisabeth Rohrbach",
+      "text": "Referatsleiterin 11 – Referat 11: Grundsatzfragen der Besonderheit. Seit über 30 Jahren im Amt; gilt als Gedächtnis der Behörde in Grundsatzfragen.",
+      "url": "personen/p-rohrbach-elisabeth.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Martin Esser",
+      "text": "Referatsleiter 12 – Referat 12: Abgrenzung des Gewöhnlichen. Zuständig für die Frage, ob etwas überhaupt besonders ist.",
+      "url": "personen/p-esser-martin.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Nora Weißenfels",
+      "text": "Referatsleiterin 13 – Referat 13: Grenzfälle und Sonderkonstellationen. Bearbeitet Grenzfälle zwischen Bundes- und Landeszuständigkeit.",
+      "url": "personen/p-weissenfels-nora.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Benedikt Strobl",
+      "text": "Referatsleiter 14 – Referat 14: Ausnahmegenehmigungen. Erteilt Ausnahmegenehmigungen nach § 7 BAbAG.",
+      "url": "personen/p-strobl-benedikt.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Prof. Dr. Lukas Rheinfelder",
+      "text": "Abteilungsleiter 2 – Abteilung 2: Besondere Verfahren. Honorarprofessor für Verwaltungsverfahrensrecht; leitet die Abteilung am Standort Berlin.",
+      "url": "personen/p-rheinfelder-lukas.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Julia Kranich",
+      "text": "Referatsleiterin 21 – Referat 21: Verfahren erster Ordnung. Verantwortet die Eingangsprüfung und Durchführung einfacher besonderer Verfahren.",
+      "url": "personen/p-kranich-julia.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Tobias Hain",
+      "text": "Referatsleiter 22 – Referat 22: Mehrfach besondere Verfahren. Spezialist für Verfahren, die in mehrfacher Hinsicht besonders sind.",
+      "url": "personen/p-hain-tobias.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Verena Lutz",
+      "text": "Referatsleiterin 23 – Referat 23: Widersprüche und Einwendungen. Bearbeitet Widersprüche gegen Bescheide des Amtes.",
+      "url": "personen/p-lutz-verena.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Markus Pfeiffer-Lang",
+      "text": "Referatsleiter 24 – Referat 24: Fristen außergewöhnlicher Art. Zuständig für Fristen, die weder gewöhnlich beginnen noch gewöhnlich enden.",
+      "url": "personen/p-pfeiffer-lang-markus.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Katharina Velten",
+      "text": "Abteilungsleiterin 3 – Abteilung 3: Außergewöhnliche Ereignisse. Ehemalige Leiterin des Lagezentrums; seit 2023 Abteilungsleiterin.",
+      "url": "personen/p-velten-katharina.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Oliver Sander",
+      "text": "Referatsleiter 31 (Leiter Lagezentrum) – Referat 31: Lagezentrum Besonderheiten. Leitet das rund um die Uhr besetzte Lagezentrum Besonderheiten.",
+      "url": "personen/p-sander-oliver.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Lena Amsel",
+      "text": "Referatsleiterin 32 – Referat 32: Unvorhergesehenes. Physikerin; bewertet Ereignisse, mit denen niemand gerechnet hat.",
+      "url": "personen/p-amsel-lena.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Friedrich Kobold",
+      "text": "Referatsleiter 33 – Referat 33: Kuriosa-Register und Dokumentation. Archivar mit Leidenschaft; führt das Kuriosa-Register seit 1994.",
+      "url": "personen/p-kobold-friedrich.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Sophie Raband",
+      "text": "Referatsleiterin 34 – Referat 34: Prävention des Unwahrscheinlichen. Risikoanalystin; entwickelt Vorsorgekonzepte für unwahrscheinliche Szenarien.",
+      "url": "personen/p-raband-sophie.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Daniel Okafor",
+      "text": "Abteilungsleiter 4 (CIO) – Abteilung 4: Digitales und Register. Wirtschaftsinformatiker; verantwortet die digitale Transformation des Amtes und das BRbA.",
+      "url": "personen/p-okafor-daniel.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Ingo Wendt",
+      "text": "Referatsleiter 41 (Registerführer) – Referat 41: Bundesregister besonderer Angelegenheiten (BRbA). Leitet das Bundesregister besonderer Angelegenheiten.",
+      "url": "personen/p-wendt-ingo.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Marta Kowalczyk",
+      "text": "Referatsleiterin 42 – Referat 42: IT-Verfahren und E-Akte. Verantwortet Fachverfahren und die Einführung der E-Akte.",
+      "url": "personen/p-kowalczyk-marta.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Leonie Baumgart",
+      "text": "Referatsleiterin 43 – Referat 43: Daten und Schnittstellen. Data Scientist; betreut offene Daten und Schnittstellen des Amtes.",
+      "url": "personen/p-baumgart-leonie.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Kai-Uwe Reinhold",
+      "text": "Referatsleiter 44 (ISB) – Referat 44: Informationssicherheit. Informationssicherheitsbeauftragter des Amtes.",
+      "url": "personen/p-reinhold-kai-uwe.html"
+    },
+    {
+      "typ": "Amtsleitung",
+      "titel": "Amtsleitung",
+      "text": "Präsidentin und Vizepräsident leiten das Amt und vertreten es nach außen.",
+      "url": "organisation/leitung.html"
+    },
+    {
+      "typ": "Stabsstelle",
+      "titel": "Leitungsstab",
+      "text": "Unterstützt die Amtsleitung, koordiniert Grundsatzangelegenheiten, Gremienarbeit und das Controlling.",
+      "url": "organisation/stab-ls.html"
+    },
+    {
+      "typ": "Stabsstelle",
+      "titel": "Presse- und Öffentlichkeitsarbeit",
+      "text": "Pressestelle, Internetredaktion, Veranstaltungen und Bürgerkommunikation.",
+      "url": "organisation/stab-ps.html"
+    },
+    {
+      "typ": "Stabsstelle",
+      "titel": "Datenschutz und Innenrevision",
+      "text": "Behördliche Datenschutzbeauftragte, Innenrevision und Korruptionsprävention.",
+      "url": "organisation/stab-ds.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung Z: Zentrale Dienste",
+      "text": "Personal, Haushalt, Organisation, Liegenschaften und Recht.",
+      "url": "organisation/abt-z.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat Z 1: Personal und Ausbildung",
+      "text": "Leitung: Petra Hollweg",
+      "url": "organisation/ref-z1.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat Z 2: Haushalt und Beschaffung",
+      "text": "Leitung: Stefan Marquardt",
+      "url": "organisation/ref-z2.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat Z 3: Organisation, Innerer Dienst und Liegenschaften",
+      "text": "Leitung: Ayşe Demirtaş",
+      "url": "organisation/ref-z3.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat Z 4: Justiziariat",
+      "text": "Leitung: Dr. Felix Lindqvist",
+      "url": "organisation/ref-z4.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung 1: Grundsatz und Sonderfälle",
+      "text": "Grundsatzfragen der Zuständigkeit, Abgrenzung zum Gewöhnlichen und Ausnahmegenehmigungen.",
+      "url": "organisation/abt-1.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 11: Grundsatzfragen der Besonderheit",
+      "text": "Leitung: Dr. Elisabeth Rohrbach",
+      "url": "organisation/ref-11.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 12: Abgrenzung des Gewöhnlichen",
+      "text": "Leitung: Martin Esser",
+      "url": "organisation/ref-12.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 13: Grenzfälle und Sonderkonstellationen",
+      "text": "Leitung: Dr. Nora Weißenfels",
+      "url": "organisation/ref-13.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 14: Ausnahmegenehmigungen",
+      "text": "Leitung: Benedikt Strobl",
+      "url": "organisation/ref-14.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung 2: Besondere Verfahren",
+      "text": "Durchführung besonderer Verwaltungsverfahren einschließlich Widerspruchs- und Fristenangelegenheiten.",
+      "url": "organisation/abt-2.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 21: Verfahren erster Ordnung",
+      "text": "Leitung: Julia Kranich",
+      "url": "organisation/ref-21.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 22: Mehrfach besondere Verfahren",
+      "text": "Leitung: Dr. Tobias Hain",
+      "url": "organisation/ref-22.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 23: Widersprüche und Einwendungen",
+      "text": "Leitung: Verena Lutz",
+      "url": "organisation/ref-23.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 24: Fristen außergewöhnlicher Art",
+      "text": "Leitung: Markus Pfeiffer-Lang",
+      "url": "organisation/ref-24.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung 3: Außergewöhnliche Ereignisse",
+      "text": "Lagebeobachtung, Bewältigung und Dokumentation unvorhergesehener Ereignisse.",
+      "url": "organisation/abt-3.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 31: Lagezentrum Besonderheiten",
+      "text": "Leitung: Oliver Sander",
+      "url": "organisation/ref-31.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 32: Unvorhergesehenes",
+      "text": "Leitung: Dr. Lena Amsel",
+      "url": "organisation/ref-32.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 33: Kuriosa-Register und Dokumentation",
+      "text": "Leitung: Friedrich Kobold",
+      "url": "organisation/ref-33.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 34: Prävention des Unwahrscheinlichen",
+      "text": "Leitung: Sophie Raband",
+      "url": "organisation/ref-34.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung 4: Digitales und Register",
+      "text": "Bundesregister besonderer Angelegenheiten, IT-Verfahren, Daten und Informationssicherheit.",
+      "url": "organisation/abt-4.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 41: Bundesregister besonderer Angelegenheiten (BRbA)",
+      "text": "Leitung: Dr. Ingo Wendt",
+      "url": "organisation/ref-41.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 42: IT-Verfahren und E-Akte",
+      "text": "Leitung: Marta Kowalczyk",
+      "url": "organisation/ref-42.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 43: Daten und Schnittstellen",
+      "text": "Leitung: Leonie Baumgart",
+      "url": "organisation/ref-43.html"
+    },
+    {
+      "typ": "Referat",
+      "titel": "Referat 44: Informationssicherheit",
+      "text": "Leitung: Kai-Uwe Reinhold",
+      "url": "organisation/ref-44.html"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Auffangzuständigkeit des Bundes",
+      "text": "Das BAbA übernimmt Angelegenheiten des Bundes, für die keine andere Behörde eindeutig zuständig ist, und führt sie einer sachgerechten Bearbeitung zu.",
+      "url": "aufgaben.html#auf-zustaendigkeit"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Feststellung der Besonderheit",
+      "text": "Auf Antrag stellt das Amt verbindlich fest, ob eine Angelegenheit als besondere Angelegenheit im Sinne des BAbAG gilt.",
+      "url": "aufgaben.html#auf-abgrenzung"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Ausnahmegenehmigungen",
+      "text": "Erteilung von Ausnahmegenehmigungen in Fällen, die von bestehenden Regelungen nicht erfasst werden.",
+      "url": "aufgaben.html#auf-ausnahme"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Durchführung besonderer Verwaltungsverfahren",
+      "text": "Führung von Verwaltungsverfahren, die wegen ihrer Besonderheit nicht im Regelverfahren bearbeitet werden können – einschließlich mehrfach besonderer Verfahren.",
+      "url": "aufgaben.html#auf-verfahren"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Widerspruchsverfahren",
+      "text": "Prüfung und Entscheidung über Widersprüche gegen Bescheide des BAbA.",
+      "url": "aufgaben.html#auf-widerspruch"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Berechnung außergewöhnlicher Fristen",
+      "text": "Verbindliche Auskunft zu Fristen, die durch Schaltjahre, Zeitumstellungen oder ähnliche Besonderheiten beeinflusst werden.",
+      "url": "aufgaben.html#auf-fristen"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Lagebeobachtung außergewöhnlicher Ereignisse",
+      "text": "Rund-um-die-Uhr-Beobachtung, Bewertung und Meldung außergewöhnlicher Ereignisse an Bundes- und Landesbehörden.",
+      "url": "aufgaben.html#auf-lage"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Führung des Kuriosa-Registers",
+      "text": "Dokumentation und Archivierung kurioser Verwaltungsvorgänge von bleibendem öffentlichem Interesse.",
+      "url": "aufgaben.html#auf-kuriosa"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Vorsorge für unwahrscheinliche Szenarien",
+      "text": "Erarbeitung von Vorsorgekonzepten und Übungen für Ereignisse mit geringer Eintrittswahrscheinlichkeit.",
+      "url": "aufgaben.html#auf-praevention"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Bundesregister besonderer Angelegenheiten (BRbA)",
+      "text": "Führung des zentralen Registers aller festgestellten besonderen Angelegenheiten; Auskunftserteilung an Berechtigte.",
+      "url": "aufgaben.html#auf-brba"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Beratung von Behörden in Grenzfällen",
+      "text": "Fachliche Unterstützung von Bundes-, Landes- und Kommunalbehörden bei Zuständigkeits- und Grenzfragen.",
+      "url": "aufgaben.html#auf-beratung"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Digitale Antragstellung",
+      "text": "Bereitstellung digitaler Antragswege und der E-Akte für alle Verfahren des Amtes.",
+      "url": "aufgaben.html#auf-digital"
+    },
+    {
+      "typ": "Pressemitteilung",
+      "titel": "Jahresbericht 2025/26: So viele besondere Angelegenheiten wie nie",
+      "text": "Das BAbA hat im Berichtsjahr 38.912 Sonderfälle bearbeitet – ein Plus von 11 Prozent. Präsidentin Dr. Wellbrock stellt den Bericht in Bonn vor. Das Bundesamt für besondere Angelegenheiten hat heute in Bonn seinen Jahresbericht 2025/26 vorgestellt. Mit 38.912 bearbeiteten Sonderfällen verzeichnet das Amt einen neuen Höchststand. „Die Welt wird nicht gewöhnlicher – und das ist gut so“, sagte Präsidentin Dr. Hanna Wellbrock. „Unsere Aufgabe ist es, dem Besonderen ein verlässliches Verfahren zu geben.“ Besonders stark gestiegen sind Anträge auf Feststellung der Besonderheit (+18 %) sowie Ausnahmegenehmigungen (+9 %). Die durchschnittliche Bearbeitungsdauer konnte dank der Digitalisierung auf 23 Arbeitstage gesenkt werden. Der vollständige Bericht steht im Bereich Service zum Download bereit.",
+      "url": "aktuelles/2026-10-jahresbericht.html"
+    },
+    {
+      "typ": "Meldung",
+      "titel": "Digitales Bundesregister besonderer Angelegenheiten geht in Betrieb",
+      "text": "Nach dreijähriger Entwicklung ersetzt das neue BRbA die bisherigen Karteiverfahren vollständig. Berechtigte Behörden erhalten Zugriff über eine gesicherte Schnittstelle. Mit dem Start des digitalen Bundesregisters besonderer Angelegenheiten (BRbA) ist die letzte Karteikarte im Amt Geschichte. Alle 214.506 Einträge wurden migriert und sind ab sofort elektronisch abrufbar. „Das BRbA ist das Herzstück unserer Modernisierung“, erklärte CIO Daniel Okafor. Registerführer Dr. Ingo Wendt ergänzte: „Auskünfte, die früher Wochen dauerten, erteilen wir jetzt in Minuten.“ Behörden von Bund, Ländern und Kommunen können ab sofort über eine gesicherte Schnittstelle Auskünfte anfordern.",
+      "url": "aktuelles/2026-10-brba-start.html"
+    },
+    {
+      "typ": "Veranstaltung",
+      "titel": "Tag der offenen Tür: 4.200 Gäste am Hauptsitz Bonn",
+      "text": "Führungen durch das Kuriosa-Archiv, ein Blick ins Lagezentrum und die Mitmach-Station „Ist das schon besonders?“ begeisterten Groß und Klein. Rund 4.200 Besucherinnen und Besucher nutzten am vergangenen Samstag die Gelegenheit, hinter die Kulissen des BAbA zu blicken. Besonders gefragt waren die Führungen durch das Kuriosa-Register mit Referatsleiter Friedrich Kobold sowie die Mitmach-Station, an der Gäste eigene Fälle auf ihre Besonderheit prüfen lassen konnten. Pressesprecherin Clara Imhoff zog eine positive Bilanz: „Wir freuen uns über das große Interesse. Der nächste Tag der offenen Tür findet 2028 statt.“",
+      "url": "aktuelles/2026-09-tag-der-offenen-tuer.html"
+    },
+    {
+      "typ": "Publikation",
+      "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“",
+      "text": "Der überarbeitete Leitfaden gibt Behörden und Antragstellenden erstmals einen Prüfkatalog mit 14 Kriterien an die Hand. Die Abteilung Grundsatz und Sonderfälle hat den Leitfaden zur Abgrenzung besonderer von gewöhnlichen Angelegenheiten grundlegend überarbeitet. Kern ist ein Prüfkatalog mit 14 Kriterien, darunter Einmaligkeit, fehlende Regelungszuständigkeit und das sogenannte Kopfschüttel-Kriterium. „Der Leitfaden schafft Transparenz und spart allen Beteiligten Zeit“, so Abteilungsleiterin Dr. Miriam Achenbach. Der Leitfaden steht als PDF zum Download bereit.",
+      "url": "aktuelles/2026-08-leitfaden.html"
+    },
+    {
+      "typ": "Meldung",
+      "titel": "Vizepräsident Oberreiter beim Europäischen Forum für Sonderfälle",
+      "text": "In Brüssel tauschten sich Vertreterinnen und Vertreter aus 19 Staaten über den Umgang mit grenzüberschreitenden Sonderfällen aus. Vizepräsident Matthias Oberreiter vertrat das BAbA beim diesjährigen Europäischen Forum für Sonderfälle in Brüssel. Im Mittelpunkt standen Verfahren, die in mehreren Mitgliedstaaten zugleich als besonders gelten. Oberreiter stellte dabei das deutsche Modell der Auffangzuständigkeit vor. Die Teilnehmenden vereinbarten, bis 2027 ein gemeinsames Glossar besonderer Angelegenheiten zu erarbeiten.",
+      "url": "aktuelles/2026-07-europaeisches-forum.html"
+    },
+    {
+      "typ": "Meldung",
+      "titel": "Außenstelle Erfurt bezieht Neubau",
+      "text": "Die Abteilung Digitales und Register arbeitet ab sofort in einem energieeffizienten Neubau am Registerplatz. Nach zweijähriger Bauzeit ist die Außenstelle Erfurt in ihr neues Gebäude am Registerplatz 3 umgezogen. Rund 280 Beschäftigte arbeiten dort künftig in modernen Büro- und Teamflächen. Der Neubau beherbergt auch das Rechenzentrum für das Bundesregister besonderer Angelegenheiten. „Der Umzug verlief planmäßig – was bei uns durchaus erwähnenswert ist“, sagte Referatsleiterin Ayşe Demirtaş.",
+      "url": "aktuelles/2026-06-erfurt-neubau.html"
+    },
+    {
+      "typ": "Meldung",
+      "titel": "Kuriosa-Register erreicht 10.000. Eintrag",
+      "text": "Der Jubiläumseintrag betrifft einen Antrag auf Genehmigung eines Antrags. Das Register dokumentiert seit 1994 kuriose Verwaltungsvorgänge. Das Kuriosa-Register des BAbA hat seinen 10.000. Eintrag erfasst. Der Jubiläumsfall: ein formgerechter Antrag auf Genehmigung der Stellung eines Antrags. Referatsleiter Friedrich Kobold führt das Register seit seiner Gründung. „Jeder Eintrag erzählt etwas darüber, wie Verwaltung und Wirklichkeit aufeinandertreffen“, sagt er. Eine Auswahl der Einträge wird im kommenden Jahr als Bildband veröffentlicht.",
+      "url": "aktuelles/2026-05-kuriosa-10000.html"
+    },
+    {
+      "typ": "Pressemitteilung",
+      "titel": "Neue Fristenregelung für außergewöhnliche Verfahren in Kraft",
+      "text": "Ab 1. April gelten vereinfachte Regeln für Fristen, die über einen 29. Februar oder eine Zeitumstellung hinweg laufen. Zum 1. April tritt die überarbeitete Verwaltungsvorschrift zur Berechnung außergewöhnlicher Fristen in Kraft. Fristen, die über einen 29. Februar laufen, werden künftig einheitlich berechnet; bei Zeitumstellungen gilt stets die für die Antragstellenden günstigere Stunde. „Damit beenden wir eine jahrzehntelange Unsicherheit“, so Referatsleiter Markus Pfeiffer-Lang. Abteilungsleiter Prof. Dr. Lukas Rheinfelder betonte die Bedeutung für die Rechtssicherheit.",
+      "url": "aktuelles/2026-03-fristenregelung.html"
+    },
+    {
+      "typ": "Karriere",
+      "titel": "24 Nachwuchskräfte starten ihre Ausbildung beim BAbA",
+      "text": "Verwaltungsfachangestellte, Fachinformatikerinnen und Fachinformatiker sowie dual Studierende beginnen ihren Weg in einer besonderen Behörde. Am Montag begrüßte das BAbA 24 neue Nachwuchskräfte an den Standorten Bonn, Berlin und Erfurt. „Bei uns lernen Sie, dass es für fast alles ein Verfahren gibt – und für den Rest sind wir da“, sagte Referatsleiterin Petra Hollweg bei der Begrüßung. Bewerbungen für den Ausbildungsjahrgang 2027 sind ab sofort möglich.",
+      "url": "aktuelles/2026-02-ausbildungsstart.html"
+    },
+    {
+      "typ": "Meldung",
+      "titel": "Lagezentrum übt den Ernstfall „Schaltjahr 2028“",
+      "text": "In einer 36-stündigen Stabsrahmenübung probten Bund und Länder die Abstimmung bei einem unerwartet verlängerten Februar. Das Lagezentrum Besonderheiten hat gemeinsam mit Vertretungen aus zwölf Ländern die Übung „Schaltjahr 2028“ durchgeführt. Geübt wurde die Koordination von Behörden bei einem fiktiven Szenario, in dem der Februar ohne Vorankündigung um zwei Tage verlängert wird. „Die Übung hat gezeigt, dass unsere Meldewege funktionieren“, so Abteilungsleiterin Katharina Velten. Lagezentrumsleiter Oliver Sander kündigte eine Auswertung bis Frühjahr an.",
+      "url": "aktuelles/2025-12-uebung-schaltjahr.html"
+    }
+  ]
+}

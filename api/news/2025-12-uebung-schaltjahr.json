@@ -1,0 +1,136 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2025-12-uebung-schaltjahr",
+    "datum": "2025-12-10",
+    "kategorie": "Meldung",
+    "titel": "Lagezentrum übt den Ernstfall „Schaltjahr 2028“",
+    "teaser": "In einer 36-stündigen Stabsrahmenübung probten Bund und Länder die Abstimmung bei einem unerwartet verlängerten Februar.",
+    "text": [
+      "Das Lagezentrum Besonderheiten hat gemeinsam mit Vertretungen aus zwölf Ländern die Übung „Schaltjahr 2028“ durchgeführt.",
+      "Geübt wurde die Koordination von Behörden bei einem fiktiven Szenario, in dem der Februar ohne Vorankündigung um zwei Tage verlängert wird.",
+      "„Die Übung hat gezeigt, dass unsere Meldewege funktionieren“, so Abteilungsleiterin Katharina Velten. Lagezentrumsleiter Oliver Sander kündigte eine Auswertung bis Frühjahr an."
+    ],
+    "bild": "assets/img/news/2025-12-uebung-schaltjahr.jpg",
+    "einheitId": "ref-31",
+    "personIds": [
+      "p-velten-katharina",
+      "p-sander-oliver",
+      "p-raband-sophie"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2025-12-uebung-schaltjahr.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2025-12-uebung-schaltjahr.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/api/news/2025-12-uebung-schaltjahr.json"
+  },
+  "einheit": {
+    "id": "ref-31",
+    "typ": "referat",
+    "kuerzel": "31",
+    "name": "Lagezentrum Besonderheiten",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-sander-oliver",
+    "standortId": "st-bonn",
+    "titel": "Referat 31: Lagezentrum Besonderheiten",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-31.html",
+    "leitung": {
+      "id": "p-sander-oliver",
+      "name": "Oliver Sander",
+      "funktion": "Referatsleiter 31 (Leiter Lagezentrum)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-sander-oliver"
+    ],
+    "aufgabeIds": [
+      "auf-lage",
+      "auf-praevention"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-31.json"
+  },
+  "personen": [
+    {
+      "id": "p-velten-katharina",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Katharina",
+      "nachname": "Velten",
+      "funktion": "Abteilungsleiterin 3",
+      "einheitId": "abt-3",
+      "email": "katharina.velten@baba-bund.example",
+      "telefon": "+49 228 4711-5000",
+      "kurzvita": "Ehemalige Leiterin des Lagezentrums; seit 2023 Abteilungsleiterin.",
+      "name": "Katharina Velten",
+      "portrait": "assets/img/personen/p-velten-katharina.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-velten-katharina.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-velten-katharina.html",
+      "einheit": {
+        "id": "abt-3",
+        "name": "Abteilung 3: Außergewöhnliche Ereignisse",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/abt-3.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "abt-3"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-velten-katharina.json"
+    },
+    {
+      "id": "p-sander-oliver",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Oliver",
+      "nachname": "Sander",
+      "funktion": "Referatsleiter 31 (Leiter Lagezentrum)",
+      "einheitId": "ref-31",
+      "email": "lagezentrum@baba-bund.example",
+      "telefon": "+49 228 4711-5100",
+      "kurzvita": "Leitet das rund um die Uhr besetzte Lagezentrum Besonderheiten.",
+      "name": "Oliver Sander",
+      "portrait": "assets/img/personen/p-sander-oliver.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-sander-oliver.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-sander-oliver.html",
+      "einheit": {
+        "id": "ref-31",
+        "name": "Referat 31: Lagezentrum Besonderheiten",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-31.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-31"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-sander-oliver.json"
+    },
+    {
+      "id": "p-raband-sophie",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Sophie",
+      "nachname": "Raband",
+      "funktion": "Referatsleiterin 34",
+      "einheitId": "ref-34",
+      "email": "sophie.raband@baba-bund.example",
+      "telefon": "+49 228 4711-5400",
+      "kurzvita": "Risikoanalystin; entwickelt Vorsorgekonzepte für unwahrscheinliche Szenarien.",
+      "name": "Sophie Raband",
+      "portrait": "assets/img/personen/p-raband-sophie.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-raband-sophie.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-raband-sophie.html",
+      "einheit": {
+        "id": "ref-34",
+        "name": "Referat 34: Prävention des Unwahrscheinlichen",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-34.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-34"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-raband-sophie.json"
+    }
+  ]
+}

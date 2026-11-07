@@ -1,0 +1,106 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-09-tag-der-offenen-tuer",
+    "datum": "2026-09-15",
+    "kategorie": "Veranstaltung",
+    "titel": "Tag der offenen Tür: 4.200 Gäste am Hauptsitz Bonn",
+    "teaser": "Führungen durch das Kuriosa-Archiv, ein Blick ins Lagezentrum und die Mitmach-Station „Ist das schon besonders?“ begeisterten Groß und Klein.",
+    "text": [
+      "Rund 4.200 Besucherinnen und Besucher nutzten am vergangenen Samstag die Gelegenheit, hinter die Kulissen des BAbA zu blicken.",
+      "Besonders gefragt waren die Führungen durch das Kuriosa-Register mit Referatsleiter Friedrich Kobold sowie die Mitmach-Station, an der Gäste eigene Fälle auf ihre Besonderheit prüfen lassen konnten.",
+      "Pressesprecherin Clara Imhoff zog eine positive Bilanz: „Wir freuen uns über das große Interesse. Der nächste Tag der offenen Tür findet 2028 statt.“"
+    ],
+    "bild": "assets/img/news/2026-09-tag-der-offenen-tuer.jpg",
+    "einheitId": "stab-ps",
+    "personIds": [
+      "p-imhoff-clara",
+      "p-kobold-friedrich"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-09-tag-der-offenen-tuer.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-09-tag-der-offenen-tuer.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/api/news/2026-09-tag-der-offenen-tuer.json"
+  },
+  "einheit": {
+    "id": "stab-ps",
+    "typ": "stab",
+    "kuerzel": "PS",
+    "name": "Presse- und Öffentlichkeitsarbeit",
+    "parentId": "leitung",
+    "leitungPersonId": "p-imhoff-clara",
+    "beschreibung": "Pressestelle, Internetredaktion, Veranstaltungen und Bürgerkommunikation.",
+    "standortId": "st-bonn",
+    "titel": "Presse- und Öffentlichkeitsarbeit",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/stab-ps.html",
+    "leitung": {
+      "id": "p-imhoff-clara",
+      "name": "Clara Imhoff",
+      "funktion": "Pressesprecherin"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-imhoff-clara"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/stab-ps.json"
+  },
+  "personen": [
+    {
+      "id": "p-imhoff-clara",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Clara",
+      "nachname": "Imhoff",
+      "funktion": "Pressesprecherin",
+      "einheitId": "stab-ps",
+      "email": "presse@baba-bund.example",
+      "telefon": "+49 228 4711-1020",
+      "kurzvita": "Journalistin und Kommunikationswirtin; seit 2020 Pressesprecherin des BAbA.",
+      "name": "Clara Imhoff",
+      "portrait": "assets/img/personen/p-imhoff-clara.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-imhoff-clara.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-imhoff-clara.html",
+      "einheit": {
+        "id": "stab-ps",
+        "name": "Presse- und Öffentlichkeitsarbeit",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/stab-ps.html"
+      },
+      "abteilungId": "stab-ps",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "stab-ps"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-imhoff-clara.json"
+    },
+    {
+      "id": "p-kobold-friedrich",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Friedrich",
+      "nachname": "Kobold",
+      "funktion": "Referatsleiter 33",
+      "einheitId": "ref-33",
+      "email": "friedrich.kobold@baba-bund.example",
+      "telefon": "+49 228 4711-5300",
+      "kurzvita": "Archivar mit Leidenschaft; führt das Kuriosa-Register seit 1994.",
+      "name": "Friedrich Kobold",
+      "portrait": "assets/img/personen/p-kobold-friedrich.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-kobold-friedrich.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-kobold-friedrich.html",
+      "einheit": {
+        "id": "ref-33",
+        "name": "Referat 33: Kuriosa-Register und Dokumentation",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-33.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-33"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-kobold-friedrich.json"
+    }
+  ]
+}

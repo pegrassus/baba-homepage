@@ -1,0 +1,107 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-10-brba-start",
+    "datum": "2026-10-09",
+    "kategorie": "Meldung",
+    "titel": "Digitales Bundesregister besonderer Angelegenheiten geht in Betrieb",
+    "teaser": "Nach dreijähriger Entwicklung ersetzt das neue BRbA die bisherigen Karteiverfahren vollständig. Berechtigte Behörden erhalten Zugriff über eine gesicherte Schnittstelle.",
+    "text": [
+      "Mit dem Start des digitalen Bundesregisters besonderer Angelegenheiten (BRbA) ist die letzte Karteikarte im Amt Geschichte. Alle 214.506 Einträge wurden migriert und sind ab sofort elektronisch abrufbar.",
+      "„Das BRbA ist das Herzstück unserer Modernisierung“, erklärte CIO Daniel Okafor. Registerführer Dr. Ingo Wendt ergänzte: „Auskünfte, die früher Wochen dauerten, erteilen wir jetzt in Minuten.“",
+      "Behörden von Bund, Ländern und Kommunen können ab sofort über eine gesicherte Schnittstelle Auskünfte anfordern."
+    ],
+    "bild": "assets/img/news/2026-10-brba-start.jpg",
+    "einheitId": "ref-41",
+    "personIds": [
+      "p-okafor-daniel",
+      "p-wendt-ingo"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-10-brba-start.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-10-brba-start.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/api/news/2026-10-brba-start.json"
+  },
+  "einheit": {
+    "id": "ref-41",
+    "typ": "referat",
+    "kuerzel": "41",
+    "name": "Bundesregister besonderer Angelegenheiten (BRbA)",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-wendt-ingo",
+    "standortId": "st-erfurt",
+    "titel": "Referat 41: Bundesregister besonderer Angelegenheiten (BRbA)",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-41.html",
+    "leitung": {
+      "id": "p-wendt-ingo",
+      "name": "Dr. Ingo Wendt",
+      "funktion": "Referatsleiter 41 (Registerführer)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-wendt-ingo"
+    ],
+    "aufgabeIds": [
+      "auf-brba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-41.json"
+  },
+  "personen": [
+    {
+      "id": "p-okafor-daniel",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Daniel",
+      "nachname": "Okafor",
+      "funktion": "Abteilungsleiter 4 (CIO)",
+      "einheitId": "abt-4",
+      "email": "daniel.okafor@baba-bund.example",
+      "telefon": "+49 361 4711-6000",
+      "kurzvita": "Wirtschaftsinformatiker; verantwortet die digitale Transformation des Amtes und das BRbA.",
+      "name": "Daniel Okafor",
+      "portrait": "assets/img/personen/p-okafor-daniel.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-okafor-daniel.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-okafor-daniel.html",
+      "einheit": {
+        "id": "abt-4",
+        "name": "Abteilung 4: Digitales und Register",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/abt-4.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-erfurt",
+      "leitetEinheitIds": [
+        "abt-4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-okafor-daniel.json"
+    },
+    {
+      "id": "p-wendt-ingo",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Ingo",
+      "nachname": "Wendt",
+      "funktion": "Referatsleiter 41 (Registerführer)",
+      "einheitId": "ref-41",
+      "email": "brba@baba-bund.example",
+      "telefon": "+49 361 4711-6100",
+      "kurzvita": "Leitet das Bundesregister besonderer Angelegenheiten.",
+      "name": "Dr. Ingo Wendt",
+      "portrait": "assets/img/personen/p-wendt-ingo.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-wendt-ingo.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-wendt-ingo.html",
+      "einheit": {
+        "id": "ref-41",
+        "name": "Referat 41: Bundesregister besonderer Angelegenheiten (BRbA)",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-41.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-erfurt",
+      "leitetEinheitIds": [
+        "ref-41"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-wendt-ingo.json"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-wellbrock-hanna",
+    "anrede": "Frau",
+    "titel": "Dr.",
+    "vorname": "Hanna",
+    "nachname": "Wellbrock",
+    "funktion": "Präsidentin",
+    "einheitId": "leitung",
+    "email": "praesidentin@baba-bund.example",
+    "telefon": "+49 228 4711-1000",
+    "kurzvita": "Promovierte Verwaltungswissenschaftlerin. Nach Stationen im Bundesministerium für Allgemeines und Übriges und als Abteilungsleiterin im BAbA seit 2021 Präsidentin des Amtes. Schwerpunkte: Modernisierung der Verwaltung, Digitalisierung des Registers, Bürgernähe.",
+    "name": "Dr. Hanna Wellbrock",
+    "portrait": "assets/img/personen/p-wellbrock-hanna.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-wellbrock-hanna.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/personen/p-wellbrock-hanna.html",
+    "einheit": {
+      "id": "leitung",
+      "name": "Amtsleitung",
+      "url": "https://pegrassus.github.io/baba-homepage/organisation/leitung.html"
+    },
+    "abteilungId": "leitung",
+    "standortId": "st-bonn",
+    "leitetEinheitIds": [
+      "leitung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-wellbrock-hanna.json"
+  },
+  "einheit": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-wellbrock-hanna",
+    "vertretungPersonId": "p-oberreiter-matthias",
+    "beschreibung": "Präsidentin und Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-bonn",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/leitung.html",
+    "leitung": {
+      "id": "p-wellbrock-hanna",
+      "name": "Dr. Hanna Wellbrock",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-wellbrock-hanna",
+      "p-oberreiter-matthias"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/leitung.json"
+  },
+  "news": [
+    {
+      "id": "2026-10-jahresbericht",
+      "titel": "Jahresbericht 2025/26: So viele besondere Angelegenheiten wie nie",
+      "datum": "2026-10-28",
+      "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-10-jahresbericht.html"
+    }
+  ]
+}

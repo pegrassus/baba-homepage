@@ -1,0 +1,125 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-24",
+    "typ": "referat",
+    "kuerzel": "24",
+    "name": "Fristen außergewöhnlicher Art",
+    "parentId": "abt-2",
+    "leitungPersonId": "p-pfeiffer-lang-markus",
+    "standortId": "st-berlin",
+    "titel": "Referat 24: Fristen außergewöhnlicher Art",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-24.html",
+    "leitung": {
+      "id": "p-pfeiffer-lang-markus",
+      "name": "Markus Pfeiffer-Lang",
+      "funktion": "Referatsleiter 24"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-pfeiffer-lang-markus"
+    ],
+    "aufgabeIds": [
+      "auf-fristen"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-24.json"
+  },
+  "parent": {
+    "id": "abt-2",
+    "typ": "abteilung",
+    "kuerzel": "2",
+    "name": "Besondere Verfahren",
+    "parentId": "leitung",
+    "leitungPersonId": "p-rheinfelder-lukas",
+    "beschreibung": "Durchführung besonderer Verwaltungsverfahren einschließlich Widerspruchs- und Fristenangelegenheiten.",
+    "standortId": "st-berlin",
+    "titel": "Abteilung 2: Besondere Verfahren",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/organisation/abt-2.html",
+    "leitung": {
+      "id": "p-rheinfelder-lukas",
+      "name": "Prof. Dr. Lukas Rheinfelder",
+      "funktion": "Abteilungsleiter 2"
+    },
+    "childIds": [
+      "ref-21",
+      "ref-22",
+      "ref-23",
+      "ref-24"
+    ],
+    "personIds": [
+      "p-rheinfelder-lukas"
+    ],
+    "aufgabeIds": [
+      "auf-verfahren"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/abt-2.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-pfeiffer-lang-markus",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Markus",
+      "nachname": "Pfeiffer-Lang",
+      "funktion": "Referatsleiter 24",
+      "einheitId": "ref-24",
+      "email": "markus.pfeiffer-lang@baba-bund.example",
+      "telefon": "+49 30 4711-4400",
+      "kurzvita": "Zuständig für Fristen, die weder gewöhnlich beginnen noch gewöhnlich enden.",
+      "name": "Markus Pfeiffer-Lang",
+      "portrait": "assets/img/personen/p-pfeiffer-lang-markus.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-pfeiffer-lang-markus.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-pfeiffer-lang-markus.html",
+      "einheit": {
+        "id": "ref-24",
+        "name": "Referat 24: Fristen außergewöhnlicher Art",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/ref-24.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-berlin",
+      "leitetEinheitIds": [
+        "ref-24"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-pfeiffer-lang-markus.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-fristen",
+      "titel": "Berechnung außergewöhnlicher Fristen",
+      "kategorie": "Beratung",
+      "beschreibung": "Verbindliche Auskunft zu Fristen, die durch Schaltjahre, Zeitumstellungen oder ähnliche Besonderheiten beeinflusst werden.",
+      "einheitIds": [
+        "ref-24"
+      ],
+      "rechtsgrundlage": "§ 16 BAbAG"
+    }
+  ],
+  "standort": {
+    "id": "st-berlin",
+    "name": "Außenstelle Berlin",
+    "typ": "Außenstelle",
+    "strasse": "Ausnahmestraße 7",
+    "plz": "10117",
+    "ort": "Berlin",
+    "telefon": "+49 30 4711-0",
+    "beschreibung": "Standort der Abteilung 2 (Besondere Verfahren) und Verbindungsbüro zu den obersten Bundesbehörden.",
+    "bild": "assets/img/standorte/berlin.jpg",
+    "einheitIds": [
+      "abt-2"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-03-fristenregelung",
+      "titel": "Neue Fristenregelung für außergewöhnliche Verfahren in Kraft",
+      "datum": "2026-03-18",
+      "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-03-fristenregelung.html"
+    }
+  ]
+}
