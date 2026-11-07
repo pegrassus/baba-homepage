@@ -1,0 +1,68 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-sonnleitner-wolfgang",
+    "anrede": "Herr",
+    "titel": "Mag.",
+    "vorname": "Wolfgang",
+    "nachname": "Sonnleitner",
+    "funktion": "Abteilungsleiter II/2",
+    "einheitId": "ref-12",
+    "email": "wolfgang.sonnleitner@bbsa-bund.example",
+    "telefon": "+43 1 4711-3200",
+    "kurzvita": "Studierte Philosophie und Rechtswissenschaften; entscheidet die Frage, ob etwas besonders oder bloß sonstig ist.",
+    "name": "Mag. Wolfgang Sonnleitner",
+    "portrait": "assets/img/at/personen/p-sonnleitner-wolfgang.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-sonnleitner-wolfgang.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-sonnleitner-wolfgang.html",
+    "einheit": {
+      "id": "ref-12",
+      "name": "Abteilung II/2: Abgrenzung Besonderes – Sonstiges",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-12.html"
+    },
+    "abteilungId": "abt-1",
+    "standortId": "st-wien",
+    "leitetEinheitIds": [
+      "ref-12"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-sonnleitner-wolfgang.json"
+  },
+  "einheit": {
+    "id": "ref-12",
+    "typ": "referat",
+    "kuerzel": "II/2",
+    "name": "Abgrenzung Besonderes – Sonstiges",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-sonnleitner-wolfgang",
+    "standortId": "st-wien",
+    "titel": "Abteilung II/2: Abgrenzung Besonderes – Sonstiges",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-12.html",
+    "leitung": {
+      "id": "p-sonnleitner-wolfgang",
+      "name": "Mag. Wolfgang Sonnleitner",
+      "funktion": "Abteilungsleiter II/2"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-sonnleitner-wolfgang"
+    ],
+    "aufgabeIds": [
+      "auf-abgrenzung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-12.json"
+  },
+  "news": [
+    {
+      "id": "2026-03-abgrenzungsleitfaden",
+      "titel": "Leitfaden: Wann ist etwas besonders – und wann nur sonstig?",
+      "datum": "2026-03-26",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-03-abgrenzungsleitfaden.html"
+    }
+  ]
+}

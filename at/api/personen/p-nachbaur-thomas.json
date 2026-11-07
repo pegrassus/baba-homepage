@@ -1,0 +1,68 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-nachbaur-thomas",
+    "anrede": "Herr",
+    "titel": "Dr.",
+    "vorname": "Thomas",
+    "nachname": "Nachbaur",
+    "funktion": "Abteilungsleiter II/4",
+    "einheitId": "ref-14",
+    "email": "thomas.nachbaur@bbsa-bund.example",
+    "telefon": "+43 1 4711-3400",
+    "kurzvita": "Gebürtiger Vorarlberger; gewährt Nachsichten nach § 7 BBSAG – mit alemannischer Gründlichkeit.",
+    "name": "Dr. Thomas Nachbaur",
+    "portrait": "assets/img/at/personen/p-nachbaur-thomas.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-nachbaur-thomas.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-nachbaur-thomas.html",
+    "einheit": {
+      "id": "ref-14",
+      "name": "Abteilung II/4: Nachsichten und Ausnahmen",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-14.html"
+    },
+    "abteilungId": "abt-1",
+    "standortId": "st-wien",
+    "leitetEinheitIds": [
+      "ref-14"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-nachbaur-thomas.json"
+  },
+  "einheit": {
+    "id": "ref-14",
+    "typ": "referat",
+    "kuerzel": "II/4",
+    "name": "Nachsichten und Ausnahmen",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-nachbaur-thomas",
+    "standortId": "st-wien",
+    "titel": "Abteilung II/4: Nachsichten und Ausnahmen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-14.html",
+    "leitung": {
+      "id": "p-nachbaur-thomas",
+      "name": "Dr. Thomas Nachbaur",
+      "funktion": "Abteilungsleiter II/4"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-nachbaur-thomas"
+    ],
+    "aufgabeIds": [
+      "auf-nachsicht"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-14.json"
+  },
+  "news": [
+    {
+      "id": "2026-05-murmeltier-arlberg",
+      "titel": "Grenzfall am Arlberg: Murmeltierbau liegt in zwei Bundesländern",
+      "datum": "2026-05-04",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-05-murmeltier-arlberg.html"
+    }
+  ]
+}

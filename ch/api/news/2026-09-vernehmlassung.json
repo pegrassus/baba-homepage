@@ -1,0 +1,110 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-09-vernehmlassung",
+    "datum": "2026-09-30",
+    "kategorie": "Vernehmlassung",
+    "titel": "Vernehmlassung eröffnet: Sind Vernehmlassungen vernehmlassungspflichtig?",
+    "teaser": "Das BBA lädt Kantone, Parteien und Verbände ein, sich bis 31. Januar 2027 zur Frage zu äussern, ob zu dieser Frage eine Vernehmlassung hätte eröffnet werden müssen.",
+    "text": [
+      "Mit der heute eröffneten Vernehmlassung möchte das BBA eine seit 1971 offene Grundsatzfrage klären.",
+      "«Sollte die Vernehmlassung ergeben, dass keine Vernehmlassung nötig gewesen wäre, werden wir die Ergebnisse selbstverständlich trotzdem auswerten», erklärte Sektionschef Matthias Hess.",
+      "Die Unterlagen stehen in Deutsch, Französisch und Italienisch zur Verfügung. Die rätoromanische Fassung folgt nach Abschluss einer separaten Vernehmlassung zur Übersetzung."
+    ],
+    "bild": "assets/img/ch/news/2026-09-vernehmlassung.jpg",
+    "einheitId": "ref-22",
+    "personIds": [
+      "p-hess-matthias",
+      "p-rochat-christine"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-vernehmlassung.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-09-vernehmlassung.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-09-vernehmlassung.json"
+  },
+  "einheit": {
+    "id": "ref-22",
+    "typ": "referat",
+    "kuerzel": "V2",
+    "name": "Vernehmlassungen zu Unvernehmlassbarem",
+    "parentId": "abt-2",
+    "leitungPersonId": "p-hess-matthias",
+    "standortId": "st-bellinzona",
+    "titel": "Sektion V2: Vernehmlassungen zu Unvernehmlassbarem",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-22.html",
+    "leitung": {
+      "id": "p-hess-matthias",
+      "name": "Matthias Hess",
+      "funktion": "Sektionschef Vernehmlassungen"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-hess-matthias"
+    ],
+    "aufgabeIds": [
+      "auf-vernehmlassung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-22.json"
+  },
+  "personen": [
+    {
+      "id": "p-hess-matthias",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Matthias",
+      "nachname": "Hess",
+      "funktion": "Sektionschef Vernehmlassungen",
+      "einheitId": "ref-22",
+      "email": "matthias.hess@bba-bund.example",
+      "telefon": "+41 58 999 42 00",
+      "kurzvita": "Hat mehr Vernehmlassungen ausgewertet als jeder andere Bundesangestellte – einige davon zweimal.",
+      "name": "Matthias Hess",
+      "portrait": "assets/img/ch/personen/p-hess-matthias.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-hess-matthias.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-hess-matthias.html",
+      "einheit": {
+        "id": "ref-22",
+        "name": "Sektion V2: Vernehmlassungen zu Unvernehmlassbarem",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-22.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "ref-22"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-hess-matthias.json"
+    },
+    {
+      "id": "p-rochat-christine",
+      "anrede": "Frau",
+      "titel": "Prof. Dr.",
+      "vorname": "Christine",
+      "nachname": "Rochat",
+      "funktion": "Leiterin Abteilung Verfahren und Vernehmlassungen",
+      "einheitId": "abt-2",
+      "email": "christine.rochat@bba-bund.example",
+      "telefon": "+41 58 999 40 00",
+      "kurzvita": "Titularprofessorin für Verwaltungsrecht in Lausanne; leitet die Abteilung am Standort Bellinzona.",
+      "name": "Prof. Dr. Christine Rochat",
+      "portrait": "assets/img/ch/personen/p-rochat-christine.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-rochat-christine.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-rochat-christine.html",
+      "einheit": {
+        "id": "abt-2",
+        "name": "Abteilung V: Verfahren und Vernehmlassungen",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "abt-2"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rochat-christine.json"
+    }
+  ]
+}

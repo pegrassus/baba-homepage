@@ -1,0 +1,68 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-tanner-corinne",
+    "anrede": "Frau",
+    "titel": "",
+    "vorname": "Corinne",
+    "nachname": "Tanner",
+    "funktion": "Sektionschefin Einsprachen und Beschwerden",
+    "einheitId": "ref-23",
+    "email": "corinne.tanner@bba-bund.example",
+    "telefon": "+41 58 999 43 00",
+    "kurzvita": "Behandelt Einsprachen gegen Verfügungen des BBA.",
+    "name": "Corinne Tanner",
+    "portrait": "assets/img/ch/personen/p-tanner-corinne.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-tanner-corinne.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-tanner-corinne.html",
+    "einheit": {
+      "id": "ref-23",
+      "name": "Sektion V3: Einsprachen und Beschwerden",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-23.html"
+    },
+    "abteilungId": "abt-2",
+    "standortId": "st-bellinzona",
+    "leitetEinheitIds": [
+      "ref-23"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-tanner-corinne.json"
+  },
+  "einheit": {
+    "id": "ref-23",
+    "typ": "referat",
+    "kuerzel": "V3",
+    "name": "Einsprachen und Beschwerden",
+    "parentId": "abt-2",
+    "leitungPersonId": "p-tanner-corinne",
+    "standortId": "st-bellinzona",
+    "titel": "Sektion V3: Einsprachen und Beschwerden",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-23.html",
+    "leitung": {
+      "id": "p-tanner-corinne",
+      "name": "Corinne Tanner",
+      "funktion": "Sektionschefin Einsprachen und Beschwerden"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-tanner-corinne"
+    ],
+    "aufgabeIds": [
+      "auf-einsprache"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-23.json"
+  },
+  "news": [
+    {
+      "id": "2026-04-puenktlichkeit",
+      "titel": "Grundsatzentscheid: 08:00:59 Uhr gilt noch als pünktlich",
+      "datum": "2026-04-15",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-04-puenktlichkeit.html"
+    }
+  ]
+}

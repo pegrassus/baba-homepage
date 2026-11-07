@@ -1,0 +1,66 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-fuchs-renate",
+    "anrede": "Frau",
+    "titel": "ADir",
+    "vorname": "Renate",
+    "nachname": "Fuchs",
+    "funktion": "Abteilungsleiterin I/1",
+    "einheitId": "ref-z1",
+    "email": "renate.fuchs@bbsa-bund.example",
+    "telefon": "+43 1 4711-2100",
+    "kurzvita": "Amtsdirektorin; betreut Personal und Lehrlinge seit über 30 Jahren.",
+    "name": "ADir Renate Fuchs",
+    "portrait": "assets/img/at/personen/p-fuchs-renate.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-fuchs-renate.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-fuchs-renate.html",
+    "einheit": {
+      "id": "ref-z1",
+      "name": "Abteilung I/1: Personal und Lehrlingsausbildung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z1.html"
+    },
+    "abteilungId": "abt-z",
+    "standortId": "st-wien",
+    "leitetEinheitIds": [
+      "ref-z1"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-fuchs-renate.json"
+  },
+  "einheit": {
+    "id": "ref-z1",
+    "typ": "referat",
+    "kuerzel": "I/1",
+    "name": "Personal und Lehrlingsausbildung",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-fuchs-renate",
+    "standortId": "st-wien",
+    "titel": "Abteilung I/1: Personal und Lehrlingsausbildung",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z1.html",
+    "leitung": {
+      "id": "p-fuchs-renate",
+      "name": "ADir Renate Fuchs",
+      "funktion": "Abteilungsleiterin I/1"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-fuchs-renate"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z1.json"
+  },
+  "news": [
+    {
+      "id": "2026-02-lehrlinge",
+      "titel": "18 Lehrlinge starten ihre Ausbildung im BBSA",
+      "datum": "2026-02-10",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-02-lehrlinge.html"
+    }
+  ]
+}

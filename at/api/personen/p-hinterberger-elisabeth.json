@@ -1,0 +1,78 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-hinterberger-elisabeth",
+    "anrede": "Frau",
+    "titel": "Mag.a Dr.in",
+    "vorname": "Elisabeth",
+    "nachname": "Hinterberger",
+    "funktion": "Präsidentin",
+    "einheitId": "leitung",
+    "email": "praesidentin@bbsa-bund.example",
+    "telefon": "+43 1 4711-1000",
+    "kurzvita": "Juristin (Universität Wien) und Verwaltungswissenschaftlerin. Nach Stationen im BMAÜS und als Sektionschefin seit 2021 Präsidentin des BBSA. Hat als erste Präsidentin seit 1873 einen Laptop am Schreibtisch.",
+    "name": "Mag.a Dr.in Elisabeth Hinterberger",
+    "portrait": "assets/img/at/personen/p-hinterberger-elisabeth.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-hinterberger-elisabeth.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-hinterberger-elisabeth.html",
+    "einheit": {
+      "id": "leitung",
+      "name": "Amtsleitung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html"
+    },
+    "abteilungId": "leitung",
+    "standortId": "st-wien",
+    "leitetEinheitIds": [
+      "leitung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-hinterberger-elisabeth.json"
+  },
+  "einheit": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-hinterberger-elisabeth",
+    "vertretungPersonId": "p-pichler-franz-josef",
+    "beschreibung": "Die Präsidentin und der Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-wien",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html",
+    "leitung": {
+      "id": "p-hinterberger-elisabeth",
+      "name": "Mag.a Dr.in Elisabeth Hinterberger",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-hinterberger-elisabeth",
+      "p-pichler-franz-josef"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/leitung.json"
+  },
+  "news": [
+    {
+      "id": "2026-10-jahresbericht",
+      "titel": "Jahresbericht 2025: Rekord bei sonstigen Angelegenheiten",
+      "datum": "2026-10-30",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-10-jahresbericht.html"
+    }
+  ]
+}

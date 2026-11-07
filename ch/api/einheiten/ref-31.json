@@ -1,0 +1,136 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-31",
+    "typ": "referat",
+    "kuerzel": "E1",
+    "name": "Lagezentrum Besonderheiten",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-schmid-fabienne",
+    "standortId": "st-bern",
+    "titel": "Sektion E1: Lagezentrum Besonderheiten",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-31.html",
+    "leitung": {
+      "id": "p-schmid-fabienne",
+      "name": "Fabienne Schmid",
+      "funktion": "Sektionschefin Lagezentrum"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-schmid-fabienne"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-31.json"
+  },
+  "parent": {
+    "id": "abt-3",
+    "typ": "abteilung",
+    "kuerzel": "E",
+    "name": "Ausserordentliche Ereignisse",
+    "parentId": "leitung",
+    "leitungPersonId": "p-rueegg-thomas",
+    "beschreibung": "Lagebeobachtung, alpine Sonderfälle, Kuriositätenarchiv und Vorsorge für das Unwahrscheinliche.",
+    "standortId": "st-bern",
+    "titel": "Abteilung E: Ausserordentliche Ereignisse",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html",
+    "leitung": {
+      "id": "p-rueegg-thomas",
+      "name": "Thomas Rüegg",
+      "funktion": "Leiter Abteilung Ausserordentliche Ereignisse"
+    },
+    "childIds": [
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34"
+    ],
+    "personIds": [
+      "p-rueegg-thomas"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-3.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-schmid-fabienne",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Fabienne",
+      "nachname": "Schmid",
+      "funktion": "Sektionschefin Lagezentrum",
+      "einheitId": "ref-31",
+      "email": "lagezentrum@bba-bund.example",
+      "telefon": "+41 58 999 51 00",
+      "kurzvita": "Leitet das Lagezentrum Besonderheiten, rund um die Uhr besetzt.",
+      "name": "Fabienne Schmid",
+      "portrait": "assets/img/ch/personen/p-schmid-fabienne.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-schmid-fabienne.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-schmid-fabienne.html",
+      "einheit": {
+        "id": "ref-31",
+        "name": "Sektion E1: Lagezentrum Besonderheiten",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-31.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-31"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-schmid-fabienne.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-lage",
+      "titel": "Lagebeobachtung",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Beobachtung und Bewertung ausserordentlicher Ereignisse rund um die Uhr, inklusive Föhnlagen und Fondue-Engpässen.",
+      "einheitIds": [
+        "abt-3",
+        "ref-31",
+        "ref-34"
+      ],
+      "rechtsgrundlage": "Art. 18 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-bern",
+    "name": "Hauptsitz Bern",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 12",
+    "plz": "3011",
+    "ort": "Bern",
+    "telefon": "+41 58 999 10 00",
+    "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+    "bild": "assets/img/ch/standorte/bern.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-08-fondue-uebung",
+      "titel": "Übung «Käse alle»: Lagezentrum probt den nationalen Fondue-Engpass",
+      "datum": "2026-08-14",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-08-fondue-uebung.html"
+    }
+  ]
+}

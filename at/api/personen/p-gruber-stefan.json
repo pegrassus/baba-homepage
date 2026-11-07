@@ -1,0 +1,74 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-gruber-stefan",
+    "anrede": "Herr",
+    "titel": "DI",
+    "vorname": "Stefan",
+    "nachname": "Gruber",
+    "funktion": "Sektionschef, Leiter der Sektion V (CIO)",
+    "einheitId": "abt-4",
+    "email": "stefan.gruber@bbsa-bund.example",
+    "telefon": "+43 512 4711-6000",
+    "kurzvita": "Informatiker; verantwortet die Digitalisierung des Amtes von Innsbruck aus.",
+    "name": "DI Stefan Gruber",
+    "portrait": "assets/img/at/personen/p-gruber-stefan.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-gruber-stefan.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-gruber-stefan.html",
+    "einheit": {
+      "id": "abt-4",
+      "name": "Sektion V: Digitales und Register",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-4.html"
+    },
+    "abteilungId": "abt-4",
+    "standortId": "st-innsbruck",
+    "leitetEinheitIds": [
+      "abt-4"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-gruber-stefan.json"
+  },
+  "einheit": {
+    "id": "abt-4",
+    "typ": "abteilung",
+    "kuerzel": "V",
+    "name": "Digitales und Register",
+    "parentId": "leitung",
+    "leitungPersonId": "p-gruber-stefan",
+    "beschreibung": "Bundesregister besonderer und sonstiger Angelegenheiten, IT-Verfahren und ELAK, Daten und Informationssicherheit.",
+    "standortId": "st-innsbruck",
+    "titel": "Sektion V: Digitales und Register",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-4.html",
+    "leitung": {
+      "id": "p-gruber-stefan",
+      "name": "DI Stefan Gruber",
+      "funktion": "Sektionschef, Leiter der Sektion V (CIO)"
+    },
+    "childIds": [
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "personIds": [
+      "p-gruber-stefan"
+    ],
+    "aufgabeIds": [
+      "auf-brbsa"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-4.json"
+  },
+  "news": [
+    {
+      "id": "2026-06-brbsa-online",
+      "titel": "BRbsA online: 1,2 Millionen Einträge seit 1873 digitalisiert",
+      "datum": "2026-06-09",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-06-brbsa-online.html"
+    }
+  ]
+}

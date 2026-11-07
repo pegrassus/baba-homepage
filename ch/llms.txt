@@ -1,0 +1,45 @@
+# Bundesamt für besondere Angelegenheiten (BBA) – Länderversion Schweiz
+
+> Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.
+> Das Bundesamt für besondere Angelegenheiten (BBA) ist das Kompetenzzentrum des Bundes für alles, was weder in eine Bundes- noch in eine Kantonszuständigkeit passt. Es klärt Sonderfälle zwischen den 26 Kantonen, führt Vernehmlassungen zu Unvorhergesehenem durch, entscheidet über alpine Sonderfälle und führt das Eidgenössische Register besonderer Angelegenheiten (ERbA). Selbstverständlich termingerecht.
+
+Leitung: Dr. Ursula Brändli (Direktorin). Hauptsitz: Ausnahmegasse 12, 3011 Bern. Kontakt: +41 58 999 10 00, info@bba-bund.example.
+Begriffe in dieser Version: Abteilung (abt-*), Sektion (ref-*), Stabsstelle (stab-*).
+
+## Maschinenlesbare Daten
+- [api/behoerde.json](https://pegrassus.github.io/baba-homepage/ch/api/behoerde.json): Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte
+- [api/organisation.json](https://pegrassus.github.io/baba-homepage/ch/api/organisation.json): Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)
+- [api/personen.json](https://pegrassus.github.io/baba-homepage/ch/api/personen.json): Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL
+- [api/aufgaben.json](https://pegrassus.github.io/baba-homepage/ch/api/aufgaben.json): Aufgaben und Leistungen mit zuständigen Einheiten
+- [api/news.json](https://pegrassus.github.io/baba-homepage/ch/api/news.json): Meldungen und Mitteilungen, neueste zuerst
+- [api/standorte.json](https://pegrassus.github.io/baba-homepage/ch/api/standorte.json): Standorte mit Adressen
+- [api/downloads.json](https://pegrassus.github.io/baba-homepage/ch/api/downloads.json): Formulare und Publikationen
+- [api/alles.json](https://pegrassus.github.io/baba-homepage/ch/api/alles.json): Gesamtexport aller Inhalte in einer Datei
+- Einzelobjekte: https://pegrassus.github.io/baba-homepage/ch/api/personen/{id}.json, https://pegrassus.github.io/baba-homepage/ch/api/einheiten/{id}.json, https://pegrassus.github.io/baba-homepage/ch/api/news/{id}.json
+
+## Organisation
+- [Direktion](https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html): Leitung Dr. Ursula Brändli
+- [Direktionsstab](https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dir.html): Leitung Reto Gisler
+- [Kommunikation](https://pegrassus.github.io/baba-homepage/ch/organisation/stab-kom.html): Leitung Seraina Cadonau
+- [Datenschutz und Revision](https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dsr.html): Leitung Monika Hürlimann
+- [Abteilung R: Ressourcen](https://pegrassus.github.io/baba-homepage/ch/organisation/abt-z.html): Leitung Martin Zürcher; Sektionen: R1 Personal und Lernende, R2 Finanzen und Beschaffung, R3 Logistik und Liegenschaften, R4 Sprachdienste (DE/FR/IT/RM)
+- [Abteilung G: Grundsätze und Konkordanz](https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html): Leitung Dr. Andrea Bernasconi; Sektionen: G1 Grundsatzfragen der Besonderheit, G2 Kantonale Sonderfälle, G3 Konkordanz und Kompromissfindung, G4 Ausnahmebewilligungen
+- [Abteilung V: Verfahren und Vernehmlassungen](https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html): Leitung Prof. Dr. Christine Rochat; Sektionen: V1 Besondere Verfahren, V2 Vernehmlassungen zu Unvernehmlassbarem, V3 Einsprachen und Beschwerden, V4 Fristen und Pünktlichkeit
+- [Abteilung E: Ausserordentliche Ereignisse](https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html): Leitung Thomas Rüegg; Sektionen: E1 Lagezentrum Besonderheiten, E2 Alpine Sonderfälle, E3 Kuriositätenarchiv, E4 Prävention des Unwahrscheinlichen
+- [Abteilung D: Digitales und Register](https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html): Leitung Nadia Kälin; Sektionen: D1 Eidgenössisches Register besonderer Angelegenheiten (ERbA), D2 Fachanwendungen und GEVER, D3 Daten und Schnittstellen, D4 Informationssicherheit
+
+## Seiten
+- [Startseite](https://pegrassus.github.io/baba-homepage/ch/index.html)
+- [Über uns](https://pegrassus.github.io/baba-homepage/ch/ueber-uns.html)
+- [Organisation](https://pegrassus.github.io/baba-homepage/ch/organisation.html)
+- [Personen](https://pegrassus.github.io/baba-homepage/ch/personen.html)
+- [Aufgaben](https://pegrassus.github.io/baba-homepage/ch/aufgaben.html)
+- [Aktuelles](https://pegrassus.github.io/baba-homepage/ch/aktuelles.html)
+- [Service](https://pegrassus.github.io/baba-homepage/ch/service.html)
+- [Presse](https://pegrassus.github.io/baba-homepage/ch/presse.html)
+- [Offene Daten](https://pegrassus.github.io/baba-homepage/ch/daten.html)
+
+## Länderversionen
+- Deutschland: [Bundesamt für besondere Angelegenheiten (BAbA)](https://pegrassus.github.io/baba-homepage/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/api/index.json)
+- Schweiz: [Bundesamt für besondere Angelegenheiten (BBA)](https://pegrassus.github.io/baba-homepage/ch/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/ch/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/ch/api/index.json)
+- Österreich: [Bundesamt für besondere und sonstige Angelegenheiten (BBSA)](https://pegrassus.github.io/baba-homepage/at/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/at/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/at/api/index.json)

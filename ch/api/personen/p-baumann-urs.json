@@ -1,0 +1,68 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-baumann-urs",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Urs",
+    "nachname": "Baumann",
+    "funktion": "Sektionschef Ausnahmebewilligungen",
+    "einheitId": "ref-14",
+    "email": "urs.baumann@bba-bund.example",
+    "telefon": "+41 58 999 34 00",
+    "kurzvita": "Erteilt Ausnahmebewilligungen nach Art. 7 BABG – ausnahmsweise auch am Freitagnachmittag.",
+    "name": "Urs Baumann",
+    "portrait": "assets/img/ch/personen/p-baumann-urs.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-baumann-urs.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-baumann-urs.html",
+    "einheit": {
+      "id": "ref-14",
+      "name": "Sektion G4: Ausnahmebewilligungen",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-14.html"
+    },
+    "abteilungId": "abt-1",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [
+      "ref-14"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-baumann-urs.json"
+  },
+  "einheit": {
+    "id": "ref-14",
+    "typ": "referat",
+    "kuerzel": "G4",
+    "name": "Ausnahmebewilligungen",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-baumann-urs",
+    "standortId": "st-bern",
+    "titel": "Sektion G4: Ausnahmebewilligungen",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-14.html",
+    "leitung": {
+      "id": "p-baumann-urs",
+      "name": "Urs Baumann",
+      "funktion": "Sektionschef Ausnahmebewilligungen"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-baumann-urs"
+    ],
+    "aufgabeIds": [
+      "auf-ausnahme"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-14.json"
+  },
+  "news": [
+    {
+      "id": "2026-10-kuh-bella",
+      "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Alpen gleichzeitig",
+      "datum": "2026-10-22",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-10-kuh-bella.html"
+    }
+  ]
+}

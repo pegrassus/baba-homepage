@@ -1,0 +1,69 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-pichler-franz-josef",
+    "anrede": "Herr",
+    "titel": "HR Dipl.-Ing.",
+    "vorname": "Franz-Josef",
+    "nachname": "Pichler",
+    "funktion": "Vizepräsident",
+    "einheitId": "leitung",
+    "email": "vizepraesident@bbsa-bund.example",
+    "telefon": "+43 1 4711-1001",
+    "kurzvita": "Seit 1987 im Amt, Hofrat seit 2005. Zuständig für die Zusammenarbeit mit den Ländern. Kennt jeden Akt seit 1987 – und die meisten davor vom Hörensagen.",
+    "name": "HR Dipl.-Ing. Franz-Josef Pichler",
+    "portrait": "assets/img/at/personen/p-pichler-franz-josef.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-pichler-franz-josef.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-pichler-franz-josef.html",
+    "einheit": {
+      "id": "leitung",
+      "name": "Amtsleitung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html"
+    },
+    "abteilungId": "leitung",
+    "standortId": "st-wien",
+    "leitetEinheitIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-pichler-franz-josef.json"
+  },
+  "einheit": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-hinterberger-elisabeth",
+    "vertretungPersonId": "p-pichler-franz-josef",
+    "beschreibung": "Die Präsidentin und der Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-wien",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html",
+    "leitung": {
+      "id": "p-hinterberger-elisabeth",
+      "name": "Mag.a Dr.in Elisabeth Hinterberger",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-hinterberger-elisabeth",
+      "p-pichler-franz-josef"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/leitung.json"
+  },
+  "news": []
+}

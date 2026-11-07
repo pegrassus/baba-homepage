@@ -1,0 +1,68 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-stempfl-alois",
+    "anrede": "Herr",
+    "titel": "OAR",
+    "vorname": "Alois",
+    "nachname": "Stempfl",
+    "funktion": "Abteilungsleiter I/4",
+    "einheitId": "ref-z4",
+    "email": "alois.stempfl@bbsa-bund.example",
+    "telefon": "+43 1 4711-2400",
+    "kurzvita": "Oberamtsrat und Hüter von 3.112 Amtsstempeln; entwickelte 2026 das Formular zur Beantragung von Formularen.",
+    "name": "OAR Alois Stempfl",
+    "portrait": "assets/img/at/personen/p-stempfl-alois.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-stempfl-alois.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-stempfl-alois.html",
+    "einheit": {
+      "id": "ref-z4",
+      "name": "Abteilung I/4: Formular- und Stempelwesen",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z4.html"
+    },
+    "abteilungId": "abt-z",
+    "standortId": "st-wien",
+    "leitetEinheitIds": [
+      "ref-z4"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-stempfl-alois.json"
+  },
+  "einheit": {
+    "id": "ref-z4",
+    "typ": "referat",
+    "kuerzel": "I/4",
+    "name": "Formular- und Stempelwesen",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-stempfl-alois",
+    "standortId": "st-wien",
+    "titel": "Abteilung I/4: Formular- und Stempelwesen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z4.html",
+    "leitung": {
+      "id": "p-stempfl-alois",
+      "name": "OAR Alois Stempfl",
+      "funktion": "Abteilungsleiter I/4"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-stempfl-alois"
+    ],
+    "aufgabeIds": [
+      "auf-formulare"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z4.json"
+  },
+  "news": [
+    {
+      "id": "2026-07-formular-f0",
+      "titel": "Neu: Das Formular zur Beantragung von Formularen (BBSA-F0)",
+      "datum": "2026-07-15",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-07-formular-f0.html"
+    }
+  ]
+}

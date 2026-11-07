@@ -1,0 +1,134 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-13",
+    "typ": "referat",
+    "kuerzel": "II/3",
+    "name": "Föderale Grenzfälle (Bund – Länder)",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-hofer-lisa",
+    "standortId": "st-wien",
+    "titel": "Abteilung II/3: Föderale Grenzfälle (Bund – Länder)",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-13.html",
+    "leitung": {
+      "id": "p-hofer-lisa",
+      "name": "Mag.a Lisa Hofer",
+      "funktion": "Abteilungsleiterin II/3"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-hofer-lisa"
+    ],
+    "aufgabeIds": [
+      "auf-laender"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-13.json"
+  },
+  "parent": {
+    "id": "abt-1",
+    "typ": "abteilung",
+    "kuerzel": "II",
+    "name": "Grundsatz, Sonderfälle und Sonstiges",
+    "parentId": "leitung",
+    "leitungPersonId": "p-schwarzl-andrea",
+    "beschreibung": "Grundsatzangelegenheiten, Abgrenzung des Besonderen vom Sonstigen, föderale Grenzfälle und Nachsichten.",
+    "standortId": "st-wien",
+    "titel": "Sektion II: Grundsatz, Sonderfälle und Sonstiges",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-1.html",
+    "leitung": {
+      "id": "p-schwarzl-andrea",
+      "name": "Dr.in Andrea Schwarzl",
+      "funktion": "Sektionschefin, Leiterin der Sektion II"
+    },
+    "childIds": [
+      "ref-11",
+      "ref-12",
+      "ref-13",
+      "ref-14"
+    ],
+    "personIds": [
+      "p-schwarzl-andrea"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-1.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-hofer-lisa",
+      "anrede": "Frau",
+      "titel": "Mag.a",
+      "vorname": "Lisa",
+      "nachname": "Hofer",
+      "funktion": "Abteilungsleiterin II/3",
+      "einheitId": "ref-13",
+      "email": "lisa.hofer@bbsa-bund.example",
+      "telefon": "+43 1 4711-3300",
+      "kurzvita": "Vermittelt in Grenzfällen zwischen Bund und den neun Ländern.",
+      "name": "Mag.a Lisa Hofer",
+      "portrait": "assets/img/at/personen/p-hofer-lisa.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-hofer-lisa.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-hofer-lisa.html",
+      "einheit": {
+        "id": "ref-13",
+        "name": "Abteilung II/3: Föderale Grenzfälle (Bund – Länder)",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-13.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-13"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-hofer-lisa.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-laender",
+      "titel": "Föderale Grenzfälle",
+      "kategorie": "Beratung",
+      "beschreibung": "Vermittlung zwischen Bund und Ländern, wenn ein Sachverhalt in mehreren Bundesländern zugleich liegt – etwa ein Murmeltierbau am Arlberg.",
+      "einheitIds": [
+        "ref-13"
+      ],
+      "rechtsgrundlage": "§ 4 BBSAG"
+    }
+  ],
+  "standort": {
+    "id": "st-wien",
+    "name": "Amtsgebäude Wien",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 7",
+    "plz": "1010",
+    "ort": "Wien",
+    "telefon": "+43 1 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+    "bild": "assets/img/at/standorte/wien.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-05-murmeltier-arlberg",
+      "titel": "Grenzfall am Arlberg: Murmeltierbau liegt in zwei Bundesländern",
+      "datum": "2026-05-04",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-05-murmeltier-arlberg.html"
+    }
+  ]
+}

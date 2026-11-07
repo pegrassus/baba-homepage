@@ -1,0 +1,2207 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "behoerde": {
+    "id": "bba",
+    "variante": "ch",
+    "land": "Schweiz",
+    "locale": "de-CH",
+    "pfad": "ch/",
+    "name": "Bundesamt für besondere Angelegenheiten",
+    "kurzname": "BBA",
+    "namenLandessprachen": [
+      {
+        "sprache": "de",
+        "name": "Bundesamt für besondere Angelegenheiten",
+        "kurz": "BBA"
+      },
+      {
+        "sprache": "fr",
+        "name": "Office fédéral des affaires particulières",
+        "kurz": "OFAP"
+      },
+      {
+        "sprache": "it",
+        "name": "Ufficio federale degli affari particolari",
+        "kurz": "UFAP"
+      },
+      {
+        "sprache": "rm",
+        "name": "Uffizi federal per fatgs particulars",
+        "kurz": "UFFP"
+      }
+    ],
+    "markeZeile": "BBA · OFAP · UFAP · UFFP",
+    "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+    "typ": "Bundesamt",
+    "geschaeftsbereich": "Eidgenössisches Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
+    "zuordnung": "Bundesamt im Eidgenössischen Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
+    "gruendung": "1953-03-01",
+    "rechtsgrundlage": {
+      "kurz": "BABG",
+      "titel": "Bundesgesetz über die besonderen Angelegenheiten (BABG)",
+      "fundstelle": "SR 999.42 (fiktiv)"
+    },
+    "claim": "Wo kein Amt zuständig ist, sind wir es – in allen vier Landessprachen.",
+    "auftrag": "Das Bundesamt für besondere Angelegenheiten (BBA) ist das Kompetenzzentrum des Bundes für alles, was weder in eine Bundes- noch in eine Kantonszuständigkeit passt. Es klärt Sonderfälle zwischen den 26 Kantonen, führt Vernehmlassungen zu Unvorhergesehenem durch, entscheidet über alpine Sonderfälle und führt das Eidgenössische Register besonderer Angelegenheiten (ERbA). Selbstverständlich termingerecht.",
+    "leitbild": [
+      {
+        "titel": "Pünktlich",
+        "text": "Auch das Unvorhersehbare erledigen wir fristgerecht – auf die Sekunde."
+      },
+      {
+        "titel": "Ausgewogen",
+        "text": "Wir suchen den Kompromiss, bis alle gleich wenig zufrieden sind."
+      },
+      {
+        "titel": "Mehrsprachig",
+        "text": "Jeder Sonderfall verdient eine Antwort in seiner Landessprache."
+      },
+      {
+        "titel": "Gründlich",
+        "text": "Was wir nicht vernehmlasst haben, haben wir noch nicht entschieden."
+      }
+    ],
+    "kennzahlen": [
+      {
+        "label": "Mitarbeitende (318 Vollzeitstellen)",
+        "wert": "412"
+      },
+      {
+        "label": "Behandelte Sonderfälle 2025",
+        "wert": "9'874"
+      },
+      {
+        "label": "Einträge im ERbA",
+        "wert": "61'205"
+      },
+      {
+        "label": "Landessprachen",
+        "wert": "4"
+      }
+    ],
+    "leitungPersonId": "p-braendli-ursula",
+    "pressePersonId": "p-cadonau-seraina",
+    "datenschutzPersonId": "p-huerlimann-monika",
+    "hauptsitzId": "st-bern",
+    "kontakt": {
+      "telefon": "+41 58 999 10 00",
+      "email": "info@bba-bund.example",
+      "zeitenLabel": "Öffnungszeiten",
+      "servicezeiten": "Mo–Fr 8.00–12.00 und 13.30–17.00 Uhr (Mittagspause wird eingehalten)"
+    },
+    "logo": {
+      "farbig": "assets/img/ch/logo/bba-logo.svg",
+      "wortbildmarke": "assets/img/ch/logo/bba-wortbildmarke.svg",
+      "negativ": "assets/img/ch/logo/bba-logo-negativ.svg",
+      "png": "assets/img/ch/logo/bba-logo.png"
+    },
+    "farben": {
+      "anthrazit": "#2B2F33",
+      "rot": "#B5121B",
+      "hellgrau": "#F2F2F0",
+      "sandstein": "#8C8A6E"
+    },
+    "begriffe": {
+      "leitung": "Direktion",
+      "stab": "Stabsstelle",
+      "stabPlural": "Stabsstellen",
+      "abteilung": "Abteilung",
+      "abteilungPlural": "Abteilungen",
+      "abteilungKurz": "Abt.",
+      "referat": "Sektion",
+      "referatPlural": "Sektionen",
+      "referatKurz": "Sekt.",
+      "referatsleitungen": "Sektionschefinnen und Sektionschefs",
+      "antraegeTitel": "Gesuche einreichen",
+      "antraegeText": "Feststellung, Ausnahmebewilligung, Registerauszug",
+      "antraegeButton": "Gesuche & Formulare",
+      "beschaeftigte": "Mitarbeitende"
+    },
+    "grusswort": {
+      "titel": "Grusswort der Direktorin",
+      "text": "Die Schweiz ist ein Land der Ordnung – und gerade darum ein Land der Ausnahmen. Wenn eine Kuh auf zwei Alpen gleichzeitig steht oder ein Echo die falsche Antwort gibt, sind wir zur Stelle. Gründlich, mehrsprachig und – wie es sich gehört – pünktlich."
+    },
+    "jahresberichtZitat": "Ordnung ist, wenn auch die Ausnahme ein Formular hat.",
+    "hero": {
+      "bild": "assets/img/ch/hero/hero-gebaeude.jpg",
+      "alt": "Hauptsitz des BBA in Bern mit Alpenpanorama"
+    },
+    "heroInnen": {
+      "bild": "assets/img/ch/hero/hero-atrium.jpg",
+      "alt": "Holz-Atrium im Hauptsitz Bern"
+    },
+    "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Keine Einrichtung der Schweizerischen Eidgenossenschaft.",
+    "leitfadenKriterien": [
+      "Keine Bundes- und keine Kantonszuständigkeit",
+      "Betroffenheit von mindestens zwei Kantonen mit unterschiedlicher Meinung",
+      "Beteiligung von Nutztieren auf Sömmerungsgebieten",
+      "Mehrsprachige Widersprüchlichkeit",
+      "Abweichung von mehr als 59 Sekunden von einem Fahrplan",
+      "Echo, Lawine oder Föhn als mitwirkende Partei",
+      "Fehlender Präzedenzfall seit 1291",
+      "Unklarheit über die Gemeindegrenze",
+      "Kompromiss noch nicht gefunden",
+      "Vernehmlassung ergab mehr Fragen als Antworten",
+      "Käse- oder schokoladenrelevanter Sachverhalt",
+      "Formale Selbstbezüglichkeit (Gesuch um ein Gesuch)",
+      "Nachweislich unwahrscheinliches Ereignis",
+      "Allgemeines Kopfschütteln in mindestens drei Landessprachen"
+    ],
+    "geschichte": [
+      {
+        "jahr": "1953",
+        "ereignis": "Gründung als «Eidgenössisches Büro für Unzuordenbares» mit sieben Mitarbeitenden in einem Nebenraum in Bern."
+      },
+      {
+        "jahr": "1971",
+        "ereignis": "Erste Vernehmlassung zur Frage, wofür das Büro eigentlich zuständig ist. Die Auswertung dauert bis 1978."
+      },
+      {
+        "jahr": "1999",
+        "ereignis": "Umbenennung in Bundesamt für besondere Angelegenheiten (BBA) und Erlass des BABG."
+      },
+      {
+        "jahr": "2008",
+        "ereignis": "Eröffnung des Standorts Bellinzona für Verfahren mit Bezug zur italienischen Schweiz."
+      },
+      {
+        "jahr": "2016",
+        "ereignis": "Bezug des zweisprachigen Standorts Biel/Bienne."
+      },
+      {
+        "jahr": "2026",
+        "ereignis": "Inbetriebnahme des digitalen Eidgenössischen Registers besonderer Angelegenheiten (ERbA)."
+      }
+    ]
+  },
+  "standorte": [
+    {
+      "id": "st-bern",
+      "name": "Hauptsitz Bern",
+      "typ": "Hauptsitz",
+      "strasse": "Ausnahmegasse 12",
+      "plz": "3011",
+      "ort": "Bern",
+      "telefon": "+41 58 999 10 00",
+      "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+      "bild": "assets/img/ch/standorte/bern.jpg",
+      "einheitIds": [
+        "leitung",
+        "stab-dir",
+        "stab-kom",
+        "stab-dsr",
+        "abt-z",
+        "abt-1",
+        "abt-3"
+      ]
+    },
+    {
+      "id": "st-biel",
+      "name": "Standort Biel/Bienne",
+      "typ": "Standort",
+      "strasse": "Sonderfallstrasse 5 / Rue du Cas particulier 5",
+      "plz": "2502",
+      "ort": "Biel/Bienne",
+      "telefon": "+41 58 999 60 00",
+      "beschreibung": "Zweisprachiger Standort der Abteilung Digitales und Register mit dem Rechenzentrum des ERbA.",
+      "bild": "assets/img/ch/standorte/biel.jpg",
+      "einheitIds": [
+        "abt-4"
+      ]
+    },
+    {
+      "id": "st-bellinzona",
+      "name": "Sede di Bellinzona",
+      "typ": "Standort",
+      "strasse": "Via dei Casi Speciali 3",
+      "plz": "6500",
+      "ort": "Bellinzona",
+      "telefon": "+41 58 999 40 00",
+      "beschreibung": "Standort der Abteilung Verfahren und Vernehmlassungen. Die Sitzungen beginnen pünktlich, der Espresso danach ebenfalls.",
+      "bild": "assets/img/ch/standorte/bellinzona.jpg",
+      "einheitIds": [
+        "abt-2"
+      ]
+    }
+  ],
+  "einheiten": [
+    {
+      "id": "leitung",
+      "typ": "leitung",
+      "kuerzel": "DIR",
+      "name": "Direktion",
+      "parentId": null,
+      "leitungPersonId": "p-braendli-ursula",
+      "vertretungPersonId": "p-favre-jean-daniel",
+      "beschreibung": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.",
+      "standortId": "st-bern",
+      "titel": "Direktion",
+      "typLabel": "Direktion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html",
+      "leitung": {
+        "id": "p-braendli-ursula",
+        "name": "Dr. Ursula Brändli",
+        "funktion": "Direktorin"
+      },
+      "childIds": [
+        "stab-dir",
+        "stab-kom",
+        "stab-dsr",
+        "abt-z",
+        "abt-1",
+        "abt-2",
+        "abt-3",
+        "abt-4"
+      ],
+      "personIds": [
+        "p-braendli-ursula",
+        "p-favre-jean-daniel"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/leitung.json"
+    },
+    {
+      "id": "stab-dir",
+      "typ": "stab",
+      "kuerzel": "DS",
+      "name": "Direktionsstab",
+      "parentId": "leitung",
+      "leitungPersonId": "p-gisler-reto",
+      "beschreibung": "Unterstützt die Direktion, koordiniert Geschäfte mit dem Departement und den Kantonen und führt die Geschäftskontrolle.",
+      "standortId": "st-bern",
+      "titel": "Direktionsstab",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dir.html",
+      "leitung": {
+        "id": "p-gisler-reto",
+        "name": "Reto Gisler",
+        "funktion": "Leiter Direktionsstab"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-gisler-reto"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-dir.json"
+    },
+    {
+      "id": "stab-kom",
+      "typ": "stab",
+      "kuerzel": "KOM",
+      "name": "Kommunikation",
+      "parentId": "leitung",
+      "leitungPersonId": "p-cadonau-seraina",
+      "beschreibung": "Medienarbeit, Website, Publikationen und Anfragen aus der Bevölkerung – in allen Landessprachen.",
+      "standortId": "st-bern",
+      "titel": "Kommunikation",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-kom.html",
+      "leitung": {
+        "id": "p-cadonau-seraina",
+        "name": "Seraina Cadonau",
+        "funktion": "Mediensprecherin"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-cadonau-seraina"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-kom.json"
+    },
+    {
+      "id": "stab-dsr",
+      "typ": "stab",
+      "kuerzel": "DSR",
+      "name": "Datenschutz und Revision",
+      "parentId": "leitung",
+      "leitungPersonId": "p-huerlimann-monika",
+      "beschreibung": "Datenschutzberatung, interne Revision und Compliance.",
+      "standortId": "st-bern",
+      "titel": "Datenschutz und Revision",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dsr.html",
+      "leitung": {
+        "id": "p-huerlimann-monika",
+        "name": "Monika Hürlimann",
+        "funktion": "Datenschutzberaterin"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-huerlimann-monika"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-dsr.json"
+    },
+    {
+      "id": "abt-z",
+      "typ": "abteilung",
+      "kuerzel": "R",
+      "name": "Ressourcen",
+      "parentId": "leitung",
+      "leitungPersonId": "p-zuercher-martin",
+      "beschreibung": "Personal, Finanzen, Logistik und Sprachdienste.",
+      "standortId": "st-bern",
+      "titel": "Abteilung R: Ressourcen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-z.html",
+      "leitung": {
+        "id": "p-zuercher-martin",
+        "name": "Martin Zürcher",
+        "funktion": "Leiter Abteilung Ressourcen"
+      },
+      "childIds": [
+        "ref-z1",
+        "ref-z2",
+        "ref-z3",
+        "ref-z4"
+      ],
+      "personIds": [
+        "p-zuercher-martin"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-z.json"
+    },
+    {
+      "id": "ref-z1",
+      "typ": "referat",
+      "kuerzel": "R1",
+      "name": "Personal und Lernende",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-meier-sandra",
+      "standortId": "st-bern",
+      "titel": "Sektion R1: Personal und Lernende",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z1.html",
+      "leitung": {
+        "id": "p-meier-sandra",
+        "name": "Sandra Meier",
+        "funktion": "Sektionschefin Personal und Lernende"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-meier-sandra"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z1.json"
+    },
+    {
+      "id": "ref-z2",
+      "typ": "referat",
+      "kuerzel": "R2",
+      "name": "Finanzen und Beschaffung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-ammann-patrick",
+      "standortId": "st-bern",
+      "titel": "Sektion R2: Finanzen und Beschaffung",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z2.html",
+      "leitung": {
+        "id": "p-ammann-patrick",
+        "name": "Patrick Ammann",
+        "funktion": "Sektionschef Finanzen und Beschaffung"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-ammann-patrick"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z2.json"
+    },
+    {
+      "id": "ref-z3",
+      "typ": "referat",
+      "kuerzel": "R3",
+      "name": "Logistik und Liegenschaften",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-krasniqi-arben",
+      "standortId": "st-bern",
+      "titel": "Sektion R3: Logistik und Liegenschaften",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z3.html",
+      "leitung": {
+        "id": "p-krasniqi-arben",
+        "name": "Arben Krasniqi",
+        "funktion": "Sektionschef Logistik und Liegenschaften"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-krasniqi-arben"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z3.json"
+    },
+    {
+      "id": "ref-z4",
+      "typ": "referat",
+      "kuerzel": "R4",
+      "name": "Sprachdienste (DE/FR/IT/RM)",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-rossi-chiara",
+      "standortId": "st-bern",
+      "titel": "Sektion R4: Sprachdienste (DE/FR/IT/RM)",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z4.html",
+      "leitung": {
+        "id": "p-rossi-chiara",
+        "name": "Chiara Rossi",
+        "funktion": "Sektionschefin Sprachdienste"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-rossi-chiara"
+      ],
+      "aufgabeIds": [
+        "auf-sprachen"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z4.json"
+    },
+    {
+      "id": "abt-1",
+      "typ": "abteilung",
+      "kuerzel": "G",
+      "name": "Grundsätze und Konkordanz",
+      "parentId": "leitung",
+      "leitungPersonId": "p-bernasconi-andrea",
+      "beschreibung": "Grundsatzfragen, kantonale Sonderfälle, Kompromissfindung und Ausnahmebewilligungen.",
+      "standortId": "st-bern",
+      "titel": "Abteilung G: Grundsätze und Konkordanz",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html",
+      "leitung": {
+        "id": "p-bernasconi-andrea",
+        "name": "Dr. Andrea Bernasconi",
+        "funktion": "Leiter Abteilung Grundsätze und Konkordanz"
+      },
+      "childIds": [
+        "ref-11",
+        "ref-12",
+        "ref-13",
+        "ref-14"
+      ],
+      "personIds": [
+        "p-bernasconi-andrea"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-1.json"
+    },
+    {
+      "id": "ref-11",
+      "typ": "referat",
+      "kuerzel": "G1",
+      "name": "Grundsatzfragen der Besonderheit",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-steiner-verena",
+      "standortId": "st-bern",
+      "titel": "Sektion G1: Grundsatzfragen der Besonderheit",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-11.html",
+      "leitung": {
+        "id": "p-steiner-verena",
+        "name": "Dr. Verena Steiner",
+        "funktion": "Sektionschefin Grundsatzfragen der Besonderheit"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-steiner-verena"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit",
+        "auf-abgrenzung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-11.json"
+    },
+    {
+      "id": "ref-12",
+      "typ": "referat",
+      "kuerzel": "G2",
+      "name": "Kantonale Sonderfälle",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-wyss-lukas",
+      "standortId": "st-bern",
+      "titel": "Sektion G2: Kantonale Sonderfälle",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-12.html",
+      "leitung": {
+        "id": "p-wyss-lukas",
+        "name": "Lukas Wyss",
+        "funktion": "Sektionschef Kantonale Sonderfälle"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-wyss-lukas"
+      ],
+      "aufgabeIds": [
+        "auf-kantone"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-12.json"
+    },
+    {
+      "id": "ref-13",
+      "typ": "referat",
+      "kuerzel": "G3",
+      "name": "Konkordanz und Kompromissfindung",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-roduit-stephanie",
+      "standortId": "st-bern",
+      "titel": "Sektion G3: Konkordanz und Kompromissfindung",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-13.html",
+      "leitung": {
+        "id": "p-roduit-stephanie",
+        "name": "Stéphanie Roduit",
+        "funktion": "Sektionschefin Konkordanz und Kompromissfindung"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-roduit-stephanie"
+      ],
+      "aufgabeIds": [
+        "auf-kantone"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-13.json"
+    },
+    {
+      "id": "ref-14",
+      "typ": "referat",
+      "kuerzel": "G4",
+      "name": "Ausnahmebewilligungen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-baumann-urs",
+      "standortId": "st-bern",
+      "titel": "Sektion G4: Ausnahmebewilligungen",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-14.html",
+      "leitung": {
+        "id": "p-baumann-urs",
+        "name": "Urs Baumann",
+        "funktion": "Sektionschef Ausnahmebewilligungen"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-baumann-urs"
+      ],
+      "aufgabeIds": [
+        "auf-ausnahme"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-14.json"
+    },
+    {
+      "id": "abt-2",
+      "typ": "abteilung",
+      "kuerzel": "V",
+      "name": "Verfahren und Vernehmlassungen",
+      "parentId": "leitung",
+      "leitungPersonId": "p-rochat-christine",
+      "beschreibung": "Besondere Verwaltungsverfahren, Vernehmlassungen, Einsprachen und die amtliche Pünktlichkeit.",
+      "standortId": "st-bellinzona",
+      "titel": "Abteilung V: Verfahren und Vernehmlassungen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html",
+      "leitung": {
+        "id": "p-rochat-christine",
+        "name": "Prof. Dr. Christine Rochat",
+        "funktion": "Leiterin Abteilung Verfahren und Vernehmlassungen"
+      },
+      "childIds": [
+        "ref-21",
+        "ref-22",
+        "ref-23",
+        "ref-24"
+      ],
+      "personIds": [
+        "p-rochat-christine"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-2.json"
+    },
+    {
+      "id": "ref-21",
+      "typ": "referat",
+      "kuerzel": "V1",
+      "name": "Besondere Verfahren",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-frei-daniela",
+      "standortId": "st-bellinzona",
+      "titel": "Sektion V1: Besondere Verfahren",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-21.html",
+      "leitung": {
+        "id": "p-frei-daniela",
+        "name": "Daniela Frei",
+        "funktion": "Sektionschefin Besondere Verfahren"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-frei-daniela"
+      ],
+      "aufgabeIds": [
+        "auf-abgrenzung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-21.json"
+    },
+    {
+      "id": "ref-22",
+      "typ": "referat",
+      "kuerzel": "V2",
+      "name": "Vernehmlassungen zu Unvernehmlassbarem",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-hess-matthias",
+      "standortId": "st-bellinzona",
+      "titel": "Sektion V2: Vernehmlassungen zu Unvernehmlassbarem",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-22.html",
+      "leitung": {
+        "id": "p-hess-matthias",
+        "name": "Matthias Hess",
+        "funktion": "Sektionschef Vernehmlassungen"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-hess-matthias"
+      ],
+      "aufgabeIds": [
+        "auf-vernehmlassung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-22.json"
+    },
+    {
+      "id": "ref-23",
+      "typ": "referat",
+      "kuerzel": "V3",
+      "name": "Einsprachen und Beschwerden",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-tanner-corinne",
+      "standortId": "st-bellinzona",
+      "titel": "Sektion V3: Einsprachen und Beschwerden",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-23.html",
+      "leitung": {
+        "id": "p-tanner-corinne",
+        "name": "Corinne Tanner",
+        "funktion": "Sektionschefin Einsprachen und Beschwerden"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-tanner-corinne"
+      ],
+      "aufgabeIds": [
+        "auf-einsprache"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-23.json"
+    },
+    {
+      "id": "ref-24",
+      "typ": "referat",
+      "kuerzel": "V4",
+      "name": "Fristen und Pünktlichkeit",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-imboden-kurt",
+      "standortId": "st-bellinzona",
+      "titel": "Sektion V4: Fristen und Pünktlichkeit",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-24.html",
+      "leitung": {
+        "id": "p-imboden-kurt",
+        "name": "Kurt Imboden",
+        "funktion": "Sektionschef Fristen und Pünktlichkeit"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-imboden-kurt"
+      ],
+      "aufgabeIds": [
+        "auf-puenktlichkeit"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-24.json"
+    },
+    {
+      "id": "abt-3",
+      "typ": "abteilung",
+      "kuerzel": "E",
+      "name": "Ausserordentliche Ereignisse",
+      "parentId": "leitung",
+      "leitungPersonId": "p-rueegg-thomas",
+      "beschreibung": "Lagebeobachtung, alpine Sonderfälle, Kuriositätenarchiv und Vorsorge für das Unwahrscheinliche.",
+      "standortId": "st-bern",
+      "titel": "Abteilung E: Ausserordentliche Ereignisse",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html",
+      "leitung": {
+        "id": "p-rueegg-thomas",
+        "name": "Thomas Rüegg",
+        "funktion": "Leiter Abteilung Ausserordentliche Ereignisse"
+      },
+      "childIds": [
+        "ref-31",
+        "ref-32",
+        "ref-33",
+        "ref-34"
+      ],
+      "personIds": [
+        "p-rueegg-thomas"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-3.json"
+    },
+    {
+      "id": "ref-31",
+      "typ": "referat",
+      "kuerzel": "E1",
+      "name": "Lagezentrum Besonderheiten",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-schmid-fabienne",
+      "standortId": "st-bern",
+      "titel": "Sektion E1: Lagezentrum Besonderheiten",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-31.html",
+      "leitung": {
+        "id": "p-schmid-fabienne",
+        "name": "Fabienne Schmid",
+        "funktion": "Sektionschefin Lagezentrum"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-schmid-fabienne"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-31.json"
+    },
+    {
+      "id": "ref-32",
+      "typ": "referat",
+      "kuerzel": "E2",
+      "name": "Alpine Sonderfälle",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-zgraggen-josef",
+      "standortId": "st-bern",
+      "titel": "Sektion E2: Alpine Sonderfälle",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-32.html",
+      "leitung": {
+        "id": "p-zgraggen-josef",
+        "name": "Josef Zgraggen",
+        "funktion": "Sektionschef Alpine Sonderfälle"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-zgraggen-josef"
+      ],
+      "aufgabeIds": [
+        "auf-alpin"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-32.json"
+    },
+    {
+      "id": "ref-33",
+      "typ": "referat",
+      "kuerzel": "E3",
+      "name": "Kuriositätenarchiv",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-pestalozzi-hans-peter",
+      "standortId": "st-bern",
+      "titel": "Sektion E3: Kuriositätenarchiv",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-33.html",
+      "leitung": {
+        "id": "p-pestalozzi-hans-peter",
+        "name": "Dr. Hans-Peter Pestalozzi",
+        "funktion": "Sektionschef Kuriositätenarchiv"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-pestalozzi-hans-peter"
+      ],
+      "aufgabeIds": [
+        "auf-archiv"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-33.json"
+    },
+    {
+      "id": "ref-34",
+      "typ": "referat",
+      "kuerzel": "E4",
+      "name": "Prävention des Unwahrscheinlichen",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-nguyen-mai",
+      "standortId": "st-bern",
+      "titel": "Sektion E4: Prävention des Unwahrscheinlichen",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-34.html",
+      "leitung": {
+        "id": "p-nguyen-mai",
+        "name": "Mai Nguyen",
+        "funktion": "Sektionschefin Prävention des Unwahrscheinlichen"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-nguyen-mai"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-34.json"
+    },
+    {
+      "id": "abt-4",
+      "typ": "abteilung",
+      "kuerzel": "D",
+      "name": "Digitales und Register",
+      "parentId": "leitung",
+      "leitungPersonId": "p-kaelin-nadia",
+      "beschreibung": "Eidgenössisches Register besonderer Angelegenheiten, Fachanwendungen, Daten und Informationssicherheit.",
+      "standortId": "st-biel",
+      "titel": "Abteilung D: Digitales und Register",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html",
+      "leitung": {
+        "id": "p-kaelin-nadia",
+        "name": "Nadia Kälin",
+        "funktion": "Leiterin Abteilung Digitales und Register (CDO)"
+      },
+      "childIds": [
+        "ref-41",
+        "ref-42",
+        "ref-43",
+        "ref-44"
+      ],
+      "personIds": [
+        "p-kaelin-nadia"
+      ],
+      "aufgabeIds": [
+        "auf-erba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-4.json"
+    },
+    {
+      "id": "ref-41",
+      "typ": "referat",
+      "kuerzel": "D1",
+      "name": "Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-gerber-simon",
+      "standortId": "st-biel",
+      "titel": "Sektion D1: Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-41.html",
+      "leitung": {
+        "id": "p-gerber-simon",
+        "name": "Dr. Simon Gerber",
+        "funktion": "Sektionschef ERbA (Registerführer)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-gerber-simon"
+      ],
+      "aufgabeIds": [
+        "auf-erba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-41.json"
+    },
+    {
+      "id": "ref-42",
+      "typ": "referat",
+      "kuerzel": "D2",
+      "name": "Fachanwendungen und GEVER",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-moser-elena",
+      "standortId": "st-biel",
+      "titel": "Sektion D2: Fachanwendungen und GEVER",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-42.html",
+      "leitung": {
+        "id": "p-moser-elena",
+        "name": "Elena Moser",
+        "funktion": "Sektionschefin Fachanwendungen und GEVER"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-moser-elena"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-42.json"
+    },
+    {
+      "id": "ref-43",
+      "typ": "referat",
+      "kuerzel": "D3",
+      "name": "Daten und Schnittstellen",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-yilmaz-deniz",
+      "standortId": "st-biel",
+      "titel": "Sektion D3: Daten und Schnittstellen",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-43.html",
+      "leitung": {
+        "id": "p-yilmaz-deniz",
+        "name": "Deniz Yilmaz",
+        "funktion": "Sektionschef Daten und Schnittstellen"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-yilmaz-deniz"
+      ],
+      "aufgabeIds": [
+        "auf-erba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-43.json"
+    },
+    {
+      "id": "ref-44",
+      "typ": "referat",
+      "kuerzel": "D4",
+      "name": "Informationssicherheit",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-luethi-adrian",
+      "standortId": "st-biel",
+      "titel": "Sektion D4: Informationssicherheit",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-44.html",
+      "leitung": {
+        "id": "p-luethi-adrian",
+        "name": "Adrian Lüthi",
+        "funktion": "Sektionschef Informationssicherheit (ISBO)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-luethi-adrian"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-44.json"
+    }
+  ],
+  "personen": [
+    {
+      "id": "p-braendli-ursula",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Ursula",
+      "nachname": "Brändli",
+      "funktion": "Direktorin",
+      "einheitId": "leitung",
+      "email": "ursula.braendli@bba-bund.example",
+      "telefon": "+41 58 999 10 01",
+      "kurzvita": "Promovierte Juristin (Universität Freiburg), zuvor Vizedirektorin und Leiterin der Abteilung Grundsätze und Konkordanz. Seit 2020 Direktorin des BBA. Hält die Mittagspause für ein Grundrecht.",
+      "name": "Dr. Ursula Brändli",
+      "portrait": "assets/img/ch/personen/p-braendli-ursula.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-braendli-ursula.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-braendli-ursula.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Direktion",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "leitung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-braendli-ursula.json"
+    },
+    {
+      "id": "p-favre-jean-daniel",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Jean-Daniel",
+      "nachname": "Favre",
+      "funktion": "Vizedirektor",
+      "einheitId": "leitung",
+      "email": "jean-daniel.favre@bba-bund.example",
+      "telefon": "+41 58 999 10 02",
+      "kurzvita": "Ökonom aus Neuenburg; verantwortet die Beziehungen zu den Kantonen und zur Romandie. Beherrscht die Kunst, auf Französisch Ja und auf Deutsch Nein zu sagen – im selben Satz.",
+      "name": "Jean-Daniel Favre",
+      "portrait": "assets/img/ch/personen/p-favre-jean-daniel.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-favre-jean-daniel.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-favre-jean-daniel.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Direktion",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-favre-jean-daniel.json"
+    },
+    {
+      "id": "p-gisler-reto",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Reto",
+      "nachname": "Gisler",
+      "funktion": "Leiter Direktionsstab",
+      "einheitId": "stab-dir",
+      "email": "reto.gisler@bba-bund.example",
+      "telefon": "+41 58 999 10 10",
+      "kurzvita": "Politologe; führt die Geschäftskontrolle mit über 1'400 offenen Pendenzen – alle fristgerecht.",
+      "name": "Reto Gisler",
+      "portrait": "assets/img/ch/personen/p-gisler-reto.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-gisler-reto.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-gisler-reto.html",
+      "einheit": {
+        "id": "stab-dir",
+        "name": "Direktionsstab",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dir.html"
+      },
+      "abteilungId": "stab-dir",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "stab-dir"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-gisler-reto.json"
+    },
+    {
+      "id": "p-cadonau-seraina",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Seraina",
+      "nachname": "Cadonau",
+      "funktion": "Mediensprecherin",
+      "einheitId": "stab-kom",
+      "email": "medien@bba-bund.example",
+      "telefon": "+41 58 999 10 20",
+      "kurzvita": "Journalistin aus dem Engadin; beantwortet Medienanfragen in vier Sprachen, bei Bedarf auch auf Rätoromanisch Vallader.",
+      "name": "Seraina Cadonau",
+      "portrait": "assets/img/ch/personen/p-cadonau-seraina.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-cadonau-seraina.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-cadonau-seraina.html",
+      "einheit": {
+        "id": "stab-kom",
+        "name": "Kommunikation",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-kom.html"
+      },
+      "abteilungId": "stab-kom",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "stab-kom"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-cadonau-seraina.json"
+    },
+    {
+      "id": "p-huerlimann-monika",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Monika",
+      "nachname": "Hürlimann",
+      "funktion": "Datenschutzberaterin",
+      "einheitId": "stab-dsr",
+      "email": "datenschutz@bba-bund.example",
+      "telefon": "+41 58 999 10 30",
+      "kurzvita": "Juristin; berät das Amt in Fragen des Datenschutzes und der internen Revision.",
+      "name": "Monika Hürlimann",
+      "portrait": "assets/img/ch/personen/p-huerlimann-monika.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-huerlimann-monika.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-huerlimann-monika.html",
+      "einheit": {
+        "id": "stab-dsr",
+        "name": "Datenschutz und Revision",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dsr.html"
+      },
+      "abteilungId": "stab-dsr",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "stab-dsr"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-huerlimann-monika.json"
+    },
+    {
+      "id": "p-zuercher-martin",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Martin",
+      "nachname": "Zürcher",
+      "funktion": "Leiter Abteilung Ressourcen",
+      "einheitId": "abt-z",
+      "email": "martin.zuercher@bba-bund.example",
+      "telefon": "+41 58 999 20 00",
+      "kurzvita": "Betriebsökonom; stammt trotz seines Namens aus dem Kanton Bern.",
+      "name": "Martin Zürcher",
+      "portrait": "assets/img/ch/personen/p-zuercher-martin.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-zuercher-martin.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-zuercher-martin.html",
+      "einheit": {
+        "id": "abt-z",
+        "name": "Abteilung R: Ressourcen",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-z.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "abt-z"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-zuercher-martin.json"
+    },
+    {
+      "id": "p-meier-sandra",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Sandra",
+      "nachname": "Meier",
+      "funktion": "Sektionschefin Personal und Lernende",
+      "einheitId": "ref-z1",
+      "email": "sandra.meier@bba-bund.example",
+      "telefon": "+41 58 999 21 00",
+      "kurzvita": "Verantwortet Rekrutierung, Lernende und Personalentwicklung.",
+      "name": "Sandra Meier",
+      "portrait": "assets/img/ch/personen/p-meier-sandra.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-meier-sandra.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-meier-sandra.html",
+      "einheit": {
+        "id": "ref-z1",
+        "name": "Sektion R1: Personal und Lernende",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z1.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-z1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-meier-sandra.json"
+    },
+    {
+      "id": "p-ammann-patrick",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Patrick",
+      "nachname": "Ammann",
+      "funktion": "Sektionschef Finanzen und Beschaffung",
+      "einheitId": "ref-z2",
+      "email": "patrick.ammann@bba-bund.example",
+      "telefon": "+41 58 999 22 00",
+      "kurzvita": "Hat das Budget auf den Rappen genau im Kopf.",
+      "name": "Patrick Ammann",
+      "portrait": "assets/img/ch/personen/p-ammann-patrick.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-ammann-patrick.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-ammann-patrick.html",
+      "einheit": {
+        "id": "ref-z2",
+        "name": "Sektion R2: Finanzen und Beschaffung",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z2.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-z2"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-ammann-patrick.json"
+    },
+    {
+      "id": "p-krasniqi-arben",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Arben",
+      "nachname": "Krasniqi",
+      "funktion": "Sektionschef Logistik und Liegenschaften",
+      "einheitId": "ref-z3",
+      "email": "arben.krasniqi@bba-bund.example",
+      "telefon": "+41 58 999 23 00",
+      "kurzvita": "Betreut die Gebäude an drei Standorten in drei Sprachregionen.",
+      "name": "Arben Krasniqi",
+      "portrait": "assets/img/ch/personen/p-krasniqi-arben.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-krasniqi-arben.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-krasniqi-arben.html",
+      "einheit": {
+        "id": "ref-z3",
+        "name": "Sektion R3: Logistik und Liegenschaften",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z3.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-z3"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-krasniqi-arben.json"
+    },
+    {
+      "id": "p-rossi-chiara",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Chiara",
+      "nachname": "Rossi",
+      "funktion": "Sektionschefin Sprachdienste",
+      "einheitId": "ref-z4",
+      "email": "chiara.rossi@bba-bund.example",
+      "telefon": "+41 58 999 24 00",
+      "kurzvita": "Übersetzerin aus Locarno; leitet ein Team, das Sonderfälle in alle Landessprachen und auf Anfrage in Walliserdeutsch überträgt.",
+      "name": "Chiara Rossi",
+      "portrait": "assets/img/ch/personen/p-rossi-chiara.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-rossi-chiara.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-rossi-chiara.html",
+      "einheit": {
+        "id": "ref-z4",
+        "name": "Sektion R4: Sprachdienste (DE/FR/IT/RM)",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z4.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-z4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rossi-chiara.json"
+    },
+    {
+      "id": "p-bernasconi-andrea",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Andrea",
+      "nachname": "Bernasconi",
+      "funktion": "Leiter Abteilung Grundsätze und Konkordanz",
+      "einheitId": "abt-1",
+      "email": "andrea.bernasconi@bba-bund.example",
+      "telefon": "+41 58 999 30 00",
+      "kurzvita": "Staatsrechtler aus Mendrisio; erklärt geduldig, dass Andrea im Tessin ein Männername ist.",
+      "name": "Dr. Andrea Bernasconi",
+      "portrait": "assets/img/ch/personen/p-bernasconi-andrea.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-bernasconi-andrea.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-bernasconi-andrea.html",
+      "einheit": {
+        "id": "abt-1",
+        "name": "Abteilung G: Grundsätze und Konkordanz",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "abt-1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-bernasconi-andrea.json"
+    },
+    {
+      "id": "p-steiner-verena",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Verena",
+      "nachname": "Steiner",
+      "funktion": "Sektionschefin Grundsatzfragen der Besonderheit",
+      "einheitId": "ref-11",
+      "email": "verena.steiner@bba-bund.example",
+      "telefon": "+41 58 999 31 00",
+      "kurzvita": "Seit 1991 im Amt; kennt jeden Grundsatzentscheid seit dem Büro für Unzuordenbares.",
+      "name": "Dr. Verena Steiner",
+      "portrait": "assets/img/ch/personen/p-steiner-verena.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-steiner-verena.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-steiner-verena.html",
+      "einheit": {
+        "id": "ref-11",
+        "name": "Sektion G1: Grundsatzfragen der Besonderheit",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-11.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-11"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-steiner-verena.json"
+    },
+    {
+      "id": "p-wyss-lukas",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Lukas",
+      "nachname": "Wyss",
+      "funktion": "Sektionschef Kantonale Sonderfälle",
+      "einheitId": "ref-12",
+      "email": "lukas.wyss@bba-bund.example",
+      "telefon": "+41 58 999 32 00",
+      "kurzvita": "Führt eine Liste aller 26 kantonalen Auffassungen zu jeder Frage.",
+      "name": "Lukas Wyss",
+      "portrait": "assets/img/ch/personen/p-wyss-lukas.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-wyss-lukas.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-wyss-lukas.html",
+      "einheit": {
+        "id": "ref-12",
+        "name": "Sektion G2: Kantonale Sonderfälle",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-12.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-12"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-wyss-lukas.json"
+    },
+    {
+      "id": "p-roduit-stephanie",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Stéphanie",
+      "nachname": "Roduit",
+      "funktion": "Sektionschefin Konkordanz und Kompromissfindung",
+      "einheitId": "ref-13",
+      "email": "stephanie.roduit@bba-bund.example",
+      "telefon": "+41 58 999 33 00",
+      "kurzvita": "Mediatorin aus dem Wallis; hat bisher jeden Streit beigelegt, notfalls durch Halbierung.",
+      "name": "Stéphanie Roduit",
+      "portrait": "assets/img/ch/personen/p-roduit-stephanie.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-roduit-stephanie.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-roduit-stephanie.html",
+      "einheit": {
+        "id": "ref-13",
+        "name": "Sektion G3: Konkordanz und Kompromissfindung",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-13.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-13"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-roduit-stephanie.json"
+    },
+    {
+      "id": "p-baumann-urs",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Urs",
+      "nachname": "Baumann",
+      "funktion": "Sektionschef Ausnahmebewilligungen",
+      "einheitId": "ref-14",
+      "email": "urs.baumann@bba-bund.example",
+      "telefon": "+41 58 999 34 00",
+      "kurzvita": "Erteilt Ausnahmebewilligungen nach Art. 7 BABG – ausnahmsweise auch am Freitagnachmittag.",
+      "name": "Urs Baumann",
+      "portrait": "assets/img/ch/personen/p-baumann-urs.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-baumann-urs.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-baumann-urs.html",
+      "einheit": {
+        "id": "ref-14",
+        "name": "Sektion G4: Ausnahmebewilligungen",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-14.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-14"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-baumann-urs.json"
+    },
+    {
+      "id": "p-rochat-christine",
+      "anrede": "Frau",
+      "titel": "Prof. Dr.",
+      "vorname": "Christine",
+      "nachname": "Rochat",
+      "funktion": "Leiterin Abteilung Verfahren und Vernehmlassungen",
+      "einheitId": "abt-2",
+      "email": "christine.rochat@bba-bund.example",
+      "telefon": "+41 58 999 40 00",
+      "kurzvita": "Titularprofessorin für Verwaltungsrecht in Lausanne; leitet die Abteilung am Standort Bellinzona.",
+      "name": "Prof. Dr. Christine Rochat",
+      "portrait": "assets/img/ch/personen/p-rochat-christine.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-rochat-christine.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-rochat-christine.html",
+      "einheit": {
+        "id": "abt-2",
+        "name": "Abteilung V: Verfahren und Vernehmlassungen",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "abt-2"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rochat-christine.json"
+    },
+    {
+      "id": "p-frei-daniela",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Daniela",
+      "nachname": "Frei",
+      "funktion": "Sektionschefin Besondere Verfahren",
+      "einheitId": "ref-21",
+      "email": "daniela.frei@bba-bund.example",
+      "telefon": "+41 58 999 41 00",
+      "kurzvita": "Verantwortet die Eingangsprüfung aller Gesuche.",
+      "name": "Daniela Frei",
+      "portrait": "assets/img/ch/personen/p-frei-daniela.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-frei-daniela.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-frei-daniela.html",
+      "einheit": {
+        "id": "ref-21",
+        "name": "Sektion V1: Besondere Verfahren",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-21.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "ref-21"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-frei-daniela.json"
+    },
+    {
+      "id": "p-hess-matthias",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Matthias",
+      "nachname": "Hess",
+      "funktion": "Sektionschef Vernehmlassungen",
+      "einheitId": "ref-22",
+      "email": "matthias.hess@bba-bund.example",
+      "telefon": "+41 58 999 42 00",
+      "kurzvita": "Hat mehr Vernehmlassungen ausgewertet als jeder andere Bundesangestellte – einige davon zweimal.",
+      "name": "Matthias Hess",
+      "portrait": "assets/img/ch/personen/p-hess-matthias.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-hess-matthias.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-hess-matthias.html",
+      "einheit": {
+        "id": "ref-22",
+        "name": "Sektion V2: Vernehmlassungen zu Unvernehmlassbarem",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-22.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "ref-22"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-hess-matthias.json"
+    },
+    {
+      "id": "p-tanner-corinne",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Corinne",
+      "nachname": "Tanner",
+      "funktion": "Sektionschefin Einsprachen und Beschwerden",
+      "einheitId": "ref-23",
+      "email": "corinne.tanner@bba-bund.example",
+      "telefon": "+41 58 999 43 00",
+      "kurzvita": "Behandelt Einsprachen gegen Verfügungen des BBA.",
+      "name": "Corinne Tanner",
+      "portrait": "assets/img/ch/personen/p-tanner-corinne.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-tanner-corinne.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-tanner-corinne.html",
+      "einheit": {
+        "id": "ref-23",
+        "name": "Sektion V3: Einsprachen und Beschwerden",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-23.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "ref-23"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-tanner-corinne.json"
+    },
+    {
+      "id": "p-imboden-kurt",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Kurt",
+      "nachname": "Imboden",
+      "funktion": "Sektionschef Fristen und Pünktlichkeit",
+      "einheitId": "ref-24",
+      "email": "kurt.imboden@bba-bund.example",
+      "telefon": "+41 58 999 44 00",
+      "kurzvita": "Amtlicher Pünktlichkeitsexperte; ist in 34 Dienstjahren nie zu spät gekommen, einmal aber 40 Sekunden zu früh.",
+      "name": "Kurt Imboden",
+      "portrait": "assets/img/ch/personen/p-imboden-kurt.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-imboden-kurt.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-imboden-kurt.html",
+      "einheit": {
+        "id": "ref-24",
+        "name": "Sektion V4: Fristen und Pünktlichkeit",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-24.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "ref-24"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-imboden-kurt.json"
+    },
+    {
+      "id": "p-rueegg-thomas",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Thomas",
+      "nachname": "Rüegg",
+      "funktion": "Leiter Abteilung Ausserordentliche Ereignisse",
+      "einheitId": "abt-3",
+      "email": "thomas.rueegg@bba-bund.example",
+      "telefon": "+41 58 999 50 00",
+      "kurzvita": "Ehemaliger Bergführer und Leiter des Lagezentrums.",
+      "name": "Thomas Rüegg",
+      "portrait": "assets/img/ch/personen/p-rueegg-thomas.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-rueegg-thomas.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-rueegg-thomas.html",
+      "einheit": {
+        "id": "abt-3",
+        "name": "Abteilung E: Ausserordentliche Ereignisse",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "abt-3"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rueegg-thomas.json"
+    },
+    {
+      "id": "p-schmid-fabienne",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Fabienne",
+      "nachname": "Schmid",
+      "funktion": "Sektionschefin Lagezentrum",
+      "einheitId": "ref-31",
+      "email": "lagezentrum@bba-bund.example",
+      "telefon": "+41 58 999 51 00",
+      "kurzvita": "Leitet das Lagezentrum Besonderheiten, rund um die Uhr besetzt.",
+      "name": "Fabienne Schmid",
+      "portrait": "assets/img/ch/personen/p-schmid-fabienne.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-schmid-fabienne.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-schmid-fabienne.html",
+      "einheit": {
+        "id": "ref-31",
+        "name": "Sektion E1: Lagezentrum Besonderheiten",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-31.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-31"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-schmid-fabienne.json"
+    },
+    {
+      "id": "p-zgraggen-josef",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Josef",
+      "nachname": "Zgraggen",
+      "funktion": "Sektionschef Alpine Sonderfälle",
+      "einheitId": "ref-32",
+      "email": "josef.zgraggen@bba-bund.example",
+      "telefon": "+41 58 999 52 00",
+      "kurzvita": "Älpler aus dem Kanton Uri; zuständig für Kühe auf falschen Alpen, Murmeltiere mit Doppelwohnsitz und widerspenstige Echos.",
+      "name": "Josef Zgraggen",
+      "portrait": "assets/img/ch/personen/p-zgraggen-josef.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-zgraggen-josef.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-zgraggen-josef.html",
+      "einheit": {
+        "id": "ref-32",
+        "name": "Sektion E2: Alpine Sonderfälle",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-32.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-32"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-zgraggen-josef.json"
+    },
+    {
+      "id": "p-pestalozzi-hans-peter",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Hans-Peter",
+      "nachname": "Pestalozzi",
+      "funktion": "Sektionschef Kuriositätenarchiv",
+      "einheitId": "ref-33",
+      "email": "hans-peter.pestalozzi@bba-bund.example",
+      "telefon": "+41 58 999 53 00",
+      "kurzvita": "Archivar und Historiker; sammelt seit 1988 ungeklärte Echos, verlorene Fondue-Gabeln und doppelt gestempelte Formulare.",
+      "name": "Dr. Hans-Peter Pestalozzi",
+      "portrait": "assets/img/ch/personen/p-pestalozzi-hans-peter.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-pestalozzi-hans-peter.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-pestalozzi-hans-peter.html",
+      "einheit": {
+        "id": "ref-33",
+        "name": "Sektion E3: Kuriositätenarchiv",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-33.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-33"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-pestalozzi-hans-peter.json"
+    },
+    {
+      "id": "p-nguyen-mai",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Mai",
+      "nachname": "Nguyen",
+      "funktion": "Sektionschefin Prävention des Unwahrscheinlichen",
+      "einheitId": "ref-34",
+      "email": "mai.nguyen@bba-bund.example",
+      "telefon": "+41 58 999 54 00",
+      "kurzvita": "Risikoanalystin (ETH Zürich); entwickelt Szenarien wie «Käse alle» und «Bahnhofsuhr steht still».",
+      "name": "Mai Nguyen",
+      "portrait": "assets/img/ch/personen/p-nguyen-mai.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-nguyen-mai.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-nguyen-mai.html",
+      "einheit": {
+        "id": "ref-34",
+        "name": "Sektion E4: Prävention des Unwahrscheinlichen",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-34.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-34"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-nguyen-mai.json"
+    },
+    {
+      "id": "p-kaelin-nadia",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Nadia",
+      "nachname": "Kälin",
+      "funktion": "Leiterin Abteilung Digitales und Register (CDO)",
+      "einheitId": "abt-4",
+      "email": "nadia.kaelin@bba-bund.example",
+      "telefon": "+41 58 999 60 00",
+      "kurzvita": "Informatikerin; verantwortet die Digitalisierung des Amtes am zweisprachigen Standort Biel/Bienne.",
+      "name": "Nadia Kälin",
+      "portrait": "assets/img/ch/personen/p-kaelin-nadia.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-kaelin-nadia.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-kaelin-nadia.html",
+      "einheit": {
+        "id": "abt-4",
+        "name": "Abteilung D: Digitales und Register",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-biel",
+      "leitetEinheitIds": [
+        "abt-4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-kaelin-nadia.json"
+    },
+    {
+      "id": "p-gerber-simon",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Simon",
+      "nachname": "Gerber",
+      "funktion": "Sektionschef ERbA (Registerführer)",
+      "einheitId": "ref-41",
+      "email": "erba@bba-bund.example",
+      "telefon": "+41 58 999 61 00",
+      "kurzvita": "Führt das Eidgenössische Register besonderer Angelegenheiten.",
+      "name": "Dr. Simon Gerber",
+      "portrait": "assets/img/ch/personen/p-gerber-simon.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-gerber-simon.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-gerber-simon.html",
+      "einheit": {
+        "id": "ref-41",
+        "name": "Sektion D1: Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-41.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-biel",
+      "leitetEinheitIds": [
+        "ref-41"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-gerber-simon.json"
+    },
+    {
+      "id": "p-moser-elena",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Elena",
+      "nachname": "Moser",
+      "funktion": "Sektionschefin Fachanwendungen und GEVER",
+      "einheitId": "ref-42",
+      "email": "elena.moser@bba-bund.example",
+      "telefon": "+41 58 999 62 00",
+      "kurzvita": "Verantwortet die Fachanwendungen und die elektronische Geschäftsverwaltung.",
+      "name": "Elena Moser",
+      "portrait": "assets/img/ch/personen/p-moser-elena.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-moser-elena.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-moser-elena.html",
+      "einheit": {
+        "id": "ref-42",
+        "name": "Sektion D2: Fachanwendungen und GEVER",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-42.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-biel",
+      "leitetEinheitIds": [
+        "ref-42"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-moser-elena.json"
+    },
+    {
+      "id": "p-yilmaz-deniz",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Deniz",
+      "nachname": "Yilmaz",
+      "funktion": "Sektionschef Daten und Schnittstellen",
+      "einheitId": "ref-43",
+      "email": "deniz.yilmaz@bba-bund.example",
+      "telefon": "+41 58 999 63 00",
+      "kurzvita": "Data Engineer; betreut Open Government Data des Amtes.",
+      "name": "Deniz Yilmaz",
+      "portrait": "assets/img/ch/personen/p-yilmaz-deniz.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-yilmaz-deniz.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-yilmaz-deniz.html",
+      "einheit": {
+        "id": "ref-43",
+        "name": "Sektion D3: Daten und Schnittstellen",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-43.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-biel",
+      "leitetEinheitIds": [
+        "ref-43"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-yilmaz-deniz.json"
+    },
+    {
+      "id": "p-luethi-adrian",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Adrian",
+      "nachname": "Lüthi",
+      "funktion": "Sektionschef Informationssicherheit (ISBO)",
+      "einheitId": "ref-44",
+      "email": "adrian.luethi@bba-bund.example",
+      "telefon": "+41 58 999 64 00",
+      "kurzvita": "Informationssicherheitsbeauftragter des Amtes.",
+      "name": "Adrian Lüthi",
+      "portrait": "assets/img/ch/personen/p-luethi-adrian.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-luethi-adrian.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-luethi-adrian.html",
+      "einheit": {
+        "id": "ref-44",
+        "name": "Sektion D4: Informationssicherheit",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-44.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-biel",
+      "leitetEinheitIds": [
+        "ref-44"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-luethi-adrian.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-zustaendigkeit",
+      "titel": "Auffangzuständigkeit des Bundes",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Das BBA übernimmt Angelegenheiten, für die weder ein anderes Bundesamt noch ein Kanton zuständig ist – oder für die sich alle gleichzeitig zuständig fühlen.",
+      "einheitIds": [
+        "abt-1",
+        "ref-11"
+      ],
+      "rechtsgrundlage": "Art. 2 BABG"
+    },
+    {
+      "id": "auf-abgrenzung",
+      "titel": "Feststellung der Besonderheit",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Auf Gesuch hin stellt das Amt mit Verfügung fest, ob eine Angelegenheit besonders ist. Massgebend ist der Kriterienkatalog mit 14 Punkten.",
+      "einheitIds": [
+        "ref-11",
+        "ref-21"
+      ],
+      "rechtsgrundlage": "Art. 3 BABG"
+    },
+    {
+      "id": "auf-kantone",
+      "titel": "Kantonale Sonderfälle",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Klärung von Sachverhalten, die mehrere Kantone betreffen und zu denen mindestens 26 verschiedene Meinungen bestehen.",
+      "einheitIds": [
+        "ref-12",
+        "ref-13"
+      ],
+      "rechtsgrundlage": "Art. 4 BABG"
+    },
+    {
+      "id": "auf-ausnahme",
+      "titel": "Ausnahmebewilligungen",
+      "kategorie": "Leistung für die Bevölkerung und Unternehmen",
+      "beschreibung": "Erteilung von Ausnahmebewilligungen für Fälle, die keine Verordnung vorhergesehen hat – etwa den Alpaufzug in zwei Kantonen gleichzeitig.",
+      "einheitIds": [
+        "ref-14"
+      ],
+      "rechtsgrundlage": "Art. 7 BABG"
+    },
+    {
+      "id": "auf-vernehmlassung",
+      "titel": "Vernehmlassungen zu Unvorhergesehenem",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Durchführung von Vernehmlassungen bei Kantonen, Parteien und Verbänden zu Fragen, die sich noch niemand gestellt hat.",
+      "einheitIds": [
+        "ref-22"
+      ],
+      "rechtsgrundlage": "Art. 10 BABG"
+    },
+    {
+      "id": "auf-einsprache",
+      "titel": "Einsprachen und Beschwerden",
+      "kategorie": "Leistung für die Bevölkerung und Unternehmen",
+      "beschreibung": "Behandlung von Einsprachen gegen Verfügungen des BBA; Weiterzug an das Bundesverwaltungsgericht bleibt vorbehalten.",
+      "einheitIds": [
+        "ref-23"
+      ],
+      "rechtsgrundlage": "Art. 15 BABG"
+    },
+    {
+      "id": "auf-puenktlichkeit",
+      "titel": "Amtliche Pünktlichkeitsauskunft",
+      "kategorie": "Beratung",
+      "beschreibung": "Verbindliche Auskunft darüber, ob ein Ereignis pünktlich, knapp pünktlich oder bereits verspätet war. Toleranz: 59 Sekunden.",
+      "einheitIds": [
+        "ref-24"
+      ],
+      "rechtsgrundlage": "Art. 16 BABG"
+    },
+    {
+      "id": "auf-lage",
+      "titel": "Lagebeobachtung",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Beobachtung und Bewertung ausserordentlicher Ereignisse rund um die Uhr, inklusive Föhnlagen und Fondue-Engpässen.",
+      "einheitIds": [
+        "abt-3",
+        "ref-31",
+        "ref-34"
+      ],
+      "rechtsgrundlage": "Art. 18 BABG"
+    },
+    {
+      "id": "auf-alpin",
+      "titel": "Alpine Sonderfälle",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Zuständigkeit für Kühe auf der falschen Alp, Murmeltiere mit Doppelwohnsitz, Gämsen ohne Aufenthaltsbewilligung und Echos, die falsch antworten.",
+      "einheitIds": [
+        "ref-32"
+      ],
+      "rechtsgrundlage": "Art. 19 BABG"
+    },
+    {
+      "id": "auf-archiv",
+      "titel": "Kuriositätenarchiv",
+      "kategorie": "Dokumentation",
+      "beschreibung": "Dokumentation und Archivierung kurioser Vorgänge von bleibendem öffentlichem Interesse, inklusive Tonarchiv ungeklärter Echos.",
+      "einheitIds": [
+        "ref-33"
+      ],
+      "rechtsgrundlage": "Art. 20 BABG"
+    },
+    {
+      "id": "auf-erba",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "kategorie": "Register",
+      "beschreibung": "Führung des zentralen Registers; Registerauszüge an berechtigte Behörden von Bund, Kantonen und Gemeinden.",
+      "einheitIds": [
+        "abt-4",
+        "ref-41",
+        "ref-43"
+      ],
+      "rechtsgrundlage": "Art. 22–25 BABG"
+    },
+    {
+      "id": "auf-sprachen",
+      "titel": "Übersetzung von Sonderfällen",
+      "kategorie": "Leistung für die Bevölkerung und Unternehmen",
+      "beschreibung": "Jede Verfügung wird in die Amtssprache der gesuchstellenden Person übersetzt. Rätoromanisch in Rumantsch Grischun, auf Wunsch in einem der fünf Idiome.",
+      "einheitIds": [
+        "ref-z4"
+      ],
+      "rechtsgrundlage": "Art. 6 BABG i. V. m. Sprachengesetz"
+    }
+  ],
+  "news": [
+    {
+      "id": "2026-10-kuh-bella",
+      "datum": "2026-10-22",
+      "kategorie": "Medienmitteilung",
+      "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Alpen gleichzeitig",
+      "teaser": "Weil die Weide genau auf der Kantonsgrenze liegt, darf Bella künftig offiziell in Uri und in Glarus gesömmert werden. Die Verfügung ergeht in beiden Kantonen gleichzeitig.",
+      "text": [
+        "Das Bundesamt für besondere Angelegenheiten hat der Braunviehkuh «Bella» eine Ausnahmebewilligung für die gleichzeitige Sömmerung in zwei Kantonen erteilt.",
+        "Die Weide, auf der Bella seit drei Sommern bevorzugt steht, wird von einem historischen Grenzstein exakt halbiert. «Bella hat sich nie für einen Kanton entschieden, und wir respektieren das», sagte Sektionschef Josef Zgraggen.",
+        "Die Glocke der Kuh muss künftig mit beiden Kantonswappen versehen werden – auf der linken und auf der rechten Seite. Sektionschef Urs Baumann bestätigte, dass es sich um die erste Ausnahmebewilligung für ein Rind seit 1987 handelt."
+      ],
+      "bild": "assets/img/ch/news/2026-10-kuh-bella.jpg",
+      "einheitId": "ref-32",
+      "personIds": [
+        "p-zgraggen-josef",
+        "p-baumann-urs"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-10-kuh-bella.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-10-kuh-bella.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-10-kuh-bella.json"
+    },
+    {
+      "id": "2026-09-vernehmlassung",
+      "datum": "2026-09-30",
+      "kategorie": "Vernehmlassung",
+      "titel": "Vernehmlassung eröffnet: Sind Vernehmlassungen vernehmlassungspflichtig?",
+      "teaser": "Das BBA lädt Kantone, Parteien und Verbände ein, sich bis 31. Januar 2027 zur Frage zu äussern, ob zu dieser Frage eine Vernehmlassung hätte eröffnet werden müssen.",
+      "text": [
+        "Mit der heute eröffneten Vernehmlassung möchte das BBA eine seit 1971 offene Grundsatzfrage klären.",
+        "«Sollte die Vernehmlassung ergeben, dass keine Vernehmlassung nötig gewesen wäre, werden wir die Ergebnisse selbstverständlich trotzdem auswerten», erklärte Sektionschef Matthias Hess.",
+        "Die Unterlagen stehen in Deutsch, Französisch und Italienisch zur Verfügung. Die rätoromanische Fassung folgt nach Abschluss einer separaten Vernehmlassung zur Übersetzung."
+      ],
+      "bild": "assets/img/ch/news/2026-09-vernehmlassung.jpg",
+      "einheitId": "ref-22",
+      "personIds": [
+        "p-hess-matthias",
+        "p-rochat-christine"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-vernehmlassung.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-09-vernehmlassung.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-09-vernehmlassung.json"
+    },
+    {
+      "id": "2026-09-jahresbericht",
+      "datum": "2026-09-08",
+      "kategorie": "Medienmitteilung",
+      "titel": "Jahresbericht 2025: 9'874 Sonderfälle – Rekord bei Murmeltier-Eingaben",
+      "teaser": "Das BBA verzeichnet einen Anstieg um 7 Prozent. Erstmals betraf jeder zehnte Fall ein Wildtier mit unklarem Wohnsitz.",
+      "text": [
+        "Direktorin Dr. Ursula Brändli hat in Bern den Jahresbericht 2025 vorgestellt. Mit 9'874 behandelten Sonderfällen hat das Amt einen neuen Höchstwert erreicht.",
+        "«Ordnung ist, wenn auch die Ausnahme ein Formular hat», sagte Brändli. Besonders zugenommen haben alpine Sonderfälle (+23 %) und Gesuche um amtliche Pünktlichkeitsauskunft (+11 %).",
+        "Die durchschnittliche Behandlungsdauer betrug 21 Arbeitstage, 3 Stunden und 12 Minuten."
+      ],
+      "bild": "assets/img/ch/news/2026-09-jahresbericht.jpg",
+      "einheitId": "stab-kom",
+      "personIds": [
+        "p-braendli-ursula",
+        "p-cadonau-seraina"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-jahresbericht.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-09-jahresbericht.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-09-jahresbericht.json"
+    },
+    {
+      "id": "2026-08-fondue-uebung",
+      "datum": "2026-08-14",
+      "kategorie": "Medienmitteilung",
+      "titel": "Übung «Käse alle»: Lagezentrum probt den nationalen Fondue-Engpass",
+      "teaser": "In einer 24-stündigen Stabsübung testeten Bund und Kantone die Abläufe für den Fall, dass am ersten Wintersonntag landesweit der Fonduekäse ausgeht.",
+      "text": [
+        "Das Lagezentrum Besonderheiten hat zusammen mit 19 Kantonen die Übung «Käse alle» durchgeführt.",
+        "Geprüft wurden unter anderem Meldewege, die Priorisierung von Berghütten und ein Notfallplan für Raclette als Ersatzmittel. «Der Ersatz von Fondue durch Raclette ist rechtlich heikel und muss gut begründet sein», sagte Sektionschefin Mai Nguyen.",
+        "Sektionschefin Fabienne Schmid zog eine positive Bilanz. Einzig die Frage, wer die Caquelons abwäscht, konnte nicht abschliessend geklärt werden."
+      ],
+      "bild": "assets/img/ch/news/2026-08-fondue-uebung.jpg",
+      "einheitId": "ref-31",
+      "personIds": [
+        "p-schmid-fabienne",
+        "p-nguyen-mai",
+        "p-rueegg-thomas"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-08-fondue-uebung.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-08-fondue-uebung.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-08-fondue-uebung.json"
+    },
+    {
+      "id": "2026-07-erba-start",
+      "datum": "2026-07-01",
+      "kategorie": "Mitteilung",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) in Betrieb",
+      "teaser": "Nach vier Jahren Entwicklung in Biel/Bienne ist das ERbA online. Alle 61'205 Einträge seit 1953 sind digital verfügbar – zweisprachig.",
+      "text": [
+        "Mit dem ERbA ersetzt das BBA seine Karteikästen aus dem Büro für Unzuordenbares.",
+        "«Jeder Eintrag ist nun in Deutsch und Französisch abrufbar, auf Wunsch auch in Italienisch», sagte Abteilungsleiterin Nadia Kälin.",
+        "Registerführer Dr. Simon Gerber betont: «Die Migration war pünktlich. Wir haben das von der Sektion Fristen und Pünktlichkeit bestätigen lassen.»"
+      ],
+      "bild": "assets/img/ch/news/2026-07-erba-start.jpg",
+      "einheitId": "ref-41",
+      "personIds": [
+        "p-kaelin-nadia",
+        "p-gerber-simon"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-07-erba-start.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-07-erba-start.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-07-erba-start.json"
+    },
+    {
+      "id": "2026-06-fuenf-sprachen",
+      "datum": "2026-06-03",
+      "kategorie": "Mitteilung",
+      "titel": "Sprachdienst übersetzt Verfügung erstmals in vier Landessprachen und Walliserdeutsch",
+      "teaser": "Eine Verfügung zu einem Grenzfall im Oberwallis wurde auf Wunsch aller Beteiligten auch in Walliserdeutsch ausgefertigt. Die Ausfertigung umfasst 47 Seiten.",
+      "text": [
+        "Die Sektion Sprachdienste hat eine Verfügung des BBA erstmals in fünf Sprachfassungen erstellt.",
+        "«Walliserdeutsch ist keine Amtssprache, aber für die Beteiligten war es die einzig verständliche», erklärte Sektionschefin Chiara Rossi.",
+        "Die Walliser Fassung ist rechtlich nicht verbindlich, wurde aber von allen Parteien als die schönste bezeichnet."
+      ],
+      "bild": "assets/img/ch/news/2026-06-fuenf-sprachen.jpg",
+      "einheitId": "ref-z4",
+      "personIds": [
+        "p-rossi-chiara"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-06-fuenf-sprachen.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-06-fuenf-sprachen.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-06-fuenf-sprachen.json"
+    },
+    {
+      "id": "2026-04-puenktlichkeit",
+      "datum": "2026-04-15",
+      "kategorie": "Medienmitteilung",
+      "titel": "Grundsatzentscheid: 08:00:59 Uhr gilt noch als pünktlich",
+      "teaser": "Das BBA hat nach einer Einsprache verbindlich festgelegt, ab wann ein Ereignis als verspätet gilt. Die Toleranz beträgt 59 Sekunden – keine Sekunde mehr.",
+      "text": [
+        "Ausgangspunkt war die Einsprache eines Pendlers, der wegen einer Ankunft um 08:00:59 Uhr als verspätet galt.",
+        "«Eine Minute ist eine Minute. Was innerhalb dieser Minute geschieht, ist pünktlich», begründete Sektionschef Kurt Imboden den Entscheid. Ab 08:01:00 Uhr gilt ein Ereignis als verspätet.",
+        "Abteilungsleiterin Prof. Dr. Christine Rochat bezeichnete den Entscheid als «Meilenstein der Rechtssicherheit»."
+      ],
+      "bild": "assets/img/ch/news/2026-04-puenktlichkeit.jpg",
+      "einheitId": "ref-24",
+      "personIds": [
+        "p-imboden-kurt",
+        "p-rochat-christine",
+        "p-tanner-corinne"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-04-puenktlichkeit.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-04-puenktlichkeit.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-04-puenktlichkeit.json"
+    },
+    {
+      "id": "2026-03-grenzstein",
+      "datum": "2026-03-02",
+      "kategorie": "Medienmitteilung",
+      "titel": "Kompromiss gefunden: Umstrittener Grenzstein wird halbiert",
+      "teaser": "Nach 132 Jahren Streit zwischen zwei Gemeinden hat die Sektion Konkordanz eine Lösung gefunden. Jede Gemeinde erhält eine Hälfte des Grenzsteins.",
+      "text": [
+        "Der Grenzstein zwischen zwei Gemeinden im Mittelland war seit 1894 Gegenstand von Auseinandersetzungen.",
+        "«Am Ende waren alle gleich wenig zufrieden. Das ist ein gutschweizerischer Kompromiss», sagte Sektionschefin Stéphanie Roduit.",
+        "Die beiden Steinhälften werden mit einer Fuge von genau einem Zentimeter wieder aufgestellt. Für den Zentimeter bleibt das BBA zuständig."
+      ],
+      "bild": "assets/img/ch/news/2026-03-grenzstein.jpg",
+      "einheitId": "ref-13",
+      "personIds": [
+        "p-roduit-stephanie",
+        "p-bernasconi-andrea"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-03-grenzstein.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-03-grenzstein.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-03-grenzstein.json"
+    },
+    {
+      "id": "2026-01-echo-archiv",
+      "datum": "2026-01-20",
+      "kategorie": "Mitteilung",
+      "titel": "Kuriositätenarchiv katalogisiert das 1'000. ungeklärte Echo",
+      "teaser": "Das Echo, aufgenommen am Pilatus, antwortete auf «Hallo» mit «Grüessech». Es ist das tausendste Echo mit Abweichung vom Ausgangsruf.",
+      "text": [
+        "Das Tonarchiv der Sektion Kuriositätenarchiv umfasst nun 1'000 Echos, die nicht so antworten, wie man es erwarten würde.",
+        "«Besonders häufig sind Echos, die in einen anderen Dialekt wechseln», erklärt Sektionschef Dr. Hans-Peter Pestalozzi. Ein Echo im Jura antwortet seit 1962 ausschliesslich auf Französisch.",
+        "Eine Auswahl der Aufnahmen ist am Tag der offenen Tür im Hauptsitz Bern zu hören."
+      ],
+      "bild": "assets/img/ch/news/2026-01-echo-archiv.jpg",
+      "einheitId": "ref-33",
+      "personIds": [
+        "p-pestalozzi-hans-peter"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-01-echo-archiv.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-01-echo-archiv.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-01-echo-archiv.json"
+    },
+    {
+      "id": "2025-11-lernende",
+      "datum": "2025-11-26",
+      "kategorie": "Karriere",
+      "titel": "14 Lernende starten ihre Ausbildung beim BBA",
+      "teaser": "Kaufleute EFZ, Informatikerinnen und Informatiker EFZ sowie Fachleute Information und Dokumentation beginnen ihre Lehre in Bern, Biel und Bellinzona.",
+      "text": [
+        "Das BBA begrüsste 14 neue Lernende an seinen drei Standorten.",
+        "«Bei uns lernt man, dass es für jede Ausnahme eine Regel gibt – und für jede Regel eine Ausnahme», sagte Sektionschefin Sandra Meier.",
+        "Bewerbungen für Lehrstellen ab August 2027 sind ab sofort möglich."
+      ],
+      "bild": "assets/img/ch/news/2025-11-lernende.jpg",
+      "einheitId": "ref-z1",
+      "personIds": [
+        "p-meier-sandra"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2025-11-lernende.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2025-11-lernende.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2025-11-lernende.json"
+    }
+  ],
+  "downloads": [
+    {
+      "id": "dl-jahresbericht-2025",
+      "art": "jahresbericht",
+      "titel": "Jahresbericht 2025",
+      "typ": "PDF",
+      "datei": "assets/downloads/ch/bba-jahresbericht-2025.pdf",
+      "kategorie": "Publikation",
+      "einheitId": "stab-kom"
+    },
+    {
+      "id": "dl-leitfaden-besonderheit",
+      "art": "leitfaden",
+      "titel": "Kriterienkatalog «Wann ist eine Angelegenheit besonders?»",
+      "typ": "PDF",
+      "datei": "assets/downloads/ch/bba-kriterienkatalog.pdf",
+      "kategorie": "Publikation",
+      "einheitId": "ref-11"
+    },
+    {
+      "id": "dl-antrag-feststellung",
+      "art": "formular",
+      "titel": "Gesuch um Feststellung der Besonderheit (Formular BBA-1)",
+      "typ": "PDF",
+      "datei": "assets/downloads/ch/formular-bba-1.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-21",
+      "felder": [
+        "1. Gesuchstellende Person oder Behörde (Name, Adresse, Kanton)",
+        "2. Beschreibung der Angelegenheit",
+        "3. Gewünschte Amtssprache der Verfügung (DE/FR/IT/RM)",
+        "4. Weshalb ist die Angelegenheit besonders? (Kriterienkatalog)"
+      ]
+    },
+    {
+      "id": "dl-antrag-ausnahme",
+      "art": "formular",
+      "titel": "Gesuch um Ausnahmebewilligung (Formular BBA-7)",
+      "typ": "PDF",
+      "datei": "assets/downloads/ch/formular-bba-7.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-14",
+      "felder": [
+        "1. Gesuchstellende Person",
+        "2. Vorschrift, von der abgewichen werden soll",
+        "3. Begründung (bei Tieren: Name, Rasse, Alp)",
+        "4. Betroffene Kantone"
+      ]
+    },
+    {
+      "id": "dl-auskunft-brba",
+      "art": "formular",
+      "titel": "Gesuch um Registerauszug ERbA (Formular ERbA-22)",
+      "typ": "PDF",
+      "datei": "assets/downloads/ch/formular-erba-22.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-41",
+      "felder": [
+        "1. Gesuchstellende Behörde",
+        "2. Schutzwürdiges Interesse",
+        "3. Registernummer oder Suchmerkmale",
+        "4. Gewünschte Sprache des Auszugs"
+      ]
+    },
+    {
+      "id": "dl-organigramm",
+      "art": "organigramm",
+      "titel": "Organigramm (Stand 1. November 2026)",
+      "typ": "SVG",
+      "datei": "assets/downloads/ch/bba-organigramm.svg",
+      "kategorie": "Organisation",
+      "einheitId": "stab-dir"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "abt-2",
+    "typ": "abteilung",
+    "kuerzel": "III",
+    "name": "Besondere Verfahren",
+    "parentId": "leitung",
+    "leitungPersonId": "p-moosbrugger-klaus",
+    "beschreibung": "Durchführung besonderer Verwaltungsverfahren nach dem AVG, Bescheide besonderer Art sowie Fristen, Feiertage und Fenstertage.",
+    "standortId": "st-graz",
+    "titel": "Sektion III: Besondere Verfahren",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-2.html",
+    "leitung": {
+      "id": "p-moosbrugger-klaus",
+      "name": "Univ.-Prof. Dr. Klaus Moosbrugger",
+      "funktion": "Sektionschef, Leiter der Sektion III"
+    },
+    "childIds": [
+      "ref-21",
+      "ref-22",
+      "ref-23",
+      "ref-24"
+    ],
+    "personIds": [
+      "p-moosbrugger-klaus"
+    ],
+    "aufgabeIds": [
+      "auf-verfahren"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-2.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-hinterberger-elisabeth",
+    "vertretungPersonId": "p-pichler-franz-josef",
+    "beschreibung": "Die Präsidentin und der Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-wien",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html",
+    "leitung": {
+      "id": "p-hinterberger-elisabeth",
+      "name": "Mag.a Dr.in Elisabeth Hinterberger",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-hinterberger-elisabeth",
+      "p-pichler-franz-josef"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/leitung.json"
+  },
+  "children": [
+    {
+      "id": "ref-21",
+      "typ": "referat",
+      "kuerzel": "III/1",
+      "name": "Verfahren nach dem BBSAG",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-gassner-sabine",
+      "standortId": "st-graz",
+      "titel": "Abteilung III/1: Verfahren nach dem BBSAG",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-21.html",
+      "leitung": {
+        "id": "p-gassner-sabine",
+        "name": "Mag.a Sabine Gassner",
+        "funktion": "Abteilungsleiterin III/1"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-gassner-sabine"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-21.json"
+    },
+    {
+      "id": "ref-22",
+      "typ": "referat",
+      "kuerzel": "III/2",
+      "name": "Bescheide besonderer Art",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-oezdemir-emre",
+      "standortId": "st-graz",
+      "titel": "Abteilung III/2: Bescheide besonderer Art",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-22.html",
+      "leitung": {
+        "id": "p-oezdemir-emre",
+        "name": "Mag. Emre Özdemir",
+        "funktion": "Abteilungsleiter III/2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-oezdemir-emre"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-22.json"
+    },
+    {
+      "id": "ref-23",
+      "typ": "referat",
+      "kuerzel": "III/3",
+      "name": "Beschwerdevorentscheidungen",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-winkler-petra",
+      "standortId": "st-graz",
+      "titel": "Abteilung III/3: Beschwerdevorentscheidungen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-23.html",
+      "leitung": {
+        "id": "p-winkler-petra",
+        "name": "Dr.in Petra Winkler",
+        "funktion": "Abteilungsleiterin III/3"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-winkler-petra"
+      ],
+      "aufgabeIds": [
+        "auf-beschwerde"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-23.json"
+    },
+    {
+      "id": "ref-24",
+      "typ": "referat",
+      "kuerzel": "III/4",
+      "name": "Fristen, Feiertage und Fenstertage",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-brueckl-herbert",
+      "standortId": "st-graz",
+      "titel": "Abteilung III/4: Fristen, Feiertage und Fenstertage",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-24.html",
+      "leitung": {
+        "id": "p-brueckl-herbert",
+        "name": "RgR Herbert Brückl",
+        "funktion": "Abteilungsleiter III/4"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-brueckl-herbert"
+      ],
+      "aufgabeIds": [
+        "auf-fenstertage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-24.json"
+    }
+  ],
+  "personen": [
+    {
+      "id": "p-moosbrugger-klaus",
+      "anrede": "Herr",
+      "titel": "Univ.-Prof. Dr.",
+      "vorname": "Klaus",
+      "nachname": "Moosbrugger",
+      "funktion": "Sektionschef, Leiter der Sektion III",
+      "einheitId": "abt-2",
+      "email": "klaus.moosbrugger@bbsa-bund.example",
+      "telefon": "+43 316 4711-4000",
+      "kurzvita": "Professor für Verwaltungsverfahrensrecht an der Universität Graz; leitet die Sektion in der Außenstelle Graz.",
+      "name": "Univ.-Prof. Dr. Klaus Moosbrugger",
+      "portrait": "assets/img/at/personen/p-moosbrugger-klaus.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-moosbrugger-klaus.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-moosbrugger-klaus.html",
+      "einheit": {
+        "id": "abt-2",
+        "name": "Sektion III: Besondere Verfahren",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-2.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-graz",
+      "leitetEinheitIds": [
+        "abt-2"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-moosbrugger-klaus.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-verfahren",
+      "titel": "Besondere Verwaltungsverfahren",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Durchführung von Verfahren nach dem AVG, die wegen ihrer Besonderheit nicht im Regelverfahren erledigt werden können.",
+      "einheitIds": [
+        "abt-2",
+        "ref-21",
+        "ref-22"
+      ],
+      "rechtsgrundlage": "§§ 9–14 BBSAG i. V. m. AVG"
+    }
+  ],
+  "standort": {
+    "id": "st-graz",
+    "name": "Außenstelle Graz",
+    "typ": "Außenstelle",
+    "strasse": "Sonderfallplatz 2",
+    "plz": "8010",
+    "ort": "Graz",
+    "telefon": "+43 316 4711-0",
+    "beschreibung": "Standort der Sektion III (Besondere Verfahren) mit Blick auf den Uhrturm.",
+    "bild": "assets/img/at/standorte/graz.jpg",
+    "einheitIds": [
+      "abt-2"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-10-fenstertage",
+      "titel": "Fenstertage 2027 kundgemacht: Sieben Fenstertage und ein Zwickeltag",
+      "datum": "2026-10-12",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-10-fenstertage.html"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-03-abgrenzungsleitfaden",
+    "datum": "2026-03-26",
+    "kategorie": "Publikation",
+    "titel": "Leitfaden: Wann ist etwas besonders – und wann nur sonstig?",
+    "teaser": "Der überarbeitete Leitfaden enthält 14 Kriterien, darunter das neue „Na-geh-Kriterium“.",
+    "text": [
+      "Die Sektion II hat den Leitfaden zur Abgrenzung besonderer von sonstigen Angelegenheiten neu aufgelegt.",
+      "„Die Abgrenzung ist philosophisch anspruchsvoll. Im Zweifel ist etwas sonstig“, erklärt Abteilungsleiter Mag. Wolfgang Sonnleitner.",
+      "Neu ist das „Na-geh-Kriterium“: Löst ein Sachverhalt bei drei unabhängigen Bediensteten spontan die Reaktion „Na geh“ aus, gilt er als besonders. Der Leitfaden steht als PDF zum Download bereit."
+    ],
+    "bild": "assets/img/at/news/2026-03-abgrenzungsleitfaden.jpg",
+    "einheitId": "ref-12",
+    "personIds": [
+      "p-sonnleitner-wolfgang",
+      "p-schwarzl-andrea"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-03-abgrenzungsleitfaden.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-03-abgrenzungsleitfaden.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-03-abgrenzungsleitfaden.json"
+  },
+  "einheit": {
+    "id": "ref-12",
+    "typ": "referat",
+    "kuerzel": "II/2",
+    "name": "Abgrenzung Besonderes – Sonstiges",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-sonnleitner-wolfgang",
+    "standortId": "st-wien",
+    "titel": "Abteilung II/2: Abgrenzung Besonderes – Sonstiges",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-12.html",
+    "leitung": {
+      "id": "p-sonnleitner-wolfgang",
+      "name": "Mag. Wolfgang Sonnleitner",
+      "funktion": "Abteilungsleiter II/2"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-sonnleitner-wolfgang"
+    ],
+    "aufgabeIds": [
+      "auf-abgrenzung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-12.json"
+  },
+  "personen": [
+    {
+      "id": "p-sonnleitner-wolfgang",
+      "anrede": "Herr",
+      "titel": "Mag.",
+      "vorname": "Wolfgang",
+      "nachname": "Sonnleitner",
+      "funktion": "Abteilungsleiter II/2",
+      "einheitId": "ref-12",
+      "email": "wolfgang.sonnleitner@bbsa-bund.example",
+      "telefon": "+43 1 4711-3200",
+      "kurzvita": "Studierte Philosophie und Rechtswissenschaften; entscheidet die Frage, ob etwas besonders oder bloß sonstig ist.",
+      "name": "Mag. Wolfgang Sonnleitner",
+      "portrait": "assets/img/at/personen/p-sonnleitner-wolfgang.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-sonnleitner-wolfgang.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-sonnleitner-wolfgang.html",
+      "einheit": {
+        "id": "ref-12",
+        "name": "Abteilung II/2: Abgrenzung Besonderes – Sonstiges",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-12.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-12"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-sonnleitner-wolfgang.json"
+    },
+    {
+      "id": "p-schwarzl-andrea",
+      "anrede": "Frau",
+      "titel": "Dr.in",
+      "vorname": "Andrea",
+      "nachname": "Schwarzl",
+      "funktion": "Sektionschefin, Leiterin der Sektion II",
+      "einheitId": "abt-1",
+      "email": "andrea.schwarzl@bbsa-bund.example",
+      "telefon": "+43 1 4711-3000",
+      "kurzvita": "Verfassungsjuristin; Autorin des Standardkommentars zum BBSAG.",
+      "name": "Dr.in Andrea Schwarzl",
+      "portrait": "assets/img/at/personen/p-schwarzl-andrea.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-schwarzl-andrea.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-schwarzl-andrea.html",
+      "einheit": {
+        "id": "abt-1",
+        "name": "Sektion II: Grundsatz, Sonderfälle und Sonstiges",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-1.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "abt-1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-schwarzl-andrea.json"
+    }
+  ]
+}

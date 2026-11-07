@@ -1,0 +1,65 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-zuercher-martin",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Martin",
+    "nachname": "Zürcher",
+    "funktion": "Leiter Abteilung Ressourcen",
+    "einheitId": "abt-z",
+    "email": "martin.zuercher@bba-bund.example",
+    "telefon": "+41 58 999 20 00",
+    "kurzvita": "Betriebsökonom; stammt trotz seines Namens aus dem Kanton Bern.",
+    "name": "Martin Zürcher",
+    "portrait": "assets/img/ch/personen/p-zuercher-martin.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-zuercher-martin.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-zuercher-martin.html",
+    "einheit": {
+      "id": "abt-z",
+      "name": "Abteilung R: Ressourcen",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-z.html"
+    },
+    "abteilungId": "abt-z",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [
+      "abt-z"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-zuercher-martin.json"
+  },
+  "einheit": {
+    "id": "abt-z",
+    "typ": "abteilung",
+    "kuerzel": "R",
+    "name": "Ressourcen",
+    "parentId": "leitung",
+    "leitungPersonId": "p-zuercher-martin",
+    "beschreibung": "Personal, Finanzen, Logistik und Sprachdienste.",
+    "standortId": "st-bern",
+    "titel": "Abteilung R: Ressourcen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-z.html",
+    "leitung": {
+      "id": "p-zuercher-martin",
+      "name": "Martin Zürcher",
+      "funktion": "Leiter Abteilung Ressourcen"
+    },
+    "childIds": [
+      "ref-z1",
+      "ref-z2",
+      "ref-z3",
+      "ref-z4"
+    ],
+    "personIds": [
+      "p-zuercher-martin"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-z.json"
+  },
+  "news": []
+}

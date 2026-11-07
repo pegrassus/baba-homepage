@@ -1,0 +1,130 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-41",
+    "typ": "referat",
+    "kuerzel": "D1",
+    "name": "Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-gerber-simon",
+    "standortId": "st-biel",
+    "titel": "Sektion D1: Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-41.html",
+    "leitung": {
+      "id": "p-gerber-simon",
+      "name": "Dr. Simon Gerber",
+      "funktion": "Sektionschef ERbA (Registerführer)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-gerber-simon"
+    ],
+    "aufgabeIds": [
+      "auf-erba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-41.json"
+  },
+  "parent": {
+    "id": "abt-4",
+    "typ": "abteilung",
+    "kuerzel": "D",
+    "name": "Digitales und Register",
+    "parentId": "leitung",
+    "leitungPersonId": "p-kaelin-nadia",
+    "beschreibung": "Eidgenössisches Register besonderer Angelegenheiten, Fachanwendungen, Daten und Informationssicherheit.",
+    "standortId": "st-biel",
+    "titel": "Abteilung D: Digitales und Register",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html",
+    "leitung": {
+      "id": "p-kaelin-nadia",
+      "name": "Nadia Kälin",
+      "funktion": "Leiterin Abteilung Digitales und Register (CDO)"
+    },
+    "childIds": [
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "personIds": [
+      "p-kaelin-nadia"
+    ],
+    "aufgabeIds": [
+      "auf-erba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-4.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-gerber-simon",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Simon",
+      "nachname": "Gerber",
+      "funktion": "Sektionschef ERbA (Registerführer)",
+      "einheitId": "ref-41",
+      "email": "erba@bba-bund.example",
+      "telefon": "+41 58 999 61 00",
+      "kurzvita": "Führt das Eidgenössische Register besonderer Angelegenheiten.",
+      "name": "Dr. Simon Gerber",
+      "portrait": "assets/img/ch/personen/p-gerber-simon.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-gerber-simon.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-gerber-simon.html",
+      "einheit": {
+        "id": "ref-41",
+        "name": "Sektion D1: Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-41.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-biel",
+      "leitetEinheitIds": [
+        "ref-41"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-gerber-simon.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-erba",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "kategorie": "Register",
+      "beschreibung": "Führung des zentralen Registers; Registerauszüge an berechtigte Behörden von Bund, Kantonen und Gemeinden.",
+      "einheitIds": [
+        "abt-4",
+        "ref-41",
+        "ref-43"
+      ],
+      "rechtsgrundlage": "Art. 22–25 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-biel",
+    "name": "Standort Biel/Bienne",
+    "typ": "Standort",
+    "strasse": "Sonderfallstrasse 5 / Rue du Cas particulier 5",
+    "plz": "2502",
+    "ort": "Biel/Bienne",
+    "telefon": "+41 58 999 60 00",
+    "beschreibung": "Zweisprachiger Standort der Abteilung Digitales und Register mit dem Rechenzentrum des ERbA.",
+    "bild": "assets/img/ch/standorte/biel.jpg",
+    "einheitIds": [
+      "abt-4"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-07-erba-start",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) in Betrieb",
+      "datum": "2026-07-01",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-07-erba-start.html"
+    }
+  ]
+}

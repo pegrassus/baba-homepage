@@ -1,0 +1,127 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "stab-pk",
+    "typ": "stab",
+    "kuerzel": "PK",
+    "name": "Presse und Kommunikation",
+    "parentId": "leitung",
+    "leitungPersonId": "p-auer-florian",
+    "beschreibung": "Pressearbeit, Website, Publikationen und Bürgerservice.",
+    "standortId": "st-wien",
+    "titel": "Presse und Kommunikation",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pk.html",
+    "leitung": {
+      "id": "p-auer-florian",
+      "name": "Florian Auer, MA",
+      "funktion": "Pressesprecher"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-auer-florian"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-pk.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-hinterberger-elisabeth",
+    "vertretungPersonId": "p-pichler-franz-josef",
+    "beschreibung": "Die Präsidentin und der Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-wien",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html",
+    "leitung": {
+      "id": "p-hinterberger-elisabeth",
+      "name": "Mag.a Dr.in Elisabeth Hinterberger",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-hinterberger-elisabeth",
+      "p-pichler-franz-josef"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/leitung.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-auer-florian",
+      "anrede": "Herr",
+      "titel": "",
+      "titelNach": "MA",
+      "vorname": "Florian",
+      "nachname": "Auer",
+      "funktion": "Pressesprecher",
+      "einheitId": "stab-pk",
+      "email": "presse@bbsa-bund.example",
+      "telefon": "+43 1 4711-1020",
+      "kurzvita": "Ehemaliger Radiojournalist; beantwortet Medienanfragen mit Wiener Charme.",
+      "name": "Florian Auer, MA",
+      "portrait": "assets/img/at/personen/p-auer-florian.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-auer-florian.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-auer-florian.html",
+      "einheit": {
+        "id": "stab-pk",
+        "name": "Presse und Kommunikation",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pk.html"
+      },
+      "abteilungId": "stab-pk",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "stab-pk"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-auer-florian.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-wien",
+    "name": "Amtsgebäude Wien",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 7",
+    "plz": "1010",
+    "ort": "Wien",
+    "telefon": "+43 1 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+    "bild": "assets/img/at/standorte/wien.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-10-jahresbericht",
+      "titel": "Jahresbericht 2025: Rekord bei sonstigen Angelegenheiten",
+      "datum": "2026-10-30",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-10-jahresbericht.html"
+    }
+  ]
+}

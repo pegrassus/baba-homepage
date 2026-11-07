@@ -1,0 +1,232 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "abt-z",
+    "typ": "abteilung",
+    "kuerzel": "R",
+    "name": "Ressourcen",
+    "parentId": "leitung",
+    "leitungPersonId": "p-zuercher-martin",
+    "beschreibung": "Personal, Finanzen, Logistik und Sprachdienste.",
+    "standortId": "st-bern",
+    "titel": "Abteilung R: Ressourcen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-z.html",
+    "leitung": {
+      "id": "p-zuercher-martin",
+      "name": "Martin Zürcher",
+      "funktion": "Leiter Abteilung Ressourcen"
+    },
+    "childIds": [
+      "ref-z1",
+      "ref-z2",
+      "ref-z3",
+      "ref-z4"
+    ],
+    "personIds": [
+      "p-zuercher-martin"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-z.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "DIR",
+    "name": "Direktion",
+    "parentId": null,
+    "leitungPersonId": "p-braendli-ursula",
+    "vertretungPersonId": "p-favre-jean-daniel",
+    "beschreibung": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.",
+    "standortId": "st-bern",
+    "titel": "Direktion",
+    "typLabel": "Direktion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html",
+    "leitung": {
+      "id": "p-braendli-ursula",
+      "name": "Dr. Ursula Brändli",
+      "funktion": "Direktorin"
+    },
+    "childIds": [
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-braendli-ursula",
+      "p-favre-jean-daniel"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/leitung.json"
+  },
+  "children": [
+    {
+      "id": "ref-z1",
+      "typ": "referat",
+      "kuerzel": "R1",
+      "name": "Personal und Lernende",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-meier-sandra",
+      "standortId": "st-bern",
+      "titel": "Sektion R1: Personal und Lernende",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z1.html",
+      "leitung": {
+        "id": "p-meier-sandra",
+        "name": "Sandra Meier",
+        "funktion": "Sektionschefin Personal und Lernende"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-meier-sandra"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z1.json"
+    },
+    {
+      "id": "ref-z2",
+      "typ": "referat",
+      "kuerzel": "R2",
+      "name": "Finanzen und Beschaffung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-ammann-patrick",
+      "standortId": "st-bern",
+      "titel": "Sektion R2: Finanzen und Beschaffung",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z2.html",
+      "leitung": {
+        "id": "p-ammann-patrick",
+        "name": "Patrick Ammann",
+        "funktion": "Sektionschef Finanzen und Beschaffung"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-ammann-patrick"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z2.json"
+    },
+    {
+      "id": "ref-z3",
+      "typ": "referat",
+      "kuerzel": "R3",
+      "name": "Logistik und Liegenschaften",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-krasniqi-arben",
+      "standortId": "st-bern",
+      "titel": "Sektion R3: Logistik und Liegenschaften",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z3.html",
+      "leitung": {
+        "id": "p-krasniqi-arben",
+        "name": "Arben Krasniqi",
+        "funktion": "Sektionschef Logistik und Liegenschaften"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-krasniqi-arben"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z3.json"
+    },
+    {
+      "id": "ref-z4",
+      "typ": "referat",
+      "kuerzel": "R4",
+      "name": "Sprachdienste (DE/FR/IT/RM)",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-rossi-chiara",
+      "standortId": "st-bern",
+      "titel": "Sektion R4: Sprachdienste (DE/FR/IT/RM)",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z4.html",
+      "leitung": {
+        "id": "p-rossi-chiara",
+        "name": "Chiara Rossi",
+        "funktion": "Sektionschefin Sprachdienste"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-rossi-chiara"
+      ],
+      "aufgabeIds": [
+        "auf-sprachen"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z4.json"
+    }
+  ],
+  "personen": [
+    {
+      "id": "p-zuercher-martin",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Martin",
+      "nachname": "Zürcher",
+      "funktion": "Leiter Abteilung Ressourcen",
+      "einheitId": "abt-z",
+      "email": "martin.zuercher@bba-bund.example",
+      "telefon": "+41 58 999 20 00",
+      "kurzvita": "Betriebsökonom; stammt trotz seines Namens aus dem Kanton Bern.",
+      "name": "Martin Zürcher",
+      "portrait": "assets/img/ch/personen/p-zuercher-martin.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-zuercher-martin.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-zuercher-martin.html",
+      "einheit": {
+        "id": "abt-z",
+        "name": "Abteilung R: Ressourcen",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-z.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "abt-z"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-zuercher-martin.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-bern",
+    "name": "Hauptsitz Bern",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 12",
+    "plz": "3011",
+    "ort": "Bern",
+    "telefon": "+41 58 999 10 00",
+    "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+    "bild": "assets/img/ch/standorte/bern.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-06-fuenf-sprachen",
+      "titel": "Sprachdienst übersetzt Verfügung erstmals in vier Landessprachen und Walliserdeutsch",
+      "datum": "2026-06-03",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-06-fuenf-sprachen.html"
+    },
+    {
+      "id": "2025-11-lernende",
+      "titel": "14 Lernende starten ihre Ausbildung beim BBA",
+      "datum": "2025-11-26",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2025-11-lernende.html"
+    }
+  ]
+}

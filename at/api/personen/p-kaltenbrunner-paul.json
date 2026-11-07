@@ -1,0 +1,59 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-kaltenbrunner-paul",
+    "anrede": "Herr",
+    "titel": "DI",
+    "vorname": "Paul",
+    "nachname": "Kaltenbrunner",
+    "funktion": "Abteilungsleiter V/4 (CISO)",
+    "einheitId": "ref-44",
+    "email": "paul.kaltenbrunner@bbsa-bund.example",
+    "telefon": "+43 512 4711-6400",
+    "kurzvita": "Informationssicherheitsbeauftragter des Amtes.",
+    "name": "DI Paul Kaltenbrunner",
+    "portrait": "assets/img/at/personen/p-kaltenbrunner-paul.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-kaltenbrunner-paul.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-kaltenbrunner-paul.html",
+    "einheit": {
+      "id": "ref-44",
+      "name": "Abteilung V/4: Informationssicherheit",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-44.html"
+    },
+    "abteilungId": "abt-4",
+    "standortId": "st-innsbruck",
+    "leitetEinheitIds": [
+      "ref-44"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-kaltenbrunner-paul.json"
+  },
+  "einheit": {
+    "id": "ref-44",
+    "typ": "referat",
+    "kuerzel": "V/4",
+    "name": "Informationssicherheit",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-kaltenbrunner-paul",
+    "standortId": "st-innsbruck",
+    "titel": "Abteilung V/4: Informationssicherheit",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-44.html",
+    "leitung": {
+      "id": "p-kaltenbrunner-paul",
+      "name": "DI Paul Kaltenbrunner",
+      "funktion": "Abteilungsleiter V/4 (CISO)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-kaltenbrunner-paul"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-44.json"
+  },
+  "news": []
+}

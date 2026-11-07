@@ -1,0 +1,235 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "behoerde": {
+    "id": "bba",
+    "variante": "ch",
+    "land": "Schweiz",
+    "locale": "de-CH",
+    "pfad": "ch/",
+    "name": "Bundesamt für besondere Angelegenheiten",
+    "kurzname": "BBA",
+    "namenLandessprachen": [
+      {
+        "sprache": "de",
+        "name": "Bundesamt für besondere Angelegenheiten",
+        "kurz": "BBA"
+      },
+      {
+        "sprache": "fr",
+        "name": "Office fédéral des affaires particulières",
+        "kurz": "OFAP"
+      },
+      {
+        "sprache": "it",
+        "name": "Ufficio federale degli affari particolari",
+        "kurz": "UFAP"
+      },
+      {
+        "sprache": "rm",
+        "name": "Uffizi federal per fatgs particulars",
+        "kurz": "UFFP"
+      }
+    ],
+    "markeZeile": "BBA · OFAP · UFAP · UFFP",
+    "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+    "typ": "Bundesamt",
+    "geschaeftsbereich": "Eidgenössisches Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
+    "zuordnung": "Bundesamt im Eidgenössischen Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
+    "gruendung": "1953-03-01",
+    "rechtsgrundlage": {
+      "kurz": "BABG",
+      "titel": "Bundesgesetz über die besonderen Angelegenheiten (BABG)",
+      "fundstelle": "SR 999.42 (fiktiv)"
+    },
+    "claim": "Wo kein Amt zuständig ist, sind wir es – in allen vier Landessprachen.",
+    "auftrag": "Das Bundesamt für besondere Angelegenheiten (BBA) ist das Kompetenzzentrum des Bundes für alles, was weder in eine Bundes- noch in eine Kantonszuständigkeit passt. Es klärt Sonderfälle zwischen den 26 Kantonen, führt Vernehmlassungen zu Unvorhergesehenem durch, entscheidet über alpine Sonderfälle und führt das Eidgenössische Register besonderer Angelegenheiten (ERbA). Selbstverständlich termingerecht.",
+    "leitbild": [
+      {
+        "titel": "Pünktlich",
+        "text": "Auch das Unvorhersehbare erledigen wir fristgerecht – auf die Sekunde."
+      },
+      {
+        "titel": "Ausgewogen",
+        "text": "Wir suchen den Kompromiss, bis alle gleich wenig zufrieden sind."
+      },
+      {
+        "titel": "Mehrsprachig",
+        "text": "Jeder Sonderfall verdient eine Antwort in seiner Landessprache."
+      },
+      {
+        "titel": "Gründlich",
+        "text": "Was wir nicht vernehmlasst haben, haben wir noch nicht entschieden."
+      }
+    ],
+    "kennzahlen": [
+      {
+        "label": "Mitarbeitende (318 Vollzeitstellen)",
+        "wert": "412"
+      },
+      {
+        "label": "Behandelte Sonderfälle 2025",
+        "wert": "9'874"
+      },
+      {
+        "label": "Einträge im ERbA",
+        "wert": "61'205"
+      },
+      {
+        "label": "Landessprachen",
+        "wert": "4"
+      }
+    ],
+    "leitungPersonId": "p-braendli-ursula",
+    "pressePersonId": "p-cadonau-seraina",
+    "datenschutzPersonId": "p-huerlimann-monika",
+    "hauptsitzId": "st-bern",
+    "kontakt": {
+      "telefon": "+41 58 999 10 00",
+      "email": "info@bba-bund.example",
+      "zeitenLabel": "Öffnungszeiten",
+      "servicezeiten": "Mo–Fr 8.00–12.00 und 13.30–17.00 Uhr (Mittagspause wird eingehalten)"
+    },
+    "logo": {
+      "farbig": "assets/img/ch/logo/bba-logo.svg",
+      "wortbildmarke": "assets/img/ch/logo/bba-wortbildmarke.svg",
+      "negativ": "assets/img/ch/logo/bba-logo-negativ.svg",
+      "png": "assets/img/ch/logo/bba-logo.png"
+    },
+    "farben": {
+      "anthrazit": "#2B2F33",
+      "rot": "#B5121B",
+      "hellgrau": "#F2F2F0",
+      "sandstein": "#8C8A6E"
+    },
+    "begriffe": {
+      "leitung": "Direktion",
+      "stab": "Stabsstelle",
+      "stabPlural": "Stabsstellen",
+      "abteilung": "Abteilung",
+      "abteilungPlural": "Abteilungen",
+      "abteilungKurz": "Abt.",
+      "referat": "Sektion",
+      "referatPlural": "Sektionen",
+      "referatKurz": "Sekt.",
+      "referatsleitungen": "Sektionschefinnen und Sektionschefs",
+      "antraegeTitel": "Gesuche einreichen",
+      "antraegeText": "Feststellung, Ausnahmebewilligung, Registerauszug",
+      "antraegeButton": "Gesuche & Formulare",
+      "beschaeftigte": "Mitarbeitende"
+    },
+    "grusswort": {
+      "titel": "Grusswort der Direktorin",
+      "text": "Die Schweiz ist ein Land der Ordnung – und gerade darum ein Land der Ausnahmen. Wenn eine Kuh auf zwei Alpen gleichzeitig steht oder ein Echo die falsche Antwort gibt, sind wir zur Stelle. Gründlich, mehrsprachig und – wie es sich gehört – pünktlich."
+    },
+    "jahresberichtZitat": "Ordnung ist, wenn auch die Ausnahme ein Formular hat.",
+    "hero": {
+      "bild": "assets/img/ch/hero/hero-gebaeude.jpg",
+      "alt": "Hauptsitz des BBA in Bern mit Alpenpanorama"
+    },
+    "heroInnen": {
+      "bild": "assets/img/ch/hero/hero-atrium.jpg",
+      "alt": "Holz-Atrium im Hauptsitz Bern"
+    },
+    "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Keine Einrichtung der Schweizerischen Eidgenossenschaft.",
+    "leitfadenKriterien": [
+      "Keine Bundes- und keine Kantonszuständigkeit",
+      "Betroffenheit von mindestens zwei Kantonen mit unterschiedlicher Meinung",
+      "Beteiligung von Nutztieren auf Sömmerungsgebieten",
+      "Mehrsprachige Widersprüchlichkeit",
+      "Abweichung von mehr als 59 Sekunden von einem Fahrplan",
+      "Echo, Lawine oder Föhn als mitwirkende Partei",
+      "Fehlender Präzedenzfall seit 1291",
+      "Unklarheit über die Gemeindegrenze",
+      "Kompromiss noch nicht gefunden",
+      "Vernehmlassung ergab mehr Fragen als Antworten",
+      "Käse- oder schokoladenrelevanter Sachverhalt",
+      "Formale Selbstbezüglichkeit (Gesuch um ein Gesuch)",
+      "Nachweislich unwahrscheinliches Ereignis",
+      "Allgemeines Kopfschütteln in mindestens drei Landessprachen"
+    ],
+    "geschichte": [
+      {
+        "jahr": "1953",
+        "ereignis": "Gründung als «Eidgenössisches Büro für Unzuordenbares» mit sieben Mitarbeitenden in einem Nebenraum in Bern."
+      },
+      {
+        "jahr": "1971",
+        "ereignis": "Erste Vernehmlassung zur Frage, wofür das Büro eigentlich zuständig ist. Die Auswertung dauert bis 1978."
+      },
+      {
+        "jahr": "1999",
+        "ereignis": "Umbenennung in Bundesamt für besondere Angelegenheiten (BBA) und Erlass des BABG."
+      },
+      {
+        "jahr": "2008",
+        "ereignis": "Eröffnung des Standorts Bellinzona für Verfahren mit Bezug zur italienischen Schweiz."
+      },
+      {
+        "jahr": "2016",
+        "ereignis": "Bezug des zweisprachigen Standorts Biel/Bienne."
+      },
+      {
+        "jahr": "2026",
+        "ereignis": "Inbetriebnahme des digitalen Eidgenössischen Registers besonderer Angelegenheiten (ERbA)."
+      }
+    ],
+    "logoUrls": {
+      "farbig": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-logo.svg",
+      "wortbildmarke": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-wortbildmarke.svg",
+      "negativ": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-logo-negativ.svg",
+      "png": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-logo.png"
+    },
+    "leitung": {
+      "id": "p-braendli-ursula",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Ursula",
+      "nachname": "Brändli",
+      "funktion": "Direktorin",
+      "einheitId": "leitung",
+      "email": "ursula.braendli@bba-bund.example",
+      "telefon": "+41 58 999 10 01",
+      "kurzvita": "Promovierte Juristin (Universität Freiburg), zuvor Vizedirektorin und Leiterin der Abteilung Grundsätze und Konkordanz. Seit 2020 Direktorin des BBA. Hält die Mittagspause für ein Grundrecht.",
+      "name": "Dr. Ursula Brändli",
+      "portrait": "assets/img/ch/personen/p-braendli-ursula.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-braendli-ursula.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-braendli-ursula.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Direktion",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "leitung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-braendli-ursula.json"
+    },
+    "hauptsitz": {
+      "id": "st-bern",
+      "name": "Hauptsitz Bern",
+      "typ": "Hauptsitz",
+      "strasse": "Ausnahmegasse 12",
+      "plz": "3011",
+      "ort": "Bern",
+      "telefon": "+41 58 999 10 00",
+      "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+      "bild": "assets/img/ch/standorte/bern.jpg",
+      "einheitIds": [
+        "leitung",
+        "stab-dir",
+        "stab-kom",
+        "stab-dsr",
+        "abt-z",
+        "abt-1",
+        "abt-3"
+      ]
+    }
+  }
+}

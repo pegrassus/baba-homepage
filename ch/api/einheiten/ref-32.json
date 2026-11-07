@@ -1,0 +1,134 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-32",
+    "typ": "referat",
+    "kuerzel": "E2",
+    "name": "Alpine Sonderfälle",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-zgraggen-josef",
+    "standortId": "st-bern",
+    "titel": "Sektion E2: Alpine Sonderfälle",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-32.html",
+    "leitung": {
+      "id": "p-zgraggen-josef",
+      "name": "Josef Zgraggen",
+      "funktion": "Sektionschef Alpine Sonderfälle"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-zgraggen-josef"
+    ],
+    "aufgabeIds": [
+      "auf-alpin"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-32.json"
+  },
+  "parent": {
+    "id": "abt-3",
+    "typ": "abteilung",
+    "kuerzel": "E",
+    "name": "Ausserordentliche Ereignisse",
+    "parentId": "leitung",
+    "leitungPersonId": "p-rueegg-thomas",
+    "beschreibung": "Lagebeobachtung, alpine Sonderfälle, Kuriositätenarchiv und Vorsorge für das Unwahrscheinliche.",
+    "standortId": "st-bern",
+    "titel": "Abteilung E: Ausserordentliche Ereignisse",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html",
+    "leitung": {
+      "id": "p-rueegg-thomas",
+      "name": "Thomas Rüegg",
+      "funktion": "Leiter Abteilung Ausserordentliche Ereignisse"
+    },
+    "childIds": [
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34"
+    ],
+    "personIds": [
+      "p-rueegg-thomas"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-3.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-zgraggen-josef",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Josef",
+      "nachname": "Zgraggen",
+      "funktion": "Sektionschef Alpine Sonderfälle",
+      "einheitId": "ref-32",
+      "email": "josef.zgraggen@bba-bund.example",
+      "telefon": "+41 58 999 52 00",
+      "kurzvita": "Älpler aus dem Kanton Uri; zuständig für Kühe auf falschen Alpen, Murmeltiere mit Doppelwohnsitz und widerspenstige Echos.",
+      "name": "Josef Zgraggen",
+      "portrait": "assets/img/ch/personen/p-zgraggen-josef.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-zgraggen-josef.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-zgraggen-josef.html",
+      "einheit": {
+        "id": "ref-32",
+        "name": "Sektion E2: Alpine Sonderfälle",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-32.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-32"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-zgraggen-josef.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-alpin",
+      "titel": "Alpine Sonderfälle",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Zuständigkeit für Kühe auf der falschen Alp, Murmeltiere mit Doppelwohnsitz, Gämsen ohne Aufenthaltsbewilligung und Echos, die falsch antworten.",
+      "einheitIds": [
+        "ref-32"
+      ],
+      "rechtsgrundlage": "Art. 19 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-bern",
+    "name": "Hauptsitz Bern",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 12",
+    "plz": "3011",
+    "ort": "Bern",
+    "telefon": "+41 58 999 10 00",
+    "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+    "bild": "assets/img/ch/standorte/bern.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-10-kuh-bella",
+      "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Alpen gleichzeitig",
+      "datum": "2026-10-22",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-10-kuh-bella.html"
+    }
+  ]
+}

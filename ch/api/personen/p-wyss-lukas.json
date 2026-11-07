@@ -1,0 +1,61 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-wyss-lukas",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Lukas",
+    "nachname": "Wyss",
+    "funktion": "Sektionschef Kantonale Sonderfälle",
+    "einheitId": "ref-12",
+    "email": "lukas.wyss@bba-bund.example",
+    "telefon": "+41 58 999 32 00",
+    "kurzvita": "Führt eine Liste aller 26 kantonalen Auffassungen zu jeder Frage.",
+    "name": "Lukas Wyss",
+    "portrait": "assets/img/ch/personen/p-wyss-lukas.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-wyss-lukas.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-wyss-lukas.html",
+    "einheit": {
+      "id": "ref-12",
+      "name": "Sektion G2: Kantonale Sonderfälle",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-12.html"
+    },
+    "abteilungId": "abt-1",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [
+      "ref-12"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-wyss-lukas.json"
+  },
+  "einheit": {
+    "id": "ref-12",
+    "typ": "referat",
+    "kuerzel": "G2",
+    "name": "Kantonale Sonderfälle",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-wyss-lukas",
+    "standortId": "st-bern",
+    "titel": "Sektion G2: Kantonale Sonderfälle",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-12.html",
+    "leitung": {
+      "id": "p-wyss-lukas",
+      "name": "Lukas Wyss",
+      "funktion": "Sektionschef Kantonale Sonderfälle"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-wyss-lukas"
+    ],
+    "aufgabeIds": [
+      "auf-kantone"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-12.json"
+  },
+  "news": []
+}

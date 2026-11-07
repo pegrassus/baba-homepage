@@ -1,0 +1,69 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-favre-jean-daniel",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Jean-Daniel",
+    "nachname": "Favre",
+    "funktion": "Vizedirektor",
+    "einheitId": "leitung",
+    "email": "jean-daniel.favre@bba-bund.example",
+    "telefon": "+41 58 999 10 02",
+    "kurzvita": "Ökonom aus Neuenburg; verantwortet die Beziehungen zu den Kantonen und zur Romandie. Beherrscht die Kunst, auf Französisch Ja und auf Deutsch Nein zu sagen – im selben Satz.",
+    "name": "Jean-Daniel Favre",
+    "portrait": "assets/img/ch/personen/p-favre-jean-daniel.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-favre-jean-daniel.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-favre-jean-daniel.html",
+    "einheit": {
+      "id": "leitung",
+      "name": "Direktion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html"
+    },
+    "abteilungId": "leitung",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-favre-jean-daniel.json"
+  },
+  "einheit": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "DIR",
+    "name": "Direktion",
+    "parentId": null,
+    "leitungPersonId": "p-braendli-ursula",
+    "vertretungPersonId": "p-favre-jean-daniel",
+    "beschreibung": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.",
+    "standortId": "st-bern",
+    "titel": "Direktion",
+    "typLabel": "Direktion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html",
+    "leitung": {
+      "id": "p-braendli-ursula",
+      "name": "Dr. Ursula Brändli",
+      "funktion": "Direktorin"
+    },
+    "childIds": [
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-braendli-ursula",
+      "p-favre-jean-daniel"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/leitung.json"
+  },
+  "news": []
+}

@@ -1,0 +1,124 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-43",
+    "typ": "referat",
+    "kuerzel": "V/3",
+    "name": "Daten und Schnittstellen",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-ebner-jana",
+    "standortId": "st-innsbruck",
+    "titel": "Abteilung V/3: Daten und Schnittstellen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-43.html",
+    "leitung": {
+      "id": "p-ebner-jana",
+      "name": "Jana Ebner, MSc",
+      "funktion": "Abteilungsleiterin V/3"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-ebner-jana"
+    ],
+    "aufgabeIds": [
+      "auf-brbsa"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-43.json"
+  },
+  "parent": {
+    "id": "abt-4",
+    "typ": "abteilung",
+    "kuerzel": "V",
+    "name": "Digitales und Register",
+    "parentId": "leitung",
+    "leitungPersonId": "p-gruber-stefan",
+    "beschreibung": "Bundesregister besonderer und sonstiger Angelegenheiten, IT-Verfahren und ELAK, Daten und Informationssicherheit.",
+    "standortId": "st-innsbruck",
+    "titel": "Sektion V: Digitales und Register",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-4.html",
+    "leitung": {
+      "id": "p-gruber-stefan",
+      "name": "DI Stefan Gruber",
+      "funktion": "Sektionschef, Leiter der Sektion V (CIO)"
+    },
+    "childIds": [
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "personIds": [
+      "p-gruber-stefan"
+    ],
+    "aufgabeIds": [
+      "auf-brbsa"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-4.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-ebner-jana",
+      "anrede": "Frau",
+      "titel": "",
+      "titelNach": "MSc",
+      "vorname": "Jana",
+      "nachname": "Ebner",
+      "funktion": "Abteilungsleiterin V/3",
+      "einheitId": "ref-43",
+      "email": "jana.ebner@bbsa-bund.example",
+      "telefon": "+43 512 4711-6300",
+      "kurzvita": "Data Scientist; betreut Open Government Data und Schnittstellen.",
+      "name": "Jana Ebner, MSc",
+      "portrait": "assets/img/at/personen/p-ebner-jana.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-ebner-jana.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-ebner-jana.html",
+      "einheit": {
+        "id": "ref-43",
+        "name": "Abteilung V/3: Daten und Schnittstellen",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-43.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-innsbruck",
+      "leitetEinheitIds": [
+        "ref-43"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-ebner-jana.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-brbsa",
+      "titel": "Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+      "kategorie": "Register",
+      "beschreibung": "Führung des Registers mit über 1,2 Millionen Einträgen seit 1873; Auskünfte an berechtigte Behörden.",
+      "einheitIds": [
+        "abt-4",
+        "ref-41",
+        "ref-43"
+      ],
+      "rechtsgrundlage": "§§ 22–25 BBSAG"
+    }
+  ],
+  "standort": {
+    "id": "st-innsbruck",
+    "name": "Außenstelle Innsbruck",
+    "typ": "Außenstelle",
+    "strasse": "Zuständigkeitsweg 4",
+    "plz": "6020",
+    "ort": "Innsbruck",
+    "telefon": "+43 512 4711-0",
+    "beschreibung": "Standort der Sektion V (Digitales und Register) und der Abteilung IV/2 – aus naheliegenden Gründen im Föhngebiet.",
+    "bild": "assets/img/at/standorte/innsbruck.jpg",
+    "einheitIds": [
+      "abt-4"
+    ]
+  },
+  "news": []
+}

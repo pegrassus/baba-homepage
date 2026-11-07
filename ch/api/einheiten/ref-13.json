@@ -1,0 +1,135 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-13",
+    "typ": "referat",
+    "kuerzel": "G3",
+    "name": "Konkordanz und Kompromissfindung",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-roduit-stephanie",
+    "standortId": "st-bern",
+    "titel": "Sektion G3: Konkordanz und Kompromissfindung",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-13.html",
+    "leitung": {
+      "id": "p-roduit-stephanie",
+      "name": "Stéphanie Roduit",
+      "funktion": "Sektionschefin Konkordanz und Kompromissfindung"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-roduit-stephanie"
+    ],
+    "aufgabeIds": [
+      "auf-kantone"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-13.json"
+  },
+  "parent": {
+    "id": "abt-1",
+    "typ": "abteilung",
+    "kuerzel": "G",
+    "name": "Grundsätze und Konkordanz",
+    "parentId": "leitung",
+    "leitungPersonId": "p-bernasconi-andrea",
+    "beschreibung": "Grundsatzfragen, kantonale Sonderfälle, Kompromissfindung und Ausnahmebewilligungen.",
+    "standortId": "st-bern",
+    "titel": "Abteilung G: Grundsätze und Konkordanz",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html",
+    "leitung": {
+      "id": "p-bernasconi-andrea",
+      "name": "Dr. Andrea Bernasconi",
+      "funktion": "Leiter Abteilung Grundsätze und Konkordanz"
+    },
+    "childIds": [
+      "ref-11",
+      "ref-12",
+      "ref-13",
+      "ref-14"
+    ],
+    "personIds": [
+      "p-bernasconi-andrea"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-1.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-roduit-stephanie",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Stéphanie",
+      "nachname": "Roduit",
+      "funktion": "Sektionschefin Konkordanz und Kompromissfindung",
+      "einheitId": "ref-13",
+      "email": "stephanie.roduit@bba-bund.example",
+      "telefon": "+41 58 999 33 00",
+      "kurzvita": "Mediatorin aus dem Wallis; hat bisher jeden Streit beigelegt, notfalls durch Halbierung.",
+      "name": "Stéphanie Roduit",
+      "portrait": "assets/img/ch/personen/p-roduit-stephanie.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-roduit-stephanie.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-roduit-stephanie.html",
+      "einheit": {
+        "id": "ref-13",
+        "name": "Sektion G3: Konkordanz und Kompromissfindung",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-13.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-13"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-roduit-stephanie.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-kantone",
+      "titel": "Kantonale Sonderfälle",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Klärung von Sachverhalten, die mehrere Kantone betreffen und zu denen mindestens 26 verschiedene Meinungen bestehen.",
+      "einheitIds": [
+        "ref-12",
+        "ref-13"
+      ],
+      "rechtsgrundlage": "Art. 4 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-bern",
+    "name": "Hauptsitz Bern",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 12",
+    "plz": "3011",
+    "ort": "Bern",
+    "telefon": "+41 58 999 10 00",
+    "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+    "bild": "assets/img/ch/standorte/bern.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-03-grenzstein",
+      "titel": "Kompromiss gefunden: Umstrittener Grenzstein wird halbiert",
+      "datum": "2026-03-02",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-03-grenzstein.html"
+    }
+  ]
+}

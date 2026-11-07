@@ -1,0 +1,78 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-rochat-christine",
+    "anrede": "Frau",
+    "titel": "Prof. Dr.",
+    "vorname": "Christine",
+    "nachname": "Rochat",
+    "funktion": "Leiterin Abteilung Verfahren und Vernehmlassungen",
+    "einheitId": "abt-2",
+    "email": "christine.rochat@bba-bund.example",
+    "telefon": "+41 58 999 40 00",
+    "kurzvita": "Titularprofessorin für Verwaltungsrecht in Lausanne; leitet die Abteilung am Standort Bellinzona.",
+    "name": "Prof. Dr. Christine Rochat",
+    "portrait": "assets/img/ch/personen/p-rochat-christine.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-rochat-christine.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-rochat-christine.html",
+    "einheit": {
+      "id": "abt-2",
+      "name": "Abteilung V: Verfahren und Vernehmlassungen",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html"
+    },
+    "abteilungId": "abt-2",
+    "standortId": "st-bellinzona",
+    "leitetEinheitIds": [
+      "abt-2"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rochat-christine.json"
+  },
+  "einheit": {
+    "id": "abt-2",
+    "typ": "abteilung",
+    "kuerzel": "V",
+    "name": "Verfahren und Vernehmlassungen",
+    "parentId": "leitung",
+    "leitungPersonId": "p-rochat-christine",
+    "beschreibung": "Besondere Verwaltungsverfahren, Vernehmlassungen, Einsprachen und die amtliche Pünktlichkeit.",
+    "standortId": "st-bellinzona",
+    "titel": "Abteilung V: Verfahren und Vernehmlassungen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html",
+    "leitung": {
+      "id": "p-rochat-christine",
+      "name": "Prof. Dr. Christine Rochat",
+      "funktion": "Leiterin Abteilung Verfahren und Vernehmlassungen"
+    },
+    "childIds": [
+      "ref-21",
+      "ref-22",
+      "ref-23",
+      "ref-24"
+    ],
+    "personIds": [
+      "p-rochat-christine"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-2.json"
+  },
+  "news": [
+    {
+      "id": "2026-09-vernehmlassung",
+      "titel": "Vernehmlassung eröffnet: Sind Vernehmlassungen vernehmlassungspflichtig?",
+      "datum": "2026-09-30",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-vernehmlassung.html"
+    },
+    {
+      "id": "2026-04-puenktlichkeit",
+      "titel": "Grundsatzentscheid: 08:00:59 Uhr gilt noch als pünktlich",
+      "datum": "2026-04-15",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-04-puenktlichkeit.html"
+    }
+  ]
+}

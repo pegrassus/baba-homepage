@@ -1,0 +1,123 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-43",
+    "typ": "referat",
+    "kuerzel": "D3",
+    "name": "Daten und Schnittstellen",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-yilmaz-deniz",
+    "standortId": "st-biel",
+    "titel": "Sektion D3: Daten und Schnittstellen",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-43.html",
+    "leitung": {
+      "id": "p-yilmaz-deniz",
+      "name": "Deniz Yilmaz",
+      "funktion": "Sektionschef Daten und Schnittstellen"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-yilmaz-deniz"
+    ],
+    "aufgabeIds": [
+      "auf-erba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-43.json"
+  },
+  "parent": {
+    "id": "abt-4",
+    "typ": "abteilung",
+    "kuerzel": "D",
+    "name": "Digitales und Register",
+    "parentId": "leitung",
+    "leitungPersonId": "p-kaelin-nadia",
+    "beschreibung": "Eidgenössisches Register besonderer Angelegenheiten, Fachanwendungen, Daten und Informationssicherheit.",
+    "standortId": "st-biel",
+    "titel": "Abteilung D: Digitales und Register",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html",
+    "leitung": {
+      "id": "p-kaelin-nadia",
+      "name": "Nadia Kälin",
+      "funktion": "Leiterin Abteilung Digitales und Register (CDO)"
+    },
+    "childIds": [
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "personIds": [
+      "p-kaelin-nadia"
+    ],
+    "aufgabeIds": [
+      "auf-erba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-4.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-yilmaz-deniz",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Deniz",
+      "nachname": "Yilmaz",
+      "funktion": "Sektionschef Daten und Schnittstellen",
+      "einheitId": "ref-43",
+      "email": "deniz.yilmaz@bba-bund.example",
+      "telefon": "+41 58 999 63 00",
+      "kurzvita": "Data Engineer; betreut Open Government Data des Amtes.",
+      "name": "Deniz Yilmaz",
+      "portrait": "assets/img/ch/personen/p-yilmaz-deniz.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-yilmaz-deniz.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-yilmaz-deniz.html",
+      "einheit": {
+        "id": "ref-43",
+        "name": "Sektion D3: Daten und Schnittstellen",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-43.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-biel",
+      "leitetEinheitIds": [
+        "ref-43"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-yilmaz-deniz.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-erba",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "kategorie": "Register",
+      "beschreibung": "Führung des zentralen Registers; Registerauszüge an berechtigte Behörden von Bund, Kantonen und Gemeinden.",
+      "einheitIds": [
+        "abt-4",
+        "ref-41",
+        "ref-43"
+      ],
+      "rechtsgrundlage": "Art. 22–25 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-biel",
+    "name": "Standort Biel/Bienne",
+    "typ": "Standort",
+    "strasse": "Sonderfallstrasse 5 / Rue du Cas particulier 5",
+    "plz": "2502",
+    "ort": "Biel/Bienne",
+    "telefon": "+41 58 999 60 00",
+    "beschreibung": "Zweisprachiger Standort der Abteilung Digitales und Register mit dem Rechenzentrum des ERbA.",
+    "bild": "assets/img/ch/standorte/biel.jpg",
+    "einheitIds": [
+      "abt-4"
+    ]
+  },
+  "news": []
+}

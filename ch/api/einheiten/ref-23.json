@@ -1,0 +1,119 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-23",
+    "typ": "referat",
+    "kuerzel": "V3",
+    "name": "Einsprachen und Beschwerden",
+    "parentId": "abt-2",
+    "leitungPersonId": "p-tanner-corinne",
+    "standortId": "st-bellinzona",
+    "titel": "Sektion V3: Einsprachen und Beschwerden",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-23.html",
+    "leitung": {
+      "id": "p-tanner-corinne",
+      "name": "Corinne Tanner",
+      "funktion": "Sektionschefin Einsprachen und Beschwerden"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-tanner-corinne"
+    ],
+    "aufgabeIds": [
+      "auf-einsprache"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-23.json"
+  },
+  "parent": {
+    "id": "abt-2",
+    "typ": "abteilung",
+    "kuerzel": "V",
+    "name": "Verfahren und Vernehmlassungen",
+    "parentId": "leitung",
+    "leitungPersonId": "p-rochat-christine",
+    "beschreibung": "Besondere Verwaltungsverfahren, Vernehmlassungen, Einsprachen und die amtliche Pünktlichkeit.",
+    "standortId": "st-bellinzona",
+    "titel": "Abteilung V: Verfahren und Vernehmlassungen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html",
+    "leitung": {
+      "id": "p-rochat-christine",
+      "name": "Prof. Dr. Christine Rochat",
+      "funktion": "Leiterin Abteilung Verfahren und Vernehmlassungen"
+    },
+    "childIds": [
+      "ref-21",
+      "ref-22",
+      "ref-23",
+      "ref-24"
+    ],
+    "personIds": [
+      "p-rochat-christine"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-2.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-tanner-corinne",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Corinne",
+      "nachname": "Tanner",
+      "funktion": "Sektionschefin Einsprachen und Beschwerden",
+      "einheitId": "ref-23",
+      "email": "corinne.tanner@bba-bund.example",
+      "telefon": "+41 58 999 43 00",
+      "kurzvita": "Behandelt Einsprachen gegen Verfügungen des BBA.",
+      "name": "Corinne Tanner",
+      "portrait": "assets/img/ch/personen/p-tanner-corinne.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-tanner-corinne.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-tanner-corinne.html",
+      "einheit": {
+        "id": "ref-23",
+        "name": "Sektion V3: Einsprachen und Beschwerden",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-23.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "ref-23"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-tanner-corinne.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-einsprache",
+      "titel": "Einsprachen und Beschwerden",
+      "kategorie": "Leistung für die Bevölkerung und Unternehmen",
+      "beschreibung": "Behandlung von Einsprachen gegen Verfügungen des BBA; Weiterzug an das Bundesverwaltungsgericht bleibt vorbehalten.",
+      "einheitIds": [
+        "ref-23"
+      ],
+      "rechtsgrundlage": "Art. 15 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-bellinzona",
+    "name": "Sede di Bellinzona",
+    "typ": "Standort",
+    "strasse": "Via dei Casi Speciali 3",
+    "plz": "6500",
+    "ort": "Bellinzona",
+    "telefon": "+41 58 999 40 00",
+    "beschreibung": "Standort der Abteilung Verfahren und Vernehmlassungen. Die Sitzungen beginnen pünktlich, der Espresso danach ebenfalls.",
+    "bild": "assets/img/ch/standorte/bellinzona.jpg",
+    "einheitIds": [
+      "abt-2"
+    ]
+  },
+  "news": []
+}

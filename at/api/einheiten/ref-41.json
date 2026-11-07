@@ -1,0 +1,136 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-41",
+    "typ": "referat",
+    "kuerzel": "V/1",
+    "name": "Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-pospischil-karl",
+    "standortId": "st-wien",
+    "titel": "Abteilung V/1: Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-41.html",
+    "leitung": {
+      "id": "p-pospischil-karl",
+      "name": "Mag. Karl Pospischil",
+      "funktion": "Abteilungsleiter V/1 (Registerführer)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-pospischil-karl"
+    ],
+    "aufgabeIds": [
+      "auf-brbsa"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-41.json"
+  },
+  "parent": {
+    "id": "abt-4",
+    "typ": "abteilung",
+    "kuerzel": "V",
+    "name": "Digitales und Register",
+    "parentId": "leitung",
+    "leitungPersonId": "p-gruber-stefan",
+    "beschreibung": "Bundesregister besonderer und sonstiger Angelegenheiten, IT-Verfahren und ELAK, Daten und Informationssicherheit.",
+    "standortId": "st-innsbruck",
+    "titel": "Sektion V: Digitales und Register",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-4.html",
+    "leitung": {
+      "id": "p-gruber-stefan",
+      "name": "DI Stefan Gruber",
+      "funktion": "Sektionschef, Leiter der Sektion V (CIO)"
+    },
+    "childIds": [
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "personIds": [
+      "p-gruber-stefan"
+    ],
+    "aufgabeIds": [
+      "auf-brbsa"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-4.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-pospischil-karl",
+      "anrede": "Herr",
+      "titel": "Mag.",
+      "vorname": "Karl",
+      "nachname": "Pospischil",
+      "funktion": "Abteilungsleiter V/1 (Registerführer)",
+      "einheitId": "ref-41",
+      "email": "brbsa@bbsa-bund.example",
+      "telefon": "+43 1 4711-6100",
+      "kurzvita": "Führt das BRbsA; liest Kurrentschrift fließend.",
+      "name": "Mag. Karl Pospischil",
+      "portrait": "assets/img/at/personen/p-pospischil-karl.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-pospischil-karl.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-pospischil-karl.html",
+      "einheit": {
+        "id": "ref-41",
+        "name": "Abteilung V/1: Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-41.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-41"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-pospischil-karl.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-brbsa",
+      "titel": "Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+      "kategorie": "Register",
+      "beschreibung": "Führung des Registers mit über 1,2 Millionen Einträgen seit 1873; Auskünfte an berechtigte Behörden.",
+      "einheitIds": [
+        "abt-4",
+        "ref-41",
+        "ref-43"
+      ],
+      "rechtsgrundlage": "§§ 22–25 BBSAG"
+    }
+  ],
+  "standort": {
+    "id": "st-wien",
+    "name": "Amtsgebäude Wien",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 7",
+    "plz": "1010",
+    "ort": "Wien",
+    "telefon": "+43 1 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+    "bild": "assets/img/at/standorte/wien.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-06-brbsa-online",
+      "titel": "BRbsA online: 1,2 Millionen Einträge seit 1873 digitalisiert",
+      "datum": "2026-06-09",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-06-brbsa-online.html"
+    }
+  ]
+}

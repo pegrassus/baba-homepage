@@ -1,0 +1,237 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "abt-4",
+    "typ": "abteilung",
+    "kuerzel": "D",
+    "name": "Digitales und Register",
+    "parentId": "leitung",
+    "leitungPersonId": "p-kaelin-nadia",
+    "beschreibung": "Eidgenössisches Register besonderer Angelegenheiten, Fachanwendungen, Daten und Informationssicherheit.",
+    "standortId": "st-biel",
+    "titel": "Abteilung D: Digitales und Register",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html",
+    "leitung": {
+      "id": "p-kaelin-nadia",
+      "name": "Nadia Kälin",
+      "funktion": "Leiterin Abteilung Digitales und Register (CDO)"
+    },
+    "childIds": [
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "personIds": [
+      "p-kaelin-nadia"
+    ],
+    "aufgabeIds": [
+      "auf-erba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-4.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "DIR",
+    "name": "Direktion",
+    "parentId": null,
+    "leitungPersonId": "p-braendli-ursula",
+    "vertretungPersonId": "p-favre-jean-daniel",
+    "beschreibung": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.",
+    "standortId": "st-bern",
+    "titel": "Direktion",
+    "typLabel": "Direktion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html",
+    "leitung": {
+      "id": "p-braendli-ursula",
+      "name": "Dr. Ursula Brändli",
+      "funktion": "Direktorin"
+    },
+    "childIds": [
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-braendli-ursula",
+      "p-favre-jean-daniel"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/leitung.json"
+  },
+  "children": [
+    {
+      "id": "ref-41",
+      "typ": "referat",
+      "kuerzel": "D1",
+      "name": "Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-gerber-simon",
+      "standortId": "st-biel",
+      "titel": "Sektion D1: Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-41.html",
+      "leitung": {
+        "id": "p-gerber-simon",
+        "name": "Dr. Simon Gerber",
+        "funktion": "Sektionschef ERbA (Registerführer)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-gerber-simon"
+      ],
+      "aufgabeIds": [
+        "auf-erba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-41.json"
+    },
+    {
+      "id": "ref-42",
+      "typ": "referat",
+      "kuerzel": "D2",
+      "name": "Fachanwendungen und GEVER",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-moser-elena",
+      "standortId": "st-biel",
+      "titel": "Sektion D2: Fachanwendungen und GEVER",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-42.html",
+      "leitung": {
+        "id": "p-moser-elena",
+        "name": "Elena Moser",
+        "funktion": "Sektionschefin Fachanwendungen und GEVER"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-moser-elena"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-42.json"
+    },
+    {
+      "id": "ref-43",
+      "typ": "referat",
+      "kuerzel": "D3",
+      "name": "Daten und Schnittstellen",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-yilmaz-deniz",
+      "standortId": "st-biel",
+      "titel": "Sektion D3: Daten und Schnittstellen",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-43.html",
+      "leitung": {
+        "id": "p-yilmaz-deniz",
+        "name": "Deniz Yilmaz",
+        "funktion": "Sektionschef Daten und Schnittstellen"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-yilmaz-deniz"
+      ],
+      "aufgabeIds": [
+        "auf-erba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-43.json"
+    },
+    {
+      "id": "ref-44",
+      "typ": "referat",
+      "kuerzel": "D4",
+      "name": "Informationssicherheit",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-luethi-adrian",
+      "standortId": "st-biel",
+      "titel": "Sektion D4: Informationssicherheit",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-44.html",
+      "leitung": {
+        "id": "p-luethi-adrian",
+        "name": "Adrian Lüthi",
+        "funktion": "Sektionschef Informationssicherheit (ISBO)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-luethi-adrian"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-44.json"
+    }
+  ],
+  "personen": [
+    {
+      "id": "p-kaelin-nadia",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Nadia",
+      "nachname": "Kälin",
+      "funktion": "Leiterin Abteilung Digitales und Register (CDO)",
+      "einheitId": "abt-4",
+      "email": "nadia.kaelin@bba-bund.example",
+      "telefon": "+41 58 999 60 00",
+      "kurzvita": "Informatikerin; verantwortet die Digitalisierung des Amtes am zweisprachigen Standort Biel/Bienne.",
+      "name": "Nadia Kälin",
+      "portrait": "assets/img/ch/personen/p-kaelin-nadia.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-kaelin-nadia.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-kaelin-nadia.html",
+      "einheit": {
+        "id": "abt-4",
+        "name": "Abteilung D: Digitales und Register",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-biel",
+      "leitetEinheitIds": [
+        "abt-4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-kaelin-nadia.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-erba",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "kategorie": "Register",
+      "beschreibung": "Führung des zentralen Registers; Registerauszüge an berechtigte Behörden von Bund, Kantonen und Gemeinden.",
+      "einheitIds": [
+        "abt-4",
+        "ref-41",
+        "ref-43"
+      ],
+      "rechtsgrundlage": "Art. 22–25 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-biel",
+    "name": "Standort Biel/Bienne",
+    "typ": "Standort",
+    "strasse": "Sonderfallstrasse 5 / Rue du Cas particulier 5",
+    "plz": "2502",
+    "ort": "Biel/Bienne",
+    "telefon": "+41 58 999 60 00",
+    "beschreibung": "Zweisprachiger Standort der Abteilung Digitales und Register mit dem Rechenzentrum des ERbA.",
+    "bild": "assets/img/ch/standorte/biel.jpg",
+    "einheitIds": [
+      "abt-4"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-07-erba-start",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) in Betrieb",
+      "datum": "2026-07-01",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-07-erba-start.html"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-hinterberger-elisabeth",
+    "vertretungPersonId": "p-pichler-franz-josef",
+    "beschreibung": "Die Präsidentin und der Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-wien",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html",
+    "leitung": {
+      "id": "p-hinterberger-elisabeth",
+      "name": "Mag.a Dr.in Elisabeth Hinterberger",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-hinterberger-elisabeth",
+      "p-pichler-franz-josef"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/leitung.json"
+  },
+  "parent": null,
+  "children": [
+    {
+      "id": "stab-pb",
+      "typ": "stab",
+      "kuerzel": "PB",
+      "name": "Präsidialbüro",
+      "parentId": "leitung",
+      "leitungPersonId": "p-novak-katharina",
+      "beschreibung": "Unterstützt die Amtsleitung, koordiniert Ministerratsvorträge, parlamentarische Anfragen und den Aktenlauf.",
+      "standortId": "st-wien",
+      "titel": "Präsidialbüro",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pb.html",
+      "leitung": {
+        "id": "p-novak-katharina",
+        "name": "Mag.a Katharina Novak",
+        "funktion": "Leiterin des Präsidialbüros"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-novak-katharina"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-pb.json"
+    },
+    {
+      "id": "stab-pk",
+      "typ": "stab",
+      "kuerzel": "PK",
+      "name": "Presse und Kommunikation",
+      "parentId": "leitung",
+      "leitungPersonId": "p-auer-florian",
+      "beschreibung": "Pressearbeit, Website, Publikationen und Bürgerservice.",
+      "standortId": "st-wien",
+      "titel": "Presse und Kommunikation",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pk.html",
+      "leitung": {
+        "id": "p-auer-florian",
+        "name": "Florian Auer, MA",
+        "funktion": "Pressesprecher"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-auer-florian"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-pk.json"
+    },
+    {
+      "id": "stab-dr",
+      "typ": "stab",
+      "kuerzel": "DR",
+      "name": "Datenschutz und Interne Revision",
+      "parentId": "leitung",
+      "leitungPersonId": "p-kovacs-julia",
+      "beschreibung": "Datenschutzbeauftragte, Interne Revision und Korruptionsprävention.",
+      "standortId": "st-wien",
+      "titel": "Datenschutz und Interne Revision",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-dr.html",
+      "leitung": {
+        "id": "p-kovacs-julia",
+        "name": "Mag.a Julia Kovács",
+        "funktion": "Datenschutzbeauftragte"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-kovacs-julia"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-dr.json"
+    },
+    {
+      "id": "abt-z",
+      "typ": "abteilung",
+      "kuerzel": "I",
+      "name": "Präsidialsektion",
+      "parentId": "leitung",
+      "leitungPersonId": "p-wallner-gerhard",
+      "beschreibung": "Personal, Budget, Amtsgebäude sowie das Formular- und Stempelwesen.",
+      "standortId": "st-wien",
+      "titel": "Sektion I: Präsidialsektion",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html",
+      "leitung": {
+        "id": "p-wallner-gerhard",
+        "name": "Mag. Gerhard Wallner",
+        "funktion": "Sektionschef, Leiter der Präsidialsektion"
+      },
+      "childIds": [
+        "ref-z1",
+        "ref-z2",
+        "ref-z3",
+        "ref-z4"
+      ],
+      "personIds": [
+        "p-wallner-gerhard"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-z.json"
+    },
+    {
+      "id": "abt-1",
+      "typ": "abteilung",
+      "kuerzel": "II",
+      "name": "Grundsatz, Sonderfälle und Sonstiges",
+      "parentId": "leitung",
+      "leitungPersonId": "p-schwarzl-andrea",
+      "beschreibung": "Grundsatzangelegenheiten, Abgrenzung des Besonderen vom Sonstigen, föderale Grenzfälle und Nachsichten.",
+      "standortId": "st-wien",
+      "titel": "Sektion II: Grundsatz, Sonderfälle und Sonstiges",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-1.html",
+      "leitung": {
+        "id": "p-schwarzl-andrea",
+        "name": "Dr.in Andrea Schwarzl",
+        "funktion": "Sektionschefin, Leiterin der Sektion II"
+      },
+      "childIds": [
+        "ref-11",
+        "ref-12",
+        "ref-13",
+        "ref-14"
+      ],
+      "personIds": [
+        "p-schwarzl-andrea"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-1.json"
+    },
+    {
+      "id": "abt-2",
+      "typ": "abteilung",
+      "kuerzel": "III",
+      "name": "Besondere Verfahren",
+      "parentId": "leitung",
+      "leitungPersonId": "p-moosbrugger-klaus",
+      "beschreibung": "Durchführung besonderer Verwaltungsverfahren nach dem AVG, Bescheide besonderer Art sowie Fristen, Feiertage und Fenstertage.",
+      "standortId": "st-graz",
+      "titel": "Sektion III: Besondere Verfahren",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-2.html",
+      "leitung": {
+        "id": "p-moosbrugger-klaus",
+        "name": "Univ.-Prof. Dr. Klaus Moosbrugger",
+        "funktion": "Sektionschef, Leiter der Sektion III"
+      },
+      "childIds": [
+        "ref-21",
+        "ref-22",
+        "ref-23",
+        "ref-24"
+      ],
+      "personIds": [
+        "p-moosbrugger-klaus"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-2.json"
+    },
+    {
+      "id": "abt-3",
+      "typ": "abteilung",
+      "kuerzel": "IV",
+      "name": "Außergewöhnliche Ereignisse",
+      "parentId": "leitung",
+      "leitungPersonId": "p-leitner-brigitte",
+      "beschreibung": "Lagezentrum, wetterbedingte Sonderfälle, Kuriositätenkabinett und Vorsorge für das Unwahrscheinliche.",
+      "standortId": "st-wien",
+      "titel": "Sektion IV: Außergewöhnliche Ereignisse",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-3.html",
+      "leitung": {
+        "id": "p-leitner-brigitte",
+        "name": "Mag.a Brigitte Leitner",
+        "funktion": "Sektionschefin, Leiterin der Sektion IV"
+      },
+      "childIds": [
+        "ref-31",
+        "ref-32",
+        "ref-33",
+        "ref-34"
+      ],
+      "personIds": [
+        "p-leitner-brigitte"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-3.json"
+    },
+    {
+      "id": "abt-4",
+      "typ": "abteilung",
+      "kuerzel": "V",
+      "name": "Digitales und Register",
+      "parentId": "leitung",
+      "leitungPersonId": "p-gruber-stefan",
+      "beschreibung": "Bundesregister besonderer und sonstiger Angelegenheiten, IT-Verfahren und ELAK, Daten und Informationssicherheit.",
+      "standortId": "st-innsbruck",
+      "titel": "Sektion V: Digitales und Register",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-4.html",
+      "leitung": {
+        "id": "p-gruber-stefan",
+        "name": "DI Stefan Gruber",
+        "funktion": "Sektionschef, Leiter der Sektion V (CIO)"
+      },
+      "childIds": [
+        "ref-41",
+        "ref-42",
+        "ref-43",
+        "ref-44"
+      ],
+      "personIds": [
+        "p-gruber-stefan"
+      ],
+      "aufgabeIds": [
+        "auf-brbsa"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-4.json"
+    }
+  ],
+  "personen": [
+    {
+      "id": "p-hinterberger-elisabeth",
+      "anrede": "Frau",
+      "titel": "Mag.a Dr.in",
+      "vorname": "Elisabeth",
+      "nachname": "Hinterberger",
+      "funktion": "Präsidentin",
+      "einheitId": "leitung",
+      "email": "praesidentin@bbsa-bund.example",
+      "telefon": "+43 1 4711-1000",
+      "kurzvita": "Juristin (Universität Wien) und Verwaltungswissenschaftlerin. Nach Stationen im BMAÜS und als Sektionschefin seit 2021 Präsidentin des BBSA. Hat als erste Präsidentin seit 1873 einen Laptop am Schreibtisch.",
+      "name": "Mag.a Dr.in Elisabeth Hinterberger",
+      "portrait": "assets/img/at/personen/p-hinterberger-elisabeth.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-hinterberger-elisabeth.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-hinterberger-elisabeth.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Amtsleitung",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "leitung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-hinterberger-elisabeth.json"
+    },
+    {
+      "id": "p-pichler-franz-josef",
+      "anrede": "Herr",
+      "titel": "HR Dipl.-Ing.",
+      "vorname": "Franz-Josef",
+      "nachname": "Pichler",
+      "funktion": "Vizepräsident",
+      "einheitId": "leitung",
+      "email": "vizepraesident@bbsa-bund.example",
+      "telefon": "+43 1 4711-1001",
+      "kurzvita": "Seit 1987 im Amt, Hofrat seit 2005. Zuständig für die Zusammenarbeit mit den Ländern. Kennt jeden Akt seit 1987 – und die meisten davor vom Hörensagen.",
+      "name": "HR Dipl.-Ing. Franz-Josef Pichler",
+      "portrait": "assets/img/at/personen/p-pichler-franz-josef.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-pichler-franz-josef.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-pichler-franz-josef.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Amtsleitung",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-pichler-franz-josef.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-wien",
+    "name": "Amtsgebäude Wien",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 7",
+    "plz": "1010",
+    "ort": "Wien",
+    "telefon": "+43 1 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+    "bild": "assets/img/at/standorte/wien.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-10-jahresbericht",
+      "titel": "Jahresbericht 2025: Rekord bei sonstigen Angelegenheiten",
+      "datum": "2026-10-30",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-10-jahresbericht.html"
+    }
+  ]
+}

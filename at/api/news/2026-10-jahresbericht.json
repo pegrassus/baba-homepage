@@ -1,0 +1,110 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-10-jahresbericht",
+    "datum": "2026-10-30",
+    "kategorie": "Presseaussendung",
+    "titel": "Jahresbericht 2025: Rekord bei sonstigen Angelegenheiten",
+    "teaser": "Erstmals seit 1972 übersteigt die Zahl der sonstigen Angelegenheiten jene der besonderen. Präsidentin Hinterberger: „Ein Zeichen der Zeit.“",
+    "text": [
+      "Das BBSA hat heute in Wien seinen Jahresbericht 2025 präsentiert. Von 27.431 erledigten Akten betrafen 14.012 sonstige und 13.419 besondere Angelegenheiten.",
+      "„Was besonders ist, entscheiden wir. Was sonstig ist, auch“, sagte Präsidentin Mag.a Dr.in Elisabeth Hinterberger.",
+      "Die durchschnittliche Verfahrensdauer sank auf 31 Werktage. Nicht eingerechnet sind Fenstertage, deren Status gesondert festgestellt wird."
+    ],
+    "bild": "assets/img/at/news/2026-10-jahresbericht.jpg",
+    "einheitId": "stab-pk",
+    "personIds": [
+      "p-hinterberger-elisabeth",
+      "p-auer-florian"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-10-jahresbericht.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-10-jahresbericht.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-10-jahresbericht.json"
+  },
+  "einheit": {
+    "id": "stab-pk",
+    "typ": "stab",
+    "kuerzel": "PK",
+    "name": "Presse und Kommunikation",
+    "parentId": "leitung",
+    "leitungPersonId": "p-auer-florian",
+    "beschreibung": "Pressearbeit, Website, Publikationen und Bürgerservice.",
+    "standortId": "st-wien",
+    "titel": "Presse und Kommunikation",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pk.html",
+    "leitung": {
+      "id": "p-auer-florian",
+      "name": "Florian Auer, MA",
+      "funktion": "Pressesprecher"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-auer-florian"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-pk.json"
+  },
+  "personen": [
+    {
+      "id": "p-hinterberger-elisabeth",
+      "anrede": "Frau",
+      "titel": "Mag.a Dr.in",
+      "vorname": "Elisabeth",
+      "nachname": "Hinterberger",
+      "funktion": "Präsidentin",
+      "einheitId": "leitung",
+      "email": "praesidentin@bbsa-bund.example",
+      "telefon": "+43 1 4711-1000",
+      "kurzvita": "Juristin (Universität Wien) und Verwaltungswissenschaftlerin. Nach Stationen im BMAÜS und als Sektionschefin seit 2021 Präsidentin des BBSA. Hat als erste Präsidentin seit 1873 einen Laptop am Schreibtisch.",
+      "name": "Mag.a Dr.in Elisabeth Hinterberger",
+      "portrait": "assets/img/at/personen/p-hinterberger-elisabeth.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-hinterberger-elisabeth.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-hinterberger-elisabeth.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Amtsleitung",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "leitung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-hinterberger-elisabeth.json"
+    },
+    {
+      "id": "p-auer-florian",
+      "anrede": "Herr",
+      "titel": "",
+      "titelNach": "MA",
+      "vorname": "Florian",
+      "nachname": "Auer",
+      "funktion": "Pressesprecher",
+      "einheitId": "stab-pk",
+      "email": "presse@bbsa-bund.example",
+      "telefon": "+43 1 4711-1020",
+      "kurzvita": "Ehemaliger Radiojournalist; beantwortet Medienanfragen mit Wiener Charme.",
+      "name": "Florian Auer, MA",
+      "portrait": "assets/img/at/personen/p-auer-florian.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-auer-florian.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-auer-florian.html",
+      "einheit": {
+        "id": "stab-pk",
+        "name": "Presse und Kommunikation",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pk.html"
+      },
+      "abteilungId": "stab-pk",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "stab-pk"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-auer-florian.json"
+    }
+  ]
+}

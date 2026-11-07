@@ -1,0 +1,68 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-imboden-kurt",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Kurt",
+    "nachname": "Imboden",
+    "funktion": "Sektionschef Fristen und Pünktlichkeit",
+    "einheitId": "ref-24",
+    "email": "kurt.imboden@bba-bund.example",
+    "telefon": "+41 58 999 44 00",
+    "kurzvita": "Amtlicher Pünktlichkeitsexperte; ist in 34 Dienstjahren nie zu spät gekommen, einmal aber 40 Sekunden zu früh.",
+    "name": "Kurt Imboden",
+    "portrait": "assets/img/ch/personen/p-imboden-kurt.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-imboden-kurt.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-imboden-kurt.html",
+    "einheit": {
+      "id": "ref-24",
+      "name": "Sektion V4: Fristen und Pünktlichkeit",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-24.html"
+    },
+    "abteilungId": "abt-2",
+    "standortId": "st-bellinzona",
+    "leitetEinheitIds": [
+      "ref-24"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-imboden-kurt.json"
+  },
+  "einheit": {
+    "id": "ref-24",
+    "typ": "referat",
+    "kuerzel": "V4",
+    "name": "Fristen und Pünktlichkeit",
+    "parentId": "abt-2",
+    "leitungPersonId": "p-imboden-kurt",
+    "standortId": "st-bellinzona",
+    "titel": "Sektion V4: Fristen und Pünktlichkeit",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-24.html",
+    "leitung": {
+      "id": "p-imboden-kurt",
+      "name": "Kurt Imboden",
+      "funktion": "Sektionschef Fristen und Pünktlichkeit"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-imboden-kurt"
+    ],
+    "aufgabeIds": [
+      "auf-puenktlichkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-24.json"
+  },
+  "news": [
+    {
+      "id": "2026-04-puenktlichkeit",
+      "titel": "Grundsatzentscheid: 08:00:59 Uhr gilt noch als pünktlich",
+      "datum": "2026-04-15",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-04-puenktlichkeit.html"
+    }
+  ]
+}

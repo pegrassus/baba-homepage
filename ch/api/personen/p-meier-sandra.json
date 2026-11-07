@@ -1,0 +1,66 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-meier-sandra",
+    "anrede": "Frau",
+    "titel": "",
+    "vorname": "Sandra",
+    "nachname": "Meier",
+    "funktion": "Sektionschefin Personal und Lernende",
+    "einheitId": "ref-z1",
+    "email": "sandra.meier@bba-bund.example",
+    "telefon": "+41 58 999 21 00",
+    "kurzvita": "Verantwortet Rekrutierung, Lernende und Personalentwicklung.",
+    "name": "Sandra Meier",
+    "portrait": "assets/img/ch/personen/p-meier-sandra.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-meier-sandra.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-meier-sandra.html",
+    "einheit": {
+      "id": "ref-z1",
+      "name": "Sektion R1: Personal und Lernende",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z1.html"
+    },
+    "abteilungId": "abt-z",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [
+      "ref-z1"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-meier-sandra.json"
+  },
+  "einheit": {
+    "id": "ref-z1",
+    "typ": "referat",
+    "kuerzel": "R1",
+    "name": "Personal und Lernende",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-meier-sandra",
+    "standortId": "st-bern",
+    "titel": "Sektion R1: Personal und Lernende",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z1.html",
+    "leitung": {
+      "id": "p-meier-sandra",
+      "name": "Sandra Meier",
+      "funktion": "Sektionschefin Personal und Lernende"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-meier-sandra"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z1.json"
+  },
+  "news": [
+    {
+      "id": "2025-11-lernende",
+      "titel": "14 Lernende starten ihre Ausbildung beim BBA",
+      "datum": "2025-11-26",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2025-11-lernende.html"
+    }
+  ]
+}

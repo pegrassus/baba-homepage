@@ -1,0 +1,82 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-01-echo-archiv",
+    "datum": "2026-01-20",
+    "kategorie": "Mitteilung",
+    "titel": "Kuriositätenarchiv katalogisiert das 1'000. ungeklärte Echo",
+    "teaser": "Das Echo, aufgenommen am Pilatus, antwortete auf «Hallo» mit «Grüessech». Es ist das tausendste Echo mit Abweichung vom Ausgangsruf.",
+    "text": [
+      "Das Tonarchiv der Sektion Kuriositätenarchiv umfasst nun 1'000 Echos, die nicht so antworten, wie man es erwarten würde.",
+      "«Besonders häufig sind Echos, die in einen anderen Dialekt wechseln», erklärt Sektionschef Dr. Hans-Peter Pestalozzi. Ein Echo im Jura antwortet seit 1962 ausschliesslich auf Französisch.",
+      "Eine Auswahl der Aufnahmen ist am Tag der offenen Tür im Hauptsitz Bern zu hören."
+    ],
+    "bild": "assets/img/ch/news/2026-01-echo-archiv.jpg",
+    "einheitId": "ref-33",
+    "personIds": [
+      "p-pestalozzi-hans-peter"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-01-echo-archiv.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-01-echo-archiv.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-01-echo-archiv.json"
+  },
+  "einheit": {
+    "id": "ref-33",
+    "typ": "referat",
+    "kuerzel": "E3",
+    "name": "Kuriositätenarchiv",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-pestalozzi-hans-peter",
+    "standortId": "st-bern",
+    "titel": "Sektion E3: Kuriositätenarchiv",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-33.html",
+    "leitung": {
+      "id": "p-pestalozzi-hans-peter",
+      "name": "Dr. Hans-Peter Pestalozzi",
+      "funktion": "Sektionschef Kuriositätenarchiv"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-pestalozzi-hans-peter"
+    ],
+    "aufgabeIds": [
+      "auf-archiv"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-33.json"
+  },
+  "personen": [
+    {
+      "id": "p-pestalozzi-hans-peter",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Hans-Peter",
+      "nachname": "Pestalozzi",
+      "funktion": "Sektionschef Kuriositätenarchiv",
+      "einheitId": "ref-33",
+      "email": "hans-peter.pestalozzi@bba-bund.example",
+      "telefon": "+41 58 999 53 00",
+      "kurzvita": "Archivar und Historiker; sammelt seit 1988 ungeklärte Echos, verlorene Fondue-Gabeln und doppelt gestempelte Formulare.",
+      "name": "Dr. Hans-Peter Pestalozzi",
+      "portrait": "assets/img/ch/personen/p-pestalozzi-hans-peter.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-pestalozzi-hans-peter.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-pestalozzi-hans-peter.html",
+      "einheit": {
+        "id": "ref-33",
+        "name": "Sektion E3: Kuriositätenarchiv",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-33.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-33"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-pestalozzi-hans-peter.json"
+    }
+  ]
+}

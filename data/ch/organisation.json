@@ -1,0 +1,40 @@
+{
+  "stand": "2026-11-01",
+  "einheiten": [
+    { "id": "leitung", "typ": "leitung", "kuerzel": "DIR", "name": "Direktion", "parentId": null, "leitungPersonId": "p-braendli-ursula", "vertretungPersonId": "p-favre-jean-daniel", "beschreibung": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.", "standortId": "st-bern" },
+
+    { "id": "stab-dir", "typ": "stab", "kuerzel": "DS", "name": "Direktionsstab", "parentId": "leitung", "leitungPersonId": "p-gisler-reto", "beschreibung": "Unterstützt die Direktion, koordiniert Geschäfte mit dem Departement und den Kantonen und führt die Geschäftskontrolle.", "standortId": "st-bern" },
+    { "id": "stab-kom", "typ": "stab", "kuerzel": "KOM", "name": "Kommunikation", "parentId": "leitung", "leitungPersonId": "p-cadonau-seraina", "beschreibung": "Medienarbeit, Website, Publikationen und Anfragen aus der Bevölkerung – in allen Landessprachen.", "standortId": "st-bern" },
+    { "id": "stab-dsr", "typ": "stab", "kuerzel": "DSR", "name": "Datenschutz und Revision", "parentId": "leitung", "leitungPersonId": "p-huerlimann-monika", "beschreibung": "Datenschutzberatung, interne Revision und Compliance.", "standortId": "st-bern" },
+
+    { "id": "abt-z", "typ": "abteilung", "kuerzel": "R", "name": "Ressourcen", "parentId": "leitung", "leitungPersonId": "p-zuercher-martin", "beschreibung": "Personal, Finanzen, Logistik und Sprachdienste.", "standortId": "st-bern" },
+    { "id": "ref-z1", "typ": "referat", "kuerzel": "R1", "name": "Personal und Lernende", "parentId": "abt-z", "leitungPersonId": "p-meier-sandra", "standortId": "st-bern" },
+    { "id": "ref-z2", "typ": "referat", "kuerzel": "R2", "name": "Finanzen und Beschaffung", "parentId": "abt-z", "leitungPersonId": "p-ammann-patrick", "standortId": "st-bern" },
+    { "id": "ref-z3", "typ": "referat", "kuerzel": "R3", "name": "Logistik und Liegenschaften", "parentId": "abt-z", "leitungPersonId": "p-krasniqi-arben", "standortId": "st-bern" },
+    { "id": "ref-z4", "typ": "referat", "kuerzel": "R4", "name": "Sprachdienste (DE/FR/IT/RM)", "parentId": "abt-z", "leitungPersonId": "p-rossi-chiara", "standortId": "st-bern" },
+
+    { "id": "abt-1", "typ": "abteilung", "kuerzel": "G", "name": "Grundsätze und Konkordanz", "parentId": "leitung", "leitungPersonId": "p-bernasconi-andrea", "beschreibung": "Grundsatzfragen, kantonale Sonderfälle, Kompromissfindung und Ausnahmebewilligungen.", "standortId": "st-bern" },
+    { "id": "ref-11", "typ": "referat", "kuerzel": "G1", "name": "Grundsatzfragen der Besonderheit", "parentId": "abt-1", "leitungPersonId": "p-steiner-verena", "standortId": "st-bern" },
+    { "id": "ref-12", "typ": "referat", "kuerzel": "G2", "name": "Kantonale Sonderfälle", "parentId": "abt-1", "leitungPersonId": "p-wyss-lukas", "standortId": "st-bern" },
+    { "id": "ref-13", "typ": "referat", "kuerzel": "G3", "name": "Konkordanz und Kompromissfindung", "parentId": "abt-1", "leitungPersonId": "p-roduit-stephanie", "standortId": "st-bern" },
+    { "id": "ref-14", "typ": "referat", "kuerzel": "G4", "name": "Ausnahmebewilligungen", "parentId": "abt-1", "leitungPersonId": "p-baumann-urs", "standortId": "st-bern" },
+
+    { "id": "abt-2", "typ": "abteilung", "kuerzel": "V", "name": "Verfahren und Vernehmlassungen", "parentId": "leitung", "leitungPersonId": "p-rochat-christine", "beschreibung": "Besondere Verwaltungsverfahren, Vernehmlassungen, Einsprachen und die amtliche Pünktlichkeit.", "standortId": "st-bellinzona" },
+    { "id": "ref-21", "typ": "referat", "kuerzel": "V1", "name": "Besondere Verfahren", "parentId": "abt-2", "leitungPersonId": "p-frei-daniela", "standortId": "st-bellinzona" },
+    { "id": "ref-22", "typ": "referat", "kuerzel": "V2", "name": "Vernehmlassungen zu Unvernehmlassbarem", "parentId": "abt-2", "leitungPersonId": "p-hess-matthias", "standortId": "st-bellinzona" },
+    { "id": "ref-23", "typ": "referat", "kuerzel": "V3", "name": "Einsprachen und Beschwerden", "parentId": "abt-2", "leitungPersonId": "p-tanner-corinne", "standortId": "st-bellinzona" },
+    { "id": "ref-24", "typ": "referat", "kuerzel": "V4", "name": "Fristen und Pünktlichkeit", "parentId": "abt-2", "leitungPersonId": "p-imboden-kurt", "standortId": "st-bellinzona" },
+
+    { "id": "abt-3", "typ": "abteilung", "kuerzel": "E", "name": "Ausserordentliche Ereignisse", "parentId": "leitung", "leitungPersonId": "p-rueegg-thomas", "beschreibung": "Lagebeobachtung, alpine Sonderfälle, Kuriositätenarchiv und Vorsorge für das Unwahrscheinliche.", "standortId": "st-bern" },
+    { "id": "ref-31", "typ": "referat", "kuerzel": "E1", "name": "Lagezentrum Besonderheiten", "parentId": "abt-3", "leitungPersonId": "p-schmid-fabienne", "standortId": "st-bern" },
+    { "id": "ref-32", "typ": "referat", "kuerzel": "E2", "name": "Alpine Sonderfälle", "parentId": "abt-3", "leitungPersonId": "p-zgraggen-josef", "standortId": "st-bern" },
+    { "id": "ref-33", "typ": "referat", "kuerzel": "E3", "name": "Kuriositätenarchiv", "parentId": "abt-3", "leitungPersonId": "p-pestalozzi-hans-peter", "standortId": "st-bern" },
+    { "id": "ref-34", "typ": "referat", "kuerzel": "E4", "name": "Prävention des Unwahrscheinlichen", "parentId": "abt-3", "leitungPersonId": "p-nguyen-mai", "standortId": "st-bern" },
+
+    { "id": "abt-4", "typ": "abteilung", "kuerzel": "D", "name": "Digitales und Register", "parentId": "leitung", "leitungPersonId": "p-kaelin-nadia", "beschreibung": "Eidgenössisches Register besonderer Angelegenheiten, Fachanwendungen, Daten und Informationssicherheit.", "standortId": "st-biel" },
+    { "id": "ref-41", "typ": "referat", "kuerzel": "D1", "name": "Eidgenössisches Register besonderer Angelegenheiten (ERbA)", "parentId": "abt-4", "leitungPersonId": "p-gerber-simon", "standortId": "st-biel" },
+    { "id": "ref-42", "typ": "referat", "kuerzel": "D2", "name": "Fachanwendungen und GEVER", "parentId": "abt-4", "leitungPersonId": "p-moser-elena", "standortId": "st-biel" },
+    { "id": "ref-43", "typ": "referat", "kuerzel": "D3", "name": "Daten und Schnittstellen", "parentId": "abt-4", "leitungPersonId": "p-yilmaz-deniz", "standortId": "st-biel" },
+    { "id": "ref-44", "typ": "referat", "kuerzel": "D4", "name": "Informationssicherheit", "parentId": "abt-4", "leitungPersonId": "p-luethi-adrian", "standortId": "st-biel" }
+  ]
+}

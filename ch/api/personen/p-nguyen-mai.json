@@ -1,0 +1,68 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-nguyen-mai",
+    "anrede": "Frau",
+    "titel": "",
+    "vorname": "Mai",
+    "nachname": "Nguyen",
+    "funktion": "Sektionschefin Prävention des Unwahrscheinlichen",
+    "einheitId": "ref-34",
+    "email": "mai.nguyen@bba-bund.example",
+    "telefon": "+41 58 999 54 00",
+    "kurzvita": "Risikoanalystin (ETH Zürich); entwickelt Szenarien wie «Käse alle» und «Bahnhofsuhr steht still».",
+    "name": "Mai Nguyen",
+    "portrait": "assets/img/ch/personen/p-nguyen-mai.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-nguyen-mai.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-nguyen-mai.html",
+    "einheit": {
+      "id": "ref-34",
+      "name": "Sektion E4: Prävention des Unwahrscheinlichen",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-34.html"
+    },
+    "abteilungId": "abt-3",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [
+      "ref-34"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-nguyen-mai.json"
+  },
+  "einheit": {
+    "id": "ref-34",
+    "typ": "referat",
+    "kuerzel": "E4",
+    "name": "Prävention des Unwahrscheinlichen",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-nguyen-mai",
+    "standortId": "st-bern",
+    "titel": "Sektion E4: Prävention des Unwahrscheinlichen",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-34.html",
+    "leitung": {
+      "id": "p-nguyen-mai",
+      "name": "Mai Nguyen",
+      "funktion": "Sektionschefin Prävention des Unwahrscheinlichen"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-nguyen-mai"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-34.json"
+  },
+  "news": [
+    {
+      "id": "2026-08-fondue-uebung",
+      "titel": "Übung «Käse alle»: Lagezentrum probt den nationalen Fondue-Engpass",
+      "datum": "2026-08-14",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-08-fondue-uebung.html"
+    }
+  ]
+}

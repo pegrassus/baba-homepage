@@ -1,0 +1,136 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-31",
+    "typ": "referat",
+    "kuerzel": "IV/1",
+    "name": "Lagezentrum Besonderheiten",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-reiter-michael",
+    "standortId": "st-wien",
+    "titel": "Abteilung IV/1: Lagezentrum Besonderheiten",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-31.html",
+    "leitung": {
+      "id": "p-reiter-michael",
+      "name": "Michael Reiter, BA",
+      "funktion": "Abteilungsleiter IV/1 (Leiter Lagezentrum)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-reiter-michael"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-31.json"
+  },
+  "parent": {
+    "id": "abt-3",
+    "typ": "abteilung",
+    "kuerzel": "IV",
+    "name": "Außergewöhnliche Ereignisse",
+    "parentId": "leitung",
+    "leitungPersonId": "p-leitner-brigitte",
+    "beschreibung": "Lagezentrum, wetterbedingte Sonderfälle, Kuriositätenkabinett und Vorsorge für das Unwahrscheinliche.",
+    "standortId": "st-wien",
+    "titel": "Sektion IV: Außergewöhnliche Ereignisse",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-3.html",
+    "leitung": {
+      "id": "p-leitner-brigitte",
+      "name": "Mag.a Brigitte Leitner",
+      "funktion": "Sektionschefin, Leiterin der Sektion IV"
+    },
+    "childIds": [
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34"
+    ],
+    "personIds": [
+      "p-leitner-brigitte"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-3.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-reiter-michael",
+      "anrede": "Herr",
+      "titel": "",
+      "titelNach": "BA",
+      "vorname": "Michael",
+      "nachname": "Reiter",
+      "funktion": "Abteilungsleiter IV/1 (Leiter Lagezentrum)",
+      "einheitId": "ref-31",
+      "email": "lagezentrum@bbsa-bund.example",
+      "telefon": "+43 1 4711-5100",
+      "kurzvita": "Leitet das rund um die Uhr besetzte Lagezentrum Besonderheiten.",
+      "name": "Michael Reiter, BA",
+      "portrait": "assets/img/at/personen/p-reiter-michael.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-reiter-michael.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-reiter-michael.html",
+      "einheit": {
+        "id": "ref-31",
+        "name": "Abteilung IV/1: Lagezentrum Besonderheiten",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-31.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-31"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-reiter-michael.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-lage",
+      "titel": "Lagebeobachtung",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Rund-um-die-Uhr-Beobachtung außergewöhnlicher Ereignisse, einschließlich Krampusläufen und Föhnstürmen.",
+      "einheitIds": [
+        "abt-3",
+        "ref-31"
+      ],
+      "rechtsgrundlage": "§ 18 BBSAG"
+    }
+  ],
+  "standort": {
+    "id": "st-wien",
+    "name": "Amtsgebäude Wien",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 7",
+    "plz": "1010",
+    "ort": "Wien",
+    "telefon": "+43 1 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+    "bild": "assets/img/at/standorte/wien.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2025-12-krampus-uebung",
+      "titel": "Übung „Krampusnacht“: Lagezentrum probt den 5. Dezember",
+      "datum": "2025-12-05",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2025-12-krampus-uebung.html"
+    }
+  ]
+}

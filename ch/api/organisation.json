@@ -1,0 +1,1551 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "standDerOrganisation": "2026-11-01",
+  "begriffe": {
+    "leitung": "Direktion",
+    "stab": "Stabsstelle",
+    "abteilung": "Abteilung",
+    "referat": "Sektion"
+  },
+  "anzahl": 29,
+  "einheiten": [
+    {
+      "id": "leitung",
+      "typ": "leitung",
+      "kuerzel": "DIR",
+      "name": "Direktion",
+      "parentId": null,
+      "leitungPersonId": "p-braendli-ursula",
+      "vertretungPersonId": "p-favre-jean-daniel",
+      "beschreibung": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.",
+      "standortId": "st-bern",
+      "titel": "Direktion",
+      "typLabel": "Direktion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html",
+      "leitung": {
+        "id": "p-braendli-ursula",
+        "name": "Dr. Ursula Brändli",
+        "funktion": "Direktorin"
+      },
+      "childIds": [
+        "stab-dir",
+        "stab-kom",
+        "stab-dsr",
+        "abt-z",
+        "abt-1",
+        "abt-2",
+        "abt-3",
+        "abt-4"
+      ],
+      "personIds": [
+        "p-braendli-ursula",
+        "p-favre-jean-daniel"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/leitung.json"
+    },
+    {
+      "id": "stab-dir",
+      "typ": "stab",
+      "kuerzel": "DS",
+      "name": "Direktionsstab",
+      "parentId": "leitung",
+      "leitungPersonId": "p-gisler-reto",
+      "beschreibung": "Unterstützt die Direktion, koordiniert Geschäfte mit dem Departement und den Kantonen und führt die Geschäftskontrolle.",
+      "standortId": "st-bern",
+      "titel": "Direktionsstab",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dir.html",
+      "leitung": {
+        "id": "p-gisler-reto",
+        "name": "Reto Gisler",
+        "funktion": "Leiter Direktionsstab"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-gisler-reto"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-dir.json"
+    },
+    {
+      "id": "stab-kom",
+      "typ": "stab",
+      "kuerzel": "KOM",
+      "name": "Kommunikation",
+      "parentId": "leitung",
+      "leitungPersonId": "p-cadonau-seraina",
+      "beschreibung": "Medienarbeit, Website, Publikationen und Anfragen aus der Bevölkerung – in allen Landessprachen.",
+      "standortId": "st-bern",
+      "titel": "Kommunikation",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-kom.html",
+      "leitung": {
+        "id": "p-cadonau-seraina",
+        "name": "Seraina Cadonau",
+        "funktion": "Mediensprecherin"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-cadonau-seraina"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-kom.json"
+    },
+    {
+      "id": "stab-dsr",
+      "typ": "stab",
+      "kuerzel": "DSR",
+      "name": "Datenschutz und Revision",
+      "parentId": "leitung",
+      "leitungPersonId": "p-huerlimann-monika",
+      "beschreibung": "Datenschutzberatung, interne Revision und Compliance.",
+      "standortId": "st-bern",
+      "titel": "Datenschutz und Revision",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dsr.html",
+      "leitung": {
+        "id": "p-huerlimann-monika",
+        "name": "Monika Hürlimann",
+        "funktion": "Datenschutzberaterin"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-huerlimann-monika"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-dsr.json"
+    },
+    {
+      "id": "abt-z",
+      "typ": "abteilung",
+      "kuerzel": "R",
+      "name": "Ressourcen",
+      "parentId": "leitung",
+      "leitungPersonId": "p-zuercher-martin",
+      "beschreibung": "Personal, Finanzen, Logistik und Sprachdienste.",
+      "standortId": "st-bern",
+      "titel": "Abteilung R: Ressourcen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-z.html",
+      "leitung": {
+        "id": "p-zuercher-martin",
+        "name": "Martin Zürcher",
+        "funktion": "Leiter Abteilung Ressourcen"
+      },
+      "childIds": [
+        "ref-z1",
+        "ref-z2",
+        "ref-z3",
+        "ref-z4"
+      ],
+      "personIds": [
+        "p-zuercher-martin"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-z.json"
+    },
+    {
+      "id": "ref-z1",
+      "typ": "referat",
+      "kuerzel": "R1",
+      "name": "Personal und Lernende",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-meier-sandra",
+      "standortId": "st-bern",
+      "titel": "Sektion R1: Personal und Lernende",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z1.html",
+      "leitung": {
+        "id": "p-meier-sandra",
+        "name": "Sandra Meier",
+        "funktion": "Sektionschefin Personal und Lernende"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-meier-sandra"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z1.json"
+    },
+    {
+      "id": "ref-z2",
+      "typ": "referat",
+      "kuerzel": "R2",
+      "name": "Finanzen und Beschaffung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-ammann-patrick",
+      "standortId": "st-bern",
+      "titel": "Sektion R2: Finanzen und Beschaffung",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z2.html",
+      "leitung": {
+        "id": "p-ammann-patrick",
+        "name": "Patrick Ammann",
+        "funktion": "Sektionschef Finanzen und Beschaffung"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-ammann-patrick"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z2.json"
+    },
+    {
+      "id": "ref-z3",
+      "typ": "referat",
+      "kuerzel": "R3",
+      "name": "Logistik und Liegenschaften",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-krasniqi-arben",
+      "standortId": "st-bern",
+      "titel": "Sektion R3: Logistik und Liegenschaften",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z3.html",
+      "leitung": {
+        "id": "p-krasniqi-arben",
+        "name": "Arben Krasniqi",
+        "funktion": "Sektionschef Logistik und Liegenschaften"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-krasniqi-arben"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z3.json"
+    },
+    {
+      "id": "ref-z4",
+      "typ": "referat",
+      "kuerzel": "R4",
+      "name": "Sprachdienste (DE/FR/IT/RM)",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-rossi-chiara",
+      "standortId": "st-bern",
+      "titel": "Sektion R4: Sprachdienste (DE/FR/IT/RM)",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z4.html",
+      "leitung": {
+        "id": "p-rossi-chiara",
+        "name": "Chiara Rossi",
+        "funktion": "Sektionschefin Sprachdienste"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-rossi-chiara"
+      ],
+      "aufgabeIds": [
+        "auf-sprachen"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z4.json"
+    },
+    {
+      "id": "abt-1",
+      "typ": "abteilung",
+      "kuerzel": "G",
+      "name": "Grundsätze und Konkordanz",
+      "parentId": "leitung",
+      "leitungPersonId": "p-bernasconi-andrea",
+      "beschreibung": "Grundsatzfragen, kantonale Sonderfälle, Kompromissfindung und Ausnahmebewilligungen.",
+      "standortId": "st-bern",
+      "titel": "Abteilung G: Grundsätze und Konkordanz",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html",
+      "leitung": {
+        "id": "p-bernasconi-andrea",
+        "name": "Dr. Andrea Bernasconi",
+        "funktion": "Leiter Abteilung Grundsätze und Konkordanz"
+      },
+      "childIds": [
+        "ref-11",
+        "ref-12",
+        "ref-13",
+        "ref-14"
+      ],
+      "personIds": [
+        "p-bernasconi-andrea"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-1.json"
+    },
+    {
+      "id": "ref-11",
+      "typ": "referat",
+      "kuerzel": "G1",
+      "name": "Grundsatzfragen der Besonderheit",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-steiner-verena",
+      "standortId": "st-bern",
+      "titel": "Sektion G1: Grundsatzfragen der Besonderheit",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-11.html",
+      "leitung": {
+        "id": "p-steiner-verena",
+        "name": "Dr. Verena Steiner",
+        "funktion": "Sektionschefin Grundsatzfragen der Besonderheit"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-steiner-verena"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit",
+        "auf-abgrenzung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-11.json"
+    },
+    {
+      "id": "ref-12",
+      "typ": "referat",
+      "kuerzel": "G2",
+      "name": "Kantonale Sonderfälle",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-wyss-lukas",
+      "standortId": "st-bern",
+      "titel": "Sektion G2: Kantonale Sonderfälle",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-12.html",
+      "leitung": {
+        "id": "p-wyss-lukas",
+        "name": "Lukas Wyss",
+        "funktion": "Sektionschef Kantonale Sonderfälle"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-wyss-lukas"
+      ],
+      "aufgabeIds": [
+        "auf-kantone"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-12.json"
+    },
+    {
+      "id": "ref-13",
+      "typ": "referat",
+      "kuerzel": "G3",
+      "name": "Konkordanz und Kompromissfindung",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-roduit-stephanie",
+      "standortId": "st-bern",
+      "titel": "Sektion G3: Konkordanz und Kompromissfindung",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-13.html",
+      "leitung": {
+        "id": "p-roduit-stephanie",
+        "name": "Stéphanie Roduit",
+        "funktion": "Sektionschefin Konkordanz und Kompromissfindung"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-roduit-stephanie"
+      ],
+      "aufgabeIds": [
+        "auf-kantone"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-13.json"
+    },
+    {
+      "id": "ref-14",
+      "typ": "referat",
+      "kuerzel": "G4",
+      "name": "Ausnahmebewilligungen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-baumann-urs",
+      "standortId": "st-bern",
+      "titel": "Sektion G4: Ausnahmebewilligungen",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-14.html",
+      "leitung": {
+        "id": "p-baumann-urs",
+        "name": "Urs Baumann",
+        "funktion": "Sektionschef Ausnahmebewilligungen"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-baumann-urs"
+      ],
+      "aufgabeIds": [
+        "auf-ausnahme"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-14.json"
+    },
+    {
+      "id": "abt-2",
+      "typ": "abteilung",
+      "kuerzel": "V",
+      "name": "Verfahren und Vernehmlassungen",
+      "parentId": "leitung",
+      "leitungPersonId": "p-rochat-christine",
+      "beschreibung": "Besondere Verwaltungsverfahren, Vernehmlassungen, Einsprachen und die amtliche Pünktlichkeit.",
+      "standortId": "st-bellinzona",
+      "titel": "Abteilung V: Verfahren und Vernehmlassungen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html",
+      "leitung": {
+        "id": "p-rochat-christine",
+        "name": "Prof. Dr. Christine Rochat",
+        "funktion": "Leiterin Abteilung Verfahren und Vernehmlassungen"
+      },
+      "childIds": [
+        "ref-21",
+        "ref-22",
+        "ref-23",
+        "ref-24"
+      ],
+      "personIds": [
+        "p-rochat-christine"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-2.json"
+    },
+    {
+      "id": "ref-21",
+      "typ": "referat",
+      "kuerzel": "V1",
+      "name": "Besondere Verfahren",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-frei-daniela",
+      "standortId": "st-bellinzona",
+      "titel": "Sektion V1: Besondere Verfahren",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-21.html",
+      "leitung": {
+        "id": "p-frei-daniela",
+        "name": "Daniela Frei",
+        "funktion": "Sektionschefin Besondere Verfahren"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-frei-daniela"
+      ],
+      "aufgabeIds": [
+        "auf-abgrenzung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-21.json"
+    },
+    {
+      "id": "ref-22",
+      "typ": "referat",
+      "kuerzel": "V2",
+      "name": "Vernehmlassungen zu Unvernehmlassbarem",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-hess-matthias",
+      "standortId": "st-bellinzona",
+      "titel": "Sektion V2: Vernehmlassungen zu Unvernehmlassbarem",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-22.html",
+      "leitung": {
+        "id": "p-hess-matthias",
+        "name": "Matthias Hess",
+        "funktion": "Sektionschef Vernehmlassungen"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-hess-matthias"
+      ],
+      "aufgabeIds": [
+        "auf-vernehmlassung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-22.json"
+    },
+    {
+      "id": "ref-23",
+      "typ": "referat",
+      "kuerzel": "V3",
+      "name": "Einsprachen und Beschwerden",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-tanner-corinne",
+      "standortId": "st-bellinzona",
+      "titel": "Sektion V3: Einsprachen und Beschwerden",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-23.html",
+      "leitung": {
+        "id": "p-tanner-corinne",
+        "name": "Corinne Tanner",
+        "funktion": "Sektionschefin Einsprachen und Beschwerden"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-tanner-corinne"
+      ],
+      "aufgabeIds": [
+        "auf-einsprache"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-23.json"
+    },
+    {
+      "id": "ref-24",
+      "typ": "referat",
+      "kuerzel": "V4",
+      "name": "Fristen und Pünktlichkeit",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-imboden-kurt",
+      "standortId": "st-bellinzona",
+      "titel": "Sektion V4: Fristen und Pünktlichkeit",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-24.html",
+      "leitung": {
+        "id": "p-imboden-kurt",
+        "name": "Kurt Imboden",
+        "funktion": "Sektionschef Fristen und Pünktlichkeit"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-imboden-kurt"
+      ],
+      "aufgabeIds": [
+        "auf-puenktlichkeit"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-24.json"
+    },
+    {
+      "id": "abt-3",
+      "typ": "abteilung",
+      "kuerzel": "E",
+      "name": "Ausserordentliche Ereignisse",
+      "parentId": "leitung",
+      "leitungPersonId": "p-rueegg-thomas",
+      "beschreibung": "Lagebeobachtung, alpine Sonderfälle, Kuriositätenarchiv und Vorsorge für das Unwahrscheinliche.",
+      "standortId": "st-bern",
+      "titel": "Abteilung E: Ausserordentliche Ereignisse",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html",
+      "leitung": {
+        "id": "p-rueegg-thomas",
+        "name": "Thomas Rüegg",
+        "funktion": "Leiter Abteilung Ausserordentliche Ereignisse"
+      },
+      "childIds": [
+        "ref-31",
+        "ref-32",
+        "ref-33",
+        "ref-34"
+      ],
+      "personIds": [
+        "p-rueegg-thomas"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-3.json"
+    },
+    {
+      "id": "ref-31",
+      "typ": "referat",
+      "kuerzel": "E1",
+      "name": "Lagezentrum Besonderheiten",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-schmid-fabienne",
+      "standortId": "st-bern",
+      "titel": "Sektion E1: Lagezentrum Besonderheiten",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-31.html",
+      "leitung": {
+        "id": "p-schmid-fabienne",
+        "name": "Fabienne Schmid",
+        "funktion": "Sektionschefin Lagezentrum"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-schmid-fabienne"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-31.json"
+    },
+    {
+      "id": "ref-32",
+      "typ": "referat",
+      "kuerzel": "E2",
+      "name": "Alpine Sonderfälle",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-zgraggen-josef",
+      "standortId": "st-bern",
+      "titel": "Sektion E2: Alpine Sonderfälle",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-32.html",
+      "leitung": {
+        "id": "p-zgraggen-josef",
+        "name": "Josef Zgraggen",
+        "funktion": "Sektionschef Alpine Sonderfälle"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-zgraggen-josef"
+      ],
+      "aufgabeIds": [
+        "auf-alpin"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-32.json"
+    },
+    {
+      "id": "ref-33",
+      "typ": "referat",
+      "kuerzel": "E3",
+      "name": "Kuriositätenarchiv",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-pestalozzi-hans-peter",
+      "standortId": "st-bern",
+      "titel": "Sektion E3: Kuriositätenarchiv",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-33.html",
+      "leitung": {
+        "id": "p-pestalozzi-hans-peter",
+        "name": "Dr. Hans-Peter Pestalozzi",
+        "funktion": "Sektionschef Kuriositätenarchiv"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-pestalozzi-hans-peter"
+      ],
+      "aufgabeIds": [
+        "auf-archiv"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-33.json"
+    },
+    {
+      "id": "ref-34",
+      "typ": "referat",
+      "kuerzel": "E4",
+      "name": "Prävention des Unwahrscheinlichen",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-nguyen-mai",
+      "standortId": "st-bern",
+      "titel": "Sektion E4: Prävention des Unwahrscheinlichen",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-34.html",
+      "leitung": {
+        "id": "p-nguyen-mai",
+        "name": "Mai Nguyen",
+        "funktion": "Sektionschefin Prävention des Unwahrscheinlichen"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-nguyen-mai"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-34.json"
+    },
+    {
+      "id": "abt-4",
+      "typ": "abteilung",
+      "kuerzel": "D",
+      "name": "Digitales und Register",
+      "parentId": "leitung",
+      "leitungPersonId": "p-kaelin-nadia",
+      "beschreibung": "Eidgenössisches Register besonderer Angelegenheiten, Fachanwendungen, Daten und Informationssicherheit.",
+      "standortId": "st-biel",
+      "titel": "Abteilung D: Digitales und Register",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html",
+      "leitung": {
+        "id": "p-kaelin-nadia",
+        "name": "Nadia Kälin",
+        "funktion": "Leiterin Abteilung Digitales und Register (CDO)"
+      },
+      "childIds": [
+        "ref-41",
+        "ref-42",
+        "ref-43",
+        "ref-44"
+      ],
+      "personIds": [
+        "p-kaelin-nadia"
+      ],
+      "aufgabeIds": [
+        "auf-erba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-4.json"
+    },
+    {
+      "id": "ref-41",
+      "typ": "referat",
+      "kuerzel": "D1",
+      "name": "Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-gerber-simon",
+      "standortId": "st-biel",
+      "titel": "Sektion D1: Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-41.html",
+      "leitung": {
+        "id": "p-gerber-simon",
+        "name": "Dr. Simon Gerber",
+        "funktion": "Sektionschef ERbA (Registerführer)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-gerber-simon"
+      ],
+      "aufgabeIds": [
+        "auf-erba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-41.json"
+    },
+    {
+      "id": "ref-42",
+      "typ": "referat",
+      "kuerzel": "D2",
+      "name": "Fachanwendungen und GEVER",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-moser-elena",
+      "standortId": "st-biel",
+      "titel": "Sektion D2: Fachanwendungen und GEVER",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-42.html",
+      "leitung": {
+        "id": "p-moser-elena",
+        "name": "Elena Moser",
+        "funktion": "Sektionschefin Fachanwendungen und GEVER"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-moser-elena"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-42.json"
+    },
+    {
+      "id": "ref-43",
+      "typ": "referat",
+      "kuerzel": "D3",
+      "name": "Daten und Schnittstellen",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-yilmaz-deniz",
+      "standortId": "st-biel",
+      "titel": "Sektion D3: Daten und Schnittstellen",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-43.html",
+      "leitung": {
+        "id": "p-yilmaz-deniz",
+        "name": "Deniz Yilmaz",
+        "funktion": "Sektionschef Daten und Schnittstellen"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-yilmaz-deniz"
+      ],
+      "aufgabeIds": [
+        "auf-erba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-43.json"
+    },
+    {
+      "id": "ref-44",
+      "typ": "referat",
+      "kuerzel": "D4",
+      "name": "Informationssicherheit",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-luethi-adrian",
+      "standortId": "st-biel",
+      "titel": "Sektion D4: Informationssicherheit",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-44.html",
+      "leitung": {
+        "id": "p-luethi-adrian",
+        "name": "Adrian Lüthi",
+        "funktion": "Sektionschef Informationssicherheit (ISBO)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-luethi-adrian"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-44.json"
+    }
+  ],
+  "baum": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "DIR",
+    "name": "Direktion",
+    "parentId": null,
+    "leitungPersonId": "p-braendli-ursula",
+    "vertretungPersonId": "p-favre-jean-daniel",
+    "beschreibung": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.",
+    "standortId": "st-bern",
+    "titel": "Direktion",
+    "typLabel": "Direktion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html",
+    "leitung": {
+      "id": "p-braendli-ursula",
+      "name": "Dr. Ursula Brändli",
+      "funktion": "Direktorin"
+    },
+    "childIds": [
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-braendli-ursula",
+      "p-favre-jean-daniel"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/leitung.json",
+    "children": [
+      {
+        "id": "stab-dir",
+        "typ": "stab",
+        "kuerzel": "DS",
+        "name": "Direktionsstab",
+        "parentId": "leitung",
+        "leitungPersonId": "p-gisler-reto",
+        "beschreibung": "Unterstützt die Direktion, koordiniert Geschäfte mit dem Departement und den Kantonen und führt die Geschäftskontrolle.",
+        "standortId": "st-bern",
+        "titel": "Direktionsstab",
+        "typLabel": "Stabsstelle",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dir.html",
+        "leitung": {
+          "id": "p-gisler-reto",
+          "name": "Reto Gisler",
+          "funktion": "Leiter Direktionsstab"
+        },
+        "childIds": [],
+        "personIds": [
+          "p-gisler-reto"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-dir.json",
+        "children": []
+      },
+      {
+        "id": "stab-kom",
+        "typ": "stab",
+        "kuerzel": "KOM",
+        "name": "Kommunikation",
+        "parentId": "leitung",
+        "leitungPersonId": "p-cadonau-seraina",
+        "beschreibung": "Medienarbeit, Website, Publikationen und Anfragen aus der Bevölkerung – in allen Landessprachen.",
+        "standortId": "st-bern",
+        "titel": "Kommunikation",
+        "typLabel": "Stabsstelle",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-kom.html",
+        "leitung": {
+          "id": "p-cadonau-seraina",
+          "name": "Seraina Cadonau",
+          "funktion": "Mediensprecherin"
+        },
+        "childIds": [],
+        "personIds": [
+          "p-cadonau-seraina"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-kom.json",
+        "children": []
+      },
+      {
+        "id": "stab-dsr",
+        "typ": "stab",
+        "kuerzel": "DSR",
+        "name": "Datenschutz und Revision",
+        "parentId": "leitung",
+        "leitungPersonId": "p-huerlimann-monika",
+        "beschreibung": "Datenschutzberatung, interne Revision und Compliance.",
+        "standortId": "st-bern",
+        "titel": "Datenschutz und Revision",
+        "typLabel": "Stabsstelle",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dsr.html",
+        "leitung": {
+          "id": "p-huerlimann-monika",
+          "name": "Monika Hürlimann",
+          "funktion": "Datenschutzberaterin"
+        },
+        "childIds": [],
+        "personIds": [
+          "p-huerlimann-monika"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-dsr.json",
+        "children": []
+      },
+      {
+        "id": "abt-z",
+        "typ": "abteilung",
+        "kuerzel": "R",
+        "name": "Ressourcen",
+        "parentId": "leitung",
+        "leitungPersonId": "p-zuercher-martin",
+        "beschreibung": "Personal, Finanzen, Logistik und Sprachdienste.",
+        "standortId": "st-bern",
+        "titel": "Abteilung R: Ressourcen",
+        "typLabel": "Abteilung",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-z.html",
+        "leitung": {
+          "id": "p-zuercher-martin",
+          "name": "Martin Zürcher",
+          "funktion": "Leiter Abteilung Ressourcen"
+        },
+        "childIds": [
+          "ref-z1",
+          "ref-z2",
+          "ref-z3",
+          "ref-z4"
+        ],
+        "personIds": [
+          "p-zuercher-martin"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-z.json",
+        "children": [
+          {
+            "id": "ref-z1",
+            "typ": "referat",
+            "kuerzel": "R1",
+            "name": "Personal und Lernende",
+            "parentId": "abt-z",
+            "leitungPersonId": "p-meier-sandra",
+            "standortId": "st-bern",
+            "titel": "Sektion R1: Personal und Lernende",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z1.html",
+            "leitung": {
+              "id": "p-meier-sandra",
+              "name": "Sandra Meier",
+              "funktion": "Sektionschefin Personal und Lernende"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-meier-sandra"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z1.json",
+            "children": []
+          },
+          {
+            "id": "ref-z2",
+            "typ": "referat",
+            "kuerzel": "R2",
+            "name": "Finanzen und Beschaffung",
+            "parentId": "abt-z",
+            "leitungPersonId": "p-ammann-patrick",
+            "standortId": "st-bern",
+            "titel": "Sektion R2: Finanzen und Beschaffung",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z2.html",
+            "leitung": {
+              "id": "p-ammann-patrick",
+              "name": "Patrick Ammann",
+              "funktion": "Sektionschef Finanzen und Beschaffung"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-ammann-patrick"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z2.json",
+            "children": []
+          },
+          {
+            "id": "ref-z3",
+            "typ": "referat",
+            "kuerzel": "R3",
+            "name": "Logistik und Liegenschaften",
+            "parentId": "abt-z",
+            "leitungPersonId": "p-krasniqi-arben",
+            "standortId": "st-bern",
+            "titel": "Sektion R3: Logistik und Liegenschaften",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z3.html",
+            "leitung": {
+              "id": "p-krasniqi-arben",
+              "name": "Arben Krasniqi",
+              "funktion": "Sektionschef Logistik und Liegenschaften"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-krasniqi-arben"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z3.json",
+            "children": []
+          },
+          {
+            "id": "ref-z4",
+            "typ": "referat",
+            "kuerzel": "R4",
+            "name": "Sprachdienste (DE/FR/IT/RM)",
+            "parentId": "abt-z",
+            "leitungPersonId": "p-rossi-chiara",
+            "standortId": "st-bern",
+            "titel": "Sektion R4: Sprachdienste (DE/FR/IT/RM)",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z4.html",
+            "leitung": {
+              "id": "p-rossi-chiara",
+              "name": "Chiara Rossi",
+              "funktion": "Sektionschefin Sprachdienste"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-rossi-chiara"
+            ],
+            "aufgabeIds": [
+              "auf-sprachen"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z4.json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "abt-1",
+        "typ": "abteilung",
+        "kuerzel": "G",
+        "name": "Grundsätze und Konkordanz",
+        "parentId": "leitung",
+        "leitungPersonId": "p-bernasconi-andrea",
+        "beschreibung": "Grundsatzfragen, kantonale Sonderfälle, Kompromissfindung und Ausnahmebewilligungen.",
+        "standortId": "st-bern",
+        "titel": "Abteilung G: Grundsätze und Konkordanz",
+        "typLabel": "Abteilung",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html",
+        "leitung": {
+          "id": "p-bernasconi-andrea",
+          "name": "Dr. Andrea Bernasconi",
+          "funktion": "Leiter Abteilung Grundsätze und Konkordanz"
+        },
+        "childIds": [
+          "ref-11",
+          "ref-12",
+          "ref-13",
+          "ref-14"
+        ],
+        "personIds": [
+          "p-bernasconi-andrea"
+        ],
+        "aufgabeIds": [
+          "auf-zustaendigkeit"
+        ],
+        "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-1.json",
+        "children": [
+          {
+            "id": "ref-11",
+            "typ": "referat",
+            "kuerzel": "G1",
+            "name": "Grundsatzfragen der Besonderheit",
+            "parentId": "abt-1",
+            "leitungPersonId": "p-steiner-verena",
+            "standortId": "st-bern",
+            "titel": "Sektion G1: Grundsatzfragen der Besonderheit",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-11.html",
+            "leitung": {
+              "id": "p-steiner-verena",
+              "name": "Dr. Verena Steiner",
+              "funktion": "Sektionschefin Grundsatzfragen der Besonderheit"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-steiner-verena"
+            ],
+            "aufgabeIds": [
+              "auf-zustaendigkeit",
+              "auf-abgrenzung"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-11.json",
+            "children": []
+          },
+          {
+            "id": "ref-12",
+            "typ": "referat",
+            "kuerzel": "G2",
+            "name": "Kantonale Sonderfälle",
+            "parentId": "abt-1",
+            "leitungPersonId": "p-wyss-lukas",
+            "standortId": "st-bern",
+            "titel": "Sektion G2: Kantonale Sonderfälle",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-12.html",
+            "leitung": {
+              "id": "p-wyss-lukas",
+              "name": "Lukas Wyss",
+              "funktion": "Sektionschef Kantonale Sonderfälle"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-wyss-lukas"
+            ],
+            "aufgabeIds": [
+              "auf-kantone"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-12.json",
+            "children": []
+          },
+          {
+            "id": "ref-13",
+            "typ": "referat",
+            "kuerzel": "G3",
+            "name": "Konkordanz und Kompromissfindung",
+            "parentId": "abt-1",
+            "leitungPersonId": "p-roduit-stephanie",
+            "standortId": "st-bern",
+            "titel": "Sektion G3: Konkordanz und Kompromissfindung",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-13.html",
+            "leitung": {
+              "id": "p-roduit-stephanie",
+              "name": "Stéphanie Roduit",
+              "funktion": "Sektionschefin Konkordanz und Kompromissfindung"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-roduit-stephanie"
+            ],
+            "aufgabeIds": [
+              "auf-kantone"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-13.json",
+            "children": []
+          },
+          {
+            "id": "ref-14",
+            "typ": "referat",
+            "kuerzel": "G4",
+            "name": "Ausnahmebewilligungen",
+            "parentId": "abt-1",
+            "leitungPersonId": "p-baumann-urs",
+            "standortId": "st-bern",
+            "titel": "Sektion G4: Ausnahmebewilligungen",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-14.html",
+            "leitung": {
+              "id": "p-baumann-urs",
+              "name": "Urs Baumann",
+              "funktion": "Sektionschef Ausnahmebewilligungen"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-baumann-urs"
+            ],
+            "aufgabeIds": [
+              "auf-ausnahme"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-14.json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "abt-2",
+        "typ": "abteilung",
+        "kuerzel": "V",
+        "name": "Verfahren und Vernehmlassungen",
+        "parentId": "leitung",
+        "leitungPersonId": "p-rochat-christine",
+        "beschreibung": "Besondere Verwaltungsverfahren, Vernehmlassungen, Einsprachen und die amtliche Pünktlichkeit.",
+        "standortId": "st-bellinzona",
+        "titel": "Abteilung V: Verfahren und Vernehmlassungen",
+        "typLabel": "Abteilung",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html",
+        "leitung": {
+          "id": "p-rochat-christine",
+          "name": "Prof. Dr. Christine Rochat",
+          "funktion": "Leiterin Abteilung Verfahren und Vernehmlassungen"
+        },
+        "childIds": [
+          "ref-21",
+          "ref-22",
+          "ref-23",
+          "ref-24"
+        ],
+        "personIds": [
+          "p-rochat-christine"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-2.json",
+        "children": [
+          {
+            "id": "ref-21",
+            "typ": "referat",
+            "kuerzel": "V1",
+            "name": "Besondere Verfahren",
+            "parentId": "abt-2",
+            "leitungPersonId": "p-frei-daniela",
+            "standortId": "st-bellinzona",
+            "titel": "Sektion V1: Besondere Verfahren",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-21.html",
+            "leitung": {
+              "id": "p-frei-daniela",
+              "name": "Daniela Frei",
+              "funktion": "Sektionschefin Besondere Verfahren"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-frei-daniela"
+            ],
+            "aufgabeIds": [
+              "auf-abgrenzung"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-21.json",
+            "children": []
+          },
+          {
+            "id": "ref-22",
+            "typ": "referat",
+            "kuerzel": "V2",
+            "name": "Vernehmlassungen zu Unvernehmlassbarem",
+            "parentId": "abt-2",
+            "leitungPersonId": "p-hess-matthias",
+            "standortId": "st-bellinzona",
+            "titel": "Sektion V2: Vernehmlassungen zu Unvernehmlassbarem",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-22.html",
+            "leitung": {
+              "id": "p-hess-matthias",
+              "name": "Matthias Hess",
+              "funktion": "Sektionschef Vernehmlassungen"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-hess-matthias"
+            ],
+            "aufgabeIds": [
+              "auf-vernehmlassung"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-22.json",
+            "children": []
+          },
+          {
+            "id": "ref-23",
+            "typ": "referat",
+            "kuerzel": "V3",
+            "name": "Einsprachen und Beschwerden",
+            "parentId": "abt-2",
+            "leitungPersonId": "p-tanner-corinne",
+            "standortId": "st-bellinzona",
+            "titel": "Sektion V3: Einsprachen und Beschwerden",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-23.html",
+            "leitung": {
+              "id": "p-tanner-corinne",
+              "name": "Corinne Tanner",
+              "funktion": "Sektionschefin Einsprachen und Beschwerden"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-tanner-corinne"
+            ],
+            "aufgabeIds": [
+              "auf-einsprache"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-23.json",
+            "children": []
+          },
+          {
+            "id": "ref-24",
+            "typ": "referat",
+            "kuerzel": "V4",
+            "name": "Fristen und Pünktlichkeit",
+            "parentId": "abt-2",
+            "leitungPersonId": "p-imboden-kurt",
+            "standortId": "st-bellinzona",
+            "titel": "Sektion V4: Fristen und Pünktlichkeit",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-24.html",
+            "leitung": {
+              "id": "p-imboden-kurt",
+              "name": "Kurt Imboden",
+              "funktion": "Sektionschef Fristen und Pünktlichkeit"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-imboden-kurt"
+            ],
+            "aufgabeIds": [
+              "auf-puenktlichkeit"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-24.json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "abt-3",
+        "typ": "abteilung",
+        "kuerzel": "E",
+        "name": "Ausserordentliche Ereignisse",
+        "parentId": "leitung",
+        "leitungPersonId": "p-rueegg-thomas",
+        "beschreibung": "Lagebeobachtung, alpine Sonderfälle, Kuriositätenarchiv und Vorsorge für das Unwahrscheinliche.",
+        "standortId": "st-bern",
+        "titel": "Abteilung E: Ausserordentliche Ereignisse",
+        "typLabel": "Abteilung",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html",
+        "leitung": {
+          "id": "p-rueegg-thomas",
+          "name": "Thomas Rüegg",
+          "funktion": "Leiter Abteilung Ausserordentliche Ereignisse"
+        },
+        "childIds": [
+          "ref-31",
+          "ref-32",
+          "ref-33",
+          "ref-34"
+        ],
+        "personIds": [
+          "p-rueegg-thomas"
+        ],
+        "aufgabeIds": [
+          "auf-lage"
+        ],
+        "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-3.json",
+        "children": [
+          {
+            "id": "ref-31",
+            "typ": "referat",
+            "kuerzel": "E1",
+            "name": "Lagezentrum Besonderheiten",
+            "parentId": "abt-3",
+            "leitungPersonId": "p-schmid-fabienne",
+            "standortId": "st-bern",
+            "titel": "Sektion E1: Lagezentrum Besonderheiten",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-31.html",
+            "leitung": {
+              "id": "p-schmid-fabienne",
+              "name": "Fabienne Schmid",
+              "funktion": "Sektionschefin Lagezentrum"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-schmid-fabienne"
+            ],
+            "aufgabeIds": [
+              "auf-lage"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-31.json",
+            "children": []
+          },
+          {
+            "id": "ref-32",
+            "typ": "referat",
+            "kuerzel": "E2",
+            "name": "Alpine Sonderfälle",
+            "parentId": "abt-3",
+            "leitungPersonId": "p-zgraggen-josef",
+            "standortId": "st-bern",
+            "titel": "Sektion E2: Alpine Sonderfälle",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-32.html",
+            "leitung": {
+              "id": "p-zgraggen-josef",
+              "name": "Josef Zgraggen",
+              "funktion": "Sektionschef Alpine Sonderfälle"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-zgraggen-josef"
+            ],
+            "aufgabeIds": [
+              "auf-alpin"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-32.json",
+            "children": []
+          },
+          {
+            "id": "ref-33",
+            "typ": "referat",
+            "kuerzel": "E3",
+            "name": "Kuriositätenarchiv",
+            "parentId": "abt-3",
+            "leitungPersonId": "p-pestalozzi-hans-peter",
+            "standortId": "st-bern",
+            "titel": "Sektion E3: Kuriositätenarchiv",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-33.html",
+            "leitung": {
+              "id": "p-pestalozzi-hans-peter",
+              "name": "Dr. Hans-Peter Pestalozzi",
+              "funktion": "Sektionschef Kuriositätenarchiv"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-pestalozzi-hans-peter"
+            ],
+            "aufgabeIds": [
+              "auf-archiv"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-33.json",
+            "children": []
+          },
+          {
+            "id": "ref-34",
+            "typ": "referat",
+            "kuerzel": "E4",
+            "name": "Prävention des Unwahrscheinlichen",
+            "parentId": "abt-3",
+            "leitungPersonId": "p-nguyen-mai",
+            "standortId": "st-bern",
+            "titel": "Sektion E4: Prävention des Unwahrscheinlichen",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-34.html",
+            "leitung": {
+              "id": "p-nguyen-mai",
+              "name": "Mai Nguyen",
+              "funktion": "Sektionschefin Prävention des Unwahrscheinlichen"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-nguyen-mai"
+            ],
+            "aufgabeIds": [
+              "auf-lage"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-34.json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "abt-4",
+        "typ": "abteilung",
+        "kuerzel": "D",
+        "name": "Digitales und Register",
+        "parentId": "leitung",
+        "leitungPersonId": "p-kaelin-nadia",
+        "beschreibung": "Eidgenössisches Register besonderer Angelegenheiten, Fachanwendungen, Daten und Informationssicherheit.",
+        "standortId": "st-biel",
+        "titel": "Abteilung D: Digitales und Register",
+        "typLabel": "Abteilung",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html",
+        "leitung": {
+          "id": "p-kaelin-nadia",
+          "name": "Nadia Kälin",
+          "funktion": "Leiterin Abteilung Digitales und Register (CDO)"
+        },
+        "childIds": [
+          "ref-41",
+          "ref-42",
+          "ref-43",
+          "ref-44"
+        ],
+        "personIds": [
+          "p-kaelin-nadia"
+        ],
+        "aufgabeIds": [
+          "auf-erba"
+        ],
+        "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-4.json",
+        "children": [
+          {
+            "id": "ref-41",
+            "typ": "referat",
+            "kuerzel": "D1",
+            "name": "Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+            "parentId": "abt-4",
+            "leitungPersonId": "p-gerber-simon",
+            "standortId": "st-biel",
+            "titel": "Sektion D1: Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-41.html",
+            "leitung": {
+              "id": "p-gerber-simon",
+              "name": "Dr. Simon Gerber",
+              "funktion": "Sektionschef ERbA (Registerführer)"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-gerber-simon"
+            ],
+            "aufgabeIds": [
+              "auf-erba"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-41.json",
+            "children": []
+          },
+          {
+            "id": "ref-42",
+            "typ": "referat",
+            "kuerzel": "D2",
+            "name": "Fachanwendungen und GEVER",
+            "parentId": "abt-4",
+            "leitungPersonId": "p-moser-elena",
+            "standortId": "st-biel",
+            "titel": "Sektion D2: Fachanwendungen und GEVER",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-42.html",
+            "leitung": {
+              "id": "p-moser-elena",
+              "name": "Elena Moser",
+              "funktion": "Sektionschefin Fachanwendungen und GEVER"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-moser-elena"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-42.json",
+            "children": []
+          },
+          {
+            "id": "ref-43",
+            "typ": "referat",
+            "kuerzel": "D3",
+            "name": "Daten und Schnittstellen",
+            "parentId": "abt-4",
+            "leitungPersonId": "p-yilmaz-deniz",
+            "standortId": "st-biel",
+            "titel": "Sektion D3: Daten und Schnittstellen",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-43.html",
+            "leitung": {
+              "id": "p-yilmaz-deniz",
+              "name": "Deniz Yilmaz",
+              "funktion": "Sektionschef Daten und Schnittstellen"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-yilmaz-deniz"
+            ],
+            "aufgabeIds": [
+              "auf-erba"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-43.json",
+            "children": []
+          },
+          {
+            "id": "ref-44",
+            "typ": "referat",
+            "kuerzel": "D4",
+            "name": "Informationssicherheit",
+            "parentId": "abt-4",
+            "leitungPersonId": "p-luethi-adrian",
+            "standortId": "st-biel",
+            "titel": "Sektion D4: Informationssicherheit",
+            "typLabel": "Sektion",
+            "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-44.html",
+            "leitung": {
+              "id": "p-luethi-adrian",
+              "name": "Adrian Lüthi",
+              "funktion": "Sektionschef Informationssicherheit (ISBO)"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-luethi-adrian"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-44.json",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

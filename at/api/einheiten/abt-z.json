@@ -1,0 +1,232 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "abt-z",
+    "typ": "abteilung",
+    "kuerzel": "I",
+    "name": "Präsidialsektion",
+    "parentId": "leitung",
+    "leitungPersonId": "p-wallner-gerhard",
+    "beschreibung": "Personal, Budget, Amtsgebäude sowie das Formular- und Stempelwesen.",
+    "standortId": "st-wien",
+    "titel": "Sektion I: Präsidialsektion",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html",
+    "leitung": {
+      "id": "p-wallner-gerhard",
+      "name": "Mag. Gerhard Wallner",
+      "funktion": "Sektionschef, Leiter der Präsidialsektion"
+    },
+    "childIds": [
+      "ref-z1",
+      "ref-z2",
+      "ref-z3",
+      "ref-z4"
+    ],
+    "personIds": [
+      "p-wallner-gerhard"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-z.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-hinterberger-elisabeth",
+    "vertretungPersonId": "p-pichler-franz-josef",
+    "beschreibung": "Die Präsidentin und der Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-wien",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html",
+    "leitung": {
+      "id": "p-hinterberger-elisabeth",
+      "name": "Mag.a Dr.in Elisabeth Hinterberger",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-hinterberger-elisabeth",
+      "p-pichler-franz-josef"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/leitung.json"
+  },
+  "children": [
+    {
+      "id": "ref-z1",
+      "typ": "referat",
+      "kuerzel": "I/1",
+      "name": "Personal und Lehrlingsausbildung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-fuchs-renate",
+      "standortId": "st-wien",
+      "titel": "Abteilung I/1: Personal und Lehrlingsausbildung",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z1.html",
+      "leitung": {
+        "id": "p-fuchs-renate",
+        "name": "ADir Renate Fuchs",
+        "funktion": "Abteilungsleiterin I/1"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-fuchs-renate"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z1.json"
+    },
+    {
+      "id": "ref-z2",
+      "typ": "referat",
+      "kuerzel": "I/2",
+      "name": "Budget und Beschaffung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-berger-markus",
+      "standortId": "st-wien",
+      "titel": "Abteilung I/2: Budget und Beschaffung",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z2.html",
+      "leitung": {
+        "id": "p-berger-markus",
+        "name": "Mag. (FH) Markus Berger",
+        "funktion": "Abteilungsleiter I/2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-berger-markus"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z2.json"
+    },
+    {
+      "id": "ref-z3",
+      "typ": "referat",
+      "kuerzel": "I/3",
+      "name": "Amtsgebäude und Inneres Service",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-dvorak-ivana",
+      "standortId": "st-wien",
+      "titel": "Abteilung I/3: Amtsgebäude und Inneres Service",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z3.html",
+      "leitung": {
+        "id": "p-dvorak-ivana",
+        "name": "Ing. Ivana Dvořák",
+        "funktion": "Abteilungsleiterin I/3"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-dvorak-ivana"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z3.json"
+    },
+    {
+      "id": "ref-z4",
+      "typ": "referat",
+      "kuerzel": "I/4",
+      "name": "Formular- und Stempelwesen",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-stempfl-alois",
+      "standortId": "st-wien",
+      "titel": "Abteilung I/4: Formular- und Stempelwesen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z4.html",
+      "leitung": {
+        "id": "p-stempfl-alois",
+        "name": "OAR Alois Stempfl",
+        "funktion": "Abteilungsleiter I/4"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-stempfl-alois"
+      ],
+      "aufgabeIds": [
+        "auf-formulare"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z4.json"
+    }
+  ],
+  "personen": [
+    {
+      "id": "p-wallner-gerhard",
+      "anrede": "Herr",
+      "titel": "Mag.",
+      "vorname": "Gerhard",
+      "nachname": "Wallner",
+      "funktion": "Sektionschef, Leiter der Präsidialsektion",
+      "einheitId": "abt-z",
+      "email": "gerhard.wallner@bbsa-bund.example",
+      "telefon": "+43 1 4711-2000",
+      "kurzvita": "Seit 2016 Leiter der Sektion I; zuständig für alles, was das Amt am Laufen hält.",
+      "name": "Mag. Gerhard Wallner",
+      "portrait": "assets/img/at/personen/p-wallner-gerhard.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-wallner-gerhard.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-wallner-gerhard.html",
+      "einheit": {
+        "id": "abt-z",
+        "name": "Sektion I: Präsidialsektion",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "abt-z"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-wallner-gerhard.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-wien",
+    "name": "Amtsgebäude Wien",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 7",
+    "plz": "1010",
+    "ort": "Wien",
+    "telefon": "+43 1 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+    "bild": "assets/img/at/standorte/wien.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-07-formular-f0",
+      "titel": "Neu: Das Formular zur Beantragung von Formularen (BBSA-F0)",
+      "datum": "2026-07-15",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-07-formular-f0.html"
+    },
+    {
+      "id": "2026-02-lehrlinge",
+      "titel": "18 Lehrlinge starten ihre Ausbildung im BBSA",
+      "datum": "2026-02-10",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-02-lehrlinge.html"
+    }
+  ]
+}

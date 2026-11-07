@@ -1,14 +1,22 @@
 {
   "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
   "stand": "2026-11-07",
   "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "behoerde": {
     "id": "baba",
+    "variante": "de",
+    "land": "Deutschland",
+    "locale": "de-DE",
+    "pfad": "",
     "name": "Bundesamt für besondere Angelegenheiten",
     "kurzname": "BAbA",
     "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
     "typ": "Bundesoberbehörde",
     "geschaeftsbereich": "Bundesministerium für Allgemeines und Übriges (fiktiv)",
+    "zuordnung": "Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Allgemeines und Übriges (fiktiv)",
     "gruendung": "1987-04-01",
     "rechtsgrundlage": {
       "kurz": "BAbAG",
@@ -60,7 +68,8 @@
       "fax": "+49 228 4711-1099",
       "email": "poststelle@baba-bund.example",
       "deMail": "poststelle@baba-bund.de-mail.example",
-      "servicezeiten": "Mo–Do 8:00–16:00 Uhr, Fr 8:00–14:00 Uhr"
+      "servicezeiten": "Mo–Do 8:00–16:00 Uhr, Fr 8:00–14:00 Uhr",
+      "zeitenLabel": "Servicezeiten"
     },
     "logo": {
       "farbig": "assets/img/logo/baba-logo.svg",
@@ -99,6 +108,54 @@
         "jahr": "2026",
         "ereignis": "Inbetriebnahme des digitalen Bundesregisters besonderer Angelegenheiten (BRbA)."
       }
+    ],
+    "begriffe": {
+      "leitung": "Amtsleitung",
+      "stab": "Stabsstelle",
+      "stabPlural": "Stabsstellen",
+      "abteilung": "Abteilung",
+      "abteilungPlural": "Abteilungen",
+      "abteilungKurz": "Abt.",
+      "referat": "Referat",
+      "referatPlural": "Referate",
+      "referatKurz": "Ref.",
+      "referatsleitungen": "Referatsleitungen",
+      "antraegeTitel": "Anträge stellen",
+      "antraegeText": "Feststellung, Ausnahmegenehmigung, Registerauskunft",
+      "antraegeButton": "Anträge & Formulare",
+      "beschaeftigte": "Beschäftigte"
+    },
+    "grusswort": {
+      "titel": "Grußwort der Präsidentin",
+      "text": "Manche Angelegenheiten passen in kein Raster. Für genau diese Fälle gibt es uns – mit Sorgfalt, mit klaren Verfahren und manchmal auch mit einem Lächeln. Ich lade Sie herzlich ein, unser Amt kennenzulernen."
+    },
+    "jahresberichtZitat": "Die Welt wird nicht gewöhnlicher – und das ist gut so.",
+    "pressePersonId": "p-imhoff-clara",
+    "datenschutzPersonId": "p-krell-sabine",
+    "hero": {
+      "bild": "assets/img/hero/hero-gebaeude.jpg",
+      "alt": "Hauptsitz des Bundesamts für besondere Angelegenheiten in Bonn im Abendlicht"
+    },
+    "heroInnen": {
+      "bild": "assets/img/hero/hero-atrium.jpg",
+      "alt": "Atrium des Hauptsitzes in Bonn"
+    },
+    "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Keine echte Einrichtung des Bundes.",
+    "leitfadenKriterien": [
+      "Einmaligkeit des Sachverhalts",
+      "Fehlende Regelungszuständigkeit",
+      "Widersprüchliche Zuständigkeiten mehrerer Stellen",
+      "Kopfschüttel-Kriterium",
+      "Keine Entsprechung in bestehenden Formularen",
+      "Kalendarische Besonderheit (z. B. 29. Februar)",
+      "Zeitumstellung während der Frist",
+      "Mehrfachbetroffenheit",
+      "Grenzüberschreitender Bezug",
+      "Fehlende Präzedenzfälle",
+      "Außergewöhnliches öffentliches Interesse",
+      "Unerwarteter Sachzusammenhang",
+      "Formale Selbstbezüglichkeit (Antrag auf Antrag)",
+      "Nachweislich unwahrscheinliches Ereignis"
     ]
   },
   "standorte": [
@@ -2069,7 +2126,8 @@
       "typ": "PDF",
       "datei": "assets/downloads/baba-jahresbericht-2025-26.pdf",
       "kategorie": "Publikation",
-      "einheitId": "stab-ps"
+      "einheitId": "stab-ps",
+      "art": "jahresbericht"
     },
     {
       "id": "dl-leitfaden-besonderheit",
@@ -2077,7 +2135,8 @@
       "typ": "PDF",
       "datei": "assets/downloads/baba-leitfaden-besonderheit.pdf",
       "kategorie": "Publikation",
-      "einheitId": "ref-12"
+      "einheitId": "ref-12",
+      "art": "leitfaden"
     },
     {
       "id": "dl-antrag-feststellung",
@@ -2085,7 +2144,14 @@
       "typ": "PDF",
       "datei": "assets/downloads/formular-ba-1.pdf",
       "kategorie": "Formular",
-      "einheitId": "ref-12"
+      "einheitId": "ref-12",
+      "art": "formular",
+      "felder": [
+        "1. Angaben zur antragstellenden Person oder Stelle",
+        "2. Beschreibung der Angelegenheit",
+        "3. Warum ist die Angelegenheit besonders? (Kriterien laut Leitfaden)",
+        "4. Bisher befasste Stellen"
+      ]
     },
     {
       "id": "dl-antrag-ausnahme",
@@ -2093,7 +2159,14 @@
       "typ": "PDF",
       "datei": "assets/downloads/formular-ba-7.pdf",
       "kategorie": "Formular",
-      "einheitId": "ref-14"
+      "einheitId": "ref-14",
+      "art": "formular",
+      "felder": [
+        "1. Angaben zur antragstellenden Person",
+        "2. Regelung, von der abgewichen werden soll",
+        "3. Begründung der Ausnahme",
+        "4. Gewünschter Geltungszeitraum"
+      ]
     },
     {
       "id": "dl-auskunft-brba",
@@ -2101,7 +2174,14 @@
       "typ": "PDF",
       "datei": "assets/downloads/formular-br-22.pdf",
       "kategorie": "Formular",
-      "einheitId": "ref-41"
+      "einheitId": "ref-41",
+      "art": "formular",
+      "felder": [
+        "1. Anfragende Behörde / Person",
+        "2. Berechtigtes Interesse",
+        "3. Registernummer oder Suchmerkmale",
+        "4. Gewünschte Form der Auskunft"
+      ]
     },
     {
       "id": "dl-organigramm",
@@ -2109,7 +2189,8 @@
       "typ": "SVG",
       "datei": "assets/downloads/baba-organigramm.svg",
       "kategorie": "Organisation",
-      "einheitId": "stab-ls"
+      "einheitId": "stab-ls",
+      "art": "organigramm"
     }
   ]
 }

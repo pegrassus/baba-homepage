@@ -1,0 +1,132 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-z4",
+    "typ": "referat",
+    "kuerzel": "R4",
+    "name": "Sprachdienste (DE/FR/IT/RM)",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-rossi-chiara",
+    "standortId": "st-bern",
+    "titel": "Sektion R4: Sprachdienste (DE/FR/IT/RM)",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z4.html",
+    "leitung": {
+      "id": "p-rossi-chiara",
+      "name": "Chiara Rossi",
+      "funktion": "Sektionschefin Sprachdienste"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-rossi-chiara"
+    ],
+    "aufgabeIds": [
+      "auf-sprachen"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z4.json"
+  },
+  "parent": {
+    "id": "abt-z",
+    "typ": "abteilung",
+    "kuerzel": "R",
+    "name": "Ressourcen",
+    "parentId": "leitung",
+    "leitungPersonId": "p-zuercher-martin",
+    "beschreibung": "Personal, Finanzen, Logistik und Sprachdienste.",
+    "standortId": "st-bern",
+    "titel": "Abteilung R: Ressourcen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-z.html",
+    "leitung": {
+      "id": "p-zuercher-martin",
+      "name": "Martin Zürcher",
+      "funktion": "Leiter Abteilung Ressourcen"
+    },
+    "childIds": [
+      "ref-z1",
+      "ref-z2",
+      "ref-z3",
+      "ref-z4"
+    ],
+    "personIds": [
+      "p-zuercher-martin"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-z.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-rossi-chiara",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Chiara",
+      "nachname": "Rossi",
+      "funktion": "Sektionschefin Sprachdienste",
+      "einheitId": "ref-z4",
+      "email": "chiara.rossi@bba-bund.example",
+      "telefon": "+41 58 999 24 00",
+      "kurzvita": "Übersetzerin aus Locarno; leitet ein Team, das Sonderfälle in alle Landessprachen und auf Anfrage in Walliserdeutsch überträgt.",
+      "name": "Chiara Rossi",
+      "portrait": "assets/img/ch/personen/p-rossi-chiara.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-rossi-chiara.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-rossi-chiara.html",
+      "einheit": {
+        "id": "ref-z4",
+        "name": "Sektion R4: Sprachdienste (DE/FR/IT/RM)",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z4.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-z4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rossi-chiara.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-sprachen",
+      "titel": "Übersetzung von Sonderfällen",
+      "kategorie": "Leistung für die Bevölkerung und Unternehmen",
+      "beschreibung": "Jede Verfügung wird in die Amtssprache der gesuchstellenden Person übersetzt. Rätoromanisch in Rumantsch Grischun, auf Wunsch in einem der fünf Idiome.",
+      "einheitIds": [
+        "ref-z4"
+      ],
+      "rechtsgrundlage": "Art. 6 BABG i. V. m. Sprachengesetz"
+    }
+  ],
+  "standort": {
+    "id": "st-bern",
+    "name": "Hauptsitz Bern",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 12",
+    "plz": "3011",
+    "ort": "Bern",
+    "telefon": "+41 58 999 10 00",
+    "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+    "bild": "assets/img/ch/standorte/bern.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-06-fuenf-sprachen",
+      "titel": "Sprachdienst übersetzt Verfügung erstmals in vier Landessprachen und Walliserdeutsch",
+      "datum": "2026-06-03",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-06-fuenf-sprachen.html"
+    }
+  ]
+}

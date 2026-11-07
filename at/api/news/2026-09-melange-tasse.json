@@ -1,0 +1,82 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-09-melange-tasse",
+    "datum": "2026-09-21",
+    "kategorie": "Meldung",
+    "titel": "Kuriositätenkabinett: Melange-Tasse aus 1912 mit ungeklärtem Aktenzeichen ausgestellt",
+    "teaser": "Die Tasse wurde bei Renovierungsarbeiten in einer Zwischendecke gefunden – mit einem Aktenzeichen, das keinem bekannten Akt zuzuordnen ist.",
+    "text": [
+      "Das Kuriositätenkabinett des BBSA zeigt ab sofort eine Porzellantasse aus dem Jahr 1912, an der ein Aktenvermerk mit Bindfaden befestigt ist.",
+      "„Das Aktenzeichen lautet 1912/sonst./47. Die Kategorie ‚sonstig‘ gab es damals aber noch gar nicht“, sagt Kustos Hofrat Dr. Ferdinand Schnitzler. „Das ist entweder ein Irrtum oder eine Prophezeiung.“",
+      "Die Tasse ist jeden ersten Donnerstag im Monat bei den Führungen zu besichtigen. Kaffee darf daraus nicht getrunken werden."
+    ],
+    "bild": "assets/img/at/news/2026-09-melange-tasse.jpg",
+    "einheitId": "ref-33",
+    "personIds": [
+      "p-schnitzler-ferdinand"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-09-melange-tasse.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-09-melange-tasse.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-09-melange-tasse.json"
+  },
+  "einheit": {
+    "id": "ref-33",
+    "typ": "referat",
+    "kuerzel": "IV/3",
+    "name": "Kuriositätenkabinett und Amtsarchiv",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-schnitzler-ferdinand",
+    "standortId": "st-wien",
+    "titel": "Abteilung IV/3: Kuriositätenkabinett und Amtsarchiv",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-33.html",
+    "leitung": {
+      "id": "p-schnitzler-ferdinand",
+      "name": "HR Dr. Ferdinand Schnitzler",
+      "funktion": "Abteilungsleiter IV/3 (Kustos des Kuriositätenkabinetts)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-schnitzler-ferdinand"
+    ],
+    "aufgabeIds": [
+      "auf-kabinett"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-33.json"
+  },
+  "personen": [
+    {
+      "id": "p-schnitzler-ferdinand",
+      "anrede": "Herr",
+      "titel": "HR Dr.",
+      "vorname": "Ferdinand",
+      "nachname": "Schnitzler",
+      "funktion": "Abteilungsleiter IV/3 (Kustos des Kuriositätenkabinetts)",
+      "einheitId": "ref-33",
+      "email": "ferdinand.schnitzler@bbsa-bund.example",
+      "telefon": "+43 1 4711-5300",
+      "kurzvita": "Kustos des Kuriositätenkabinetts seit 1991; verwahrt u. a. eine Melange-Tasse mit ungeklärtem Aktenzeichen aus 1912.",
+      "name": "HR Dr. Ferdinand Schnitzler",
+      "portrait": "assets/img/at/personen/p-schnitzler-ferdinand.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-schnitzler-ferdinand.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-schnitzler-ferdinand.html",
+      "einheit": {
+        "id": "ref-33",
+        "name": "Abteilung IV/3: Kuriositätenkabinett und Amtsarchiv",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-33.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-33"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-schnitzler-ferdinand.json"
+    }
+  ]
+}

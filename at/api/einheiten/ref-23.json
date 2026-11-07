@@ -1,0 +1,121 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-23",
+    "typ": "referat",
+    "kuerzel": "III/3",
+    "name": "Beschwerdevorentscheidungen",
+    "parentId": "abt-2",
+    "leitungPersonId": "p-winkler-petra",
+    "standortId": "st-graz",
+    "titel": "Abteilung III/3: Beschwerdevorentscheidungen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-23.html",
+    "leitung": {
+      "id": "p-winkler-petra",
+      "name": "Dr.in Petra Winkler",
+      "funktion": "Abteilungsleiterin III/3"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-winkler-petra"
+    ],
+    "aufgabeIds": [
+      "auf-beschwerde"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-23.json"
+  },
+  "parent": {
+    "id": "abt-2",
+    "typ": "abteilung",
+    "kuerzel": "III",
+    "name": "Besondere Verfahren",
+    "parentId": "leitung",
+    "leitungPersonId": "p-moosbrugger-klaus",
+    "beschreibung": "Durchführung besonderer Verwaltungsverfahren nach dem AVG, Bescheide besonderer Art sowie Fristen, Feiertage und Fenstertage.",
+    "standortId": "st-graz",
+    "titel": "Sektion III: Besondere Verfahren",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-2.html",
+    "leitung": {
+      "id": "p-moosbrugger-klaus",
+      "name": "Univ.-Prof. Dr. Klaus Moosbrugger",
+      "funktion": "Sektionschef, Leiter der Sektion III"
+    },
+    "childIds": [
+      "ref-21",
+      "ref-22",
+      "ref-23",
+      "ref-24"
+    ],
+    "personIds": [
+      "p-moosbrugger-klaus"
+    ],
+    "aufgabeIds": [
+      "auf-verfahren"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-2.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-winkler-petra",
+      "anrede": "Frau",
+      "titel": "Dr.in",
+      "vorname": "Petra",
+      "nachname": "Winkler",
+      "funktion": "Abteilungsleiterin III/3",
+      "einheitId": "ref-23",
+      "email": "petra.winkler@bbsa-bund.example",
+      "telefon": "+43 316 4711-4300",
+      "kurzvita": "Bearbeitet Beschwerden und erlässt Beschwerdevorentscheidungen.",
+      "name": "Dr.in Petra Winkler",
+      "portrait": "assets/img/at/personen/p-winkler-petra.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-winkler-petra.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-winkler-petra.html",
+      "einheit": {
+        "id": "ref-23",
+        "name": "Abteilung III/3: Beschwerdevorentscheidungen",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-23.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-graz",
+      "leitetEinheitIds": [
+        "ref-23"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-winkler-petra.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-beschwerde",
+      "titel": "Beschwerdevorentscheidungen",
+      "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Prüfung von Beschwerden gegen Bescheide des BBSA und Erlassung von Beschwerdevorentscheidungen; ansonsten Vorlage an das Bundesverwaltungsgericht.",
+      "einheitIds": [
+        "ref-23"
+      ],
+      "rechtsgrundlage": "§ 14 VwGVG"
+    }
+  ],
+  "standort": {
+    "id": "st-graz",
+    "name": "Außenstelle Graz",
+    "typ": "Außenstelle",
+    "strasse": "Sonderfallplatz 2",
+    "plz": "8010",
+    "ort": "Graz",
+    "telefon": "+43 316 4711-0",
+    "beschreibung": "Standort der Sektion III (Besondere Verfahren) mit Blick auf den Uhrturm.",
+    "bild": "assets/img/at/standorte/graz.jpg",
+    "einheitIds": [
+      "abt-2"
+    ]
+  },
+  "news": []
+}

@@ -1,0 +1,60 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-novak-katharina",
+    "anrede": "Frau",
+    "titel": "Mag.a",
+    "vorname": "Katharina",
+    "nachname": "Novak",
+    "funktion": "Leiterin des Präsidialbüros",
+    "einheitId": "stab-pb",
+    "email": "katharina.novak@bbsa-bund.example",
+    "telefon": "+43 1 4711-1010",
+    "kurzvita": "Politikwissenschaftlerin; koordiniert den Aktenlauf und alle parlamentarischen Anfragen.",
+    "name": "Mag.a Katharina Novak",
+    "portrait": "assets/img/at/personen/p-novak-katharina.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-novak-katharina.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-novak-katharina.html",
+    "einheit": {
+      "id": "stab-pb",
+      "name": "Präsidialbüro",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pb.html"
+    },
+    "abteilungId": "stab-pb",
+    "standortId": "st-wien",
+    "leitetEinheitIds": [
+      "stab-pb"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-novak-katharina.json"
+  },
+  "einheit": {
+    "id": "stab-pb",
+    "typ": "stab",
+    "kuerzel": "PB",
+    "name": "Präsidialbüro",
+    "parentId": "leitung",
+    "leitungPersonId": "p-novak-katharina",
+    "beschreibung": "Unterstützt die Amtsleitung, koordiniert Ministerratsvorträge, parlamentarische Anfragen und den Aktenlauf.",
+    "standortId": "st-wien",
+    "titel": "Präsidialbüro",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pb.html",
+    "leitung": {
+      "id": "p-novak-katharina",
+      "name": "Mag.a Katharina Novak",
+      "funktion": "Leiterin des Präsidialbüros"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-novak-katharina"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-pb.json"
+  },
+  "news": []
+}

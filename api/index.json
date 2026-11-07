@@ -1,11 +1,47 @@
 {
   "quelle": "https://pegrassus.github.io/baba-homepage/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
   "stand": "2026-11-07",
   "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "name": "Bundesamt für besondere Angelegenheiten",
   "kurzname": "BAbA",
-  "beschreibung": "Maschinenlesbare Schnittstelle der (fiktiven) Behörde. Alle Inhalte der Website sind hier als JSON abrufbar. IDs sind stabil und dateiübergreifend referenzierbar.",
+  "beschreibung": "Maschinenlesbare Schnittstelle der (fiktiven) Behörde, Länderversion Deutschland. Alle Inhalte der Website sind hier als JSON abrufbar. IDs sind stabil und dateiübergreifend referenzierbar.",
   "logo": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+  "begriffe": {
+    "leitung": "Amtsleitung",
+    "stab": "Stabsstelle",
+    "abteilung": "Abteilung",
+    "referat": "Referat",
+    "hinweis": "Die internen Typen 'abteilung' und 'referat' heißen in dieser Länderversion 'Abteilung' und 'Referat'."
+  },
+  "varianten": [
+    {
+      "variante": "de",
+      "land": "Deutschland",
+      "name": "Bundesamt für besondere Angelegenheiten",
+      "kurzname": "BAbA",
+      "website": "https://pegrassus.github.io/baba-homepage/index.html",
+      "api": "https://pegrassus.github.io/baba-homepage/api/index.json"
+    },
+    {
+      "variante": "ch",
+      "land": "Schweiz",
+      "name": "Bundesamt für besondere Angelegenheiten",
+      "kurzname": "BBA",
+      "website": "https://pegrassus.github.io/baba-homepage/ch/index.html",
+      "api": "https://pegrassus.github.io/baba-homepage/ch/api/index.json"
+    },
+    {
+      "variante": "at",
+      "land": "Österreich",
+      "name": "Bundesamt für besondere und sonstige Angelegenheiten",
+      "kurzname": "BBSA",
+      "website": "https://pegrassus.github.io/baba-homepage/at/index.html",
+      "api": "https://pegrassus.github.io/baba-homepage/at/api/index.json"
+    }
+  ],
   "endpunkte": [
     {
       "pfad": "api/behoerde.json",
@@ -30,7 +66,7 @@
     {
       "pfad": "api/news.json",
       "url": "https://pegrassus.github.io/baba-homepage/api/news.json",
-      "beschreibung": "Meldungen und Pressemitteilungen, neueste zuerst"
+      "beschreibung": "Meldungen und Mitteilungen, neueste zuerst"
     },
     {
       "pfad": "api/standorte.json",

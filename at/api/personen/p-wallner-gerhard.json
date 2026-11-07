@@ -1,0 +1,72 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-wallner-gerhard",
+    "anrede": "Herr",
+    "titel": "Mag.",
+    "vorname": "Gerhard",
+    "nachname": "Wallner",
+    "funktion": "Sektionschef, Leiter der Präsidialsektion",
+    "einheitId": "abt-z",
+    "email": "gerhard.wallner@bbsa-bund.example",
+    "telefon": "+43 1 4711-2000",
+    "kurzvita": "Seit 2016 Leiter der Sektion I; zuständig für alles, was das Amt am Laufen hält.",
+    "name": "Mag. Gerhard Wallner",
+    "portrait": "assets/img/at/personen/p-wallner-gerhard.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-wallner-gerhard.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-wallner-gerhard.html",
+    "einheit": {
+      "id": "abt-z",
+      "name": "Sektion I: Präsidialsektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html"
+    },
+    "abteilungId": "abt-z",
+    "standortId": "st-wien",
+    "leitetEinheitIds": [
+      "abt-z"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-wallner-gerhard.json"
+  },
+  "einheit": {
+    "id": "abt-z",
+    "typ": "abteilung",
+    "kuerzel": "I",
+    "name": "Präsidialsektion",
+    "parentId": "leitung",
+    "leitungPersonId": "p-wallner-gerhard",
+    "beschreibung": "Personal, Budget, Amtsgebäude sowie das Formular- und Stempelwesen.",
+    "standortId": "st-wien",
+    "titel": "Sektion I: Präsidialsektion",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html",
+    "leitung": {
+      "id": "p-wallner-gerhard",
+      "name": "Mag. Gerhard Wallner",
+      "funktion": "Sektionschef, Leiter der Präsidialsektion"
+    },
+    "childIds": [
+      "ref-z1",
+      "ref-z2",
+      "ref-z3",
+      "ref-z4"
+    ],
+    "personIds": [
+      "p-wallner-gerhard"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-z.json"
+  },
+  "news": [
+    {
+      "id": "2026-07-formular-f0",
+      "titel": "Neu: Das Formular zur Beantragung von Formularen (BBSA-F0)",
+      "datum": "2026-07-15",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-07-formular-f0.html"
+    }
+  ]
+}

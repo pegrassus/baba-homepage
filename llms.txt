@@ -1,16 +1,17 @@
-# Bundesamt für besondere Angelegenheiten (BAbA)
+# Bundesamt für besondere Angelegenheiten (BAbA) – Länderversion Deutschland
 
 > Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.
 > Das Bundesamt für besondere Angelegenheiten (BAbA) ist zuständig für alle Angelegenheiten des Bundes, die keiner anderen Stelle eindeutig zugeordnet werden können, sowie für Verfahren, die aufgrund ihrer Besonderheit einer gesonderten Behandlung bedürfen. Es führt das Bundesregister besonderer Angelegenheiten (BRbA), berät Bundes- und Landesbehörden in Grenz- und Sonderfällen und dokumentiert außergewöhnliche Ereignisse von öffentlichem Interesse.
 
 Leitung: Dr. Hanna Wellbrock (Präsidentin). Hauptsitz: Am Sonderweg 1, 53113 Bonn. Kontakt: +49 228 4711-0, poststelle@baba-bund.example.
+Begriffe in dieser Version: Abteilung (abt-*), Referat (ref-*), Stabsstelle (stab-*).
 
 ## Maschinenlesbare Daten
 - [api/behoerde.json](https://pegrassus.github.io/baba-homepage/api/behoerde.json): Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte
 - [api/organisation.json](https://pegrassus.github.io/baba-homepage/api/organisation.json): Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)
 - [api/personen.json](https://pegrassus.github.io/baba-homepage/api/personen.json): Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL
 - [api/aufgaben.json](https://pegrassus.github.io/baba-homepage/api/aufgaben.json): Aufgaben und Leistungen mit zuständigen Einheiten
-- [api/news.json](https://pegrassus.github.io/baba-homepage/api/news.json): Meldungen und Pressemitteilungen, neueste zuerst
+- [api/news.json](https://pegrassus.github.io/baba-homepage/api/news.json): Meldungen und Mitteilungen, neueste zuerst
 - [api/standorte.json](https://pegrassus.github.io/baba-homepage/api/standorte.json): Standorte mit Adressen
 - [api/downloads.json](https://pegrassus.github.io/baba-homepage/api/downloads.json): Formulare und Publikationen
 - [api/alles.json](https://pegrassus.github.io/baba-homepage/api/alles.json): Gesamtexport aller Inhalte in einer Datei
@@ -37,3 +38,8 @@ Leitung: Dr. Hanna Wellbrock (Präsidentin). Hauptsitz: Am Sonderweg 1, 53113 Bo
 - [Service](https://pegrassus.github.io/baba-homepage/service.html)
 - [Presse](https://pegrassus.github.io/baba-homepage/presse.html)
 - [Offene Daten](https://pegrassus.github.io/baba-homepage/daten.html)
+
+## Länderversionen
+- Deutschland: [Bundesamt für besondere Angelegenheiten (BAbA)](https://pegrassus.github.io/baba-homepage/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/api/index.json)
+- Schweiz: [Bundesamt für besondere Angelegenheiten (BBA)](https://pegrassus.github.io/baba-homepage/ch/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/ch/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/ch/api/index.json)
+- Österreich: [Bundesamt für besondere und sonstige Angelegenheiten (BBSA)](https://pegrassus.github.io/baba-homepage/at/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/at/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/at/api/index.json)

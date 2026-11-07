@@ -1,0 +1,128 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-32",
+    "typ": "referat",
+    "kuerzel": "IV/2",
+    "name": "Föhn, Wetterfühligkeit und Unvorhergesehenes",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-lechner-veronika",
+    "standortId": "st-innsbruck",
+    "titel": "Abteilung IV/2: Föhn, Wetterfühligkeit und Unvorhergesehenes",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-32.html",
+    "leitung": {
+      "id": "p-lechner-veronika",
+      "name": "Dr.in Veronika Lechner",
+      "funktion": "Abteilungsleiterin IV/2"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-lechner-veronika"
+    ],
+    "aufgabeIds": [
+      "auf-foehn"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-32.json"
+  },
+  "parent": {
+    "id": "abt-3",
+    "typ": "abteilung",
+    "kuerzel": "IV",
+    "name": "Außergewöhnliche Ereignisse",
+    "parentId": "leitung",
+    "leitungPersonId": "p-leitner-brigitte",
+    "beschreibung": "Lagezentrum, wetterbedingte Sonderfälle, Kuriositätenkabinett und Vorsorge für das Unwahrscheinliche.",
+    "standortId": "st-wien",
+    "titel": "Sektion IV: Außergewöhnliche Ereignisse",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-3.html",
+    "leitung": {
+      "id": "p-leitner-brigitte",
+      "name": "Mag.a Brigitte Leitner",
+      "funktion": "Sektionschefin, Leiterin der Sektion IV"
+    },
+    "childIds": [
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34"
+    ],
+    "personIds": [
+      "p-leitner-brigitte"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-3.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-lechner-veronika",
+      "anrede": "Frau",
+      "titel": "Dr.in",
+      "vorname": "Veronika",
+      "nachname": "Lechner",
+      "funktion": "Abteilungsleiterin IV/2",
+      "einheitId": "ref-32",
+      "email": "veronika.lechner@bbsa-bund.example",
+      "telefon": "+43 512 4711-5200",
+      "kurzvita": "Meteorologin in Innsbruck; bewertet Föhnlagen, Wetterfühligkeit und alles Unvorhergesehene.",
+      "name": "Dr.in Veronika Lechner",
+      "portrait": "assets/img/at/personen/p-lechner-veronika.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-lechner-veronika.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-lechner-veronika.html",
+      "einheit": {
+        "id": "ref-32",
+        "name": "Abteilung IV/2: Föhn, Wetterfühligkeit und Unvorhergesehenes",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-32.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-innsbruck",
+      "leitetEinheitIds": [
+        "ref-32"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-lechner-veronika.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-foehn",
+      "titel": "Föhnbedingte Sonderfälle",
+      "kategorie": "Beratung",
+      "beschreibung": "Gutachten darüber, ob ein Ereignis oder ein Bescheid unter Föhneinfluss zustande kam. Föhnbedingte Bescheide können auf Antrag neu erlassen werden.",
+      "einheitIds": [
+        "ref-32"
+      ],
+      "rechtsgrundlage": "§ 18a BBSAG"
+    }
+  ],
+  "standort": {
+    "id": "st-innsbruck",
+    "name": "Außenstelle Innsbruck",
+    "typ": "Außenstelle",
+    "strasse": "Zuständigkeitsweg 4",
+    "plz": "6020",
+    "ort": "Innsbruck",
+    "telefon": "+43 512 4711-0",
+    "beschreibung": "Standort der Sektion V (Digitales und Register) und der Abteilung IV/2 – aus naheliegenden Gründen im Föhngebiet.",
+    "bild": "assets/img/at/standorte/innsbruck.jpg",
+    "einheitIds": [
+      "abt-4"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-08-foehn-richtlinie",
+      "titel": "Neue Richtlinie: Föhnbedingte Bescheide können neu erlassen werden",
+      "datum": "2026-08-28",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-08-foehn-richtlinie.html"
+    }
+  ]
+}

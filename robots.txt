@@ -1,4 +1,4 @@
-# Fiktive Behörde – Demo. Inhalte dürfen von Werkzeugen (z. B. MCP) abgerufen werden.
+# Fiktive Behörden – Demo. Inhalte dürfen von Werkzeugen (z. B. MCP) abgerufen werden.
 User-agent: *
 Allow: /
 Sitemap: https://pegrassus.github.io/baba-homepage/sitemap.xml

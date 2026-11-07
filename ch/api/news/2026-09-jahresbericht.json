@@ -1,0 +1,109 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-09-jahresbericht",
+    "datum": "2026-09-08",
+    "kategorie": "Medienmitteilung",
+    "titel": "Jahresbericht 2025: 9'874 Sonderfälle – Rekord bei Murmeltier-Eingaben",
+    "teaser": "Das BBA verzeichnet einen Anstieg um 7 Prozent. Erstmals betraf jeder zehnte Fall ein Wildtier mit unklarem Wohnsitz.",
+    "text": [
+      "Direktorin Dr. Ursula Brändli hat in Bern den Jahresbericht 2025 vorgestellt. Mit 9'874 behandelten Sonderfällen hat das Amt einen neuen Höchstwert erreicht.",
+      "«Ordnung ist, wenn auch die Ausnahme ein Formular hat», sagte Brändli. Besonders zugenommen haben alpine Sonderfälle (+23 %) und Gesuche um amtliche Pünktlichkeitsauskunft (+11 %).",
+      "Die durchschnittliche Behandlungsdauer betrug 21 Arbeitstage, 3 Stunden und 12 Minuten."
+    ],
+    "bild": "assets/img/ch/news/2026-09-jahresbericht.jpg",
+    "einheitId": "stab-kom",
+    "personIds": [
+      "p-braendli-ursula",
+      "p-cadonau-seraina"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-jahresbericht.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-09-jahresbericht.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-09-jahresbericht.json"
+  },
+  "einheit": {
+    "id": "stab-kom",
+    "typ": "stab",
+    "kuerzel": "KOM",
+    "name": "Kommunikation",
+    "parentId": "leitung",
+    "leitungPersonId": "p-cadonau-seraina",
+    "beschreibung": "Medienarbeit, Website, Publikationen und Anfragen aus der Bevölkerung – in allen Landessprachen.",
+    "standortId": "st-bern",
+    "titel": "Kommunikation",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-kom.html",
+    "leitung": {
+      "id": "p-cadonau-seraina",
+      "name": "Seraina Cadonau",
+      "funktion": "Mediensprecherin"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-cadonau-seraina"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-kom.json"
+  },
+  "personen": [
+    {
+      "id": "p-braendli-ursula",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Ursula",
+      "nachname": "Brändli",
+      "funktion": "Direktorin",
+      "einheitId": "leitung",
+      "email": "ursula.braendli@bba-bund.example",
+      "telefon": "+41 58 999 10 01",
+      "kurzvita": "Promovierte Juristin (Universität Freiburg), zuvor Vizedirektorin und Leiterin der Abteilung Grundsätze und Konkordanz. Seit 2020 Direktorin des BBA. Hält die Mittagspause für ein Grundrecht.",
+      "name": "Dr. Ursula Brändli",
+      "portrait": "assets/img/ch/personen/p-braendli-ursula.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-braendli-ursula.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-braendli-ursula.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Direktion",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "leitung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-braendli-ursula.json"
+    },
+    {
+      "id": "p-cadonau-seraina",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Seraina",
+      "nachname": "Cadonau",
+      "funktion": "Mediensprecherin",
+      "einheitId": "stab-kom",
+      "email": "medien@bba-bund.example",
+      "telefon": "+41 58 999 10 20",
+      "kurzvita": "Journalistin aus dem Engadin; beantwortet Medienanfragen in vier Sprachen, bei Bedarf auch auf Rätoromanisch Vallader.",
+      "name": "Seraina Cadonau",
+      "portrait": "assets/img/ch/personen/p-cadonau-seraina.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-cadonau-seraina.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-cadonau-seraina.html",
+      "einheit": {
+        "id": "stab-kom",
+        "name": "Kommunikation",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-kom.html"
+      },
+      "abteilungId": "stab-kom",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "stab-kom"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-cadonau-seraina.json"
+    }
+  ]
+}

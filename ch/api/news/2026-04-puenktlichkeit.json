@@ -1,0 +1,138 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-04-puenktlichkeit",
+    "datum": "2026-04-15",
+    "kategorie": "Medienmitteilung",
+    "titel": "Grundsatzentscheid: 08:00:59 Uhr gilt noch als pünktlich",
+    "teaser": "Das BBA hat nach einer Einsprache verbindlich festgelegt, ab wann ein Ereignis als verspätet gilt. Die Toleranz beträgt 59 Sekunden – keine Sekunde mehr.",
+    "text": [
+      "Ausgangspunkt war die Einsprache eines Pendlers, der wegen einer Ankunft um 08:00:59 Uhr als verspätet galt.",
+      "«Eine Minute ist eine Minute. Was innerhalb dieser Minute geschieht, ist pünktlich», begründete Sektionschef Kurt Imboden den Entscheid. Ab 08:01:00 Uhr gilt ein Ereignis als verspätet.",
+      "Abteilungsleiterin Prof. Dr. Christine Rochat bezeichnete den Entscheid als «Meilenstein der Rechtssicherheit»."
+    ],
+    "bild": "assets/img/ch/news/2026-04-puenktlichkeit.jpg",
+    "einheitId": "ref-24",
+    "personIds": [
+      "p-imboden-kurt",
+      "p-rochat-christine",
+      "p-tanner-corinne"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-04-puenktlichkeit.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-04-puenktlichkeit.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-04-puenktlichkeit.json"
+  },
+  "einheit": {
+    "id": "ref-24",
+    "typ": "referat",
+    "kuerzel": "V4",
+    "name": "Fristen und Pünktlichkeit",
+    "parentId": "abt-2",
+    "leitungPersonId": "p-imboden-kurt",
+    "standortId": "st-bellinzona",
+    "titel": "Sektion V4: Fristen und Pünktlichkeit",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-24.html",
+    "leitung": {
+      "id": "p-imboden-kurt",
+      "name": "Kurt Imboden",
+      "funktion": "Sektionschef Fristen und Pünktlichkeit"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-imboden-kurt"
+    ],
+    "aufgabeIds": [
+      "auf-puenktlichkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-24.json"
+  },
+  "personen": [
+    {
+      "id": "p-imboden-kurt",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Kurt",
+      "nachname": "Imboden",
+      "funktion": "Sektionschef Fristen und Pünktlichkeit",
+      "einheitId": "ref-24",
+      "email": "kurt.imboden@bba-bund.example",
+      "telefon": "+41 58 999 44 00",
+      "kurzvita": "Amtlicher Pünktlichkeitsexperte; ist in 34 Dienstjahren nie zu spät gekommen, einmal aber 40 Sekunden zu früh.",
+      "name": "Kurt Imboden",
+      "portrait": "assets/img/ch/personen/p-imboden-kurt.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-imboden-kurt.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-imboden-kurt.html",
+      "einheit": {
+        "id": "ref-24",
+        "name": "Sektion V4: Fristen und Pünktlichkeit",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-24.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "ref-24"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-imboden-kurt.json"
+    },
+    {
+      "id": "p-rochat-christine",
+      "anrede": "Frau",
+      "titel": "Prof. Dr.",
+      "vorname": "Christine",
+      "nachname": "Rochat",
+      "funktion": "Leiterin Abteilung Verfahren und Vernehmlassungen",
+      "einheitId": "abt-2",
+      "email": "christine.rochat@bba-bund.example",
+      "telefon": "+41 58 999 40 00",
+      "kurzvita": "Titularprofessorin für Verwaltungsrecht in Lausanne; leitet die Abteilung am Standort Bellinzona.",
+      "name": "Prof. Dr. Christine Rochat",
+      "portrait": "assets/img/ch/personen/p-rochat-christine.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-rochat-christine.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-rochat-christine.html",
+      "einheit": {
+        "id": "abt-2",
+        "name": "Abteilung V: Verfahren und Vernehmlassungen",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "abt-2"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rochat-christine.json"
+    },
+    {
+      "id": "p-tanner-corinne",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Corinne",
+      "nachname": "Tanner",
+      "funktion": "Sektionschefin Einsprachen und Beschwerden",
+      "einheitId": "ref-23",
+      "email": "corinne.tanner@bba-bund.example",
+      "telefon": "+41 58 999 43 00",
+      "kurzvita": "Behandelt Einsprachen gegen Verfügungen des BBA.",
+      "name": "Corinne Tanner",
+      "portrait": "assets/img/ch/personen/p-tanner-corinne.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-tanner-corinne.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-tanner-corinne.html",
+      "einheit": {
+        "id": "ref-23",
+        "name": "Sektion V3: Einsprachen und Beschwerden",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-23.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "ref-23"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-tanner-corinne.json"
+    }
+  ]
+}

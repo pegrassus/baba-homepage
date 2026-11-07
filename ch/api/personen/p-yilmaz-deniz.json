@@ -1,0 +1,61 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-yilmaz-deniz",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Deniz",
+    "nachname": "Yilmaz",
+    "funktion": "Sektionschef Daten und Schnittstellen",
+    "einheitId": "ref-43",
+    "email": "deniz.yilmaz@bba-bund.example",
+    "telefon": "+41 58 999 63 00",
+    "kurzvita": "Data Engineer; betreut Open Government Data des Amtes.",
+    "name": "Deniz Yilmaz",
+    "portrait": "assets/img/ch/personen/p-yilmaz-deniz.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-yilmaz-deniz.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-yilmaz-deniz.html",
+    "einheit": {
+      "id": "ref-43",
+      "name": "Sektion D3: Daten und Schnittstellen",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-43.html"
+    },
+    "abteilungId": "abt-4",
+    "standortId": "st-biel",
+    "leitetEinheitIds": [
+      "ref-43"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-yilmaz-deniz.json"
+  },
+  "einheit": {
+    "id": "ref-43",
+    "typ": "referat",
+    "kuerzel": "D3",
+    "name": "Daten und Schnittstellen",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-yilmaz-deniz",
+    "standortId": "st-biel",
+    "titel": "Sektion D3: Daten und Schnittstellen",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-43.html",
+    "leitung": {
+      "id": "p-yilmaz-deniz",
+      "name": "Deniz Yilmaz",
+      "funktion": "Sektionschef Daten und Schnittstellen"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-yilmaz-deniz"
+    ],
+    "aufgabeIds": [
+      "auf-erba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-43.json"
+  },
+  "news": []
+}

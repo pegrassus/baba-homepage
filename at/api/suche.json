@@ -1,0 +1,490 @@
+{
+  "eintraege": [
+    {
+      "typ": "Person",
+      "titel": "Mag.a Dr.in Elisabeth Hinterberger",
+      "text": "Präsidentin – Amtsleitung. Juristin (Universität Wien) und Verwaltungswissenschaftlerin. Nach Stationen im BMAÜS und als Sektionschefin seit 2021 Präsidentin des BBSA. Hat als erste Präsidentin seit 1873 einen Laptop am Schreibtisch.",
+      "url": "personen/p-hinterberger-elisabeth.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "HR Dipl.-Ing. Franz-Josef Pichler",
+      "text": "Vizepräsident – Amtsleitung. Seit 1987 im Amt, Hofrat seit 2005. Zuständig für die Zusammenarbeit mit den Ländern. Kennt jeden Akt seit 1987 – und die meisten davor vom Hörensagen.",
+      "url": "personen/p-pichler-franz-josef.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Mag.a Katharina Novak",
+      "text": "Leiterin des Präsidialbüros – Präsidialbüro. Politikwissenschaftlerin; koordiniert den Aktenlauf und alle parlamentarischen Anfragen.",
+      "url": "personen/p-novak-katharina.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Florian Auer, MA",
+      "text": "Pressesprecher – Presse und Kommunikation. Ehemaliger Radiojournalist; beantwortet Medienanfragen mit Wiener Charme.",
+      "url": "personen/p-auer-florian.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Mag.a Julia Kovács",
+      "text": "Datenschutzbeauftragte – Datenschutz und Interne Revision. Juristin; Datenschutzbeauftragte und Leiterin der Internen Revision.",
+      "url": "personen/p-kovacs-julia.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Mag. Gerhard Wallner",
+      "text": "Sektionschef, Leiter der Präsidialsektion – Sektion I: Präsidialsektion. Seit 2016 Leiter der Sektion I; zuständig für alles, was das Amt am Laufen hält.",
+      "url": "personen/p-wallner-gerhard.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "ADir Renate Fuchs",
+      "text": "Abteilungsleiterin I/1 – Abteilung I/1: Personal und Lehrlingsausbildung. Amtsdirektorin; betreut Personal und Lehrlinge seit über 30 Jahren.",
+      "url": "personen/p-fuchs-renate.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Mag. (FH) Markus Berger",
+      "text": "Abteilungsleiter I/2 – Abteilung I/2: Budget und Beschaffung. Verantwortet Budget und Beschaffung; hat 2025 die Anschaffung von 400 neuen Stempelkissen durchgesetzt.",
+      "url": "personen/p-berger-markus.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Ing. Ivana Dvořák",
+      "text": "Abteilungsleiterin I/3 – Abteilung I/3: Amtsgebäude und Inneres Service. Betreut das denkmalgeschützte Amtsgebäude in Wien und die Außenstellen.",
+      "url": "personen/p-dvorak-ivana.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "OAR Alois Stempfl",
+      "text": "Abteilungsleiter I/4 – Abteilung I/4: Formular- und Stempelwesen. Oberamtsrat und Hüter von 3.112 Amtsstempeln; entwickelte 2026 das Formular zur Beantragung von Formularen.",
+      "url": "personen/p-stempfl-alois.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr.in Andrea Schwarzl",
+      "text": "Sektionschefin, Leiterin der Sektion II – Sektion II: Grundsatz, Sonderfälle und Sonstiges. Verfassungsjuristin; Autorin des Standardkommentars zum BBSAG.",
+      "url": "personen/p-schwarzl-andrea.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Mag.a Maria Eder",
+      "text": "Abteilungsleiterin II/1 – Abteilung II/1: Grundsatzangelegenheiten. Zuständig für Grundsatzangelegenheiten und Erlässe.",
+      "url": "personen/p-eder-maria.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Mag. Wolfgang Sonnleitner",
+      "text": "Abteilungsleiter II/2 – Abteilung II/2: Abgrenzung Besonderes – Sonstiges. Studierte Philosophie und Rechtswissenschaften; entscheidet die Frage, ob etwas besonders oder bloß sonstig ist.",
+      "url": "personen/p-sonnleitner-wolfgang.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Mag.a Lisa Hofer",
+      "text": "Abteilungsleiterin II/3 – Abteilung II/3: Föderale Grenzfälle (Bund – Länder). Vermittelt in Grenzfällen zwischen Bund und den neun Ländern.",
+      "url": "personen/p-hofer-lisa.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Thomas Nachbaur",
+      "text": "Abteilungsleiter II/4 – Abteilung II/4: Nachsichten und Ausnahmen. Gebürtiger Vorarlberger; gewährt Nachsichten nach § 7 BBSAG – mit alemannischer Gründlichkeit.",
+      "url": "personen/p-nachbaur-thomas.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Univ.-Prof. Dr. Klaus Moosbrugger",
+      "text": "Sektionschef, Leiter der Sektion III – Sektion III: Besondere Verfahren. Professor für Verwaltungsverfahrensrecht an der Universität Graz; leitet die Sektion in der Außenstelle Graz.",
+      "url": "personen/p-moosbrugger-klaus.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Mag.a Sabine Gassner",
+      "text": "Abteilungsleiterin III/1 – Abteilung III/1: Verfahren nach dem BBSAG. Führt Verfahren nach dem BBSAG in erster Instanz.",
+      "url": "personen/p-gassner-sabine.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Mag. Emre Özdemir",
+      "text": "Abteilungsleiter III/2 – Abteilung III/2: Bescheide besonderer Art. Verantwortet Bescheide besonderer Art, darunter den ersten Bescheid in Gedichtform (2024).",
+      "url": "personen/p-oezdemir-emre.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr.in Petra Winkler",
+      "text": "Abteilungsleiterin III/3 – Abteilung III/3: Beschwerdevorentscheidungen. Bearbeitet Beschwerden und erlässt Beschwerdevorentscheidungen.",
+      "url": "personen/p-winkler-petra.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "RgR Herbert Brückl",
+      "text": "Abteilungsleiter III/4 – Abteilung III/4: Fristen, Feiertage und Fenstertage. Regierungsrat; stellt jährlich die Fenster- und Zwickeltage fest. Nimmt sie aus Prinzip selbst nie in Anspruch.",
+      "url": "personen/p-brueckl-herbert.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Mag.a Brigitte Leitner",
+      "text": "Sektionschefin, Leiterin der Sektion IV – Sektion IV: Außergewöhnliche Ereignisse. Leitete zuvor das Lagezentrum; seit 2022 Sektionschefin.",
+      "url": "personen/p-leitner-brigitte.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Michael Reiter, BA",
+      "text": "Abteilungsleiter IV/1 (Leiter Lagezentrum) – Abteilung IV/1: Lagezentrum Besonderheiten. Leitet das rund um die Uhr besetzte Lagezentrum Besonderheiten.",
+      "url": "personen/p-reiter-michael.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr.in Veronika Lechner",
+      "text": "Abteilungsleiterin IV/2 – Abteilung IV/2: Föhn, Wetterfühligkeit und Unvorhergesehenes. Meteorologin in Innsbruck; bewertet Föhnlagen, Wetterfühligkeit und alles Unvorhergesehene.",
+      "url": "personen/p-lechner-veronika.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "HR Dr. Ferdinand Schnitzler",
+      "text": "Abteilungsleiter IV/3 (Kustos des Kuriositätenkabinetts) – Abteilung IV/3: Kuriositätenkabinett und Amtsarchiv. Kustos des Kuriositätenkabinetts seit 1991; verwahrt u. a. eine Melange-Tasse mit ungeklärtem Aktenzeichen aus 1912.",
+      "url": "personen/p-schnitzler-ferdinand.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Sophie Mayr, MSc",
+      "text": "Abteilungsleiterin IV/4 – Abteilung IV/4: Prävention des Unwahrscheinlichen. Risikoanalystin; plant für Szenarien wie „Krampus ohne Begleitperson“.",
+      "url": "personen/p-mayr-sophie.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "DI Stefan Gruber",
+      "text": "Sektionschef, Leiter der Sektion V (CIO) – Sektion V: Digitales und Register. Informatiker; verantwortet die Digitalisierung des Amtes von Innsbruck aus.",
+      "url": "personen/p-gruber-stefan.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Mag. Karl Pospischil",
+      "text": "Abteilungsleiter V/1 (Registerführer) – Abteilung V/1: Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA). Führt das BRbsA; liest Kurrentschrift fließend.",
+      "url": "personen/p-pospischil-karl.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "DI (FH) Nina Horvath",
+      "text": "Abteilungsleiterin V/2 – Abteilung V/2: IT-Verfahren und Elektronischer Akt (ELAK). Verantwortet IT-Verfahren und den Elektronischen Akt (ELAK).",
+      "url": "personen/p-horvath-nina.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Jana Ebner, MSc",
+      "text": "Abteilungsleiterin V/3 – Abteilung V/3: Daten und Schnittstellen. Data Scientist; betreut Open Government Data und Schnittstellen.",
+      "url": "personen/p-ebner-jana.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "DI Paul Kaltenbrunner",
+      "text": "Abteilungsleiter V/4 (CISO) – Abteilung V/4: Informationssicherheit. Informationssicherheitsbeauftragter des Amtes.",
+      "url": "personen/p-kaltenbrunner-paul.html"
+    },
+    {
+      "typ": "Amtsleitung",
+      "titel": "Amtsleitung",
+      "text": "Die Präsidentin und der Vizepräsident leiten das Amt und vertreten es nach außen.",
+      "url": "organisation/leitung.html"
+    },
+    {
+      "typ": "Stabsstelle",
+      "titel": "Präsidialbüro",
+      "text": "Unterstützt die Amtsleitung, koordiniert Ministerratsvorträge, parlamentarische Anfragen und den Aktenlauf.",
+      "url": "organisation/stab-pb.html"
+    },
+    {
+      "typ": "Stabsstelle",
+      "titel": "Presse und Kommunikation",
+      "text": "Pressearbeit, Website, Publikationen und Bürgerservice.",
+      "url": "organisation/stab-pk.html"
+    },
+    {
+      "typ": "Stabsstelle",
+      "titel": "Datenschutz und Interne Revision",
+      "text": "Datenschutzbeauftragte, Interne Revision und Korruptionsprävention.",
+      "url": "organisation/stab-dr.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion I: Präsidialsektion",
+      "text": "Personal, Budget, Amtsgebäude sowie das Formular- und Stempelwesen.",
+      "url": "organisation/abt-z.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung I/1: Personal und Lehrlingsausbildung",
+      "text": "Leitung: ADir Renate Fuchs",
+      "url": "organisation/ref-z1.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung I/2: Budget und Beschaffung",
+      "text": "Leitung: Mag. (FH) Markus Berger",
+      "url": "organisation/ref-z2.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung I/3: Amtsgebäude und Inneres Service",
+      "text": "Leitung: Ing. Ivana Dvořák",
+      "url": "organisation/ref-z3.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung I/4: Formular- und Stempelwesen",
+      "text": "Leitung: OAR Alois Stempfl",
+      "url": "organisation/ref-z4.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion II: Grundsatz, Sonderfälle und Sonstiges",
+      "text": "Grundsatzangelegenheiten, Abgrenzung des Besonderen vom Sonstigen, föderale Grenzfälle und Nachsichten.",
+      "url": "organisation/abt-1.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung II/1: Grundsatzangelegenheiten",
+      "text": "Leitung: Mag.a Maria Eder",
+      "url": "organisation/ref-11.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung II/2: Abgrenzung Besonderes – Sonstiges",
+      "text": "Leitung: Mag. Wolfgang Sonnleitner",
+      "url": "organisation/ref-12.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung II/3: Föderale Grenzfälle (Bund – Länder)",
+      "text": "Leitung: Mag.a Lisa Hofer",
+      "url": "organisation/ref-13.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung II/4: Nachsichten und Ausnahmen",
+      "text": "Leitung: Dr. Thomas Nachbaur",
+      "url": "organisation/ref-14.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion III: Besondere Verfahren",
+      "text": "Durchführung besonderer Verwaltungsverfahren nach dem AVG, Bescheide besonderer Art sowie Fristen, Feiertage und Fenstertage.",
+      "url": "organisation/abt-2.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung III/1: Verfahren nach dem BBSAG",
+      "text": "Leitung: Mag.a Sabine Gassner",
+      "url": "organisation/ref-21.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung III/2: Bescheide besonderer Art",
+      "text": "Leitung: Mag. Emre Özdemir",
+      "url": "organisation/ref-22.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung III/3: Beschwerdevorentscheidungen",
+      "text": "Leitung: Dr.in Petra Winkler",
+      "url": "organisation/ref-23.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung III/4: Fristen, Feiertage und Fenstertage",
+      "text": "Leitung: RgR Herbert Brückl",
+      "url": "organisation/ref-24.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion IV: Außergewöhnliche Ereignisse",
+      "text": "Lagezentrum, wetterbedingte Sonderfälle, Kuriositätenkabinett und Vorsorge für das Unwahrscheinliche.",
+      "url": "organisation/abt-3.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung IV/1: Lagezentrum Besonderheiten",
+      "text": "Leitung: Michael Reiter, BA",
+      "url": "organisation/ref-31.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung IV/2: Föhn, Wetterfühligkeit und Unvorhergesehenes",
+      "text": "Leitung: Dr.in Veronika Lechner",
+      "url": "organisation/ref-32.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung IV/3: Kuriositätenkabinett und Amtsarchiv",
+      "text": "Leitung: HR Dr. Ferdinand Schnitzler",
+      "url": "organisation/ref-33.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung IV/4: Prävention des Unwahrscheinlichen",
+      "text": "Leitung: Sophie Mayr, MSc",
+      "url": "organisation/ref-34.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion V: Digitales und Register",
+      "text": "Bundesregister besonderer und sonstiger Angelegenheiten, IT-Verfahren und ELAK, Daten und Informationssicherheit.",
+      "url": "organisation/abt-4.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung V/1: Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+      "text": "Leitung: Mag. Karl Pospischil",
+      "url": "organisation/ref-41.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung V/2: IT-Verfahren und Elektronischer Akt (ELAK)",
+      "text": "Leitung: DI (FH) Nina Horvath",
+      "url": "organisation/ref-42.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung V/3: Daten und Schnittstellen",
+      "text": "Leitung: Jana Ebner, MSc",
+      "url": "organisation/ref-43.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung V/4: Informationssicherheit",
+      "text": "Leitung: DI Paul Kaltenbrunner",
+      "url": "organisation/ref-44.html"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Auffangzuständigkeit des Bundes",
+      "text": "Das BBSA übernimmt alle Angelegenheiten des Bundes, die besonders sind oder sonst nirgends hingehören.",
+      "url": "aufgaben.html#auf-zustaendigkeit"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Feststellung der Besonderheit oder Sonstigkeit",
+      "text": "Auf Antrag wird mit Bescheid festgestellt, ob eine Angelegenheit besonders, sonstig oder ganz gewöhnlich ist. Gegen die Feststellung „gewöhnlich“ ist Beschwerde zulässig.",
+      "url": "aufgaben.html#auf-abgrenzung"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Nachsichten und Ausnahmen",
+      "text": "Gewährung von Nachsichten von Vorschriften, die den Einzelfall nicht vorhergesehen haben.",
+      "url": "aufgaben.html#auf-nachsicht"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Föderale Grenzfälle",
+      "text": "Vermittlung zwischen Bund und Ländern, wenn ein Sachverhalt in mehreren Bundesländern zugleich liegt – etwa ein Murmeltierbau am Arlberg.",
+      "url": "aufgaben.html#auf-laender"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Besondere Verwaltungsverfahren",
+      "text": "Durchführung von Verfahren nach dem AVG, die wegen ihrer Besonderheit nicht im Regelverfahren erledigt werden können.",
+      "url": "aufgaben.html#auf-verfahren"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Beschwerdevorentscheidungen",
+      "text": "Prüfung von Beschwerden gegen Bescheide des BBSA und Erlassung von Beschwerdevorentscheidungen; ansonsten Vorlage an das Bundesverwaltungsgericht.",
+      "url": "aufgaben.html#auf-beschwerde"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Feststellung der Fenster- und Zwickeltage",
+      "text": "Jährliche Kundmachung aller Fenstertage samt Empfehlung, ob sie „eh schon frei“ sind. Die Kundmachung erfolgt traditionell am letzten Arbeitstag vor einem Fenstertag.",
+      "url": "aufgaben.html#auf-fenstertage"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Lagebeobachtung",
+      "text": "Rund-um-die-Uhr-Beobachtung außergewöhnlicher Ereignisse, einschließlich Krampusläufen und Föhnstürmen.",
+      "url": "aufgaben.html#auf-lage"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Föhnbedingte Sonderfälle",
+      "text": "Gutachten darüber, ob ein Ereignis oder ein Bescheid unter Föhneinfluss zustande kam. Föhnbedingte Bescheide können auf Antrag neu erlassen werden.",
+      "url": "aufgaben.html#auf-foehn"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Kuriositätenkabinett",
+      "text": "Sammlung und Ausstellung kurioser Akten und Gegenstände der österreichischen Verwaltung seit 1873. Führungen jeden ersten Donnerstag im Monat.",
+      "url": "aufgaben.html#auf-kabinett"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+      "text": "Führung des Registers mit über 1,2 Millionen Einträgen seit 1873; Auskünfte an berechtigte Behörden.",
+      "url": "aufgaben.html#auf-brbsa"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Formular- und Stempelwesen",
+      "text": "Herausgabe aller Formulare des Amtes, einschließlich des Formulars zur Beantragung von Formularen (BBSA-F0), sowie Verwaltung der Amtsstempel.",
+      "url": "aufgaben.html#auf-formulare"
+    },
+    {
+      "typ": "Presseaussendung",
+      "titel": "Jahresbericht 2025: Rekord bei sonstigen Angelegenheiten",
+      "text": "Erstmals seit 1972 übersteigt die Zahl der sonstigen Angelegenheiten jene der besonderen. Präsidentin Hinterberger: „Ein Zeichen der Zeit.“ Das BBSA hat heute in Wien seinen Jahresbericht 2025 präsentiert. Von 27.431 erledigten Akten betrafen 14.012 sonstige und 13.419 besondere Angelegenheiten. „Was besonders ist, entscheiden wir. Was sonstig ist, auch“, sagte Präsidentin Mag.a Dr.in Elisabeth Hinterberger. Die durchschnittliche Verfahrensdauer sank auf 31 Werktage. Nicht eingerechnet sind Fenstertage, deren Status gesondert festgestellt wird.",
+      "url": "aktuelles/2026-10-jahresbericht.html"
+    },
+    {
+      "typ": "Kundmachung",
+      "titel": "Fenstertage 2027 kundgemacht: Sieben Fenstertage und ein Zwickeltag",
+      "text": "Die Abteilung III/4 hat die Fenstertage für 2027 festgestellt. Erstmals wurde auch ein „Zwickeltag zweiter Ordnung“ anerkannt. Mit der heutigen Kundmachung stehen die Fenstertage 2027 fest. Neben sieben klassischen Fenstertagen wurde der Montag nach dem Pfingstmontag als Zwickeltag zweiter Ordnung eingestuft. „Ein Zwickeltag zweiter Ordnung liegt vor, wenn er nicht zwischen Feiertag und Wochenende, aber zwischen zwei Urlaubswünschen liegt“, erläuterte Regierungsrat Herbert Brückl. Sektionschef Univ.-Prof. Dr. Klaus Moosbrugger betonte, dass die Kundmachung keinen Rechtsanspruch auf Urlaub begründe, „aber doch einen gewissen moralischen“.",
+      "url": "aktuelles/2026-10-fenstertage.html"
+    },
+    {
+      "typ": "Meldung",
+      "titel": "Kuriositätenkabinett: Melange-Tasse aus 1912 mit ungeklärtem Aktenzeichen ausgestellt",
+      "text": "Die Tasse wurde bei Renovierungsarbeiten in einer Zwischendecke gefunden – mit einem Aktenzeichen, das keinem bekannten Akt zuzuordnen ist. Das Kuriositätenkabinett des BBSA zeigt ab sofort eine Porzellantasse aus dem Jahr 1912, an der ein Aktenvermerk mit Bindfaden befestigt ist. „Das Aktenzeichen lautet 1912/sonst./47. Die Kategorie ‚sonstig‘ gab es damals aber noch gar nicht“, sagt Kustos Hofrat Dr. Ferdinand Schnitzler. „Das ist entweder ein Irrtum oder eine Prophezeiung.“ Die Tasse ist jeden ersten Donnerstag im Monat bei den Führungen zu besichtigen. Kaffee darf daraus nicht getrunken werden.",
+      "url": "aktuelles/2026-09-melange-tasse.html"
+    },
+    {
+      "typ": "Presseaussendung",
+      "titel": "Neue Richtlinie: Föhnbedingte Bescheide können neu erlassen werden",
+      "text": "Wer glaubt, dass sein Bescheid unter Föhneinfluss zustande gekommen ist, kann ab 1. September ein Gutachten beantragen. Die Abteilung IV/2 in Innsbruck hat eine Richtlinie zur Behandlung föhnbedingter Bescheide erlassen. „Föhn beeinflusst nachweislich Stimmung und Konzentration. Das darf sich nicht auf die Qualität von Bescheiden auswirken“, erklärt Abteilungsleiterin Dr.in Veronika Lechner. Als föhnbedingt gilt ein Bescheid, wenn am Tag seiner Erlassung am Standort der Behörde Windgeschwindigkeiten über 60 km/h aus südlicher Richtung gemessen wurden.",
+      "url": "aktuelles/2026-08-foehn-richtlinie.html"
+    },
+    {
+      "typ": "Meldung",
+      "titel": "Neu: Das Formular zur Beantragung von Formularen (BBSA-F0)",
+      "text": "Ab sofort können alle Formulare des Amtes mit einem einzigen Formular beantragt werden. Das Formular F0 selbst ist formlos erhältlich. Die Abteilung I/4 hat mit dem Formular BBSA-F0 eine Vereinfachung eingeführt: Statt jedes Formular einzeln anzufordern, genügt nun ein Antrag auf Formulare. „Wir haben lange überlegt, ob man für das Formular F0 ein eigenes Formular braucht. Wir haben uns dagegen entschieden – vorerst“, sagt Oberamtsrat Alois Stempfl. Das Formular ist dreifach auszufüllen und mit dem Eingangsstempel zu versehen, den man beim Parteienverkehr ausleihen kann.",
+      "url": "aktuelles/2026-07-formular-f0.html"
+    },
+    {
+      "typ": "Presseaussendung",
+      "titel": "BRbsA online: 1,2 Millionen Einträge seit 1873 digitalisiert",
+      "text": "Auch 380.000 handschriftliche Einträge in Kurrentschrift sind nun durchsuchbar. Die älteste Eintragung betrifft einen Hofhund ohne Zuständigkeit. Mit dem Start des digitalen Bundesregisters besonderer und sonstiger Angelegenheiten (BRbsA) ist die Digitalisierung des Amtes einen großen Schritt weiter. „Die Texterkennung für Kurrentschrift haben wir gemeinsam mit unseren pensionierten Kolleginnen und Kollegen trainiert“, erklärt Registerführer Mag. Karl Pospischil. Sektionschef DI Stefan Gruber kündigte an, dass Behörden ab 2027 über eine Schnittstelle Auskünfte abrufen können.",
+      "url": "aktuelles/2026-06-brbsa-online.html"
+    },
+    {
+      "typ": "Meldung",
+      "titel": "Grenzfall am Arlberg: Murmeltierbau liegt in zwei Bundesländern",
+      "text": "Der Eingang liegt in Tirol, der Ausgang in Vorarlberg. Das BBSA vermittelt zwischen den Ländern – das Murmeltier wurde nicht befragt. Ein Murmeltierbau am Arlberg hat einen Zuständigkeitsstreit zwischen Tirol und Vorarlberg ausgelöst. „Die Frage ist, ob ein Bau dort liegt, wo man hineingeht, oder dort, wo man herauskommt“, erklärte Abteilungsleiterin Mag.a Lisa Hofer. Bis zur Klärung gilt der Bau als sonstige Angelegenheit des Bundes. Abteilungsleiter Dr. Thomas Nachbaur gewährte vorsorglich eine Nachsicht für den Winterschlaf.",
+      "url": "aktuelles/2026-05-murmeltier-arlberg.html"
+    },
+    {
+      "typ": "Publikation",
+      "titel": "Leitfaden: Wann ist etwas besonders – und wann nur sonstig?",
+      "text": "Der überarbeitete Leitfaden enthält 14 Kriterien, darunter das neue „Na-geh-Kriterium“. Die Sektion II hat den Leitfaden zur Abgrenzung besonderer von sonstigen Angelegenheiten neu aufgelegt. „Die Abgrenzung ist philosophisch anspruchsvoll. Im Zweifel ist etwas sonstig“, erklärt Abteilungsleiter Mag. Wolfgang Sonnleitner. Neu ist das „Na-geh-Kriterium“: Löst ein Sachverhalt bei drei unabhängigen Bediensteten spontan die Reaktion „Na geh“ aus, gilt er als besonders. Der Leitfaden steht als PDF zum Download bereit.",
+      "url": "aktuelles/2026-03-abgrenzungsleitfaden.html"
+    },
+    {
+      "typ": "Karriere",
+      "titel": "18 Lehrlinge starten ihre Ausbildung im BBSA",
+      "text": "Verwaltungsassistentinnen und -assistenten sowie Applikationsentwicklerinnen und -entwickler beginnen in Wien, Graz und Innsbruck. Das BBSA begrüßte 18 neue Lehrlinge an seinen drei Standorten. „Bei uns lernt man alles über Akten – und wie man sie wiederfindet“, sagte Amtsdirektorin Renate Fuchs bei der Begrüßung. Bewerbungen für den Lehrgang 2027 sind ab sofort möglich, vorzugsweise mit Formular.",
+      "url": "aktuelles/2026-02-lehrlinge.html"
+    },
+    {
+      "typ": "Meldung",
+      "titel": "Übung „Krampusnacht“: Lagezentrum probt den 5. Dezember",
+      "text": "Gemeinsam mit sechs Ländern übte das Lagezentrum die Koordination bei gleichzeitigen Krampusläufen in 412 Gemeinden. Das Lagezentrum Besonderheiten hat am Krampustag die Stabsübung „Krampusnacht“ durchgeführt. Geübt wurde unter anderem das Szenario „Krampus ohne Begleitperson“, das die Abteilung IV/4 als besonders unwahrscheinlich, aber folgenreich einstuft. „Die Meldewege haben funktioniert. Nur der Nikolaus hat sich nicht abgemeldet“, so Lagezentrumsleiter Michael Reiter, BA.",
+      "url": "aktuelles/2025-12-krampus-uebung.html"
+    }
+  ]
+}

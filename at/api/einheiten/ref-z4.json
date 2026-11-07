@@ -1,0 +1,132 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-z4",
+    "typ": "referat",
+    "kuerzel": "I/4",
+    "name": "Formular- und Stempelwesen",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-stempfl-alois",
+    "standortId": "st-wien",
+    "titel": "Abteilung I/4: Formular- und Stempelwesen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z4.html",
+    "leitung": {
+      "id": "p-stempfl-alois",
+      "name": "OAR Alois Stempfl",
+      "funktion": "Abteilungsleiter I/4"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-stempfl-alois"
+    ],
+    "aufgabeIds": [
+      "auf-formulare"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z4.json"
+  },
+  "parent": {
+    "id": "abt-z",
+    "typ": "abteilung",
+    "kuerzel": "I",
+    "name": "Präsidialsektion",
+    "parentId": "leitung",
+    "leitungPersonId": "p-wallner-gerhard",
+    "beschreibung": "Personal, Budget, Amtsgebäude sowie das Formular- und Stempelwesen.",
+    "standortId": "st-wien",
+    "titel": "Sektion I: Präsidialsektion",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html",
+    "leitung": {
+      "id": "p-wallner-gerhard",
+      "name": "Mag. Gerhard Wallner",
+      "funktion": "Sektionschef, Leiter der Präsidialsektion"
+    },
+    "childIds": [
+      "ref-z1",
+      "ref-z2",
+      "ref-z3",
+      "ref-z4"
+    ],
+    "personIds": [
+      "p-wallner-gerhard"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-z.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-stempfl-alois",
+      "anrede": "Herr",
+      "titel": "OAR",
+      "vorname": "Alois",
+      "nachname": "Stempfl",
+      "funktion": "Abteilungsleiter I/4",
+      "einheitId": "ref-z4",
+      "email": "alois.stempfl@bbsa-bund.example",
+      "telefon": "+43 1 4711-2400",
+      "kurzvita": "Oberamtsrat und Hüter von 3.112 Amtsstempeln; entwickelte 2026 das Formular zur Beantragung von Formularen.",
+      "name": "OAR Alois Stempfl",
+      "portrait": "assets/img/at/personen/p-stempfl-alois.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-stempfl-alois.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-stempfl-alois.html",
+      "einheit": {
+        "id": "ref-z4",
+        "name": "Abteilung I/4: Formular- und Stempelwesen",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z4.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-z4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-stempfl-alois.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-formulare",
+      "titel": "Formular- und Stempelwesen",
+      "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Herausgabe aller Formulare des Amtes, einschließlich des Formulars zur Beantragung von Formularen (BBSA-F0), sowie Verwaltung der Amtsstempel.",
+      "einheitIds": [
+        "ref-z4"
+      ],
+      "rechtsgrundlage": "§ 6 BBSAG"
+    }
+  ],
+  "standort": {
+    "id": "st-wien",
+    "name": "Amtsgebäude Wien",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 7",
+    "plz": "1010",
+    "ort": "Wien",
+    "telefon": "+43 1 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+    "bild": "assets/img/at/standorte/wien.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-07-formular-f0",
+      "titel": "Neu: Das Formular zur Beantragung von Formularen (BBSA-F0)",
+      "datum": "2026-07-15",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-07-formular-f0.html"
+    }
+  ]
+}

@@ -1,0 +1,2203 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "behoerde": {
+    "id": "bbsa",
+    "variante": "at",
+    "land": "Österreich",
+    "locale": "de-AT",
+    "pfad": "at/",
+    "name": "Bundesamt für besondere und sonstige Angelegenheiten",
+    "kurzname": "BBSA",
+    "markeZeile": "BBSA · gegr. 1873",
+    "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+    "typ": "Bundesamt",
+    "geschaeftsbereich": "Bundesministerium für Allgemeines, Übriges und Sonstiges (BMAÜS, fiktiv)",
+    "zuordnung": "Nachgeordnete Dienststelle des Bundesministeriums für Allgemeines, Übriges und Sonstiges (BMAÜS, fiktiv)",
+    "gruendung": "1873-05-01",
+    "rechtsgrundlage": {
+      "kurz": "BBSAG",
+      "titel": "Bundesgesetz über das Bundesamt für besondere und sonstige Angelegenheiten (BBSA-Gesetz – BBSAG)",
+      "fundstelle": "BGBl. I Nr. 999/1955 (fiktiv), zuletzt geändert durch BGBl. I Nr. 42/2026 (fiktiv)"
+    },
+    "claim": "Für alles Besondere. Und alles Sonstige.",
+    "auftrag": "Das Bundesamt für besondere und sonstige Angelegenheiten (BBSA) ist zuständig für alle Angelegenheiten des Bundes, die besonders sind, sowie für jene, die zwar nicht besonders, aber auch nirgends sonst unterzubringen sind („sonstige Angelegenheiten“). Es entscheidet mit Bescheid, stellt Fenstertage fest, führt das Kuriositätenkabinett und das Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA) – seit 1873, mit kurzer Unterbrechung für die Mittagspause.",
+    "leitbild": [
+      {
+        "titel": "Zuständig",
+        "text": "Wenn sich niemand zuständig fühlt, fühlen wir uns zuständig. Notfalls auch sonstig."
+      },
+      {
+        "titel": "Gründlich",
+        "text": "Ein Akt ist erst erledigt, wenn er dreimal gestempelt ist."
+      },
+      {
+        "titel": "Gemütlich",
+        "text": "Wir lösen jedes Problem – nach dem Kaffee."
+      },
+      {
+        "titel": "Traditionsbewusst",
+        "text": "Wir modernisieren behutsam. Seit 1873."
+      }
+    ],
+    "kennzahlen": [
+      {
+        "label": "Bedienstete",
+        "wert": "860"
+      },
+      {
+        "label": "Erledigte Akten 2025",
+        "wert": "27.431"
+      },
+      {
+        "label": "Einträge im BRbsA seit 1873",
+        "wert": "1.204.388"
+      },
+      {
+        "label": "Amtsstempel im Einsatz",
+        "wert": "3.112"
+      }
+    ],
+    "leitungPersonId": "p-hinterberger-elisabeth",
+    "pressePersonId": "p-auer-florian",
+    "datenschutzPersonId": "p-kovacs-julia",
+    "hauptsitzId": "st-wien",
+    "kontakt": {
+      "telefon": "+43 1 4711-0",
+      "fax": "+43 1 4711-9999",
+      "email": "einlaufstelle@bbsa-bund.example",
+      "zeitenLabel": "Parteienverkehr",
+      "servicezeiten": "Mo–Fr 8:00–12:00 Uhr, Do zusätzlich 14:00–16:00 Uhr, und nach telefonischer Vereinbarung"
+    },
+    "logo": {
+      "farbig": "assets/img/at/logo/bbsa-logo.svg",
+      "wortbildmarke": "assets/img/at/logo/bbsa-wortbildmarke.svg",
+      "negativ": "assets/img/at/logo/bbsa-logo-negativ.svg",
+      "png": "assets/img/at/logo/bbsa-logo.png"
+    },
+    "farben": {
+      "mokka": "#2E2723",
+      "schoenbrunnergelb": "#E3B21A",
+      "creme": "#F7F2E6",
+      "altrosa": "#B36A5E"
+    },
+    "begriffe": {
+      "leitung": "Amtsleitung",
+      "stab": "Stabsstelle",
+      "stabPlural": "Stabsstellen",
+      "abteilung": "Sektion",
+      "abteilungPlural": "Sektionen",
+      "abteilungKurz": "Sekt.",
+      "referat": "Abteilung",
+      "referatPlural": "Abteilungen",
+      "referatKurz": "Abt.",
+      "referatsleitungen": "Abteilungsleitungen",
+      "antraegeTitel": "Anträge einbringen",
+      "antraegeText": "Feststellung, Nachsicht, Registerauskunft – und das Formular für Formulare",
+      "antraegeButton": "Anträge & Formulare",
+      "beschaeftigte": "Bedienstete"
+    },
+    "grusswort": {
+      "titel": "Grußwort der Präsidentin",
+      "text": "Seit 1873 kümmern wir uns um alles, was besonders ist – und seit 1972 auch um alles Sonstige. Wir verbinden die Gründlichkeit der k.k. Verwaltung mit den Möglichkeiten der Digitalisierung. Kommen Sie vorbei; den Kaffee gibt es beim Parteienverkehr gratis."
+    },
+    "jahresberichtZitat": "Was besonders ist, entscheiden wir. Was sonstig ist, auch.",
+    "hero": {
+      "bild": "assets/img/at/hero/hero-gebaeude.jpg",
+      "alt": "Amtsgebäude des BBSA an einem Wiener Boulevard im Abendlicht"
+    },
+    "heroInnen": {
+      "bild": "assets/img/at/hero/hero-stiege.jpg",
+      "alt": "Prunkstiege im Amtsgebäude Wien"
+    },
+    "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Keine Einrichtung der Republik Österreich.",
+    "leitfadenKriterien": [
+      "Der Sachverhalt ist besonders (→ besondere Angelegenheit)",
+      "Der Sachverhalt ist nicht besonders, aber auch nicht gewöhnlich (→ sonstige Angelegenheit)",
+      "Zuständigkeit zwischen Bund und mindestens zwei Ländern strittig",
+      "Bezug zu einem Fenster- oder Zwickeltag",
+      "Föhnwetterlage zum Zeitpunkt des Ereignisses",
+      "Kein passendes Formular vorhanden",
+      "Formular vorhanden, aber nicht mehr lagernd",
+      "Präzedenzfall nur in Kurrentschrift dokumentiert",
+      "Beteiligung von Murmeltieren, Krampussen oder sonstigen Brauchtumsträgern",
+      "Antrag auf Stellung eines Antrags",
+      "Akt wurde bereits zweimal abgelegt",
+      "Ereignis fand in der Mittagspause statt",
+      "Allgemeines Kopfschütteln mit „Na geh“",
+      "Nachweislich unwahrscheinliches Ereignis"
+    ],
+    "geschichte": [
+      {
+        "jahr": "1873",
+        "ereignis": "Errichtung als „k.k. Hofamt für besondere Angelegenheiten“ in Wien, untergebracht in drei Zimmern über einem Kaffeehaus."
+      },
+      {
+        "jahr": "1919",
+        "ereignis": "Umbenennung in „Staatsamt für besondere Angelegenheiten“; die Stempel werden bis 1923 weiterverwendet."
+      },
+      {
+        "jahr": "1955",
+        "ereignis": "Neuerrichtung als Bundesamt durch das BBSA-Gesetz."
+      },
+      {
+        "jahr": "1972",
+        "ereignis": "Nach einem zehnjährigen Zuständigkeitsstreit Erweiterung um die „sonstigen Angelegenheiten“."
+      },
+      {
+        "jahr": "2004",
+        "ereignis": "Eröffnung der Außenstelle Graz; 2011 folgt Innsbruck."
+      },
+      {
+        "jahr": "2026",
+        "ereignis": "Das BRbsA geht online – inklusive 380.000 handschriftlicher Einträge in Kurrentschrift."
+      }
+    ]
+  },
+  "standorte": [
+    {
+      "id": "st-wien",
+      "name": "Amtsgebäude Wien",
+      "typ": "Hauptsitz",
+      "strasse": "Ausnahmegasse 7",
+      "plz": "1010",
+      "ort": "Wien",
+      "telefon": "+43 1 4711-0",
+      "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+      "bild": "assets/img/at/standorte/wien.jpg",
+      "einheitIds": [
+        "leitung",
+        "stab-pb",
+        "stab-pk",
+        "stab-dr",
+        "abt-z",
+        "abt-1",
+        "abt-3"
+      ]
+    },
+    {
+      "id": "st-graz",
+      "name": "Außenstelle Graz",
+      "typ": "Außenstelle",
+      "strasse": "Sonderfallplatz 2",
+      "plz": "8010",
+      "ort": "Graz",
+      "telefon": "+43 316 4711-0",
+      "beschreibung": "Standort der Sektion III (Besondere Verfahren) mit Blick auf den Uhrturm.",
+      "bild": "assets/img/at/standorte/graz.jpg",
+      "einheitIds": [
+        "abt-2"
+      ]
+    },
+    {
+      "id": "st-innsbruck",
+      "name": "Außenstelle Innsbruck",
+      "typ": "Außenstelle",
+      "strasse": "Zuständigkeitsweg 4",
+      "plz": "6020",
+      "ort": "Innsbruck",
+      "telefon": "+43 512 4711-0",
+      "beschreibung": "Standort der Sektion V (Digitales und Register) und der Abteilung IV/2 – aus naheliegenden Gründen im Föhngebiet.",
+      "bild": "assets/img/at/standorte/innsbruck.jpg",
+      "einheitIds": [
+        "abt-4"
+      ]
+    }
+  ],
+  "einheiten": [
+    {
+      "id": "leitung",
+      "typ": "leitung",
+      "kuerzel": "P",
+      "name": "Amtsleitung",
+      "parentId": null,
+      "leitungPersonId": "p-hinterberger-elisabeth",
+      "vertretungPersonId": "p-pichler-franz-josef",
+      "beschreibung": "Die Präsidentin und der Vizepräsident leiten das Amt und vertreten es nach außen.",
+      "standortId": "st-wien",
+      "titel": "Amtsleitung",
+      "typLabel": "Amtsleitung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html",
+      "leitung": {
+        "id": "p-hinterberger-elisabeth",
+        "name": "Mag.a Dr.in Elisabeth Hinterberger",
+        "funktion": "Präsidentin"
+      },
+      "childIds": [
+        "stab-pb",
+        "stab-pk",
+        "stab-dr",
+        "abt-z",
+        "abt-1",
+        "abt-2",
+        "abt-3",
+        "abt-4"
+      ],
+      "personIds": [
+        "p-hinterberger-elisabeth",
+        "p-pichler-franz-josef"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/leitung.json"
+    },
+    {
+      "id": "stab-pb",
+      "typ": "stab",
+      "kuerzel": "PB",
+      "name": "Präsidialbüro",
+      "parentId": "leitung",
+      "leitungPersonId": "p-novak-katharina",
+      "beschreibung": "Unterstützt die Amtsleitung, koordiniert Ministerratsvorträge, parlamentarische Anfragen und den Aktenlauf.",
+      "standortId": "st-wien",
+      "titel": "Präsidialbüro",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pb.html",
+      "leitung": {
+        "id": "p-novak-katharina",
+        "name": "Mag.a Katharina Novak",
+        "funktion": "Leiterin des Präsidialbüros"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-novak-katharina"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-pb.json"
+    },
+    {
+      "id": "stab-pk",
+      "typ": "stab",
+      "kuerzel": "PK",
+      "name": "Presse und Kommunikation",
+      "parentId": "leitung",
+      "leitungPersonId": "p-auer-florian",
+      "beschreibung": "Pressearbeit, Website, Publikationen und Bürgerservice.",
+      "standortId": "st-wien",
+      "titel": "Presse und Kommunikation",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pk.html",
+      "leitung": {
+        "id": "p-auer-florian",
+        "name": "Florian Auer, MA",
+        "funktion": "Pressesprecher"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-auer-florian"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-pk.json"
+    },
+    {
+      "id": "stab-dr",
+      "typ": "stab",
+      "kuerzel": "DR",
+      "name": "Datenschutz und Interne Revision",
+      "parentId": "leitung",
+      "leitungPersonId": "p-kovacs-julia",
+      "beschreibung": "Datenschutzbeauftragte, Interne Revision und Korruptionsprävention.",
+      "standortId": "st-wien",
+      "titel": "Datenschutz und Interne Revision",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-dr.html",
+      "leitung": {
+        "id": "p-kovacs-julia",
+        "name": "Mag.a Julia Kovács",
+        "funktion": "Datenschutzbeauftragte"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-kovacs-julia"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-dr.json"
+    },
+    {
+      "id": "abt-z",
+      "typ": "abteilung",
+      "kuerzel": "I",
+      "name": "Präsidialsektion",
+      "parentId": "leitung",
+      "leitungPersonId": "p-wallner-gerhard",
+      "beschreibung": "Personal, Budget, Amtsgebäude sowie das Formular- und Stempelwesen.",
+      "standortId": "st-wien",
+      "titel": "Sektion I: Präsidialsektion",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html",
+      "leitung": {
+        "id": "p-wallner-gerhard",
+        "name": "Mag. Gerhard Wallner",
+        "funktion": "Sektionschef, Leiter der Präsidialsektion"
+      },
+      "childIds": [
+        "ref-z1",
+        "ref-z2",
+        "ref-z3",
+        "ref-z4"
+      ],
+      "personIds": [
+        "p-wallner-gerhard"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-z.json"
+    },
+    {
+      "id": "ref-z1",
+      "typ": "referat",
+      "kuerzel": "I/1",
+      "name": "Personal und Lehrlingsausbildung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-fuchs-renate",
+      "standortId": "st-wien",
+      "titel": "Abteilung I/1: Personal und Lehrlingsausbildung",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z1.html",
+      "leitung": {
+        "id": "p-fuchs-renate",
+        "name": "ADir Renate Fuchs",
+        "funktion": "Abteilungsleiterin I/1"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-fuchs-renate"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z1.json"
+    },
+    {
+      "id": "ref-z2",
+      "typ": "referat",
+      "kuerzel": "I/2",
+      "name": "Budget und Beschaffung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-berger-markus",
+      "standortId": "st-wien",
+      "titel": "Abteilung I/2: Budget und Beschaffung",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z2.html",
+      "leitung": {
+        "id": "p-berger-markus",
+        "name": "Mag. (FH) Markus Berger",
+        "funktion": "Abteilungsleiter I/2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-berger-markus"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z2.json"
+    },
+    {
+      "id": "ref-z3",
+      "typ": "referat",
+      "kuerzel": "I/3",
+      "name": "Amtsgebäude und Inneres Service",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-dvorak-ivana",
+      "standortId": "st-wien",
+      "titel": "Abteilung I/3: Amtsgebäude und Inneres Service",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z3.html",
+      "leitung": {
+        "id": "p-dvorak-ivana",
+        "name": "Ing. Ivana Dvořák",
+        "funktion": "Abteilungsleiterin I/3"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-dvorak-ivana"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z3.json"
+    },
+    {
+      "id": "ref-z4",
+      "typ": "referat",
+      "kuerzel": "I/4",
+      "name": "Formular- und Stempelwesen",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-stempfl-alois",
+      "standortId": "st-wien",
+      "titel": "Abteilung I/4: Formular- und Stempelwesen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z4.html",
+      "leitung": {
+        "id": "p-stempfl-alois",
+        "name": "OAR Alois Stempfl",
+        "funktion": "Abteilungsleiter I/4"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-stempfl-alois"
+      ],
+      "aufgabeIds": [
+        "auf-formulare"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z4.json"
+    },
+    {
+      "id": "abt-1",
+      "typ": "abteilung",
+      "kuerzel": "II",
+      "name": "Grundsatz, Sonderfälle und Sonstiges",
+      "parentId": "leitung",
+      "leitungPersonId": "p-schwarzl-andrea",
+      "beschreibung": "Grundsatzangelegenheiten, Abgrenzung des Besonderen vom Sonstigen, föderale Grenzfälle und Nachsichten.",
+      "standortId": "st-wien",
+      "titel": "Sektion II: Grundsatz, Sonderfälle und Sonstiges",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-1.html",
+      "leitung": {
+        "id": "p-schwarzl-andrea",
+        "name": "Dr.in Andrea Schwarzl",
+        "funktion": "Sektionschefin, Leiterin der Sektion II"
+      },
+      "childIds": [
+        "ref-11",
+        "ref-12",
+        "ref-13",
+        "ref-14"
+      ],
+      "personIds": [
+        "p-schwarzl-andrea"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-1.json"
+    },
+    {
+      "id": "ref-11",
+      "typ": "referat",
+      "kuerzel": "II/1",
+      "name": "Grundsatzangelegenheiten",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-eder-maria",
+      "standortId": "st-wien",
+      "titel": "Abteilung II/1: Grundsatzangelegenheiten",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-11.html",
+      "leitung": {
+        "id": "p-eder-maria",
+        "name": "Mag.a Maria Eder",
+        "funktion": "Abteilungsleiterin II/1"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-eder-maria"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-11.json"
+    },
+    {
+      "id": "ref-12",
+      "typ": "referat",
+      "kuerzel": "II/2",
+      "name": "Abgrenzung Besonderes – Sonstiges",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-sonnleitner-wolfgang",
+      "standortId": "st-wien",
+      "titel": "Abteilung II/2: Abgrenzung Besonderes – Sonstiges",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-12.html",
+      "leitung": {
+        "id": "p-sonnleitner-wolfgang",
+        "name": "Mag. Wolfgang Sonnleitner",
+        "funktion": "Abteilungsleiter II/2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-sonnleitner-wolfgang"
+      ],
+      "aufgabeIds": [
+        "auf-abgrenzung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-12.json"
+    },
+    {
+      "id": "ref-13",
+      "typ": "referat",
+      "kuerzel": "II/3",
+      "name": "Föderale Grenzfälle (Bund – Länder)",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-hofer-lisa",
+      "standortId": "st-wien",
+      "titel": "Abteilung II/3: Föderale Grenzfälle (Bund – Länder)",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-13.html",
+      "leitung": {
+        "id": "p-hofer-lisa",
+        "name": "Mag.a Lisa Hofer",
+        "funktion": "Abteilungsleiterin II/3"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-hofer-lisa"
+      ],
+      "aufgabeIds": [
+        "auf-laender"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-13.json"
+    },
+    {
+      "id": "ref-14",
+      "typ": "referat",
+      "kuerzel": "II/4",
+      "name": "Nachsichten und Ausnahmen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-nachbaur-thomas",
+      "standortId": "st-wien",
+      "titel": "Abteilung II/4: Nachsichten und Ausnahmen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-14.html",
+      "leitung": {
+        "id": "p-nachbaur-thomas",
+        "name": "Dr. Thomas Nachbaur",
+        "funktion": "Abteilungsleiter II/4"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-nachbaur-thomas"
+      ],
+      "aufgabeIds": [
+        "auf-nachsicht"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-14.json"
+    },
+    {
+      "id": "abt-2",
+      "typ": "abteilung",
+      "kuerzel": "III",
+      "name": "Besondere Verfahren",
+      "parentId": "leitung",
+      "leitungPersonId": "p-moosbrugger-klaus",
+      "beschreibung": "Durchführung besonderer Verwaltungsverfahren nach dem AVG, Bescheide besonderer Art sowie Fristen, Feiertage und Fenstertage.",
+      "standortId": "st-graz",
+      "titel": "Sektion III: Besondere Verfahren",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-2.html",
+      "leitung": {
+        "id": "p-moosbrugger-klaus",
+        "name": "Univ.-Prof. Dr. Klaus Moosbrugger",
+        "funktion": "Sektionschef, Leiter der Sektion III"
+      },
+      "childIds": [
+        "ref-21",
+        "ref-22",
+        "ref-23",
+        "ref-24"
+      ],
+      "personIds": [
+        "p-moosbrugger-klaus"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-2.json"
+    },
+    {
+      "id": "ref-21",
+      "typ": "referat",
+      "kuerzel": "III/1",
+      "name": "Verfahren nach dem BBSAG",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-gassner-sabine",
+      "standortId": "st-graz",
+      "titel": "Abteilung III/1: Verfahren nach dem BBSAG",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-21.html",
+      "leitung": {
+        "id": "p-gassner-sabine",
+        "name": "Mag.a Sabine Gassner",
+        "funktion": "Abteilungsleiterin III/1"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-gassner-sabine"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-21.json"
+    },
+    {
+      "id": "ref-22",
+      "typ": "referat",
+      "kuerzel": "III/2",
+      "name": "Bescheide besonderer Art",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-oezdemir-emre",
+      "standortId": "st-graz",
+      "titel": "Abteilung III/2: Bescheide besonderer Art",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-22.html",
+      "leitung": {
+        "id": "p-oezdemir-emre",
+        "name": "Mag. Emre Özdemir",
+        "funktion": "Abteilungsleiter III/2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-oezdemir-emre"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-22.json"
+    },
+    {
+      "id": "ref-23",
+      "typ": "referat",
+      "kuerzel": "III/3",
+      "name": "Beschwerdevorentscheidungen",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-winkler-petra",
+      "standortId": "st-graz",
+      "titel": "Abteilung III/3: Beschwerdevorentscheidungen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-23.html",
+      "leitung": {
+        "id": "p-winkler-petra",
+        "name": "Dr.in Petra Winkler",
+        "funktion": "Abteilungsleiterin III/3"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-winkler-petra"
+      ],
+      "aufgabeIds": [
+        "auf-beschwerde"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-23.json"
+    },
+    {
+      "id": "ref-24",
+      "typ": "referat",
+      "kuerzel": "III/4",
+      "name": "Fristen, Feiertage und Fenstertage",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-brueckl-herbert",
+      "standortId": "st-graz",
+      "titel": "Abteilung III/4: Fristen, Feiertage und Fenstertage",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-24.html",
+      "leitung": {
+        "id": "p-brueckl-herbert",
+        "name": "RgR Herbert Brückl",
+        "funktion": "Abteilungsleiter III/4"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-brueckl-herbert"
+      ],
+      "aufgabeIds": [
+        "auf-fenstertage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-24.json"
+    },
+    {
+      "id": "abt-3",
+      "typ": "abteilung",
+      "kuerzel": "IV",
+      "name": "Außergewöhnliche Ereignisse",
+      "parentId": "leitung",
+      "leitungPersonId": "p-leitner-brigitte",
+      "beschreibung": "Lagezentrum, wetterbedingte Sonderfälle, Kuriositätenkabinett und Vorsorge für das Unwahrscheinliche.",
+      "standortId": "st-wien",
+      "titel": "Sektion IV: Außergewöhnliche Ereignisse",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-3.html",
+      "leitung": {
+        "id": "p-leitner-brigitte",
+        "name": "Mag.a Brigitte Leitner",
+        "funktion": "Sektionschefin, Leiterin der Sektion IV"
+      },
+      "childIds": [
+        "ref-31",
+        "ref-32",
+        "ref-33",
+        "ref-34"
+      ],
+      "personIds": [
+        "p-leitner-brigitte"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-3.json"
+    },
+    {
+      "id": "ref-31",
+      "typ": "referat",
+      "kuerzel": "IV/1",
+      "name": "Lagezentrum Besonderheiten",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-reiter-michael",
+      "standortId": "st-wien",
+      "titel": "Abteilung IV/1: Lagezentrum Besonderheiten",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-31.html",
+      "leitung": {
+        "id": "p-reiter-michael",
+        "name": "Michael Reiter, BA",
+        "funktion": "Abteilungsleiter IV/1 (Leiter Lagezentrum)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-reiter-michael"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-31.json"
+    },
+    {
+      "id": "ref-32",
+      "typ": "referat",
+      "kuerzel": "IV/2",
+      "name": "Föhn, Wetterfühligkeit und Unvorhergesehenes",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-lechner-veronika",
+      "standortId": "st-innsbruck",
+      "titel": "Abteilung IV/2: Föhn, Wetterfühligkeit und Unvorhergesehenes",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-32.html",
+      "leitung": {
+        "id": "p-lechner-veronika",
+        "name": "Dr.in Veronika Lechner",
+        "funktion": "Abteilungsleiterin IV/2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-lechner-veronika"
+      ],
+      "aufgabeIds": [
+        "auf-foehn"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-32.json"
+    },
+    {
+      "id": "ref-33",
+      "typ": "referat",
+      "kuerzel": "IV/3",
+      "name": "Kuriositätenkabinett und Amtsarchiv",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-schnitzler-ferdinand",
+      "standortId": "st-wien",
+      "titel": "Abteilung IV/3: Kuriositätenkabinett und Amtsarchiv",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-33.html",
+      "leitung": {
+        "id": "p-schnitzler-ferdinand",
+        "name": "HR Dr. Ferdinand Schnitzler",
+        "funktion": "Abteilungsleiter IV/3 (Kustos des Kuriositätenkabinetts)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-schnitzler-ferdinand"
+      ],
+      "aufgabeIds": [
+        "auf-kabinett"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-33.json"
+    },
+    {
+      "id": "ref-34",
+      "typ": "referat",
+      "kuerzel": "IV/4",
+      "name": "Prävention des Unwahrscheinlichen",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-mayr-sophie",
+      "standortId": "st-wien",
+      "titel": "Abteilung IV/4: Prävention des Unwahrscheinlichen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-34.html",
+      "leitung": {
+        "id": "p-mayr-sophie",
+        "name": "Sophie Mayr, MSc",
+        "funktion": "Abteilungsleiterin IV/4"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-mayr-sophie"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-34.json"
+    },
+    {
+      "id": "abt-4",
+      "typ": "abteilung",
+      "kuerzel": "V",
+      "name": "Digitales und Register",
+      "parentId": "leitung",
+      "leitungPersonId": "p-gruber-stefan",
+      "beschreibung": "Bundesregister besonderer und sonstiger Angelegenheiten, IT-Verfahren und ELAK, Daten und Informationssicherheit.",
+      "standortId": "st-innsbruck",
+      "titel": "Sektion V: Digitales und Register",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-4.html",
+      "leitung": {
+        "id": "p-gruber-stefan",
+        "name": "DI Stefan Gruber",
+        "funktion": "Sektionschef, Leiter der Sektion V (CIO)"
+      },
+      "childIds": [
+        "ref-41",
+        "ref-42",
+        "ref-43",
+        "ref-44"
+      ],
+      "personIds": [
+        "p-gruber-stefan"
+      ],
+      "aufgabeIds": [
+        "auf-brbsa"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-4.json"
+    },
+    {
+      "id": "ref-41",
+      "typ": "referat",
+      "kuerzel": "V/1",
+      "name": "Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-pospischil-karl",
+      "standortId": "st-wien",
+      "titel": "Abteilung V/1: Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-41.html",
+      "leitung": {
+        "id": "p-pospischil-karl",
+        "name": "Mag. Karl Pospischil",
+        "funktion": "Abteilungsleiter V/1 (Registerführer)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-pospischil-karl"
+      ],
+      "aufgabeIds": [
+        "auf-brbsa"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-41.json"
+    },
+    {
+      "id": "ref-42",
+      "typ": "referat",
+      "kuerzel": "V/2",
+      "name": "IT-Verfahren und Elektronischer Akt (ELAK)",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-horvath-nina",
+      "standortId": "st-innsbruck",
+      "titel": "Abteilung V/2: IT-Verfahren und Elektronischer Akt (ELAK)",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-42.html",
+      "leitung": {
+        "id": "p-horvath-nina",
+        "name": "DI (FH) Nina Horvath",
+        "funktion": "Abteilungsleiterin V/2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-horvath-nina"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-42.json"
+    },
+    {
+      "id": "ref-43",
+      "typ": "referat",
+      "kuerzel": "V/3",
+      "name": "Daten und Schnittstellen",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-ebner-jana",
+      "standortId": "st-innsbruck",
+      "titel": "Abteilung V/3: Daten und Schnittstellen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-43.html",
+      "leitung": {
+        "id": "p-ebner-jana",
+        "name": "Jana Ebner, MSc",
+        "funktion": "Abteilungsleiterin V/3"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-ebner-jana"
+      ],
+      "aufgabeIds": [
+        "auf-brbsa"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-43.json"
+    },
+    {
+      "id": "ref-44",
+      "typ": "referat",
+      "kuerzel": "V/4",
+      "name": "Informationssicherheit",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-kaltenbrunner-paul",
+      "standortId": "st-innsbruck",
+      "titel": "Abteilung V/4: Informationssicherheit",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-44.html",
+      "leitung": {
+        "id": "p-kaltenbrunner-paul",
+        "name": "DI Paul Kaltenbrunner",
+        "funktion": "Abteilungsleiter V/4 (CISO)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-kaltenbrunner-paul"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-44.json"
+    }
+  ],
+  "personen": [
+    {
+      "id": "p-hinterberger-elisabeth",
+      "anrede": "Frau",
+      "titel": "Mag.a Dr.in",
+      "vorname": "Elisabeth",
+      "nachname": "Hinterberger",
+      "funktion": "Präsidentin",
+      "einheitId": "leitung",
+      "email": "praesidentin@bbsa-bund.example",
+      "telefon": "+43 1 4711-1000",
+      "kurzvita": "Juristin (Universität Wien) und Verwaltungswissenschaftlerin. Nach Stationen im BMAÜS und als Sektionschefin seit 2021 Präsidentin des BBSA. Hat als erste Präsidentin seit 1873 einen Laptop am Schreibtisch.",
+      "name": "Mag.a Dr.in Elisabeth Hinterberger",
+      "portrait": "assets/img/at/personen/p-hinterberger-elisabeth.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-hinterberger-elisabeth.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-hinterberger-elisabeth.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Amtsleitung",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "leitung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-hinterberger-elisabeth.json"
+    },
+    {
+      "id": "p-pichler-franz-josef",
+      "anrede": "Herr",
+      "titel": "HR Dipl.-Ing.",
+      "vorname": "Franz-Josef",
+      "nachname": "Pichler",
+      "funktion": "Vizepräsident",
+      "einheitId": "leitung",
+      "email": "vizepraesident@bbsa-bund.example",
+      "telefon": "+43 1 4711-1001",
+      "kurzvita": "Seit 1987 im Amt, Hofrat seit 2005. Zuständig für die Zusammenarbeit mit den Ländern. Kennt jeden Akt seit 1987 – und die meisten davor vom Hörensagen.",
+      "name": "HR Dipl.-Ing. Franz-Josef Pichler",
+      "portrait": "assets/img/at/personen/p-pichler-franz-josef.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-pichler-franz-josef.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-pichler-franz-josef.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Amtsleitung",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-pichler-franz-josef.json"
+    },
+    {
+      "id": "p-novak-katharina",
+      "anrede": "Frau",
+      "titel": "Mag.a",
+      "vorname": "Katharina",
+      "nachname": "Novak",
+      "funktion": "Leiterin des Präsidialbüros",
+      "einheitId": "stab-pb",
+      "email": "katharina.novak@bbsa-bund.example",
+      "telefon": "+43 1 4711-1010",
+      "kurzvita": "Politikwissenschaftlerin; koordiniert den Aktenlauf und alle parlamentarischen Anfragen.",
+      "name": "Mag.a Katharina Novak",
+      "portrait": "assets/img/at/personen/p-novak-katharina.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-novak-katharina.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-novak-katharina.html",
+      "einheit": {
+        "id": "stab-pb",
+        "name": "Präsidialbüro",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pb.html"
+      },
+      "abteilungId": "stab-pb",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "stab-pb"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-novak-katharina.json"
+    },
+    {
+      "id": "p-auer-florian",
+      "anrede": "Herr",
+      "titel": "",
+      "titelNach": "MA",
+      "vorname": "Florian",
+      "nachname": "Auer",
+      "funktion": "Pressesprecher",
+      "einheitId": "stab-pk",
+      "email": "presse@bbsa-bund.example",
+      "telefon": "+43 1 4711-1020",
+      "kurzvita": "Ehemaliger Radiojournalist; beantwortet Medienanfragen mit Wiener Charme.",
+      "name": "Florian Auer, MA",
+      "portrait": "assets/img/at/personen/p-auer-florian.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-auer-florian.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-auer-florian.html",
+      "einheit": {
+        "id": "stab-pk",
+        "name": "Presse und Kommunikation",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pk.html"
+      },
+      "abteilungId": "stab-pk",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "stab-pk"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-auer-florian.json"
+    },
+    {
+      "id": "p-kovacs-julia",
+      "anrede": "Frau",
+      "titel": "Mag.a",
+      "vorname": "Julia",
+      "nachname": "Kovács",
+      "funktion": "Datenschutzbeauftragte",
+      "einheitId": "stab-dr",
+      "email": "datenschutz@bbsa-bund.example",
+      "telefon": "+43 1 4711-1030",
+      "kurzvita": "Juristin; Datenschutzbeauftragte und Leiterin der Internen Revision.",
+      "name": "Mag.a Julia Kovács",
+      "portrait": "assets/img/at/personen/p-kovacs-julia.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-kovacs-julia.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-kovacs-julia.html",
+      "einheit": {
+        "id": "stab-dr",
+        "name": "Datenschutz und Interne Revision",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-dr.html"
+      },
+      "abteilungId": "stab-dr",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "stab-dr"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-kovacs-julia.json"
+    },
+    {
+      "id": "p-wallner-gerhard",
+      "anrede": "Herr",
+      "titel": "Mag.",
+      "vorname": "Gerhard",
+      "nachname": "Wallner",
+      "funktion": "Sektionschef, Leiter der Präsidialsektion",
+      "einheitId": "abt-z",
+      "email": "gerhard.wallner@bbsa-bund.example",
+      "telefon": "+43 1 4711-2000",
+      "kurzvita": "Seit 2016 Leiter der Sektion I; zuständig für alles, was das Amt am Laufen hält.",
+      "name": "Mag. Gerhard Wallner",
+      "portrait": "assets/img/at/personen/p-wallner-gerhard.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-wallner-gerhard.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-wallner-gerhard.html",
+      "einheit": {
+        "id": "abt-z",
+        "name": "Sektion I: Präsidialsektion",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "abt-z"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-wallner-gerhard.json"
+    },
+    {
+      "id": "p-fuchs-renate",
+      "anrede": "Frau",
+      "titel": "ADir",
+      "vorname": "Renate",
+      "nachname": "Fuchs",
+      "funktion": "Abteilungsleiterin I/1",
+      "einheitId": "ref-z1",
+      "email": "renate.fuchs@bbsa-bund.example",
+      "telefon": "+43 1 4711-2100",
+      "kurzvita": "Amtsdirektorin; betreut Personal und Lehrlinge seit über 30 Jahren.",
+      "name": "ADir Renate Fuchs",
+      "portrait": "assets/img/at/personen/p-fuchs-renate.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-fuchs-renate.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-fuchs-renate.html",
+      "einheit": {
+        "id": "ref-z1",
+        "name": "Abteilung I/1: Personal und Lehrlingsausbildung",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z1.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-z1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-fuchs-renate.json"
+    },
+    {
+      "id": "p-berger-markus",
+      "anrede": "Herr",
+      "titel": "Mag. (FH)",
+      "vorname": "Markus",
+      "nachname": "Berger",
+      "funktion": "Abteilungsleiter I/2",
+      "einheitId": "ref-z2",
+      "email": "markus.berger@bbsa-bund.example",
+      "telefon": "+43 1 4711-2200",
+      "kurzvita": "Verantwortet Budget und Beschaffung; hat 2025 die Anschaffung von 400 neuen Stempelkissen durchgesetzt.",
+      "name": "Mag. (FH) Markus Berger",
+      "portrait": "assets/img/at/personen/p-berger-markus.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-berger-markus.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-berger-markus.html",
+      "einheit": {
+        "id": "ref-z2",
+        "name": "Abteilung I/2: Budget und Beschaffung",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z2.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-z2"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-berger-markus.json"
+    },
+    {
+      "id": "p-dvorak-ivana",
+      "anrede": "Frau",
+      "titel": "Ing.",
+      "vorname": "Ivana",
+      "nachname": "Dvořák",
+      "funktion": "Abteilungsleiterin I/3",
+      "einheitId": "ref-z3",
+      "email": "ivana.dvorak@bbsa-bund.example",
+      "telefon": "+43 1 4711-2300",
+      "kurzvita": "Betreut das denkmalgeschützte Amtsgebäude in Wien und die Außenstellen.",
+      "name": "Ing. Ivana Dvořák",
+      "portrait": "assets/img/at/personen/p-dvorak-ivana.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-dvorak-ivana.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-dvorak-ivana.html",
+      "einheit": {
+        "id": "ref-z3",
+        "name": "Abteilung I/3: Amtsgebäude und Inneres Service",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z3.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-z3"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-dvorak-ivana.json"
+    },
+    {
+      "id": "p-stempfl-alois",
+      "anrede": "Herr",
+      "titel": "OAR",
+      "vorname": "Alois",
+      "nachname": "Stempfl",
+      "funktion": "Abteilungsleiter I/4",
+      "einheitId": "ref-z4",
+      "email": "alois.stempfl@bbsa-bund.example",
+      "telefon": "+43 1 4711-2400",
+      "kurzvita": "Oberamtsrat und Hüter von 3.112 Amtsstempeln; entwickelte 2026 das Formular zur Beantragung von Formularen.",
+      "name": "OAR Alois Stempfl",
+      "portrait": "assets/img/at/personen/p-stempfl-alois.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-stempfl-alois.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-stempfl-alois.html",
+      "einheit": {
+        "id": "ref-z4",
+        "name": "Abteilung I/4: Formular- und Stempelwesen",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z4.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-z4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-stempfl-alois.json"
+    },
+    {
+      "id": "p-schwarzl-andrea",
+      "anrede": "Frau",
+      "titel": "Dr.in",
+      "vorname": "Andrea",
+      "nachname": "Schwarzl",
+      "funktion": "Sektionschefin, Leiterin der Sektion II",
+      "einheitId": "abt-1",
+      "email": "andrea.schwarzl@bbsa-bund.example",
+      "telefon": "+43 1 4711-3000",
+      "kurzvita": "Verfassungsjuristin; Autorin des Standardkommentars zum BBSAG.",
+      "name": "Dr.in Andrea Schwarzl",
+      "portrait": "assets/img/at/personen/p-schwarzl-andrea.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-schwarzl-andrea.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-schwarzl-andrea.html",
+      "einheit": {
+        "id": "abt-1",
+        "name": "Sektion II: Grundsatz, Sonderfälle und Sonstiges",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-1.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "abt-1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-schwarzl-andrea.json"
+    },
+    {
+      "id": "p-eder-maria",
+      "anrede": "Frau",
+      "titel": "Mag.a",
+      "vorname": "Maria",
+      "nachname": "Eder",
+      "funktion": "Abteilungsleiterin II/1",
+      "einheitId": "ref-11",
+      "email": "maria.eder@bbsa-bund.example",
+      "telefon": "+43 1 4711-3100",
+      "kurzvita": "Zuständig für Grundsatzangelegenheiten und Erlässe.",
+      "name": "Mag.a Maria Eder",
+      "portrait": "assets/img/at/personen/p-eder-maria.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-eder-maria.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-eder-maria.html",
+      "einheit": {
+        "id": "ref-11",
+        "name": "Abteilung II/1: Grundsatzangelegenheiten",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-11.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-11"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-eder-maria.json"
+    },
+    {
+      "id": "p-sonnleitner-wolfgang",
+      "anrede": "Herr",
+      "titel": "Mag.",
+      "vorname": "Wolfgang",
+      "nachname": "Sonnleitner",
+      "funktion": "Abteilungsleiter II/2",
+      "einheitId": "ref-12",
+      "email": "wolfgang.sonnleitner@bbsa-bund.example",
+      "telefon": "+43 1 4711-3200",
+      "kurzvita": "Studierte Philosophie und Rechtswissenschaften; entscheidet die Frage, ob etwas besonders oder bloß sonstig ist.",
+      "name": "Mag. Wolfgang Sonnleitner",
+      "portrait": "assets/img/at/personen/p-sonnleitner-wolfgang.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-sonnleitner-wolfgang.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-sonnleitner-wolfgang.html",
+      "einheit": {
+        "id": "ref-12",
+        "name": "Abteilung II/2: Abgrenzung Besonderes – Sonstiges",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-12.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-12"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-sonnleitner-wolfgang.json"
+    },
+    {
+      "id": "p-hofer-lisa",
+      "anrede": "Frau",
+      "titel": "Mag.a",
+      "vorname": "Lisa",
+      "nachname": "Hofer",
+      "funktion": "Abteilungsleiterin II/3",
+      "einheitId": "ref-13",
+      "email": "lisa.hofer@bbsa-bund.example",
+      "telefon": "+43 1 4711-3300",
+      "kurzvita": "Vermittelt in Grenzfällen zwischen Bund und den neun Ländern.",
+      "name": "Mag.a Lisa Hofer",
+      "portrait": "assets/img/at/personen/p-hofer-lisa.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-hofer-lisa.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-hofer-lisa.html",
+      "einheit": {
+        "id": "ref-13",
+        "name": "Abteilung II/3: Föderale Grenzfälle (Bund – Länder)",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-13.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-13"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-hofer-lisa.json"
+    },
+    {
+      "id": "p-nachbaur-thomas",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Thomas",
+      "nachname": "Nachbaur",
+      "funktion": "Abteilungsleiter II/4",
+      "einheitId": "ref-14",
+      "email": "thomas.nachbaur@bbsa-bund.example",
+      "telefon": "+43 1 4711-3400",
+      "kurzvita": "Gebürtiger Vorarlberger; gewährt Nachsichten nach § 7 BBSAG – mit alemannischer Gründlichkeit.",
+      "name": "Dr. Thomas Nachbaur",
+      "portrait": "assets/img/at/personen/p-nachbaur-thomas.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-nachbaur-thomas.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-nachbaur-thomas.html",
+      "einheit": {
+        "id": "ref-14",
+        "name": "Abteilung II/4: Nachsichten und Ausnahmen",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-14.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-14"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-nachbaur-thomas.json"
+    },
+    {
+      "id": "p-moosbrugger-klaus",
+      "anrede": "Herr",
+      "titel": "Univ.-Prof. Dr.",
+      "vorname": "Klaus",
+      "nachname": "Moosbrugger",
+      "funktion": "Sektionschef, Leiter der Sektion III",
+      "einheitId": "abt-2",
+      "email": "klaus.moosbrugger@bbsa-bund.example",
+      "telefon": "+43 316 4711-4000",
+      "kurzvita": "Professor für Verwaltungsverfahrensrecht an der Universität Graz; leitet die Sektion in der Außenstelle Graz.",
+      "name": "Univ.-Prof. Dr. Klaus Moosbrugger",
+      "portrait": "assets/img/at/personen/p-moosbrugger-klaus.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-moosbrugger-klaus.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-moosbrugger-klaus.html",
+      "einheit": {
+        "id": "abt-2",
+        "name": "Sektion III: Besondere Verfahren",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-2.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-graz",
+      "leitetEinheitIds": [
+        "abt-2"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-moosbrugger-klaus.json"
+    },
+    {
+      "id": "p-gassner-sabine",
+      "anrede": "Frau",
+      "titel": "Mag.a",
+      "vorname": "Sabine",
+      "nachname": "Gassner",
+      "funktion": "Abteilungsleiterin III/1",
+      "einheitId": "ref-21",
+      "email": "sabine.gassner@bbsa-bund.example",
+      "telefon": "+43 316 4711-4100",
+      "kurzvita": "Führt Verfahren nach dem BBSAG in erster Instanz.",
+      "name": "Mag.a Sabine Gassner",
+      "portrait": "assets/img/at/personen/p-gassner-sabine.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-gassner-sabine.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-gassner-sabine.html",
+      "einheit": {
+        "id": "ref-21",
+        "name": "Abteilung III/1: Verfahren nach dem BBSAG",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-21.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-graz",
+      "leitetEinheitIds": [
+        "ref-21"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-gassner-sabine.json"
+    },
+    {
+      "id": "p-oezdemir-emre",
+      "anrede": "Herr",
+      "titel": "Mag.",
+      "vorname": "Emre",
+      "nachname": "Özdemir",
+      "funktion": "Abteilungsleiter III/2",
+      "einheitId": "ref-22",
+      "email": "emre.oezdemir@bbsa-bund.example",
+      "telefon": "+43 316 4711-4200",
+      "kurzvita": "Verantwortet Bescheide besonderer Art, darunter den ersten Bescheid in Gedichtform (2024).",
+      "name": "Mag. Emre Özdemir",
+      "portrait": "assets/img/at/personen/p-oezdemir-emre.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-oezdemir-emre.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-oezdemir-emre.html",
+      "einheit": {
+        "id": "ref-22",
+        "name": "Abteilung III/2: Bescheide besonderer Art",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-22.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-graz",
+      "leitetEinheitIds": [
+        "ref-22"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-oezdemir-emre.json"
+    },
+    {
+      "id": "p-winkler-petra",
+      "anrede": "Frau",
+      "titel": "Dr.in",
+      "vorname": "Petra",
+      "nachname": "Winkler",
+      "funktion": "Abteilungsleiterin III/3",
+      "einheitId": "ref-23",
+      "email": "petra.winkler@bbsa-bund.example",
+      "telefon": "+43 316 4711-4300",
+      "kurzvita": "Bearbeitet Beschwerden und erlässt Beschwerdevorentscheidungen.",
+      "name": "Dr.in Petra Winkler",
+      "portrait": "assets/img/at/personen/p-winkler-petra.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-winkler-petra.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-winkler-petra.html",
+      "einheit": {
+        "id": "ref-23",
+        "name": "Abteilung III/3: Beschwerdevorentscheidungen",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-23.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-graz",
+      "leitetEinheitIds": [
+        "ref-23"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-winkler-petra.json"
+    },
+    {
+      "id": "p-brueckl-herbert",
+      "anrede": "Herr",
+      "titel": "RgR",
+      "vorname": "Herbert",
+      "nachname": "Brückl",
+      "funktion": "Abteilungsleiter III/4",
+      "einheitId": "ref-24",
+      "email": "herbert.brueckl@bbsa-bund.example",
+      "telefon": "+43 316 4711-4400",
+      "kurzvita": "Regierungsrat; stellt jährlich die Fenster- und Zwickeltage fest. Nimmt sie aus Prinzip selbst nie in Anspruch.",
+      "name": "RgR Herbert Brückl",
+      "portrait": "assets/img/at/personen/p-brueckl-herbert.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-brueckl-herbert.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-brueckl-herbert.html",
+      "einheit": {
+        "id": "ref-24",
+        "name": "Abteilung III/4: Fristen, Feiertage und Fenstertage",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-24.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-graz",
+      "leitetEinheitIds": [
+        "ref-24"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-brueckl-herbert.json"
+    },
+    {
+      "id": "p-leitner-brigitte",
+      "anrede": "Frau",
+      "titel": "Mag.a",
+      "vorname": "Brigitte",
+      "nachname": "Leitner",
+      "funktion": "Sektionschefin, Leiterin der Sektion IV",
+      "einheitId": "abt-3",
+      "email": "brigitte.leitner@bbsa-bund.example",
+      "telefon": "+43 1 4711-5000",
+      "kurzvita": "Leitete zuvor das Lagezentrum; seit 2022 Sektionschefin.",
+      "name": "Mag.a Brigitte Leitner",
+      "portrait": "assets/img/at/personen/p-leitner-brigitte.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-leitner-brigitte.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-leitner-brigitte.html",
+      "einheit": {
+        "id": "abt-3",
+        "name": "Sektion IV: Außergewöhnliche Ereignisse",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-3.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "abt-3"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-leitner-brigitte.json"
+    },
+    {
+      "id": "p-reiter-michael",
+      "anrede": "Herr",
+      "titel": "",
+      "titelNach": "BA",
+      "vorname": "Michael",
+      "nachname": "Reiter",
+      "funktion": "Abteilungsleiter IV/1 (Leiter Lagezentrum)",
+      "einheitId": "ref-31",
+      "email": "lagezentrum@bbsa-bund.example",
+      "telefon": "+43 1 4711-5100",
+      "kurzvita": "Leitet das rund um die Uhr besetzte Lagezentrum Besonderheiten.",
+      "name": "Michael Reiter, BA",
+      "portrait": "assets/img/at/personen/p-reiter-michael.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-reiter-michael.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-reiter-michael.html",
+      "einheit": {
+        "id": "ref-31",
+        "name": "Abteilung IV/1: Lagezentrum Besonderheiten",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-31.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-31"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-reiter-michael.json"
+    },
+    {
+      "id": "p-lechner-veronika",
+      "anrede": "Frau",
+      "titel": "Dr.in",
+      "vorname": "Veronika",
+      "nachname": "Lechner",
+      "funktion": "Abteilungsleiterin IV/2",
+      "einheitId": "ref-32",
+      "email": "veronika.lechner@bbsa-bund.example",
+      "telefon": "+43 512 4711-5200",
+      "kurzvita": "Meteorologin in Innsbruck; bewertet Föhnlagen, Wetterfühligkeit und alles Unvorhergesehene.",
+      "name": "Dr.in Veronika Lechner",
+      "portrait": "assets/img/at/personen/p-lechner-veronika.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-lechner-veronika.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-lechner-veronika.html",
+      "einheit": {
+        "id": "ref-32",
+        "name": "Abteilung IV/2: Föhn, Wetterfühligkeit und Unvorhergesehenes",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-32.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-innsbruck",
+      "leitetEinheitIds": [
+        "ref-32"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-lechner-veronika.json"
+    },
+    {
+      "id": "p-schnitzler-ferdinand",
+      "anrede": "Herr",
+      "titel": "HR Dr.",
+      "vorname": "Ferdinand",
+      "nachname": "Schnitzler",
+      "funktion": "Abteilungsleiter IV/3 (Kustos des Kuriositätenkabinetts)",
+      "einheitId": "ref-33",
+      "email": "ferdinand.schnitzler@bbsa-bund.example",
+      "telefon": "+43 1 4711-5300",
+      "kurzvita": "Kustos des Kuriositätenkabinetts seit 1991; verwahrt u. a. eine Melange-Tasse mit ungeklärtem Aktenzeichen aus 1912.",
+      "name": "HR Dr. Ferdinand Schnitzler",
+      "portrait": "assets/img/at/personen/p-schnitzler-ferdinand.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-schnitzler-ferdinand.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-schnitzler-ferdinand.html",
+      "einheit": {
+        "id": "ref-33",
+        "name": "Abteilung IV/3: Kuriositätenkabinett und Amtsarchiv",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-33.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-33"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-schnitzler-ferdinand.json"
+    },
+    {
+      "id": "p-mayr-sophie",
+      "anrede": "Frau",
+      "titel": "",
+      "titelNach": "MSc",
+      "vorname": "Sophie",
+      "nachname": "Mayr",
+      "funktion": "Abteilungsleiterin IV/4",
+      "einheitId": "ref-34",
+      "email": "sophie.mayr@bbsa-bund.example",
+      "telefon": "+43 1 4711-5400",
+      "kurzvita": "Risikoanalystin; plant für Szenarien wie „Krampus ohne Begleitperson“.",
+      "name": "Sophie Mayr, MSc",
+      "portrait": "assets/img/at/personen/p-mayr-sophie.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-mayr-sophie.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-mayr-sophie.html",
+      "einheit": {
+        "id": "ref-34",
+        "name": "Abteilung IV/4: Prävention des Unwahrscheinlichen",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-34.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-34"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-mayr-sophie.json"
+    },
+    {
+      "id": "p-gruber-stefan",
+      "anrede": "Herr",
+      "titel": "DI",
+      "vorname": "Stefan",
+      "nachname": "Gruber",
+      "funktion": "Sektionschef, Leiter der Sektion V (CIO)",
+      "einheitId": "abt-4",
+      "email": "stefan.gruber@bbsa-bund.example",
+      "telefon": "+43 512 4711-6000",
+      "kurzvita": "Informatiker; verantwortet die Digitalisierung des Amtes von Innsbruck aus.",
+      "name": "DI Stefan Gruber",
+      "portrait": "assets/img/at/personen/p-gruber-stefan.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-gruber-stefan.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-gruber-stefan.html",
+      "einheit": {
+        "id": "abt-4",
+        "name": "Sektion V: Digitales und Register",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-4.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-innsbruck",
+      "leitetEinheitIds": [
+        "abt-4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-gruber-stefan.json"
+    },
+    {
+      "id": "p-pospischil-karl",
+      "anrede": "Herr",
+      "titel": "Mag.",
+      "vorname": "Karl",
+      "nachname": "Pospischil",
+      "funktion": "Abteilungsleiter V/1 (Registerführer)",
+      "einheitId": "ref-41",
+      "email": "brbsa@bbsa-bund.example",
+      "telefon": "+43 1 4711-6100",
+      "kurzvita": "Führt das BRbsA; liest Kurrentschrift fließend.",
+      "name": "Mag. Karl Pospischil",
+      "portrait": "assets/img/at/personen/p-pospischil-karl.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-pospischil-karl.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-pospischil-karl.html",
+      "einheit": {
+        "id": "ref-41",
+        "name": "Abteilung V/1: Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-41.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-41"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-pospischil-karl.json"
+    },
+    {
+      "id": "p-horvath-nina",
+      "anrede": "Frau",
+      "titel": "DI (FH)",
+      "vorname": "Nina",
+      "nachname": "Horvath",
+      "funktion": "Abteilungsleiterin V/2",
+      "einheitId": "ref-42",
+      "email": "nina.horvath@bbsa-bund.example",
+      "telefon": "+43 512 4711-6200",
+      "kurzvita": "Verantwortet IT-Verfahren und den Elektronischen Akt (ELAK).",
+      "name": "DI (FH) Nina Horvath",
+      "portrait": "assets/img/at/personen/p-horvath-nina.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-horvath-nina.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-horvath-nina.html",
+      "einheit": {
+        "id": "ref-42",
+        "name": "Abteilung V/2: IT-Verfahren und Elektronischer Akt (ELAK)",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-42.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-innsbruck",
+      "leitetEinheitIds": [
+        "ref-42"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-horvath-nina.json"
+    },
+    {
+      "id": "p-ebner-jana",
+      "anrede": "Frau",
+      "titel": "",
+      "titelNach": "MSc",
+      "vorname": "Jana",
+      "nachname": "Ebner",
+      "funktion": "Abteilungsleiterin V/3",
+      "einheitId": "ref-43",
+      "email": "jana.ebner@bbsa-bund.example",
+      "telefon": "+43 512 4711-6300",
+      "kurzvita": "Data Scientist; betreut Open Government Data und Schnittstellen.",
+      "name": "Jana Ebner, MSc",
+      "portrait": "assets/img/at/personen/p-ebner-jana.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-ebner-jana.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-ebner-jana.html",
+      "einheit": {
+        "id": "ref-43",
+        "name": "Abteilung V/3: Daten und Schnittstellen",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-43.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-innsbruck",
+      "leitetEinheitIds": [
+        "ref-43"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-ebner-jana.json"
+    },
+    {
+      "id": "p-kaltenbrunner-paul",
+      "anrede": "Herr",
+      "titel": "DI",
+      "vorname": "Paul",
+      "nachname": "Kaltenbrunner",
+      "funktion": "Abteilungsleiter V/4 (CISO)",
+      "einheitId": "ref-44",
+      "email": "paul.kaltenbrunner@bbsa-bund.example",
+      "telefon": "+43 512 4711-6400",
+      "kurzvita": "Informationssicherheitsbeauftragter des Amtes.",
+      "name": "DI Paul Kaltenbrunner",
+      "portrait": "assets/img/at/personen/p-kaltenbrunner-paul.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-kaltenbrunner-paul.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-kaltenbrunner-paul.html",
+      "einheit": {
+        "id": "ref-44",
+        "name": "Abteilung V/4: Informationssicherheit",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-44.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-innsbruck",
+      "leitetEinheitIds": [
+        "ref-44"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-kaltenbrunner-paul.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-zustaendigkeit",
+      "titel": "Auffangzuständigkeit des Bundes",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Das BBSA übernimmt alle Angelegenheiten des Bundes, die besonders sind oder sonst nirgends hingehören.",
+      "einheitIds": [
+        "abt-1",
+        "ref-11"
+      ],
+      "rechtsgrundlage": "§ 2 BBSAG"
+    },
+    {
+      "id": "auf-abgrenzung",
+      "titel": "Feststellung der Besonderheit oder Sonstigkeit",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Auf Antrag wird mit Bescheid festgestellt, ob eine Angelegenheit besonders, sonstig oder ganz gewöhnlich ist. Gegen die Feststellung „gewöhnlich“ ist Beschwerde zulässig.",
+      "einheitIds": [
+        "ref-12"
+      ],
+      "rechtsgrundlage": "§ 3 BBSAG"
+    },
+    {
+      "id": "auf-nachsicht",
+      "titel": "Nachsichten und Ausnahmen",
+      "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Gewährung von Nachsichten von Vorschriften, die den Einzelfall nicht vorhergesehen haben.",
+      "einheitIds": [
+        "ref-14"
+      ],
+      "rechtsgrundlage": "§ 7 BBSAG"
+    },
+    {
+      "id": "auf-laender",
+      "titel": "Föderale Grenzfälle",
+      "kategorie": "Beratung",
+      "beschreibung": "Vermittlung zwischen Bund und Ländern, wenn ein Sachverhalt in mehreren Bundesländern zugleich liegt – etwa ein Murmeltierbau am Arlberg.",
+      "einheitIds": [
+        "ref-13"
+      ],
+      "rechtsgrundlage": "§ 4 BBSAG"
+    },
+    {
+      "id": "auf-verfahren",
+      "titel": "Besondere Verwaltungsverfahren",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Durchführung von Verfahren nach dem AVG, die wegen ihrer Besonderheit nicht im Regelverfahren erledigt werden können.",
+      "einheitIds": [
+        "abt-2",
+        "ref-21",
+        "ref-22"
+      ],
+      "rechtsgrundlage": "§§ 9–14 BBSAG i. V. m. AVG"
+    },
+    {
+      "id": "auf-beschwerde",
+      "titel": "Beschwerdevorentscheidungen",
+      "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Prüfung von Beschwerden gegen Bescheide des BBSA und Erlassung von Beschwerdevorentscheidungen; ansonsten Vorlage an das Bundesverwaltungsgericht.",
+      "einheitIds": [
+        "ref-23"
+      ],
+      "rechtsgrundlage": "§ 14 VwGVG"
+    },
+    {
+      "id": "auf-fenstertage",
+      "titel": "Feststellung der Fenster- und Zwickeltage",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Jährliche Kundmachung aller Fenstertage samt Empfehlung, ob sie „eh schon frei“ sind. Die Kundmachung erfolgt traditionell am letzten Arbeitstag vor einem Fenstertag.",
+      "einheitIds": [
+        "ref-24"
+      ],
+      "rechtsgrundlage": "§ 16 BBSAG, Fenstertag-Feststellungsverordnung (fiktiv)"
+    },
+    {
+      "id": "auf-lage",
+      "titel": "Lagebeobachtung",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Rund-um-die-Uhr-Beobachtung außergewöhnlicher Ereignisse, einschließlich Krampusläufen und Föhnstürmen.",
+      "einheitIds": [
+        "abt-3",
+        "ref-31"
+      ],
+      "rechtsgrundlage": "§ 18 BBSAG"
+    },
+    {
+      "id": "auf-foehn",
+      "titel": "Föhnbedingte Sonderfälle",
+      "kategorie": "Beratung",
+      "beschreibung": "Gutachten darüber, ob ein Ereignis oder ein Bescheid unter Föhneinfluss zustande kam. Föhnbedingte Bescheide können auf Antrag neu erlassen werden.",
+      "einheitIds": [
+        "ref-32"
+      ],
+      "rechtsgrundlage": "§ 18a BBSAG"
+    },
+    {
+      "id": "auf-kabinett",
+      "titel": "Kuriositätenkabinett",
+      "kategorie": "Dokumentation",
+      "beschreibung": "Sammlung und Ausstellung kurioser Akten und Gegenstände der österreichischen Verwaltung seit 1873. Führungen jeden ersten Donnerstag im Monat.",
+      "einheitIds": [
+        "ref-33"
+      ],
+      "rechtsgrundlage": "§ 19 BBSAG"
+    },
+    {
+      "id": "auf-brbsa",
+      "titel": "Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+      "kategorie": "Register",
+      "beschreibung": "Führung des Registers mit über 1,2 Millionen Einträgen seit 1873; Auskünfte an berechtigte Behörden.",
+      "einheitIds": [
+        "abt-4",
+        "ref-41",
+        "ref-43"
+      ],
+      "rechtsgrundlage": "§§ 22–25 BBSAG"
+    },
+    {
+      "id": "auf-formulare",
+      "titel": "Formular- und Stempelwesen",
+      "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Herausgabe aller Formulare des Amtes, einschließlich des Formulars zur Beantragung von Formularen (BBSA-F0), sowie Verwaltung der Amtsstempel.",
+      "einheitIds": [
+        "ref-z4"
+      ],
+      "rechtsgrundlage": "§ 6 BBSAG"
+    }
+  ],
+  "news": [
+    {
+      "id": "2026-10-jahresbericht",
+      "datum": "2026-10-30",
+      "kategorie": "Presseaussendung",
+      "titel": "Jahresbericht 2025: Rekord bei sonstigen Angelegenheiten",
+      "teaser": "Erstmals seit 1972 übersteigt die Zahl der sonstigen Angelegenheiten jene der besonderen. Präsidentin Hinterberger: „Ein Zeichen der Zeit.“",
+      "text": [
+        "Das BBSA hat heute in Wien seinen Jahresbericht 2025 präsentiert. Von 27.431 erledigten Akten betrafen 14.012 sonstige und 13.419 besondere Angelegenheiten.",
+        "„Was besonders ist, entscheiden wir. Was sonstig ist, auch“, sagte Präsidentin Mag.a Dr.in Elisabeth Hinterberger.",
+        "Die durchschnittliche Verfahrensdauer sank auf 31 Werktage. Nicht eingerechnet sind Fenstertage, deren Status gesondert festgestellt wird."
+      ],
+      "bild": "assets/img/at/news/2026-10-jahresbericht.jpg",
+      "einheitId": "stab-pk",
+      "personIds": [
+        "p-hinterberger-elisabeth",
+        "p-auer-florian"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-10-jahresbericht.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-10-jahresbericht.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-10-jahresbericht.json"
+    },
+    {
+      "id": "2026-10-fenstertage",
+      "datum": "2026-10-12",
+      "kategorie": "Kundmachung",
+      "titel": "Fenstertage 2027 kundgemacht: Sieben Fenstertage und ein Zwickeltag",
+      "teaser": "Die Abteilung III/4 hat die Fenstertage für 2027 festgestellt. Erstmals wurde auch ein „Zwickeltag zweiter Ordnung“ anerkannt.",
+      "text": [
+        "Mit der heutigen Kundmachung stehen die Fenstertage 2027 fest. Neben sieben klassischen Fenstertagen wurde der Montag nach dem Pfingstmontag als Zwickeltag zweiter Ordnung eingestuft.",
+        "„Ein Zwickeltag zweiter Ordnung liegt vor, wenn er nicht zwischen Feiertag und Wochenende, aber zwischen zwei Urlaubswünschen liegt“, erläuterte Regierungsrat Herbert Brückl.",
+        "Sektionschef Univ.-Prof. Dr. Klaus Moosbrugger betonte, dass die Kundmachung keinen Rechtsanspruch auf Urlaub begründe, „aber doch einen gewissen moralischen“."
+      ],
+      "bild": "assets/img/at/news/2026-10-fenstertage.jpg",
+      "einheitId": "ref-24",
+      "personIds": [
+        "p-brueckl-herbert",
+        "p-moosbrugger-klaus"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-10-fenstertage.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-10-fenstertage.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-10-fenstertage.json"
+    },
+    {
+      "id": "2026-09-melange-tasse",
+      "datum": "2026-09-21",
+      "kategorie": "Meldung",
+      "titel": "Kuriositätenkabinett: Melange-Tasse aus 1912 mit ungeklärtem Aktenzeichen ausgestellt",
+      "teaser": "Die Tasse wurde bei Renovierungsarbeiten in einer Zwischendecke gefunden – mit einem Aktenzeichen, das keinem bekannten Akt zuzuordnen ist.",
+      "text": [
+        "Das Kuriositätenkabinett des BBSA zeigt ab sofort eine Porzellantasse aus dem Jahr 1912, an der ein Aktenvermerk mit Bindfaden befestigt ist.",
+        "„Das Aktenzeichen lautet 1912/sonst./47. Die Kategorie ‚sonstig‘ gab es damals aber noch gar nicht“, sagt Kustos Hofrat Dr. Ferdinand Schnitzler. „Das ist entweder ein Irrtum oder eine Prophezeiung.“",
+        "Die Tasse ist jeden ersten Donnerstag im Monat bei den Führungen zu besichtigen. Kaffee darf daraus nicht getrunken werden."
+      ],
+      "bild": "assets/img/at/news/2026-09-melange-tasse.jpg",
+      "einheitId": "ref-33",
+      "personIds": [
+        "p-schnitzler-ferdinand"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-09-melange-tasse.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-09-melange-tasse.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-09-melange-tasse.json"
+    },
+    {
+      "id": "2026-08-foehn-richtlinie",
+      "datum": "2026-08-28",
+      "kategorie": "Presseaussendung",
+      "titel": "Neue Richtlinie: Föhnbedingte Bescheide können neu erlassen werden",
+      "teaser": "Wer glaubt, dass sein Bescheid unter Föhneinfluss zustande gekommen ist, kann ab 1. September ein Gutachten beantragen.",
+      "text": [
+        "Die Abteilung IV/2 in Innsbruck hat eine Richtlinie zur Behandlung föhnbedingter Bescheide erlassen.",
+        "„Föhn beeinflusst nachweislich Stimmung und Konzentration. Das darf sich nicht auf die Qualität von Bescheiden auswirken“, erklärt Abteilungsleiterin Dr.in Veronika Lechner.",
+        "Als föhnbedingt gilt ein Bescheid, wenn am Tag seiner Erlassung am Standort der Behörde Windgeschwindigkeiten über 60 km/h aus südlicher Richtung gemessen wurden."
+      ],
+      "bild": "assets/img/at/news/2026-08-foehn-richtlinie.jpg",
+      "einheitId": "ref-32",
+      "personIds": [
+        "p-lechner-veronika",
+        "p-leitner-brigitte"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-08-foehn-richtlinie.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-08-foehn-richtlinie.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-08-foehn-richtlinie.json"
+    },
+    {
+      "id": "2026-07-formular-f0",
+      "datum": "2026-07-15",
+      "kategorie": "Meldung",
+      "titel": "Neu: Das Formular zur Beantragung von Formularen (BBSA-F0)",
+      "teaser": "Ab sofort können alle Formulare des Amtes mit einem einzigen Formular beantragt werden. Das Formular F0 selbst ist formlos erhältlich.",
+      "text": [
+        "Die Abteilung I/4 hat mit dem Formular BBSA-F0 eine Vereinfachung eingeführt: Statt jedes Formular einzeln anzufordern, genügt nun ein Antrag auf Formulare.",
+        "„Wir haben lange überlegt, ob man für das Formular F0 ein eigenes Formular braucht. Wir haben uns dagegen entschieden – vorerst“, sagt Oberamtsrat Alois Stempfl.",
+        "Das Formular ist dreifach auszufüllen und mit dem Eingangsstempel zu versehen, den man beim Parteienverkehr ausleihen kann."
+      ],
+      "bild": "assets/img/at/news/2026-07-formular-f0.jpg",
+      "einheitId": "ref-z4",
+      "personIds": [
+        "p-stempfl-alois",
+        "p-wallner-gerhard"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-07-formular-f0.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-07-formular-f0.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-07-formular-f0.json"
+    },
+    {
+      "id": "2026-06-brbsa-online",
+      "datum": "2026-06-09",
+      "kategorie": "Presseaussendung",
+      "titel": "BRbsA online: 1,2 Millionen Einträge seit 1873 digitalisiert",
+      "teaser": "Auch 380.000 handschriftliche Einträge in Kurrentschrift sind nun durchsuchbar. Die älteste Eintragung betrifft einen Hofhund ohne Zuständigkeit.",
+      "text": [
+        "Mit dem Start des digitalen Bundesregisters besonderer und sonstiger Angelegenheiten (BRbsA) ist die Digitalisierung des Amtes einen großen Schritt weiter.",
+        "„Die Texterkennung für Kurrentschrift haben wir gemeinsam mit unseren pensionierten Kolleginnen und Kollegen trainiert“, erklärt Registerführer Mag. Karl Pospischil.",
+        "Sektionschef DI Stefan Gruber kündigte an, dass Behörden ab 2027 über eine Schnittstelle Auskünfte abrufen können."
+      ],
+      "bild": "assets/img/at/news/2026-06-brbsa-online.jpg",
+      "einheitId": "ref-41",
+      "personIds": [
+        "p-pospischil-karl",
+        "p-gruber-stefan"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-06-brbsa-online.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-06-brbsa-online.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-06-brbsa-online.json"
+    },
+    {
+      "id": "2026-05-murmeltier-arlberg",
+      "datum": "2026-05-04",
+      "kategorie": "Meldung",
+      "titel": "Grenzfall am Arlberg: Murmeltierbau liegt in zwei Bundesländern",
+      "teaser": "Der Eingang liegt in Tirol, der Ausgang in Vorarlberg. Das BBSA vermittelt zwischen den Ländern – das Murmeltier wurde nicht befragt.",
+      "text": [
+        "Ein Murmeltierbau am Arlberg hat einen Zuständigkeitsstreit zwischen Tirol und Vorarlberg ausgelöst.",
+        "„Die Frage ist, ob ein Bau dort liegt, wo man hineingeht, oder dort, wo man herauskommt“, erklärte Abteilungsleiterin Mag.a Lisa Hofer.",
+        "Bis zur Klärung gilt der Bau als sonstige Angelegenheit des Bundes. Abteilungsleiter Dr. Thomas Nachbaur gewährte vorsorglich eine Nachsicht für den Winterschlaf."
+      ],
+      "bild": "assets/img/at/news/2026-05-murmeltier-arlberg.jpg",
+      "einheitId": "ref-13",
+      "personIds": [
+        "p-hofer-lisa",
+        "p-nachbaur-thomas"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-05-murmeltier-arlberg.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-05-murmeltier-arlberg.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-05-murmeltier-arlberg.json"
+    },
+    {
+      "id": "2026-03-abgrenzungsleitfaden",
+      "datum": "2026-03-26",
+      "kategorie": "Publikation",
+      "titel": "Leitfaden: Wann ist etwas besonders – und wann nur sonstig?",
+      "teaser": "Der überarbeitete Leitfaden enthält 14 Kriterien, darunter das neue „Na-geh-Kriterium“.",
+      "text": [
+        "Die Sektion II hat den Leitfaden zur Abgrenzung besonderer von sonstigen Angelegenheiten neu aufgelegt.",
+        "„Die Abgrenzung ist philosophisch anspruchsvoll. Im Zweifel ist etwas sonstig“, erklärt Abteilungsleiter Mag. Wolfgang Sonnleitner.",
+        "Neu ist das „Na-geh-Kriterium“: Löst ein Sachverhalt bei drei unabhängigen Bediensteten spontan die Reaktion „Na geh“ aus, gilt er als besonders. Der Leitfaden steht als PDF zum Download bereit."
+      ],
+      "bild": "assets/img/at/news/2026-03-abgrenzungsleitfaden.jpg",
+      "einheitId": "ref-12",
+      "personIds": [
+        "p-sonnleitner-wolfgang",
+        "p-schwarzl-andrea"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-03-abgrenzungsleitfaden.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-03-abgrenzungsleitfaden.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-03-abgrenzungsleitfaden.json"
+    },
+    {
+      "id": "2026-02-lehrlinge",
+      "datum": "2026-02-10",
+      "kategorie": "Karriere",
+      "titel": "18 Lehrlinge starten ihre Ausbildung im BBSA",
+      "teaser": "Verwaltungsassistentinnen und -assistenten sowie Applikationsentwicklerinnen und -entwickler beginnen in Wien, Graz und Innsbruck.",
+      "text": [
+        "Das BBSA begrüßte 18 neue Lehrlinge an seinen drei Standorten.",
+        "„Bei uns lernt man alles über Akten – und wie man sie wiederfindet“, sagte Amtsdirektorin Renate Fuchs bei der Begrüßung.",
+        "Bewerbungen für den Lehrgang 2027 sind ab sofort möglich, vorzugsweise mit Formular."
+      ],
+      "bild": "assets/img/at/news/2026-02-lehrlinge.jpg",
+      "einheitId": "ref-z1",
+      "personIds": [
+        "p-fuchs-renate"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-02-lehrlinge.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-02-lehrlinge.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-02-lehrlinge.json"
+    },
+    {
+      "id": "2025-12-krampus-uebung",
+      "datum": "2025-12-05",
+      "kategorie": "Meldung",
+      "titel": "Übung „Krampusnacht“: Lagezentrum probt den 5. Dezember",
+      "teaser": "Gemeinsam mit sechs Ländern übte das Lagezentrum die Koordination bei gleichzeitigen Krampusläufen in 412 Gemeinden.",
+      "text": [
+        "Das Lagezentrum Besonderheiten hat am Krampustag die Stabsübung „Krampusnacht“ durchgeführt.",
+        "Geübt wurde unter anderem das Szenario „Krampus ohne Begleitperson“, das die Abteilung IV/4 als besonders unwahrscheinlich, aber folgenreich einstuft.",
+        "„Die Meldewege haben funktioniert. Nur der Nikolaus hat sich nicht abgemeldet“, so Lagezentrumsleiter Michael Reiter, BA."
+      ],
+      "bild": "assets/img/at/news/2025-12-krampus-uebung.jpg",
+      "einheitId": "ref-31",
+      "personIds": [
+        "p-reiter-michael",
+        "p-mayr-sophie",
+        "p-leitner-brigitte"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2025-12-krampus-uebung.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2025-12-krampus-uebung.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2025-12-krampus-uebung.json"
+    }
+  ],
+  "downloads": [
+    {
+      "id": "dl-jahresbericht-2025",
+      "art": "jahresbericht",
+      "titel": "Jahresbericht 2025",
+      "typ": "PDF",
+      "datei": "assets/downloads/at/bbsa-jahresbericht-2025.pdf",
+      "kategorie": "Publikation",
+      "einheitId": "stab-pk"
+    },
+    {
+      "id": "dl-leitfaden-besonderheit",
+      "art": "leitfaden",
+      "titel": "Leitfaden „Besonders oder sonstig?“",
+      "typ": "PDF",
+      "datei": "assets/downloads/at/bbsa-leitfaden-besonders-sonstig.pdf",
+      "kategorie": "Publikation",
+      "einheitId": "ref-12"
+    },
+    {
+      "id": "dl-formular-f0",
+      "art": "formular",
+      "titel": "Formular zur Beantragung von Formularen (BBSA-F0)",
+      "typ": "PDF",
+      "datei": "assets/downloads/at/formular-bbsa-f0.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-z4",
+      "felder": [
+        "1. Antragsteller/in (Name, Anschrift, Geburtsdatum)",
+        "2. Gewünschte Formulare (Nummer und Anzahl)",
+        "3. Begründung des Formularbedarfs",
+        "4. Wurde dieses Formular bereits beantragt? Wenn ja, mit welchem Formular?"
+      ]
+    },
+    {
+      "id": "dl-antrag-feststellung",
+      "art": "formular",
+      "titel": "Antrag auf Feststellung der Besonderheit oder Sonstigkeit (BBSA-1)",
+      "typ": "PDF",
+      "datei": "assets/downloads/at/formular-bbsa-1.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-12",
+      "felder": [
+        "1. Antragsteller/in",
+        "2. Beschreibung der Angelegenheit",
+        "3. Begehren: ☐ besonders ☐ sonstig ☐ weiß nicht",
+        "4. Bisher befasste Stellen (Bund, Land, Gemeinde)"
+      ]
+    },
+    {
+      "id": "dl-antrag-ausnahme",
+      "art": "formular",
+      "titel": "Ansuchen um Nachsicht (BBSA-7)",
+      "typ": "PDF",
+      "datei": "assets/downloads/at/formular-bbsa-7.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-14",
+      "felder": [
+        "1. Antragsteller/in",
+        "2. Vorschrift, von der Nachsicht begehrt wird",
+        "3. Begründung",
+        "4. Herrschte zum Zeitpunkt des Ereignisses Föhn? ☐ ja ☐ nein"
+      ]
+    },
+    {
+      "id": "dl-auskunft-brba",
+      "art": "formular",
+      "titel": "Antrag auf Registerauskunft BRbsA (BBSA-22)",
+      "typ": "PDF",
+      "datei": "assets/downloads/at/formular-bbsa-22.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-41",
+      "felder": [
+        "1. Anfragende Behörde",
+        "2. Rechtliches Interesse",
+        "3. Registerzahl oder Suchmerkmale (auch in Kurrent)",
+        "4. Gewünschte Form der Auskunft"
+      ]
+    },
+    {
+      "id": "dl-organigramm",
+      "art": "organigramm",
+      "titel": "Geschäftseinteilung / Organigramm (Stand 1. November 2026)",
+      "typ": "SVG",
+      "datei": "assets/downloads/at/bbsa-organigramm.svg",
+      "kategorie": "Organisation",
+      "einheitId": "stab-pb"
+    }
+  ]
+}

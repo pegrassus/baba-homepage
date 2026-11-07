@@ -1,0 +1,68 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-hess-matthias",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Matthias",
+    "nachname": "Hess",
+    "funktion": "Sektionschef Vernehmlassungen",
+    "einheitId": "ref-22",
+    "email": "matthias.hess@bba-bund.example",
+    "telefon": "+41 58 999 42 00",
+    "kurzvita": "Hat mehr Vernehmlassungen ausgewertet als jeder andere Bundesangestellte – einige davon zweimal.",
+    "name": "Matthias Hess",
+    "portrait": "assets/img/ch/personen/p-hess-matthias.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-hess-matthias.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-hess-matthias.html",
+    "einheit": {
+      "id": "ref-22",
+      "name": "Sektion V2: Vernehmlassungen zu Unvernehmlassbarem",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-22.html"
+    },
+    "abteilungId": "abt-2",
+    "standortId": "st-bellinzona",
+    "leitetEinheitIds": [
+      "ref-22"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-hess-matthias.json"
+  },
+  "einheit": {
+    "id": "ref-22",
+    "typ": "referat",
+    "kuerzel": "V2",
+    "name": "Vernehmlassungen zu Unvernehmlassbarem",
+    "parentId": "abt-2",
+    "leitungPersonId": "p-hess-matthias",
+    "standortId": "st-bellinzona",
+    "titel": "Sektion V2: Vernehmlassungen zu Unvernehmlassbarem",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-22.html",
+    "leitung": {
+      "id": "p-hess-matthias",
+      "name": "Matthias Hess",
+      "funktion": "Sektionschef Vernehmlassungen"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-hess-matthias"
+    ],
+    "aufgabeIds": [
+      "auf-vernehmlassung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-22.json"
+  },
+  "news": [
+    {
+      "id": "2026-09-vernehmlassung",
+      "titel": "Vernehmlassung eröffnet: Sind Vernehmlassungen vernehmlassungspflichtig?",
+      "datum": "2026-09-30",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-vernehmlassung.html"
+    }
+  ]
+}

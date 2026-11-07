@@ -1,0 +1,1549 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "standDerOrganisation": "2026-11-01",
+  "begriffe": {
+    "leitung": "Amtsleitung",
+    "stab": "Stabsstelle",
+    "abteilung": "Sektion",
+    "referat": "Abteilung"
+  },
+  "anzahl": 29,
+  "einheiten": [
+    {
+      "id": "leitung",
+      "typ": "leitung",
+      "kuerzel": "P",
+      "name": "Amtsleitung",
+      "parentId": null,
+      "leitungPersonId": "p-hinterberger-elisabeth",
+      "vertretungPersonId": "p-pichler-franz-josef",
+      "beschreibung": "Die Präsidentin und der Vizepräsident leiten das Amt und vertreten es nach außen.",
+      "standortId": "st-wien",
+      "titel": "Amtsleitung",
+      "typLabel": "Amtsleitung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html",
+      "leitung": {
+        "id": "p-hinterberger-elisabeth",
+        "name": "Mag.a Dr.in Elisabeth Hinterberger",
+        "funktion": "Präsidentin"
+      },
+      "childIds": [
+        "stab-pb",
+        "stab-pk",
+        "stab-dr",
+        "abt-z",
+        "abt-1",
+        "abt-2",
+        "abt-3",
+        "abt-4"
+      ],
+      "personIds": [
+        "p-hinterberger-elisabeth",
+        "p-pichler-franz-josef"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/leitung.json"
+    },
+    {
+      "id": "stab-pb",
+      "typ": "stab",
+      "kuerzel": "PB",
+      "name": "Präsidialbüro",
+      "parentId": "leitung",
+      "leitungPersonId": "p-novak-katharina",
+      "beschreibung": "Unterstützt die Amtsleitung, koordiniert Ministerratsvorträge, parlamentarische Anfragen und den Aktenlauf.",
+      "standortId": "st-wien",
+      "titel": "Präsidialbüro",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pb.html",
+      "leitung": {
+        "id": "p-novak-katharina",
+        "name": "Mag.a Katharina Novak",
+        "funktion": "Leiterin des Präsidialbüros"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-novak-katharina"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-pb.json"
+    },
+    {
+      "id": "stab-pk",
+      "typ": "stab",
+      "kuerzel": "PK",
+      "name": "Presse und Kommunikation",
+      "parentId": "leitung",
+      "leitungPersonId": "p-auer-florian",
+      "beschreibung": "Pressearbeit, Website, Publikationen und Bürgerservice.",
+      "standortId": "st-wien",
+      "titel": "Presse und Kommunikation",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pk.html",
+      "leitung": {
+        "id": "p-auer-florian",
+        "name": "Florian Auer, MA",
+        "funktion": "Pressesprecher"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-auer-florian"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-pk.json"
+    },
+    {
+      "id": "stab-dr",
+      "typ": "stab",
+      "kuerzel": "DR",
+      "name": "Datenschutz und Interne Revision",
+      "parentId": "leitung",
+      "leitungPersonId": "p-kovacs-julia",
+      "beschreibung": "Datenschutzbeauftragte, Interne Revision und Korruptionsprävention.",
+      "standortId": "st-wien",
+      "titel": "Datenschutz und Interne Revision",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-dr.html",
+      "leitung": {
+        "id": "p-kovacs-julia",
+        "name": "Mag.a Julia Kovács",
+        "funktion": "Datenschutzbeauftragte"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-kovacs-julia"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-dr.json"
+    },
+    {
+      "id": "abt-z",
+      "typ": "abteilung",
+      "kuerzel": "I",
+      "name": "Präsidialsektion",
+      "parentId": "leitung",
+      "leitungPersonId": "p-wallner-gerhard",
+      "beschreibung": "Personal, Budget, Amtsgebäude sowie das Formular- und Stempelwesen.",
+      "standortId": "st-wien",
+      "titel": "Sektion I: Präsidialsektion",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html",
+      "leitung": {
+        "id": "p-wallner-gerhard",
+        "name": "Mag. Gerhard Wallner",
+        "funktion": "Sektionschef, Leiter der Präsidialsektion"
+      },
+      "childIds": [
+        "ref-z1",
+        "ref-z2",
+        "ref-z3",
+        "ref-z4"
+      ],
+      "personIds": [
+        "p-wallner-gerhard"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-z.json"
+    },
+    {
+      "id": "ref-z1",
+      "typ": "referat",
+      "kuerzel": "I/1",
+      "name": "Personal und Lehrlingsausbildung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-fuchs-renate",
+      "standortId": "st-wien",
+      "titel": "Abteilung I/1: Personal und Lehrlingsausbildung",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z1.html",
+      "leitung": {
+        "id": "p-fuchs-renate",
+        "name": "ADir Renate Fuchs",
+        "funktion": "Abteilungsleiterin I/1"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-fuchs-renate"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z1.json"
+    },
+    {
+      "id": "ref-z2",
+      "typ": "referat",
+      "kuerzel": "I/2",
+      "name": "Budget und Beschaffung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-berger-markus",
+      "standortId": "st-wien",
+      "titel": "Abteilung I/2: Budget und Beschaffung",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z2.html",
+      "leitung": {
+        "id": "p-berger-markus",
+        "name": "Mag. (FH) Markus Berger",
+        "funktion": "Abteilungsleiter I/2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-berger-markus"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z2.json"
+    },
+    {
+      "id": "ref-z3",
+      "typ": "referat",
+      "kuerzel": "I/3",
+      "name": "Amtsgebäude und Inneres Service",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-dvorak-ivana",
+      "standortId": "st-wien",
+      "titel": "Abteilung I/3: Amtsgebäude und Inneres Service",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z3.html",
+      "leitung": {
+        "id": "p-dvorak-ivana",
+        "name": "Ing. Ivana Dvořák",
+        "funktion": "Abteilungsleiterin I/3"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-dvorak-ivana"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z3.json"
+    },
+    {
+      "id": "ref-z4",
+      "typ": "referat",
+      "kuerzel": "I/4",
+      "name": "Formular- und Stempelwesen",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-stempfl-alois",
+      "standortId": "st-wien",
+      "titel": "Abteilung I/4: Formular- und Stempelwesen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z4.html",
+      "leitung": {
+        "id": "p-stempfl-alois",
+        "name": "OAR Alois Stempfl",
+        "funktion": "Abteilungsleiter I/4"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-stempfl-alois"
+      ],
+      "aufgabeIds": [
+        "auf-formulare"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z4.json"
+    },
+    {
+      "id": "abt-1",
+      "typ": "abteilung",
+      "kuerzel": "II",
+      "name": "Grundsatz, Sonderfälle und Sonstiges",
+      "parentId": "leitung",
+      "leitungPersonId": "p-schwarzl-andrea",
+      "beschreibung": "Grundsatzangelegenheiten, Abgrenzung des Besonderen vom Sonstigen, föderale Grenzfälle und Nachsichten.",
+      "standortId": "st-wien",
+      "titel": "Sektion II: Grundsatz, Sonderfälle und Sonstiges",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-1.html",
+      "leitung": {
+        "id": "p-schwarzl-andrea",
+        "name": "Dr.in Andrea Schwarzl",
+        "funktion": "Sektionschefin, Leiterin der Sektion II"
+      },
+      "childIds": [
+        "ref-11",
+        "ref-12",
+        "ref-13",
+        "ref-14"
+      ],
+      "personIds": [
+        "p-schwarzl-andrea"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-1.json"
+    },
+    {
+      "id": "ref-11",
+      "typ": "referat",
+      "kuerzel": "II/1",
+      "name": "Grundsatzangelegenheiten",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-eder-maria",
+      "standortId": "st-wien",
+      "titel": "Abteilung II/1: Grundsatzangelegenheiten",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-11.html",
+      "leitung": {
+        "id": "p-eder-maria",
+        "name": "Mag.a Maria Eder",
+        "funktion": "Abteilungsleiterin II/1"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-eder-maria"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-11.json"
+    },
+    {
+      "id": "ref-12",
+      "typ": "referat",
+      "kuerzel": "II/2",
+      "name": "Abgrenzung Besonderes – Sonstiges",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-sonnleitner-wolfgang",
+      "standortId": "st-wien",
+      "titel": "Abteilung II/2: Abgrenzung Besonderes – Sonstiges",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-12.html",
+      "leitung": {
+        "id": "p-sonnleitner-wolfgang",
+        "name": "Mag. Wolfgang Sonnleitner",
+        "funktion": "Abteilungsleiter II/2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-sonnleitner-wolfgang"
+      ],
+      "aufgabeIds": [
+        "auf-abgrenzung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-12.json"
+    },
+    {
+      "id": "ref-13",
+      "typ": "referat",
+      "kuerzel": "II/3",
+      "name": "Föderale Grenzfälle (Bund – Länder)",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-hofer-lisa",
+      "standortId": "st-wien",
+      "titel": "Abteilung II/3: Föderale Grenzfälle (Bund – Länder)",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-13.html",
+      "leitung": {
+        "id": "p-hofer-lisa",
+        "name": "Mag.a Lisa Hofer",
+        "funktion": "Abteilungsleiterin II/3"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-hofer-lisa"
+      ],
+      "aufgabeIds": [
+        "auf-laender"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-13.json"
+    },
+    {
+      "id": "ref-14",
+      "typ": "referat",
+      "kuerzel": "II/4",
+      "name": "Nachsichten und Ausnahmen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-nachbaur-thomas",
+      "standortId": "st-wien",
+      "titel": "Abteilung II/4: Nachsichten und Ausnahmen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-14.html",
+      "leitung": {
+        "id": "p-nachbaur-thomas",
+        "name": "Dr. Thomas Nachbaur",
+        "funktion": "Abteilungsleiter II/4"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-nachbaur-thomas"
+      ],
+      "aufgabeIds": [
+        "auf-nachsicht"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-14.json"
+    },
+    {
+      "id": "abt-2",
+      "typ": "abteilung",
+      "kuerzel": "III",
+      "name": "Besondere Verfahren",
+      "parentId": "leitung",
+      "leitungPersonId": "p-moosbrugger-klaus",
+      "beschreibung": "Durchführung besonderer Verwaltungsverfahren nach dem AVG, Bescheide besonderer Art sowie Fristen, Feiertage und Fenstertage.",
+      "standortId": "st-graz",
+      "titel": "Sektion III: Besondere Verfahren",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-2.html",
+      "leitung": {
+        "id": "p-moosbrugger-klaus",
+        "name": "Univ.-Prof. Dr. Klaus Moosbrugger",
+        "funktion": "Sektionschef, Leiter der Sektion III"
+      },
+      "childIds": [
+        "ref-21",
+        "ref-22",
+        "ref-23",
+        "ref-24"
+      ],
+      "personIds": [
+        "p-moosbrugger-klaus"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-2.json"
+    },
+    {
+      "id": "ref-21",
+      "typ": "referat",
+      "kuerzel": "III/1",
+      "name": "Verfahren nach dem BBSAG",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-gassner-sabine",
+      "standortId": "st-graz",
+      "titel": "Abteilung III/1: Verfahren nach dem BBSAG",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-21.html",
+      "leitung": {
+        "id": "p-gassner-sabine",
+        "name": "Mag.a Sabine Gassner",
+        "funktion": "Abteilungsleiterin III/1"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-gassner-sabine"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-21.json"
+    },
+    {
+      "id": "ref-22",
+      "typ": "referat",
+      "kuerzel": "III/2",
+      "name": "Bescheide besonderer Art",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-oezdemir-emre",
+      "standortId": "st-graz",
+      "titel": "Abteilung III/2: Bescheide besonderer Art",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-22.html",
+      "leitung": {
+        "id": "p-oezdemir-emre",
+        "name": "Mag. Emre Özdemir",
+        "funktion": "Abteilungsleiter III/2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-oezdemir-emre"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-22.json"
+    },
+    {
+      "id": "ref-23",
+      "typ": "referat",
+      "kuerzel": "III/3",
+      "name": "Beschwerdevorentscheidungen",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-winkler-petra",
+      "standortId": "st-graz",
+      "titel": "Abteilung III/3: Beschwerdevorentscheidungen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-23.html",
+      "leitung": {
+        "id": "p-winkler-petra",
+        "name": "Dr.in Petra Winkler",
+        "funktion": "Abteilungsleiterin III/3"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-winkler-petra"
+      ],
+      "aufgabeIds": [
+        "auf-beschwerde"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-23.json"
+    },
+    {
+      "id": "ref-24",
+      "typ": "referat",
+      "kuerzel": "III/4",
+      "name": "Fristen, Feiertage und Fenstertage",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-brueckl-herbert",
+      "standortId": "st-graz",
+      "titel": "Abteilung III/4: Fristen, Feiertage und Fenstertage",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-24.html",
+      "leitung": {
+        "id": "p-brueckl-herbert",
+        "name": "RgR Herbert Brückl",
+        "funktion": "Abteilungsleiter III/4"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-brueckl-herbert"
+      ],
+      "aufgabeIds": [
+        "auf-fenstertage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-24.json"
+    },
+    {
+      "id": "abt-3",
+      "typ": "abteilung",
+      "kuerzel": "IV",
+      "name": "Außergewöhnliche Ereignisse",
+      "parentId": "leitung",
+      "leitungPersonId": "p-leitner-brigitte",
+      "beschreibung": "Lagezentrum, wetterbedingte Sonderfälle, Kuriositätenkabinett und Vorsorge für das Unwahrscheinliche.",
+      "standortId": "st-wien",
+      "titel": "Sektion IV: Außergewöhnliche Ereignisse",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-3.html",
+      "leitung": {
+        "id": "p-leitner-brigitte",
+        "name": "Mag.a Brigitte Leitner",
+        "funktion": "Sektionschefin, Leiterin der Sektion IV"
+      },
+      "childIds": [
+        "ref-31",
+        "ref-32",
+        "ref-33",
+        "ref-34"
+      ],
+      "personIds": [
+        "p-leitner-brigitte"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-3.json"
+    },
+    {
+      "id": "ref-31",
+      "typ": "referat",
+      "kuerzel": "IV/1",
+      "name": "Lagezentrum Besonderheiten",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-reiter-michael",
+      "standortId": "st-wien",
+      "titel": "Abteilung IV/1: Lagezentrum Besonderheiten",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-31.html",
+      "leitung": {
+        "id": "p-reiter-michael",
+        "name": "Michael Reiter, BA",
+        "funktion": "Abteilungsleiter IV/1 (Leiter Lagezentrum)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-reiter-michael"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-31.json"
+    },
+    {
+      "id": "ref-32",
+      "typ": "referat",
+      "kuerzel": "IV/2",
+      "name": "Föhn, Wetterfühligkeit und Unvorhergesehenes",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-lechner-veronika",
+      "standortId": "st-innsbruck",
+      "titel": "Abteilung IV/2: Föhn, Wetterfühligkeit und Unvorhergesehenes",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-32.html",
+      "leitung": {
+        "id": "p-lechner-veronika",
+        "name": "Dr.in Veronika Lechner",
+        "funktion": "Abteilungsleiterin IV/2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-lechner-veronika"
+      ],
+      "aufgabeIds": [
+        "auf-foehn"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-32.json"
+    },
+    {
+      "id": "ref-33",
+      "typ": "referat",
+      "kuerzel": "IV/3",
+      "name": "Kuriositätenkabinett und Amtsarchiv",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-schnitzler-ferdinand",
+      "standortId": "st-wien",
+      "titel": "Abteilung IV/3: Kuriositätenkabinett und Amtsarchiv",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-33.html",
+      "leitung": {
+        "id": "p-schnitzler-ferdinand",
+        "name": "HR Dr. Ferdinand Schnitzler",
+        "funktion": "Abteilungsleiter IV/3 (Kustos des Kuriositätenkabinetts)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-schnitzler-ferdinand"
+      ],
+      "aufgabeIds": [
+        "auf-kabinett"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-33.json"
+    },
+    {
+      "id": "ref-34",
+      "typ": "referat",
+      "kuerzel": "IV/4",
+      "name": "Prävention des Unwahrscheinlichen",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-mayr-sophie",
+      "standortId": "st-wien",
+      "titel": "Abteilung IV/4: Prävention des Unwahrscheinlichen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-34.html",
+      "leitung": {
+        "id": "p-mayr-sophie",
+        "name": "Sophie Mayr, MSc",
+        "funktion": "Abteilungsleiterin IV/4"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-mayr-sophie"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-34.json"
+    },
+    {
+      "id": "abt-4",
+      "typ": "abteilung",
+      "kuerzel": "V",
+      "name": "Digitales und Register",
+      "parentId": "leitung",
+      "leitungPersonId": "p-gruber-stefan",
+      "beschreibung": "Bundesregister besonderer und sonstiger Angelegenheiten, IT-Verfahren und ELAK, Daten und Informationssicherheit.",
+      "standortId": "st-innsbruck",
+      "titel": "Sektion V: Digitales und Register",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-4.html",
+      "leitung": {
+        "id": "p-gruber-stefan",
+        "name": "DI Stefan Gruber",
+        "funktion": "Sektionschef, Leiter der Sektion V (CIO)"
+      },
+      "childIds": [
+        "ref-41",
+        "ref-42",
+        "ref-43",
+        "ref-44"
+      ],
+      "personIds": [
+        "p-gruber-stefan"
+      ],
+      "aufgabeIds": [
+        "auf-brbsa"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-4.json"
+    },
+    {
+      "id": "ref-41",
+      "typ": "referat",
+      "kuerzel": "V/1",
+      "name": "Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-pospischil-karl",
+      "standortId": "st-wien",
+      "titel": "Abteilung V/1: Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-41.html",
+      "leitung": {
+        "id": "p-pospischil-karl",
+        "name": "Mag. Karl Pospischil",
+        "funktion": "Abteilungsleiter V/1 (Registerführer)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-pospischil-karl"
+      ],
+      "aufgabeIds": [
+        "auf-brbsa"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-41.json"
+    },
+    {
+      "id": "ref-42",
+      "typ": "referat",
+      "kuerzel": "V/2",
+      "name": "IT-Verfahren und Elektronischer Akt (ELAK)",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-horvath-nina",
+      "standortId": "st-innsbruck",
+      "titel": "Abteilung V/2: IT-Verfahren und Elektronischer Akt (ELAK)",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-42.html",
+      "leitung": {
+        "id": "p-horvath-nina",
+        "name": "DI (FH) Nina Horvath",
+        "funktion": "Abteilungsleiterin V/2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-horvath-nina"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-42.json"
+    },
+    {
+      "id": "ref-43",
+      "typ": "referat",
+      "kuerzel": "V/3",
+      "name": "Daten und Schnittstellen",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-ebner-jana",
+      "standortId": "st-innsbruck",
+      "titel": "Abteilung V/3: Daten und Schnittstellen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-43.html",
+      "leitung": {
+        "id": "p-ebner-jana",
+        "name": "Jana Ebner, MSc",
+        "funktion": "Abteilungsleiterin V/3"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-ebner-jana"
+      ],
+      "aufgabeIds": [
+        "auf-brbsa"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-43.json"
+    },
+    {
+      "id": "ref-44",
+      "typ": "referat",
+      "kuerzel": "V/4",
+      "name": "Informationssicherheit",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-kaltenbrunner-paul",
+      "standortId": "st-innsbruck",
+      "titel": "Abteilung V/4: Informationssicherheit",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-44.html",
+      "leitung": {
+        "id": "p-kaltenbrunner-paul",
+        "name": "DI Paul Kaltenbrunner",
+        "funktion": "Abteilungsleiter V/4 (CISO)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-kaltenbrunner-paul"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-44.json"
+    }
+  ],
+  "baum": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-hinterberger-elisabeth",
+    "vertretungPersonId": "p-pichler-franz-josef",
+    "beschreibung": "Die Präsidentin und der Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-wien",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html",
+    "leitung": {
+      "id": "p-hinterberger-elisabeth",
+      "name": "Mag.a Dr.in Elisabeth Hinterberger",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-hinterberger-elisabeth",
+      "p-pichler-franz-josef"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/leitung.json",
+    "children": [
+      {
+        "id": "stab-pb",
+        "typ": "stab",
+        "kuerzel": "PB",
+        "name": "Präsidialbüro",
+        "parentId": "leitung",
+        "leitungPersonId": "p-novak-katharina",
+        "beschreibung": "Unterstützt die Amtsleitung, koordiniert Ministerratsvorträge, parlamentarische Anfragen und den Aktenlauf.",
+        "standortId": "st-wien",
+        "titel": "Präsidialbüro",
+        "typLabel": "Stabsstelle",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pb.html",
+        "leitung": {
+          "id": "p-novak-katharina",
+          "name": "Mag.a Katharina Novak",
+          "funktion": "Leiterin des Präsidialbüros"
+        },
+        "childIds": [],
+        "personIds": [
+          "p-novak-katharina"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-pb.json",
+        "children": []
+      },
+      {
+        "id": "stab-pk",
+        "typ": "stab",
+        "kuerzel": "PK",
+        "name": "Presse und Kommunikation",
+        "parentId": "leitung",
+        "leitungPersonId": "p-auer-florian",
+        "beschreibung": "Pressearbeit, Website, Publikationen und Bürgerservice.",
+        "standortId": "st-wien",
+        "titel": "Presse und Kommunikation",
+        "typLabel": "Stabsstelle",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-pk.html",
+        "leitung": {
+          "id": "p-auer-florian",
+          "name": "Florian Auer, MA",
+          "funktion": "Pressesprecher"
+        },
+        "childIds": [],
+        "personIds": [
+          "p-auer-florian"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-pk.json",
+        "children": []
+      },
+      {
+        "id": "stab-dr",
+        "typ": "stab",
+        "kuerzel": "DR",
+        "name": "Datenschutz und Interne Revision",
+        "parentId": "leitung",
+        "leitungPersonId": "p-kovacs-julia",
+        "beschreibung": "Datenschutzbeauftragte, Interne Revision und Korruptionsprävention.",
+        "standortId": "st-wien",
+        "titel": "Datenschutz und Interne Revision",
+        "typLabel": "Stabsstelle",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-dr.html",
+        "leitung": {
+          "id": "p-kovacs-julia",
+          "name": "Mag.a Julia Kovács",
+          "funktion": "Datenschutzbeauftragte"
+        },
+        "childIds": [],
+        "personIds": [
+          "p-kovacs-julia"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-dr.json",
+        "children": []
+      },
+      {
+        "id": "abt-z",
+        "typ": "abteilung",
+        "kuerzel": "I",
+        "name": "Präsidialsektion",
+        "parentId": "leitung",
+        "leitungPersonId": "p-wallner-gerhard",
+        "beschreibung": "Personal, Budget, Amtsgebäude sowie das Formular- und Stempelwesen.",
+        "standortId": "st-wien",
+        "titel": "Sektion I: Präsidialsektion",
+        "typLabel": "Sektion",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html",
+        "leitung": {
+          "id": "p-wallner-gerhard",
+          "name": "Mag. Gerhard Wallner",
+          "funktion": "Sektionschef, Leiter der Präsidialsektion"
+        },
+        "childIds": [
+          "ref-z1",
+          "ref-z2",
+          "ref-z3",
+          "ref-z4"
+        ],
+        "personIds": [
+          "p-wallner-gerhard"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-z.json",
+        "children": [
+          {
+            "id": "ref-z1",
+            "typ": "referat",
+            "kuerzel": "I/1",
+            "name": "Personal und Lehrlingsausbildung",
+            "parentId": "abt-z",
+            "leitungPersonId": "p-fuchs-renate",
+            "standortId": "st-wien",
+            "titel": "Abteilung I/1: Personal und Lehrlingsausbildung",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z1.html",
+            "leitung": {
+              "id": "p-fuchs-renate",
+              "name": "ADir Renate Fuchs",
+              "funktion": "Abteilungsleiterin I/1"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-fuchs-renate"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z1.json",
+            "children": []
+          },
+          {
+            "id": "ref-z2",
+            "typ": "referat",
+            "kuerzel": "I/2",
+            "name": "Budget und Beschaffung",
+            "parentId": "abt-z",
+            "leitungPersonId": "p-berger-markus",
+            "standortId": "st-wien",
+            "titel": "Abteilung I/2: Budget und Beschaffung",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z2.html",
+            "leitung": {
+              "id": "p-berger-markus",
+              "name": "Mag. (FH) Markus Berger",
+              "funktion": "Abteilungsleiter I/2"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-berger-markus"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z2.json",
+            "children": []
+          },
+          {
+            "id": "ref-z3",
+            "typ": "referat",
+            "kuerzel": "I/3",
+            "name": "Amtsgebäude und Inneres Service",
+            "parentId": "abt-z",
+            "leitungPersonId": "p-dvorak-ivana",
+            "standortId": "st-wien",
+            "titel": "Abteilung I/3: Amtsgebäude und Inneres Service",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z3.html",
+            "leitung": {
+              "id": "p-dvorak-ivana",
+              "name": "Ing. Ivana Dvořák",
+              "funktion": "Abteilungsleiterin I/3"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-dvorak-ivana"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z3.json",
+            "children": []
+          },
+          {
+            "id": "ref-z4",
+            "typ": "referat",
+            "kuerzel": "I/4",
+            "name": "Formular- und Stempelwesen",
+            "parentId": "abt-z",
+            "leitungPersonId": "p-stempfl-alois",
+            "standortId": "st-wien",
+            "titel": "Abteilung I/4: Formular- und Stempelwesen",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z4.html",
+            "leitung": {
+              "id": "p-stempfl-alois",
+              "name": "OAR Alois Stempfl",
+              "funktion": "Abteilungsleiter I/4"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-stempfl-alois"
+            ],
+            "aufgabeIds": [
+              "auf-formulare"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z4.json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "abt-1",
+        "typ": "abteilung",
+        "kuerzel": "II",
+        "name": "Grundsatz, Sonderfälle und Sonstiges",
+        "parentId": "leitung",
+        "leitungPersonId": "p-schwarzl-andrea",
+        "beschreibung": "Grundsatzangelegenheiten, Abgrenzung des Besonderen vom Sonstigen, föderale Grenzfälle und Nachsichten.",
+        "standortId": "st-wien",
+        "titel": "Sektion II: Grundsatz, Sonderfälle und Sonstiges",
+        "typLabel": "Sektion",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-1.html",
+        "leitung": {
+          "id": "p-schwarzl-andrea",
+          "name": "Dr.in Andrea Schwarzl",
+          "funktion": "Sektionschefin, Leiterin der Sektion II"
+        },
+        "childIds": [
+          "ref-11",
+          "ref-12",
+          "ref-13",
+          "ref-14"
+        ],
+        "personIds": [
+          "p-schwarzl-andrea"
+        ],
+        "aufgabeIds": [
+          "auf-zustaendigkeit"
+        ],
+        "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-1.json",
+        "children": [
+          {
+            "id": "ref-11",
+            "typ": "referat",
+            "kuerzel": "II/1",
+            "name": "Grundsatzangelegenheiten",
+            "parentId": "abt-1",
+            "leitungPersonId": "p-eder-maria",
+            "standortId": "st-wien",
+            "titel": "Abteilung II/1: Grundsatzangelegenheiten",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-11.html",
+            "leitung": {
+              "id": "p-eder-maria",
+              "name": "Mag.a Maria Eder",
+              "funktion": "Abteilungsleiterin II/1"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-eder-maria"
+            ],
+            "aufgabeIds": [
+              "auf-zustaendigkeit"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-11.json",
+            "children": []
+          },
+          {
+            "id": "ref-12",
+            "typ": "referat",
+            "kuerzel": "II/2",
+            "name": "Abgrenzung Besonderes – Sonstiges",
+            "parentId": "abt-1",
+            "leitungPersonId": "p-sonnleitner-wolfgang",
+            "standortId": "st-wien",
+            "titel": "Abteilung II/2: Abgrenzung Besonderes – Sonstiges",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-12.html",
+            "leitung": {
+              "id": "p-sonnleitner-wolfgang",
+              "name": "Mag. Wolfgang Sonnleitner",
+              "funktion": "Abteilungsleiter II/2"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-sonnleitner-wolfgang"
+            ],
+            "aufgabeIds": [
+              "auf-abgrenzung"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-12.json",
+            "children": []
+          },
+          {
+            "id": "ref-13",
+            "typ": "referat",
+            "kuerzel": "II/3",
+            "name": "Föderale Grenzfälle (Bund – Länder)",
+            "parentId": "abt-1",
+            "leitungPersonId": "p-hofer-lisa",
+            "standortId": "st-wien",
+            "titel": "Abteilung II/3: Föderale Grenzfälle (Bund – Länder)",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-13.html",
+            "leitung": {
+              "id": "p-hofer-lisa",
+              "name": "Mag.a Lisa Hofer",
+              "funktion": "Abteilungsleiterin II/3"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-hofer-lisa"
+            ],
+            "aufgabeIds": [
+              "auf-laender"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-13.json",
+            "children": []
+          },
+          {
+            "id": "ref-14",
+            "typ": "referat",
+            "kuerzel": "II/4",
+            "name": "Nachsichten und Ausnahmen",
+            "parentId": "abt-1",
+            "leitungPersonId": "p-nachbaur-thomas",
+            "standortId": "st-wien",
+            "titel": "Abteilung II/4: Nachsichten und Ausnahmen",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-14.html",
+            "leitung": {
+              "id": "p-nachbaur-thomas",
+              "name": "Dr. Thomas Nachbaur",
+              "funktion": "Abteilungsleiter II/4"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-nachbaur-thomas"
+            ],
+            "aufgabeIds": [
+              "auf-nachsicht"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-14.json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "abt-2",
+        "typ": "abteilung",
+        "kuerzel": "III",
+        "name": "Besondere Verfahren",
+        "parentId": "leitung",
+        "leitungPersonId": "p-moosbrugger-klaus",
+        "beschreibung": "Durchführung besonderer Verwaltungsverfahren nach dem AVG, Bescheide besonderer Art sowie Fristen, Feiertage und Fenstertage.",
+        "standortId": "st-graz",
+        "titel": "Sektion III: Besondere Verfahren",
+        "typLabel": "Sektion",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-2.html",
+        "leitung": {
+          "id": "p-moosbrugger-klaus",
+          "name": "Univ.-Prof. Dr. Klaus Moosbrugger",
+          "funktion": "Sektionschef, Leiter der Sektion III"
+        },
+        "childIds": [
+          "ref-21",
+          "ref-22",
+          "ref-23",
+          "ref-24"
+        ],
+        "personIds": [
+          "p-moosbrugger-klaus"
+        ],
+        "aufgabeIds": [
+          "auf-verfahren"
+        ],
+        "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-2.json",
+        "children": [
+          {
+            "id": "ref-21",
+            "typ": "referat",
+            "kuerzel": "III/1",
+            "name": "Verfahren nach dem BBSAG",
+            "parentId": "abt-2",
+            "leitungPersonId": "p-gassner-sabine",
+            "standortId": "st-graz",
+            "titel": "Abteilung III/1: Verfahren nach dem BBSAG",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-21.html",
+            "leitung": {
+              "id": "p-gassner-sabine",
+              "name": "Mag.a Sabine Gassner",
+              "funktion": "Abteilungsleiterin III/1"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-gassner-sabine"
+            ],
+            "aufgabeIds": [
+              "auf-verfahren"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-21.json",
+            "children": []
+          },
+          {
+            "id": "ref-22",
+            "typ": "referat",
+            "kuerzel": "III/2",
+            "name": "Bescheide besonderer Art",
+            "parentId": "abt-2",
+            "leitungPersonId": "p-oezdemir-emre",
+            "standortId": "st-graz",
+            "titel": "Abteilung III/2: Bescheide besonderer Art",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-22.html",
+            "leitung": {
+              "id": "p-oezdemir-emre",
+              "name": "Mag. Emre Özdemir",
+              "funktion": "Abteilungsleiter III/2"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-oezdemir-emre"
+            ],
+            "aufgabeIds": [
+              "auf-verfahren"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-22.json",
+            "children": []
+          },
+          {
+            "id": "ref-23",
+            "typ": "referat",
+            "kuerzel": "III/3",
+            "name": "Beschwerdevorentscheidungen",
+            "parentId": "abt-2",
+            "leitungPersonId": "p-winkler-petra",
+            "standortId": "st-graz",
+            "titel": "Abteilung III/3: Beschwerdevorentscheidungen",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-23.html",
+            "leitung": {
+              "id": "p-winkler-petra",
+              "name": "Dr.in Petra Winkler",
+              "funktion": "Abteilungsleiterin III/3"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-winkler-petra"
+            ],
+            "aufgabeIds": [
+              "auf-beschwerde"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-23.json",
+            "children": []
+          },
+          {
+            "id": "ref-24",
+            "typ": "referat",
+            "kuerzel": "III/4",
+            "name": "Fristen, Feiertage und Fenstertage",
+            "parentId": "abt-2",
+            "leitungPersonId": "p-brueckl-herbert",
+            "standortId": "st-graz",
+            "titel": "Abteilung III/4: Fristen, Feiertage und Fenstertage",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-24.html",
+            "leitung": {
+              "id": "p-brueckl-herbert",
+              "name": "RgR Herbert Brückl",
+              "funktion": "Abteilungsleiter III/4"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-brueckl-herbert"
+            ],
+            "aufgabeIds": [
+              "auf-fenstertage"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-24.json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "abt-3",
+        "typ": "abteilung",
+        "kuerzel": "IV",
+        "name": "Außergewöhnliche Ereignisse",
+        "parentId": "leitung",
+        "leitungPersonId": "p-leitner-brigitte",
+        "beschreibung": "Lagezentrum, wetterbedingte Sonderfälle, Kuriositätenkabinett und Vorsorge für das Unwahrscheinliche.",
+        "standortId": "st-wien",
+        "titel": "Sektion IV: Außergewöhnliche Ereignisse",
+        "typLabel": "Sektion",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-3.html",
+        "leitung": {
+          "id": "p-leitner-brigitte",
+          "name": "Mag.a Brigitte Leitner",
+          "funktion": "Sektionschefin, Leiterin der Sektion IV"
+        },
+        "childIds": [
+          "ref-31",
+          "ref-32",
+          "ref-33",
+          "ref-34"
+        ],
+        "personIds": [
+          "p-leitner-brigitte"
+        ],
+        "aufgabeIds": [
+          "auf-lage"
+        ],
+        "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-3.json",
+        "children": [
+          {
+            "id": "ref-31",
+            "typ": "referat",
+            "kuerzel": "IV/1",
+            "name": "Lagezentrum Besonderheiten",
+            "parentId": "abt-3",
+            "leitungPersonId": "p-reiter-michael",
+            "standortId": "st-wien",
+            "titel": "Abteilung IV/1: Lagezentrum Besonderheiten",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-31.html",
+            "leitung": {
+              "id": "p-reiter-michael",
+              "name": "Michael Reiter, BA",
+              "funktion": "Abteilungsleiter IV/1 (Leiter Lagezentrum)"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-reiter-michael"
+            ],
+            "aufgabeIds": [
+              "auf-lage"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-31.json",
+            "children": []
+          },
+          {
+            "id": "ref-32",
+            "typ": "referat",
+            "kuerzel": "IV/2",
+            "name": "Föhn, Wetterfühligkeit und Unvorhergesehenes",
+            "parentId": "abt-3",
+            "leitungPersonId": "p-lechner-veronika",
+            "standortId": "st-innsbruck",
+            "titel": "Abteilung IV/2: Föhn, Wetterfühligkeit und Unvorhergesehenes",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-32.html",
+            "leitung": {
+              "id": "p-lechner-veronika",
+              "name": "Dr.in Veronika Lechner",
+              "funktion": "Abteilungsleiterin IV/2"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-lechner-veronika"
+            ],
+            "aufgabeIds": [
+              "auf-foehn"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-32.json",
+            "children": []
+          },
+          {
+            "id": "ref-33",
+            "typ": "referat",
+            "kuerzel": "IV/3",
+            "name": "Kuriositätenkabinett und Amtsarchiv",
+            "parentId": "abt-3",
+            "leitungPersonId": "p-schnitzler-ferdinand",
+            "standortId": "st-wien",
+            "titel": "Abteilung IV/3: Kuriositätenkabinett und Amtsarchiv",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-33.html",
+            "leitung": {
+              "id": "p-schnitzler-ferdinand",
+              "name": "HR Dr. Ferdinand Schnitzler",
+              "funktion": "Abteilungsleiter IV/3 (Kustos des Kuriositätenkabinetts)"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-schnitzler-ferdinand"
+            ],
+            "aufgabeIds": [
+              "auf-kabinett"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-33.json",
+            "children": []
+          },
+          {
+            "id": "ref-34",
+            "typ": "referat",
+            "kuerzel": "IV/4",
+            "name": "Prävention des Unwahrscheinlichen",
+            "parentId": "abt-3",
+            "leitungPersonId": "p-mayr-sophie",
+            "standortId": "st-wien",
+            "titel": "Abteilung IV/4: Prävention des Unwahrscheinlichen",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-34.html",
+            "leitung": {
+              "id": "p-mayr-sophie",
+              "name": "Sophie Mayr, MSc",
+              "funktion": "Abteilungsleiterin IV/4"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-mayr-sophie"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-34.json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "abt-4",
+        "typ": "abteilung",
+        "kuerzel": "V",
+        "name": "Digitales und Register",
+        "parentId": "leitung",
+        "leitungPersonId": "p-gruber-stefan",
+        "beschreibung": "Bundesregister besonderer und sonstiger Angelegenheiten, IT-Verfahren und ELAK, Daten und Informationssicherheit.",
+        "standortId": "st-innsbruck",
+        "titel": "Sektion V: Digitales und Register",
+        "typLabel": "Sektion",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-4.html",
+        "leitung": {
+          "id": "p-gruber-stefan",
+          "name": "DI Stefan Gruber",
+          "funktion": "Sektionschef, Leiter der Sektion V (CIO)"
+        },
+        "childIds": [
+          "ref-41",
+          "ref-42",
+          "ref-43",
+          "ref-44"
+        ],
+        "personIds": [
+          "p-gruber-stefan"
+        ],
+        "aufgabeIds": [
+          "auf-brbsa"
+        ],
+        "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-4.json",
+        "children": [
+          {
+            "id": "ref-41",
+            "typ": "referat",
+            "kuerzel": "V/1",
+            "name": "Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+            "parentId": "abt-4",
+            "leitungPersonId": "p-pospischil-karl",
+            "standortId": "st-wien",
+            "titel": "Abteilung V/1: Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-41.html",
+            "leitung": {
+              "id": "p-pospischil-karl",
+              "name": "Mag. Karl Pospischil",
+              "funktion": "Abteilungsleiter V/1 (Registerführer)"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-pospischil-karl"
+            ],
+            "aufgabeIds": [
+              "auf-brbsa"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-41.json",
+            "children": []
+          },
+          {
+            "id": "ref-42",
+            "typ": "referat",
+            "kuerzel": "V/2",
+            "name": "IT-Verfahren und Elektronischer Akt (ELAK)",
+            "parentId": "abt-4",
+            "leitungPersonId": "p-horvath-nina",
+            "standortId": "st-innsbruck",
+            "titel": "Abteilung V/2: IT-Verfahren und Elektronischer Akt (ELAK)",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-42.html",
+            "leitung": {
+              "id": "p-horvath-nina",
+              "name": "DI (FH) Nina Horvath",
+              "funktion": "Abteilungsleiterin V/2"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-horvath-nina"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-42.json",
+            "children": []
+          },
+          {
+            "id": "ref-43",
+            "typ": "referat",
+            "kuerzel": "V/3",
+            "name": "Daten und Schnittstellen",
+            "parentId": "abt-4",
+            "leitungPersonId": "p-ebner-jana",
+            "standortId": "st-innsbruck",
+            "titel": "Abteilung V/3: Daten und Schnittstellen",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-43.html",
+            "leitung": {
+              "id": "p-ebner-jana",
+              "name": "Jana Ebner, MSc",
+              "funktion": "Abteilungsleiterin V/3"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-ebner-jana"
+            ],
+            "aufgabeIds": [
+              "auf-brbsa"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-43.json",
+            "children": []
+          },
+          {
+            "id": "ref-44",
+            "typ": "referat",
+            "kuerzel": "V/4",
+            "name": "Informationssicherheit",
+            "parentId": "abt-4",
+            "leitungPersonId": "p-kaltenbrunner-paul",
+            "standortId": "st-innsbruck",
+            "titel": "Abteilung V/4: Informationssicherheit",
+            "typLabel": "Abteilung",
+            "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-44.html",
+            "leitung": {
+              "id": "p-kaltenbrunner-paul",
+              "name": "DI Paul Kaltenbrunner",
+              "funktion": "Abteilungsleiter V/4 (CISO)"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-kaltenbrunner-paul"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-44.json",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

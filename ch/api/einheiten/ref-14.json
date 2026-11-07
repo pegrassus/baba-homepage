@@ -1,0 +1,127 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-14",
+    "typ": "referat",
+    "kuerzel": "G4",
+    "name": "Ausnahmebewilligungen",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-baumann-urs",
+    "standortId": "st-bern",
+    "titel": "Sektion G4: Ausnahmebewilligungen",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-14.html",
+    "leitung": {
+      "id": "p-baumann-urs",
+      "name": "Urs Baumann",
+      "funktion": "Sektionschef Ausnahmebewilligungen"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-baumann-urs"
+    ],
+    "aufgabeIds": [
+      "auf-ausnahme"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-14.json"
+  },
+  "parent": {
+    "id": "abt-1",
+    "typ": "abteilung",
+    "kuerzel": "G",
+    "name": "Grundsätze und Konkordanz",
+    "parentId": "leitung",
+    "leitungPersonId": "p-bernasconi-andrea",
+    "beschreibung": "Grundsatzfragen, kantonale Sonderfälle, Kompromissfindung und Ausnahmebewilligungen.",
+    "standortId": "st-bern",
+    "titel": "Abteilung G: Grundsätze und Konkordanz",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html",
+    "leitung": {
+      "id": "p-bernasconi-andrea",
+      "name": "Dr. Andrea Bernasconi",
+      "funktion": "Leiter Abteilung Grundsätze und Konkordanz"
+    },
+    "childIds": [
+      "ref-11",
+      "ref-12",
+      "ref-13",
+      "ref-14"
+    ],
+    "personIds": [
+      "p-bernasconi-andrea"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-1.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-baumann-urs",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Urs",
+      "nachname": "Baumann",
+      "funktion": "Sektionschef Ausnahmebewilligungen",
+      "einheitId": "ref-14",
+      "email": "urs.baumann@bba-bund.example",
+      "telefon": "+41 58 999 34 00",
+      "kurzvita": "Erteilt Ausnahmebewilligungen nach Art. 7 BABG – ausnahmsweise auch am Freitagnachmittag.",
+      "name": "Urs Baumann",
+      "portrait": "assets/img/ch/personen/p-baumann-urs.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-baumann-urs.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-baumann-urs.html",
+      "einheit": {
+        "id": "ref-14",
+        "name": "Sektion G4: Ausnahmebewilligungen",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-14.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-14"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-baumann-urs.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-ausnahme",
+      "titel": "Ausnahmebewilligungen",
+      "kategorie": "Leistung für die Bevölkerung und Unternehmen",
+      "beschreibung": "Erteilung von Ausnahmebewilligungen für Fälle, die keine Verordnung vorhergesehen hat – etwa den Alpaufzug in zwei Kantonen gleichzeitig.",
+      "einheitIds": [
+        "ref-14"
+      ],
+      "rechtsgrundlage": "Art. 7 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-bern",
+    "name": "Hauptsitz Bern",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 12",
+    "plz": "3011",
+    "ort": "Bern",
+    "telefon": "+41 58 999 10 00",
+    "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+    "bild": "assets/img/ch/standorte/bern.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

@@ -1,0 +1,259 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "abt-3",
+    "typ": "abteilung",
+    "kuerzel": "E",
+    "name": "Ausserordentliche Ereignisse",
+    "parentId": "leitung",
+    "leitungPersonId": "p-rueegg-thomas",
+    "beschreibung": "Lagebeobachtung, alpine Sonderfälle, Kuriositätenarchiv und Vorsorge für das Unwahrscheinliche.",
+    "standortId": "st-bern",
+    "titel": "Abteilung E: Ausserordentliche Ereignisse",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html",
+    "leitung": {
+      "id": "p-rueegg-thomas",
+      "name": "Thomas Rüegg",
+      "funktion": "Leiter Abteilung Ausserordentliche Ereignisse"
+    },
+    "childIds": [
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34"
+    ],
+    "personIds": [
+      "p-rueegg-thomas"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-3.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "DIR",
+    "name": "Direktion",
+    "parentId": null,
+    "leitungPersonId": "p-braendli-ursula",
+    "vertretungPersonId": "p-favre-jean-daniel",
+    "beschreibung": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.",
+    "standortId": "st-bern",
+    "titel": "Direktion",
+    "typLabel": "Direktion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html",
+    "leitung": {
+      "id": "p-braendli-ursula",
+      "name": "Dr. Ursula Brändli",
+      "funktion": "Direktorin"
+    },
+    "childIds": [
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-braendli-ursula",
+      "p-favre-jean-daniel"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/leitung.json"
+  },
+  "children": [
+    {
+      "id": "ref-31",
+      "typ": "referat",
+      "kuerzel": "E1",
+      "name": "Lagezentrum Besonderheiten",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-schmid-fabienne",
+      "standortId": "st-bern",
+      "titel": "Sektion E1: Lagezentrum Besonderheiten",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-31.html",
+      "leitung": {
+        "id": "p-schmid-fabienne",
+        "name": "Fabienne Schmid",
+        "funktion": "Sektionschefin Lagezentrum"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-schmid-fabienne"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-31.json"
+    },
+    {
+      "id": "ref-32",
+      "typ": "referat",
+      "kuerzel": "E2",
+      "name": "Alpine Sonderfälle",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-zgraggen-josef",
+      "standortId": "st-bern",
+      "titel": "Sektion E2: Alpine Sonderfälle",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-32.html",
+      "leitung": {
+        "id": "p-zgraggen-josef",
+        "name": "Josef Zgraggen",
+        "funktion": "Sektionschef Alpine Sonderfälle"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-zgraggen-josef"
+      ],
+      "aufgabeIds": [
+        "auf-alpin"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-32.json"
+    },
+    {
+      "id": "ref-33",
+      "typ": "referat",
+      "kuerzel": "E3",
+      "name": "Kuriositätenarchiv",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-pestalozzi-hans-peter",
+      "standortId": "st-bern",
+      "titel": "Sektion E3: Kuriositätenarchiv",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-33.html",
+      "leitung": {
+        "id": "p-pestalozzi-hans-peter",
+        "name": "Dr. Hans-Peter Pestalozzi",
+        "funktion": "Sektionschef Kuriositätenarchiv"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-pestalozzi-hans-peter"
+      ],
+      "aufgabeIds": [
+        "auf-archiv"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-33.json"
+    },
+    {
+      "id": "ref-34",
+      "typ": "referat",
+      "kuerzel": "E4",
+      "name": "Prävention des Unwahrscheinlichen",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-nguyen-mai",
+      "standortId": "st-bern",
+      "titel": "Sektion E4: Prävention des Unwahrscheinlichen",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-34.html",
+      "leitung": {
+        "id": "p-nguyen-mai",
+        "name": "Mai Nguyen",
+        "funktion": "Sektionschefin Prävention des Unwahrscheinlichen"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-nguyen-mai"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-34.json"
+    }
+  ],
+  "personen": [
+    {
+      "id": "p-rueegg-thomas",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Thomas",
+      "nachname": "Rüegg",
+      "funktion": "Leiter Abteilung Ausserordentliche Ereignisse",
+      "einheitId": "abt-3",
+      "email": "thomas.rueegg@bba-bund.example",
+      "telefon": "+41 58 999 50 00",
+      "kurzvita": "Ehemaliger Bergführer und Leiter des Lagezentrums.",
+      "name": "Thomas Rüegg",
+      "portrait": "assets/img/ch/personen/p-rueegg-thomas.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-rueegg-thomas.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-rueegg-thomas.html",
+      "einheit": {
+        "id": "abt-3",
+        "name": "Abteilung E: Ausserordentliche Ereignisse",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "abt-3"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rueegg-thomas.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-lage",
+      "titel": "Lagebeobachtung",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Beobachtung und Bewertung ausserordentlicher Ereignisse rund um die Uhr, inklusive Föhnlagen und Fondue-Engpässen.",
+      "einheitIds": [
+        "abt-3",
+        "ref-31",
+        "ref-34"
+      ],
+      "rechtsgrundlage": "Art. 18 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-bern",
+    "name": "Hauptsitz Bern",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 12",
+    "plz": "3011",
+    "ort": "Bern",
+    "telefon": "+41 58 999 10 00",
+    "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+    "bild": "assets/img/ch/standorte/bern.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-10-kuh-bella",
+      "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Alpen gleichzeitig",
+      "datum": "2026-10-22",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-10-kuh-bella.html"
+    },
+    {
+      "id": "2026-08-fondue-uebung",
+      "titel": "Übung «Käse alle»: Lagezentrum probt den nationalen Fondue-Engpass",
+      "datum": "2026-08-14",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-08-fondue-uebung.html"
+    },
+    {
+      "id": "2026-01-echo-archiv",
+      "titel": "Kuriositätenarchiv katalogisiert das 1'000. ungeklärte Echo",
+      "datum": "2026-01-20",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-01-echo-archiv.html"
+    }
+  ]
+}

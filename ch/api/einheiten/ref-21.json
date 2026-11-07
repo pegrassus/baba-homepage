@@ -1,0 +1,120 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-21",
+    "typ": "referat",
+    "kuerzel": "V1",
+    "name": "Besondere Verfahren",
+    "parentId": "abt-2",
+    "leitungPersonId": "p-frei-daniela",
+    "standortId": "st-bellinzona",
+    "titel": "Sektion V1: Besondere Verfahren",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-21.html",
+    "leitung": {
+      "id": "p-frei-daniela",
+      "name": "Daniela Frei",
+      "funktion": "Sektionschefin Besondere Verfahren"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-frei-daniela"
+    ],
+    "aufgabeIds": [
+      "auf-abgrenzung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-21.json"
+  },
+  "parent": {
+    "id": "abt-2",
+    "typ": "abteilung",
+    "kuerzel": "V",
+    "name": "Verfahren und Vernehmlassungen",
+    "parentId": "leitung",
+    "leitungPersonId": "p-rochat-christine",
+    "beschreibung": "Besondere Verwaltungsverfahren, Vernehmlassungen, Einsprachen und die amtliche Pünktlichkeit.",
+    "standortId": "st-bellinzona",
+    "titel": "Abteilung V: Verfahren und Vernehmlassungen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html",
+    "leitung": {
+      "id": "p-rochat-christine",
+      "name": "Prof. Dr. Christine Rochat",
+      "funktion": "Leiterin Abteilung Verfahren und Vernehmlassungen"
+    },
+    "childIds": [
+      "ref-21",
+      "ref-22",
+      "ref-23",
+      "ref-24"
+    ],
+    "personIds": [
+      "p-rochat-christine"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-2.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-frei-daniela",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Daniela",
+      "nachname": "Frei",
+      "funktion": "Sektionschefin Besondere Verfahren",
+      "einheitId": "ref-21",
+      "email": "daniela.frei@bba-bund.example",
+      "telefon": "+41 58 999 41 00",
+      "kurzvita": "Verantwortet die Eingangsprüfung aller Gesuche.",
+      "name": "Daniela Frei",
+      "portrait": "assets/img/ch/personen/p-frei-daniela.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-frei-daniela.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-frei-daniela.html",
+      "einheit": {
+        "id": "ref-21",
+        "name": "Sektion V1: Besondere Verfahren",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-21.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "ref-21"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-frei-daniela.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-abgrenzung",
+      "titel": "Feststellung der Besonderheit",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Auf Gesuch hin stellt das Amt mit Verfügung fest, ob eine Angelegenheit besonders ist. Massgebend ist der Kriterienkatalog mit 14 Punkten.",
+      "einheitIds": [
+        "ref-11",
+        "ref-21"
+      ],
+      "rechtsgrundlage": "Art. 3 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-bellinzona",
+    "name": "Sede di Bellinzona",
+    "typ": "Standort",
+    "strasse": "Via dei Casi Speciali 3",
+    "plz": "6500",
+    "ort": "Bellinzona",
+    "telefon": "+41 58 999 40 00",
+    "beschreibung": "Standort der Abteilung Verfahren und Vernehmlassungen. Die Sitzungen beginnen pünktlich, der Espresso danach ebenfalls.",
+    "bild": "assets/img/ch/standorte/bellinzona.jpg",
+    "einheitIds": [
+      "abt-2"
+    ]
+  },
+  "news": []
+}

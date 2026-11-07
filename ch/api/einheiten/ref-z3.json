@@ -1,0 +1,112 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-z3",
+    "typ": "referat",
+    "kuerzel": "R3",
+    "name": "Logistik und Liegenschaften",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-krasniqi-arben",
+    "standortId": "st-bern",
+    "titel": "Sektion R3: Logistik und Liegenschaften",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z3.html",
+    "leitung": {
+      "id": "p-krasniqi-arben",
+      "name": "Arben Krasniqi",
+      "funktion": "Sektionschef Logistik und Liegenschaften"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-krasniqi-arben"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z3.json"
+  },
+  "parent": {
+    "id": "abt-z",
+    "typ": "abteilung",
+    "kuerzel": "R",
+    "name": "Ressourcen",
+    "parentId": "leitung",
+    "leitungPersonId": "p-zuercher-martin",
+    "beschreibung": "Personal, Finanzen, Logistik und Sprachdienste.",
+    "standortId": "st-bern",
+    "titel": "Abteilung R: Ressourcen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-z.html",
+    "leitung": {
+      "id": "p-zuercher-martin",
+      "name": "Martin Zürcher",
+      "funktion": "Leiter Abteilung Ressourcen"
+    },
+    "childIds": [
+      "ref-z1",
+      "ref-z2",
+      "ref-z3",
+      "ref-z4"
+    ],
+    "personIds": [
+      "p-zuercher-martin"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-z.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-krasniqi-arben",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Arben",
+      "nachname": "Krasniqi",
+      "funktion": "Sektionschef Logistik und Liegenschaften",
+      "einheitId": "ref-z3",
+      "email": "arben.krasniqi@bba-bund.example",
+      "telefon": "+41 58 999 23 00",
+      "kurzvita": "Betreut die Gebäude an drei Standorten in drei Sprachregionen.",
+      "name": "Arben Krasniqi",
+      "portrait": "assets/img/ch/personen/p-krasniqi-arben.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-krasniqi-arben.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-krasniqi-arben.html",
+      "einheit": {
+        "id": "ref-z3",
+        "name": "Sektion R3: Logistik und Liegenschaften",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z3.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-z3"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-krasniqi-arben.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-bern",
+    "name": "Hauptsitz Bern",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 12",
+    "plz": "3011",
+    "ort": "Bern",
+    "telefon": "+41 58 999 10 00",
+    "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+    "bild": "assets/img/ch/standorte/bern.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

@@ -1,0 +1,59 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-horvath-nina",
+    "anrede": "Frau",
+    "titel": "DI (FH)",
+    "vorname": "Nina",
+    "nachname": "Horvath",
+    "funktion": "Abteilungsleiterin V/2",
+    "einheitId": "ref-42",
+    "email": "nina.horvath@bbsa-bund.example",
+    "telefon": "+43 512 4711-6200",
+    "kurzvita": "Verantwortet IT-Verfahren und den Elektronischen Akt (ELAK).",
+    "name": "DI (FH) Nina Horvath",
+    "portrait": "assets/img/at/personen/p-horvath-nina.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-horvath-nina.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-horvath-nina.html",
+    "einheit": {
+      "id": "ref-42",
+      "name": "Abteilung V/2: IT-Verfahren und Elektronischer Akt (ELAK)",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-42.html"
+    },
+    "abteilungId": "abt-4",
+    "standortId": "st-innsbruck",
+    "leitetEinheitIds": [
+      "ref-42"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-horvath-nina.json"
+  },
+  "einheit": {
+    "id": "ref-42",
+    "typ": "referat",
+    "kuerzel": "V/2",
+    "name": "IT-Verfahren und Elektronischer Akt (ELAK)",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-horvath-nina",
+    "standortId": "st-innsbruck",
+    "titel": "Abteilung V/2: IT-Verfahren und Elektronischer Akt (ELAK)",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-42.html",
+    "leitung": {
+      "id": "p-horvath-nina",
+      "name": "DI (FH) Nina Horvath",
+      "funktion": "Abteilungsleiterin V/2"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-horvath-nina"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-42.json"
+  },
+  "news": []
+}

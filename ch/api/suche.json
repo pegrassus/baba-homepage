@@ -1,0 +1,490 @@
+{
+  "eintraege": [
+    {
+      "typ": "Person",
+      "titel": "Dr. Ursula Brändli",
+      "text": "Direktorin – Direktion. Promovierte Juristin (Universität Freiburg), zuvor Vizedirektorin und Leiterin der Abteilung Grundsätze und Konkordanz. Seit 2020 Direktorin des BBA. Hält die Mittagspause für ein Grundrecht.",
+      "url": "personen/p-braendli-ursula.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Jean-Daniel Favre",
+      "text": "Vizedirektor – Direktion. Ökonom aus Neuenburg; verantwortet die Beziehungen zu den Kantonen und zur Romandie. Beherrscht die Kunst, auf Französisch Ja und auf Deutsch Nein zu sagen – im selben Satz.",
+      "url": "personen/p-favre-jean-daniel.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Reto Gisler",
+      "text": "Leiter Direktionsstab – Direktionsstab. Politologe; führt die Geschäftskontrolle mit über 1'400 offenen Pendenzen – alle fristgerecht.",
+      "url": "personen/p-gisler-reto.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Seraina Cadonau",
+      "text": "Mediensprecherin – Kommunikation. Journalistin aus dem Engadin; beantwortet Medienanfragen in vier Sprachen, bei Bedarf auch auf Rätoromanisch Vallader.",
+      "url": "personen/p-cadonau-seraina.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Monika Hürlimann",
+      "text": "Datenschutzberaterin – Datenschutz und Revision. Juristin; berät das Amt in Fragen des Datenschutzes und der internen Revision.",
+      "url": "personen/p-huerlimann-monika.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Martin Zürcher",
+      "text": "Leiter Abteilung Ressourcen – Abteilung R: Ressourcen. Betriebsökonom; stammt trotz seines Namens aus dem Kanton Bern.",
+      "url": "personen/p-zuercher-martin.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Sandra Meier",
+      "text": "Sektionschefin Personal und Lernende – Sektion R1: Personal und Lernende. Verantwortet Rekrutierung, Lernende und Personalentwicklung.",
+      "url": "personen/p-meier-sandra.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Patrick Ammann",
+      "text": "Sektionschef Finanzen und Beschaffung – Sektion R2: Finanzen und Beschaffung. Hat das Budget auf den Rappen genau im Kopf.",
+      "url": "personen/p-ammann-patrick.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Arben Krasniqi",
+      "text": "Sektionschef Logistik und Liegenschaften – Sektion R3: Logistik und Liegenschaften. Betreut die Gebäude an drei Standorten in drei Sprachregionen.",
+      "url": "personen/p-krasniqi-arben.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Chiara Rossi",
+      "text": "Sektionschefin Sprachdienste – Sektion R4: Sprachdienste (DE/FR/IT/RM). Übersetzerin aus Locarno; leitet ein Team, das Sonderfälle in alle Landessprachen und auf Anfrage in Walliserdeutsch überträgt.",
+      "url": "personen/p-rossi-chiara.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Andrea Bernasconi",
+      "text": "Leiter Abteilung Grundsätze und Konkordanz – Abteilung G: Grundsätze und Konkordanz. Staatsrechtler aus Mendrisio; erklärt geduldig, dass Andrea im Tessin ein Männername ist.",
+      "url": "personen/p-bernasconi-andrea.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Verena Steiner",
+      "text": "Sektionschefin Grundsatzfragen der Besonderheit – Sektion G1: Grundsatzfragen der Besonderheit. Seit 1991 im Amt; kennt jeden Grundsatzentscheid seit dem Büro für Unzuordenbares.",
+      "url": "personen/p-steiner-verena.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Lukas Wyss",
+      "text": "Sektionschef Kantonale Sonderfälle – Sektion G2: Kantonale Sonderfälle. Führt eine Liste aller 26 kantonalen Auffassungen zu jeder Frage.",
+      "url": "personen/p-wyss-lukas.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Stéphanie Roduit",
+      "text": "Sektionschefin Konkordanz und Kompromissfindung – Sektion G3: Konkordanz und Kompromissfindung. Mediatorin aus dem Wallis; hat bisher jeden Streit beigelegt, notfalls durch Halbierung.",
+      "url": "personen/p-roduit-stephanie.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Urs Baumann",
+      "text": "Sektionschef Ausnahmebewilligungen – Sektion G4: Ausnahmebewilligungen. Erteilt Ausnahmebewilligungen nach Art. 7 BABG – ausnahmsweise auch am Freitagnachmittag.",
+      "url": "personen/p-baumann-urs.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Prof. Dr. Christine Rochat",
+      "text": "Leiterin Abteilung Verfahren und Vernehmlassungen – Abteilung V: Verfahren und Vernehmlassungen. Titularprofessorin für Verwaltungsrecht in Lausanne; leitet die Abteilung am Standort Bellinzona.",
+      "url": "personen/p-rochat-christine.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Daniela Frei",
+      "text": "Sektionschefin Besondere Verfahren – Sektion V1: Besondere Verfahren. Verantwortet die Eingangsprüfung aller Gesuche.",
+      "url": "personen/p-frei-daniela.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Matthias Hess",
+      "text": "Sektionschef Vernehmlassungen – Sektion V2: Vernehmlassungen zu Unvernehmlassbarem. Hat mehr Vernehmlassungen ausgewertet als jeder andere Bundesangestellte – einige davon zweimal.",
+      "url": "personen/p-hess-matthias.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Corinne Tanner",
+      "text": "Sektionschefin Einsprachen und Beschwerden – Sektion V3: Einsprachen und Beschwerden. Behandelt Einsprachen gegen Verfügungen des BBA.",
+      "url": "personen/p-tanner-corinne.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Kurt Imboden",
+      "text": "Sektionschef Fristen und Pünktlichkeit – Sektion V4: Fristen und Pünktlichkeit. Amtlicher Pünktlichkeitsexperte; ist in 34 Dienstjahren nie zu spät gekommen, einmal aber 40 Sekunden zu früh.",
+      "url": "personen/p-imboden-kurt.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Thomas Rüegg",
+      "text": "Leiter Abteilung Ausserordentliche Ereignisse – Abteilung E: Ausserordentliche Ereignisse. Ehemaliger Bergführer und Leiter des Lagezentrums.",
+      "url": "personen/p-rueegg-thomas.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Fabienne Schmid",
+      "text": "Sektionschefin Lagezentrum – Sektion E1: Lagezentrum Besonderheiten. Leitet das Lagezentrum Besonderheiten, rund um die Uhr besetzt.",
+      "url": "personen/p-schmid-fabienne.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Josef Zgraggen",
+      "text": "Sektionschef Alpine Sonderfälle – Sektion E2: Alpine Sonderfälle. Älpler aus dem Kanton Uri; zuständig für Kühe auf falschen Alpen, Murmeltiere mit Doppelwohnsitz und widerspenstige Echos.",
+      "url": "personen/p-zgraggen-josef.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Hans-Peter Pestalozzi",
+      "text": "Sektionschef Kuriositätenarchiv – Sektion E3: Kuriositätenarchiv. Archivar und Historiker; sammelt seit 1988 ungeklärte Echos, verlorene Fondue-Gabeln und doppelt gestempelte Formulare.",
+      "url": "personen/p-pestalozzi-hans-peter.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Mai Nguyen",
+      "text": "Sektionschefin Prävention des Unwahrscheinlichen – Sektion E4: Prävention des Unwahrscheinlichen. Risikoanalystin (ETH Zürich); entwickelt Szenarien wie «Käse alle» und «Bahnhofsuhr steht still».",
+      "url": "personen/p-nguyen-mai.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Nadia Kälin",
+      "text": "Leiterin Abteilung Digitales und Register (CDO) – Abteilung D: Digitales und Register. Informatikerin; verantwortet die Digitalisierung des Amtes am zweisprachigen Standort Biel/Bienne.",
+      "url": "personen/p-kaelin-nadia.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Dr. Simon Gerber",
+      "text": "Sektionschef ERbA (Registerführer) – Sektion D1: Eidgenössisches Register besonderer Angelegenheiten (ERbA). Führt das Eidgenössische Register besonderer Angelegenheiten.",
+      "url": "personen/p-gerber-simon.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Elena Moser",
+      "text": "Sektionschefin Fachanwendungen und GEVER – Sektion D2: Fachanwendungen und GEVER. Verantwortet die Fachanwendungen und die elektronische Geschäftsverwaltung.",
+      "url": "personen/p-moser-elena.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Deniz Yilmaz",
+      "text": "Sektionschef Daten und Schnittstellen – Sektion D3: Daten und Schnittstellen. Data Engineer; betreut Open Government Data des Amtes.",
+      "url": "personen/p-yilmaz-deniz.html"
+    },
+    {
+      "typ": "Person",
+      "titel": "Adrian Lüthi",
+      "text": "Sektionschef Informationssicherheit (ISBO) – Sektion D4: Informationssicherheit. Informationssicherheitsbeauftragter des Amtes.",
+      "url": "personen/p-luethi-adrian.html"
+    },
+    {
+      "typ": "Direktion",
+      "titel": "Direktion",
+      "text": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.",
+      "url": "organisation/leitung.html"
+    },
+    {
+      "typ": "Stabsstelle",
+      "titel": "Direktionsstab",
+      "text": "Unterstützt die Direktion, koordiniert Geschäfte mit dem Departement und den Kantonen und führt die Geschäftskontrolle.",
+      "url": "organisation/stab-dir.html"
+    },
+    {
+      "typ": "Stabsstelle",
+      "titel": "Kommunikation",
+      "text": "Medienarbeit, Website, Publikationen und Anfragen aus der Bevölkerung – in allen Landessprachen.",
+      "url": "organisation/stab-kom.html"
+    },
+    {
+      "typ": "Stabsstelle",
+      "titel": "Datenschutz und Revision",
+      "text": "Datenschutzberatung, interne Revision und Compliance.",
+      "url": "organisation/stab-dsr.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung R: Ressourcen",
+      "text": "Personal, Finanzen, Logistik und Sprachdienste.",
+      "url": "organisation/abt-z.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion R1: Personal und Lernende",
+      "text": "Leitung: Sandra Meier",
+      "url": "organisation/ref-z1.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion R2: Finanzen und Beschaffung",
+      "text": "Leitung: Patrick Ammann",
+      "url": "organisation/ref-z2.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion R3: Logistik und Liegenschaften",
+      "text": "Leitung: Arben Krasniqi",
+      "url": "organisation/ref-z3.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion R4: Sprachdienste (DE/FR/IT/RM)",
+      "text": "Leitung: Chiara Rossi",
+      "url": "organisation/ref-z4.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung G: Grundsätze und Konkordanz",
+      "text": "Grundsatzfragen, kantonale Sonderfälle, Kompromissfindung und Ausnahmebewilligungen.",
+      "url": "organisation/abt-1.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion G1: Grundsatzfragen der Besonderheit",
+      "text": "Leitung: Dr. Verena Steiner",
+      "url": "organisation/ref-11.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion G2: Kantonale Sonderfälle",
+      "text": "Leitung: Lukas Wyss",
+      "url": "organisation/ref-12.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion G3: Konkordanz und Kompromissfindung",
+      "text": "Leitung: Stéphanie Roduit",
+      "url": "organisation/ref-13.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion G4: Ausnahmebewilligungen",
+      "text": "Leitung: Urs Baumann",
+      "url": "organisation/ref-14.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung V: Verfahren und Vernehmlassungen",
+      "text": "Besondere Verwaltungsverfahren, Vernehmlassungen, Einsprachen und die amtliche Pünktlichkeit.",
+      "url": "organisation/abt-2.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion V1: Besondere Verfahren",
+      "text": "Leitung: Daniela Frei",
+      "url": "organisation/ref-21.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion V2: Vernehmlassungen zu Unvernehmlassbarem",
+      "text": "Leitung: Matthias Hess",
+      "url": "organisation/ref-22.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion V3: Einsprachen und Beschwerden",
+      "text": "Leitung: Corinne Tanner",
+      "url": "organisation/ref-23.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion V4: Fristen und Pünktlichkeit",
+      "text": "Leitung: Kurt Imboden",
+      "url": "organisation/ref-24.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung E: Ausserordentliche Ereignisse",
+      "text": "Lagebeobachtung, alpine Sonderfälle, Kuriositätenarchiv und Vorsorge für das Unwahrscheinliche.",
+      "url": "organisation/abt-3.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion E1: Lagezentrum Besonderheiten",
+      "text": "Leitung: Fabienne Schmid",
+      "url": "organisation/ref-31.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion E2: Alpine Sonderfälle",
+      "text": "Leitung: Josef Zgraggen",
+      "url": "organisation/ref-32.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion E3: Kuriositätenarchiv",
+      "text": "Leitung: Dr. Hans-Peter Pestalozzi",
+      "url": "organisation/ref-33.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion E4: Prävention des Unwahrscheinlichen",
+      "text": "Leitung: Mai Nguyen",
+      "url": "organisation/ref-34.html"
+    },
+    {
+      "typ": "Abteilung",
+      "titel": "Abteilung D: Digitales und Register",
+      "text": "Eidgenössisches Register besonderer Angelegenheiten, Fachanwendungen, Daten und Informationssicherheit.",
+      "url": "organisation/abt-4.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion D1: Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "text": "Leitung: Dr. Simon Gerber",
+      "url": "organisation/ref-41.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion D2: Fachanwendungen und GEVER",
+      "text": "Leitung: Elena Moser",
+      "url": "organisation/ref-42.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion D3: Daten und Schnittstellen",
+      "text": "Leitung: Deniz Yilmaz",
+      "url": "organisation/ref-43.html"
+    },
+    {
+      "typ": "Sektion",
+      "titel": "Sektion D4: Informationssicherheit",
+      "text": "Leitung: Adrian Lüthi",
+      "url": "organisation/ref-44.html"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Auffangzuständigkeit des Bundes",
+      "text": "Das BBA übernimmt Angelegenheiten, für die weder ein anderes Bundesamt noch ein Kanton zuständig ist – oder für die sich alle gleichzeitig zuständig fühlen.",
+      "url": "aufgaben.html#auf-zustaendigkeit"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Feststellung der Besonderheit",
+      "text": "Auf Gesuch hin stellt das Amt mit Verfügung fest, ob eine Angelegenheit besonders ist. Massgebend ist der Kriterienkatalog mit 14 Punkten.",
+      "url": "aufgaben.html#auf-abgrenzung"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Kantonale Sonderfälle",
+      "text": "Klärung von Sachverhalten, die mehrere Kantone betreffen und zu denen mindestens 26 verschiedene Meinungen bestehen.",
+      "url": "aufgaben.html#auf-kantone"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Ausnahmebewilligungen",
+      "text": "Erteilung von Ausnahmebewilligungen für Fälle, die keine Verordnung vorhergesehen hat – etwa den Alpaufzug in zwei Kantonen gleichzeitig.",
+      "url": "aufgaben.html#auf-ausnahme"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Vernehmlassungen zu Unvorhergesehenem",
+      "text": "Durchführung von Vernehmlassungen bei Kantonen, Parteien und Verbänden zu Fragen, die sich noch niemand gestellt hat.",
+      "url": "aufgaben.html#auf-vernehmlassung"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Einsprachen und Beschwerden",
+      "text": "Behandlung von Einsprachen gegen Verfügungen des BBA; Weiterzug an das Bundesverwaltungsgericht bleibt vorbehalten.",
+      "url": "aufgaben.html#auf-einsprache"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Amtliche Pünktlichkeitsauskunft",
+      "text": "Verbindliche Auskunft darüber, ob ein Ereignis pünktlich, knapp pünktlich oder bereits verspätet war. Toleranz: 59 Sekunden.",
+      "url": "aufgaben.html#auf-puenktlichkeit"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Lagebeobachtung",
+      "text": "Beobachtung und Bewertung ausserordentlicher Ereignisse rund um die Uhr, inklusive Föhnlagen und Fondue-Engpässen.",
+      "url": "aufgaben.html#auf-lage"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Alpine Sonderfälle",
+      "text": "Zuständigkeit für Kühe auf der falschen Alp, Murmeltiere mit Doppelwohnsitz, Gämsen ohne Aufenthaltsbewilligung und Echos, die falsch antworten.",
+      "url": "aufgaben.html#auf-alpin"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Kuriositätenarchiv",
+      "text": "Dokumentation und Archivierung kurioser Vorgänge von bleibendem öffentlichem Interesse, inklusive Tonarchiv ungeklärter Echos.",
+      "url": "aufgaben.html#auf-archiv"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "text": "Führung des zentralen Registers; Registerauszüge an berechtigte Behörden von Bund, Kantonen und Gemeinden.",
+      "url": "aufgaben.html#auf-erba"
+    },
+    {
+      "typ": "Aufgabe",
+      "titel": "Übersetzung von Sonderfällen",
+      "text": "Jede Verfügung wird in die Amtssprache der gesuchstellenden Person übersetzt. Rätoromanisch in Rumantsch Grischun, auf Wunsch in einem der fünf Idiome.",
+      "url": "aufgaben.html#auf-sprachen"
+    },
+    {
+      "typ": "Medienmitteilung",
+      "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Alpen gleichzeitig",
+      "text": "Weil die Weide genau auf der Kantonsgrenze liegt, darf Bella künftig offiziell in Uri und in Glarus gesömmert werden. Die Verfügung ergeht in beiden Kantonen gleichzeitig. Das Bundesamt für besondere Angelegenheiten hat der Braunviehkuh «Bella» eine Ausnahmebewilligung für die gleichzeitige Sömmerung in zwei Kantonen erteilt. Die Weide, auf der Bella seit drei Sommern bevorzugt steht, wird von einem historischen Grenzstein exakt halbiert. «Bella hat sich nie für einen Kanton entschieden, und wir respektieren das», sagte Sektionschef Josef Zgraggen. Die Glocke der Kuh muss künftig mit beiden Kantonswappen versehen werden – auf der linken und auf der rechten Seite. Sektionschef Urs Baumann bestätigte, dass es sich um die erste Ausnahmebewilligung für ein Rind seit 1987 handelt.",
+      "url": "aktuelles/2026-10-kuh-bella.html"
+    },
+    {
+      "typ": "Vernehmlassung",
+      "titel": "Vernehmlassung eröffnet: Sind Vernehmlassungen vernehmlassungspflichtig?",
+      "text": "Das BBA lädt Kantone, Parteien und Verbände ein, sich bis 31. Januar 2027 zur Frage zu äussern, ob zu dieser Frage eine Vernehmlassung hätte eröffnet werden müssen. Mit der heute eröffneten Vernehmlassung möchte das BBA eine seit 1971 offene Grundsatzfrage klären. «Sollte die Vernehmlassung ergeben, dass keine Vernehmlassung nötig gewesen wäre, werden wir die Ergebnisse selbstverständlich trotzdem auswerten», erklärte Sektionschef Matthias Hess. Die Unterlagen stehen in Deutsch, Französisch und Italienisch zur Verfügung. Die rätoromanische Fassung folgt nach Abschluss einer separaten Vernehmlassung zur Übersetzung.",
+      "url": "aktuelles/2026-09-vernehmlassung.html"
+    },
+    {
+      "typ": "Medienmitteilung",
+      "titel": "Jahresbericht 2025: 9'874 Sonderfälle – Rekord bei Murmeltier-Eingaben",
+      "text": "Das BBA verzeichnet einen Anstieg um 7 Prozent. Erstmals betraf jeder zehnte Fall ein Wildtier mit unklarem Wohnsitz. Direktorin Dr. Ursula Brändli hat in Bern den Jahresbericht 2025 vorgestellt. Mit 9'874 behandelten Sonderfällen hat das Amt einen neuen Höchstwert erreicht. «Ordnung ist, wenn auch die Ausnahme ein Formular hat», sagte Brändli. Besonders zugenommen haben alpine Sonderfälle (+23 %) und Gesuche um amtliche Pünktlichkeitsauskunft (+11 %). Die durchschnittliche Behandlungsdauer betrug 21 Arbeitstage, 3 Stunden und 12 Minuten.",
+      "url": "aktuelles/2026-09-jahresbericht.html"
+    },
+    {
+      "typ": "Medienmitteilung",
+      "titel": "Übung «Käse alle»: Lagezentrum probt den nationalen Fondue-Engpass",
+      "text": "In einer 24-stündigen Stabsübung testeten Bund und Kantone die Abläufe für den Fall, dass am ersten Wintersonntag landesweit der Fonduekäse ausgeht. Das Lagezentrum Besonderheiten hat zusammen mit 19 Kantonen die Übung «Käse alle» durchgeführt. Geprüft wurden unter anderem Meldewege, die Priorisierung von Berghütten und ein Notfallplan für Raclette als Ersatzmittel. «Der Ersatz von Fondue durch Raclette ist rechtlich heikel und muss gut begründet sein», sagte Sektionschefin Mai Nguyen. Sektionschefin Fabienne Schmid zog eine positive Bilanz. Einzig die Frage, wer die Caquelons abwäscht, konnte nicht abschliessend geklärt werden.",
+      "url": "aktuelles/2026-08-fondue-uebung.html"
+    },
+    {
+      "typ": "Mitteilung",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) in Betrieb",
+      "text": "Nach vier Jahren Entwicklung in Biel/Bienne ist das ERbA online. Alle 61'205 Einträge seit 1953 sind digital verfügbar – zweisprachig. Mit dem ERbA ersetzt das BBA seine Karteikästen aus dem Büro für Unzuordenbares. «Jeder Eintrag ist nun in Deutsch und Französisch abrufbar, auf Wunsch auch in Italienisch», sagte Abteilungsleiterin Nadia Kälin. Registerführer Dr. Simon Gerber betont: «Die Migration war pünktlich. Wir haben das von der Sektion Fristen und Pünktlichkeit bestätigen lassen.»",
+      "url": "aktuelles/2026-07-erba-start.html"
+    },
+    {
+      "typ": "Mitteilung",
+      "titel": "Sprachdienst übersetzt Verfügung erstmals in vier Landessprachen und Walliserdeutsch",
+      "text": "Eine Verfügung zu einem Grenzfall im Oberwallis wurde auf Wunsch aller Beteiligten auch in Walliserdeutsch ausgefertigt. Die Ausfertigung umfasst 47 Seiten. Die Sektion Sprachdienste hat eine Verfügung des BBA erstmals in fünf Sprachfassungen erstellt. «Walliserdeutsch ist keine Amtssprache, aber für die Beteiligten war es die einzig verständliche», erklärte Sektionschefin Chiara Rossi. Die Walliser Fassung ist rechtlich nicht verbindlich, wurde aber von allen Parteien als die schönste bezeichnet.",
+      "url": "aktuelles/2026-06-fuenf-sprachen.html"
+    },
+    {
+      "typ": "Medienmitteilung",
+      "titel": "Grundsatzentscheid: 08:00:59 Uhr gilt noch als pünktlich",
+      "text": "Das BBA hat nach einer Einsprache verbindlich festgelegt, ab wann ein Ereignis als verspätet gilt. Die Toleranz beträgt 59 Sekunden – keine Sekunde mehr. Ausgangspunkt war die Einsprache eines Pendlers, der wegen einer Ankunft um 08:00:59 Uhr als verspätet galt. «Eine Minute ist eine Minute. Was innerhalb dieser Minute geschieht, ist pünktlich», begründete Sektionschef Kurt Imboden den Entscheid. Ab 08:01:00 Uhr gilt ein Ereignis als verspätet. Abteilungsleiterin Prof. Dr. Christine Rochat bezeichnete den Entscheid als «Meilenstein der Rechtssicherheit».",
+      "url": "aktuelles/2026-04-puenktlichkeit.html"
+    },
+    {
+      "typ": "Medienmitteilung",
+      "titel": "Kompromiss gefunden: Umstrittener Grenzstein wird halbiert",
+      "text": "Nach 132 Jahren Streit zwischen zwei Gemeinden hat die Sektion Konkordanz eine Lösung gefunden. Jede Gemeinde erhält eine Hälfte des Grenzsteins. Der Grenzstein zwischen zwei Gemeinden im Mittelland war seit 1894 Gegenstand von Auseinandersetzungen. «Am Ende waren alle gleich wenig zufrieden. Das ist ein gutschweizerischer Kompromiss», sagte Sektionschefin Stéphanie Roduit. Die beiden Steinhälften werden mit einer Fuge von genau einem Zentimeter wieder aufgestellt. Für den Zentimeter bleibt das BBA zuständig.",
+      "url": "aktuelles/2026-03-grenzstein.html"
+    },
+    {
+      "typ": "Mitteilung",
+      "titel": "Kuriositätenarchiv katalogisiert das 1'000. ungeklärte Echo",
+      "text": "Das Echo, aufgenommen am Pilatus, antwortete auf «Hallo» mit «Grüessech». Es ist das tausendste Echo mit Abweichung vom Ausgangsruf. Das Tonarchiv der Sektion Kuriositätenarchiv umfasst nun 1'000 Echos, die nicht so antworten, wie man es erwarten würde. «Besonders häufig sind Echos, die in einen anderen Dialekt wechseln», erklärt Sektionschef Dr. Hans-Peter Pestalozzi. Ein Echo im Jura antwortet seit 1962 ausschliesslich auf Französisch. Eine Auswahl der Aufnahmen ist am Tag der offenen Tür im Hauptsitz Bern zu hören.",
+      "url": "aktuelles/2026-01-echo-archiv.html"
+    },
+    {
+      "typ": "Karriere",
+      "titel": "14 Lernende starten ihre Ausbildung beim BBA",
+      "text": "Kaufleute EFZ, Informatikerinnen und Informatiker EFZ sowie Fachleute Information und Dokumentation beginnen ihre Lehre in Bern, Biel und Bellinzona. Das BBA begrüsste 14 neue Lernende an seinen drei Standorten. «Bei uns lernt man, dass es für jede Ausnahme eine Regel gibt – und für jede Regel eine Ausnahme», sagte Sektionschefin Sandra Meier. Bewerbungen für Lehrstellen ab August 2027 sind ab sofort möglich.",
+      "url": "aktuelles/2025-11-lernende.html"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-moosbrugger-klaus",
+    "anrede": "Herr",
+    "titel": "Univ.-Prof. Dr.",
+    "vorname": "Klaus",
+    "nachname": "Moosbrugger",
+    "funktion": "Sektionschef, Leiter der Sektion III",
+    "einheitId": "abt-2",
+    "email": "klaus.moosbrugger@bbsa-bund.example",
+    "telefon": "+43 316 4711-4000",
+    "kurzvita": "Professor für Verwaltungsverfahrensrecht an der Universität Graz; leitet die Sektion in der Außenstelle Graz.",
+    "name": "Univ.-Prof. Dr. Klaus Moosbrugger",
+    "portrait": "assets/img/at/personen/p-moosbrugger-klaus.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-moosbrugger-klaus.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-moosbrugger-klaus.html",
+    "einheit": {
+      "id": "abt-2",
+      "name": "Sektion III: Besondere Verfahren",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-2.html"
+    },
+    "abteilungId": "abt-2",
+    "standortId": "st-graz",
+    "leitetEinheitIds": [
+      "abt-2"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-moosbrugger-klaus.json"
+  },
+  "einheit": {
+    "id": "abt-2",
+    "typ": "abteilung",
+    "kuerzel": "III",
+    "name": "Besondere Verfahren",
+    "parentId": "leitung",
+    "leitungPersonId": "p-moosbrugger-klaus",
+    "beschreibung": "Durchführung besonderer Verwaltungsverfahren nach dem AVG, Bescheide besonderer Art sowie Fristen, Feiertage und Fenstertage.",
+    "standortId": "st-graz",
+    "titel": "Sektion III: Besondere Verfahren",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-2.html",
+    "leitung": {
+      "id": "p-moosbrugger-klaus",
+      "name": "Univ.-Prof. Dr. Klaus Moosbrugger",
+      "funktion": "Sektionschef, Leiter der Sektion III"
+    },
+    "childIds": [
+      "ref-21",
+      "ref-22",
+      "ref-23",
+      "ref-24"
+    ],
+    "personIds": [
+      "p-moosbrugger-klaus"
+    ],
+    "aufgabeIds": [
+      "auf-verfahren"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-2.json"
+  },
+  "news": [
+    {
+      "id": "2026-10-fenstertage",
+      "titel": "Fenstertage 2027 kundgemacht: Sieben Fenstertage und ein Zwickeltag",
+      "datum": "2026-10-12",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-10-fenstertage.html"
+    }
+  ]
+}

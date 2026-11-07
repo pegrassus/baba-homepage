@@ -1,0 +1,110 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-07-formular-f0",
+    "datum": "2026-07-15",
+    "kategorie": "Meldung",
+    "titel": "Neu: Das Formular zur Beantragung von Formularen (BBSA-F0)",
+    "teaser": "Ab sofort können alle Formulare des Amtes mit einem einzigen Formular beantragt werden. Das Formular F0 selbst ist formlos erhältlich.",
+    "text": [
+      "Die Abteilung I/4 hat mit dem Formular BBSA-F0 eine Vereinfachung eingeführt: Statt jedes Formular einzeln anzufordern, genügt nun ein Antrag auf Formulare.",
+      "„Wir haben lange überlegt, ob man für das Formular F0 ein eigenes Formular braucht. Wir haben uns dagegen entschieden – vorerst“, sagt Oberamtsrat Alois Stempfl.",
+      "Das Formular ist dreifach auszufüllen und mit dem Eingangsstempel zu versehen, den man beim Parteienverkehr ausleihen kann."
+    ],
+    "bild": "assets/img/at/news/2026-07-formular-f0.jpg",
+    "einheitId": "ref-z4",
+    "personIds": [
+      "p-stempfl-alois",
+      "p-wallner-gerhard"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-07-formular-f0.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-07-formular-f0.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-07-formular-f0.json"
+  },
+  "einheit": {
+    "id": "ref-z4",
+    "typ": "referat",
+    "kuerzel": "I/4",
+    "name": "Formular- und Stempelwesen",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-stempfl-alois",
+    "standortId": "st-wien",
+    "titel": "Abteilung I/4: Formular- und Stempelwesen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z4.html",
+    "leitung": {
+      "id": "p-stempfl-alois",
+      "name": "OAR Alois Stempfl",
+      "funktion": "Abteilungsleiter I/4"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-stempfl-alois"
+    ],
+    "aufgabeIds": [
+      "auf-formulare"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z4.json"
+  },
+  "personen": [
+    {
+      "id": "p-stempfl-alois",
+      "anrede": "Herr",
+      "titel": "OAR",
+      "vorname": "Alois",
+      "nachname": "Stempfl",
+      "funktion": "Abteilungsleiter I/4",
+      "einheitId": "ref-z4",
+      "email": "alois.stempfl@bbsa-bund.example",
+      "telefon": "+43 1 4711-2400",
+      "kurzvita": "Oberamtsrat und Hüter von 3.112 Amtsstempeln; entwickelte 2026 das Formular zur Beantragung von Formularen.",
+      "name": "OAR Alois Stempfl",
+      "portrait": "assets/img/at/personen/p-stempfl-alois.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-stempfl-alois.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-stempfl-alois.html",
+      "einheit": {
+        "id": "ref-z4",
+        "name": "Abteilung I/4: Formular- und Stempelwesen",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z4.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-z4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-stempfl-alois.json"
+    },
+    {
+      "id": "p-wallner-gerhard",
+      "anrede": "Herr",
+      "titel": "Mag.",
+      "vorname": "Gerhard",
+      "nachname": "Wallner",
+      "funktion": "Sektionschef, Leiter der Präsidialsektion",
+      "einheitId": "abt-z",
+      "email": "gerhard.wallner@bbsa-bund.example",
+      "telefon": "+43 1 4711-2000",
+      "kurzvita": "Seit 2016 Leiter der Sektion I; zuständig für alles, was das Amt am Laufen hält.",
+      "name": "Mag. Gerhard Wallner",
+      "portrait": "assets/img/at/personen/p-wallner-gerhard.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-wallner-gerhard.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-wallner-gerhard.html",
+      "einheit": {
+        "id": "abt-z",
+        "name": "Sektion I: Präsidialsektion",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "abt-z"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-wallner-gerhard.json"
+    }
+  ]
+}

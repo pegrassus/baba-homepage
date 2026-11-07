@@ -1,0 +1,60 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-huerlimann-monika",
+    "anrede": "Frau",
+    "titel": "",
+    "vorname": "Monika",
+    "nachname": "Hürlimann",
+    "funktion": "Datenschutzberaterin",
+    "einheitId": "stab-dsr",
+    "email": "datenschutz@bba-bund.example",
+    "telefon": "+41 58 999 10 30",
+    "kurzvita": "Juristin; berät das Amt in Fragen des Datenschutzes und der internen Revision.",
+    "name": "Monika Hürlimann",
+    "portrait": "assets/img/ch/personen/p-huerlimann-monika.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-huerlimann-monika.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-huerlimann-monika.html",
+    "einheit": {
+      "id": "stab-dsr",
+      "name": "Datenschutz und Revision",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dsr.html"
+    },
+    "abteilungId": "stab-dsr",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [
+      "stab-dsr"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-huerlimann-monika.json"
+  },
+  "einheit": {
+    "id": "stab-dsr",
+    "typ": "stab",
+    "kuerzel": "DSR",
+    "name": "Datenschutz und Revision",
+    "parentId": "leitung",
+    "leitungPersonId": "p-huerlimann-monika",
+    "beschreibung": "Datenschutzberatung, interne Revision und Compliance.",
+    "standortId": "st-bern",
+    "titel": "Datenschutz und Revision",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dsr.html",
+    "leitung": {
+      "id": "p-huerlimann-monika",
+      "name": "Monika Hürlimann",
+      "funktion": "Datenschutzberaterin"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-huerlimann-monika"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-dsr.json"
+  },
+  "news": []
+}

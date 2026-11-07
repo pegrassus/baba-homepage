@@ -1,0 +1,214 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "behoerde": {
+    "id": "bbsa",
+    "variante": "at",
+    "land": "Österreich",
+    "locale": "de-AT",
+    "pfad": "at/",
+    "name": "Bundesamt für besondere und sonstige Angelegenheiten",
+    "kurzname": "BBSA",
+    "markeZeile": "BBSA · gegr. 1873",
+    "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+    "typ": "Bundesamt",
+    "geschaeftsbereich": "Bundesministerium für Allgemeines, Übriges und Sonstiges (BMAÜS, fiktiv)",
+    "zuordnung": "Nachgeordnete Dienststelle des Bundesministeriums für Allgemeines, Übriges und Sonstiges (BMAÜS, fiktiv)",
+    "gruendung": "1873-05-01",
+    "rechtsgrundlage": {
+      "kurz": "BBSAG",
+      "titel": "Bundesgesetz über das Bundesamt für besondere und sonstige Angelegenheiten (BBSA-Gesetz – BBSAG)",
+      "fundstelle": "BGBl. I Nr. 999/1955 (fiktiv), zuletzt geändert durch BGBl. I Nr. 42/2026 (fiktiv)"
+    },
+    "claim": "Für alles Besondere. Und alles Sonstige.",
+    "auftrag": "Das Bundesamt für besondere und sonstige Angelegenheiten (BBSA) ist zuständig für alle Angelegenheiten des Bundes, die besonders sind, sowie für jene, die zwar nicht besonders, aber auch nirgends sonst unterzubringen sind („sonstige Angelegenheiten“). Es entscheidet mit Bescheid, stellt Fenstertage fest, führt das Kuriositätenkabinett und das Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA) – seit 1873, mit kurzer Unterbrechung für die Mittagspause.",
+    "leitbild": [
+      {
+        "titel": "Zuständig",
+        "text": "Wenn sich niemand zuständig fühlt, fühlen wir uns zuständig. Notfalls auch sonstig."
+      },
+      {
+        "titel": "Gründlich",
+        "text": "Ein Akt ist erst erledigt, wenn er dreimal gestempelt ist."
+      },
+      {
+        "titel": "Gemütlich",
+        "text": "Wir lösen jedes Problem – nach dem Kaffee."
+      },
+      {
+        "titel": "Traditionsbewusst",
+        "text": "Wir modernisieren behutsam. Seit 1873."
+      }
+    ],
+    "kennzahlen": [
+      {
+        "label": "Bedienstete",
+        "wert": "860"
+      },
+      {
+        "label": "Erledigte Akten 2025",
+        "wert": "27.431"
+      },
+      {
+        "label": "Einträge im BRbsA seit 1873",
+        "wert": "1.204.388"
+      },
+      {
+        "label": "Amtsstempel im Einsatz",
+        "wert": "3.112"
+      }
+    ],
+    "leitungPersonId": "p-hinterberger-elisabeth",
+    "pressePersonId": "p-auer-florian",
+    "datenschutzPersonId": "p-kovacs-julia",
+    "hauptsitzId": "st-wien",
+    "kontakt": {
+      "telefon": "+43 1 4711-0",
+      "fax": "+43 1 4711-9999",
+      "email": "einlaufstelle@bbsa-bund.example",
+      "zeitenLabel": "Parteienverkehr",
+      "servicezeiten": "Mo–Fr 8:00–12:00 Uhr, Do zusätzlich 14:00–16:00 Uhr, und nach telefonischer Vereinbarung"
+    },
+    "logo": {
+      "farbig": "assets/img/at/logo/bbsa-logo.svg",
+      "wortbildmarke": "assets/img/at/logo/bbsa-wortbildmarke.svg",
+      "negativ": "assets/img/at/logo/bbsa-logo-negativ.svg",
+      "png": "assets/img/at/logo/bbsa-logo.png"
+    },
+    "farben": {
+      "mokka": "#2E2723",
+      "schoenbrunnergelb": "#E3B21A",
+      "creme": "#F7F2E6",
+      "altrosa": "#B36A5E"
+    },
+    "begriffe": {
+      "leitung": "Amtsleitung",
+      "stab": "Stabsstelle",
+      "stabPlural": "Stabsstellen",
+      "abteilung": "Sektion",
+      "abteilungPlural": "Sektionen",
+      "abteilungKurz": "Sekt.",
+      "referat": "Abteilung",
+      "referatPlural": "Abteilungen",
+      "referatKurz": "Abt.",
+      "referatsleitungen": "Abteilungsleitungen",
+      "antraegeTitel": "Anträge einbringen",
+      "antraegeText": "Feststellung, Nachsicht, Registerauskunft – und das Formular für Formulare",
+      "antraegeButton": "Anträge & Formulare",
+      "beschaeftigte": "Bedienstete"
+    },
+    "grusswort": {
+      "titel": "Grußwort der Präsidentin",
+      "text": "Seit 1873 kümmern wir uns um alles, was besonders ist – und seit 1972 auch um alles Sonstige. Wir verbinden die Gründlichkeit der k.k. Verwaltung mit den Möglichkeiten der Digitalisierung. Kommen Sie vorbei; den Kaffee gibt es beim Parteienverkehr gratis."
+    },
+    "jahresberichtZitat": "Was besonders ist, entscheiden wir. Was sonstig ist, auch.",
+    "hero": {
+      "bild": "assets/img/at/hero/hero-gebaeude.jpg",
+      "alt": "Amtsgebäude des BBSA an einem Wiener Boulevard im Abendlicht"
+    },
+    "heroInnen": {
+      "bild": "assets/img/at/hero/hero-stiege.jpg",
+      "alt": "Prunkstiege im Amtsgebäude Wien"
+    },
+    "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Keine Einrichtung der Republik Österreich.",
+    "leitfadenKriterien": [
+      "Der Sachverhalt ist besonders (→ besondere Angelegenheit)",
+      "Der Sachverhalt ist nicht besonders, aber auch nicht gewöhnlich (→ sonstige Angelegenheit)",
+      "Zuständigkeit zwischen Bund und mindestens zwei Ländern strittig",
+      "Bezug zu einem Fenster- oder Zwickeltag",
+      "Föhnwetterlage zum Zeitpunkt des Ereignisses",
+      "Kein passendes Formular vorhanden",
+      "Formular vorhanden, aber nicht mehr lagernd",
+      "Präzedenzfall nur in Kurrentschrift dokumentiert",
+      "Beteiligung von Murmeltieren, Krampussen oder sonstigen Brauchtumsträgern",
+      "Antrag auf Stellung eines Antrags",
+      "Akt wurde bereits zweimal abgelegt",
+      "Ereignis fand in der Mittagspause statt",
+      "Allgemeines Kopfschütteln mit „Na geh“",
+      "Nachweislich unwahrscheinliches Ereignis"
+    ],
+    "geschichte": [
+      {
+        "jahr": "1873",
+        "ereignis": "Errichtung als „k.k. Hofamt für besondere Angelegenheiten“ in Wien, untergebracht in drei Zimmern über einem Kaffeehaus."
+      },
+      {
+        "jahr": "1919",
+        "ereignis": "Umbenennung in „Staatsamt für besondere Angelegenheiten“; die Stempel werden bis 1923 weiterverwendet."
+      },
+      {
+        "jahr": "1955",
+        "ereignis": "Neuerrichtung als Bundesamt durch das BBSA-Gesetz."
+      },
+      {
+        "jahr": "1972",
+        "ereignis": "Nach einem zehnjährigen Zuständigkeitsstreit Erweiterung um die „sonstigen Angelegenheiten“."
+      },
+      {
+        "jahr": "2004",
+        "ereignis": "Eröffnung der Außenstelle Graz; 2011 folgt Innsbruck."
+      },
+      {
+        "jahr": "2026",
+        "ereignis": "Das BRbsA geht online – inklusive 380.000 handschriftlicher Einträge in Kurrentschrift."
+      }
+    ],
+    "logoUrls": {
+      "farbig": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-logo.svg",
+      "wortbildmarke": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-wortbildmarke.svg",
+      "negativ": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-logo-negativ.svg",
+      "png": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-logo.png"
+    },
+    "leitung": {
+      "id": "p-hinterberger-elisabeth",
+      "anrede": "Frau",
+      "titel": "Mag.a Dr.in",
+      "vorname": "Elisabeth",
+      "nachname": "Hinterberger",
+      "funktion": "Präsidentin",
+      "einheitId": "leitung",
+      "email": "praesidentin@bbsa-bund.example",
+      "telefon": "+43 1 4711-1000",
+      "kurzvita": "Juristin (Universität Wien) und Verwaltungswissenschaftlerin. Nach Stationen im BMAÜS und als Sektionschefin seit 2021 Präsidentin des BBSA. Hat als erste Präsidentin seit 1873 einen Laptop am Schreibtisch.",
+      "name": "Mag.a Dr.in Elisabeth Hinterberger",
+      "portrait": "assets/img/at/personen/p-hinterberger-elisabeth.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-hinterberger-elisabeth.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-hinterberger-elisabeth.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Amtsleitung",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "leitung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-hinterberger-elisabeth.json"
+    },
+    "hauptsitz": {
+      "id": "st-wien",
+      "name": "Amtsgebäude Wien",
+      "typ": "Hauptsitz",
+      "strasse": "Ausnahmegasse 7",
+      "plz": "1010",
+      "ort": "Wien",
+      "telefon": "+43 1 4711-0",
+      "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+      "bild": "assets/img/at/standorte/wien.jpg",
+      "einheitIds": [
+        "leitung",
+        "stab-pb",
+        "stab-pk",
+        "stab-dr",
+        "abt-z",
+        "abt-1",
+        "abt-3"
+      ]
+    }
+  }
+}

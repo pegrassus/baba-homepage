@@ -1,0 +1,140 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-11",
+    "typ": "referat",
+    "kuerzel": "G1",
+    "name": "Grundsatzfragen der Besonderheit",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-steiner-verena",
+    "standortId": "st-bern",
+    "titel": "Sektion G1: Grundsatzfragen der Besonderheit",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-11.html",
+    "leitung": {
+      "id": "p-steiner-verena",
+      "name": "Dr. Verena Steiner",
+      "funktion": "Sektionschefin Grundsatzfragen der Besonderheit"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-steiner-verena"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit",
+      "auf-abgrenzung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-11.json"
+  },
+  "parent": {
+    "id": "abt-1",
+    "typ": "abteilung",
+    "kuerzel": "G",
+    "name": "Grundsätze und Konkordanz",
+    "parentId": "leitung",
+    "leitungPersonId": "p-bernasconi-andrea",
+    "beschreibung": "Grundsatzfragen, kantonale Sonderfälle, Kompromissfindung und Ausnahmebewilligungen.",
+    "standortId": "st-bern",
+    "titel": "Abteilung G: Grundsätze und Konkordanz",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html",
+    "leitung": {
+      "id": "p-bernasconi-andrea",
+      "name": "Dr. Andrea Bernasconi",
+      "funktion": "Leiter Abteilung Grundsätze und Konkordanz"
+    },
+    "childIds": [
+      "ref-11",
+      "ref-12",
+      "ref-13",
+      "ref-14"
+    ],
+    "personIds": [
+      "p-bernasconi-andrea"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-1.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-steiner-verena",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Verena",
+      "nachname": "Steiner",
+      "funktion": "Sektionschefin Grundsatzfragen der Besonderheit",
+      "einheitId": "ref-11",
+      "email": "verena.steiner@bba-bund.example",
+      "telefon": "+41 58 999 31 00",
+      "kurzvita": "Seit 1991 im Amt; kennt jeden Grundsatzentscheid seit dem Büro für Unzuordenbares.",
+      "name": "Dr. Verena Steiner",
+      "portrait": "assets/img/ch/personen/p-steiner-verena.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-steiner-verena.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-steiner-verena.html",
+      "einheit": {
+        "id": "ref-11",
+        "name": "Sektion G1: Grundsatzfragen der Besonderheit",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-11.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-11"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-steiner-verena.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-zustaendigkeit",
+      "titel": "Auffangzuständigkeit des Bundes",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Das BBA übernimmt Angelegenheiten, für die weder ein anderes Bundesamt noch ein Kanton zuständig ist – oder für die sich alle gleichzeitig zuständig fühlen.",
+      "einheitIds": [
+        "abt-1",
+        "ref-11"
+      ],
+      "rechtsgrundlage": "Art. 2 BABG"
+    },
+    {
+      "id": "auf-abgrenzung",
+      "titel": "Feststellung der Besonderheit",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Auf Gesuch hin stellt das Amt mit Verfügung fest, ob eine Angelegenheit besonders ist. Massgebend ist der Kriterienkatalog mit 14 Punkten.",
+      "einheitIds": [
+        "ref-11",
+        "ref-21"
+      ],
+      "rechtsgrundlage": "Art. 3 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-bern",
+    "name": "Hauptsitz Bern",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 12",
+    "plz": "3011",
+    "ort": "Bern",
+    "telefon": "+41 58 999 10 00",
+    "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+    "bild": "assets/img/ch/standorte/bern.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

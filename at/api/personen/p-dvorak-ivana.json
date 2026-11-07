@@ -1,0 +1,59 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-dvorak-ivana",
+    "anrede": "Frau",
+    "titel": "Ing.",
+    "vorname": "Ivana",
+    "nachname": "Dvořák",
+    "funktion": "Abteilungsleiterin I/3",
+    "einheitId": "ref-z3",
+    "email": "ivana.dvorak@bbsa-bund.example",
+    "telefon": "+43 1 4711-2300",
+    "kurzvita": "Betreut das denkmalgeschützte Amtsgebäude in Wien und die Außenstellen.",
+    "name": "Ing. Ivana Dvořák",
+    "portrait": "assets/img/at/personen/p-dvorak-ivana.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-dvorak-ivana.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-dvorak-ivana.html",
+    "einheit": {
+      "id": "ref-z3",
+      "name": "Abteilung I/3: Amtsgebäude und Inneres Service",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z3.html"
+    },
+    "abteilungId": "abt-z",
+    "standortId": "st-wien",
+    "leitetEinheitIds": [
+      "ref-z3"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-dvorak-ivana.json"
+  },
+  "einheit": {
+    "id": "ref-z3",
+    "typ": "referat",
+    "kuerzel": "I/3",
+    "name": "Amtsgebäude und Inneres Service",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-dvorak-ivana",
+    "standortId": "st-wien",
+    "titel": "Abteilung I/3: Amtsgebäude und Inneres Service",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z3.html",
+    "leitung": {
+      "id": "p-dvorak-ivana",
+      "name": "Ing. Ivana Dvořák",
+      "funktion": "Abteilungsleiterin I/3"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-dvorak-ivana"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z3.json"
+  },
+  "news": []
+}

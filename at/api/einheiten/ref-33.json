@@ -1,0 +1,134 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-33",
+    "typ": "referat",
+    "kuerzel": "IV/3",
+    "name": "Kuriositätenkabinett und Amtsarchiv",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-schnitzler-ferdinand",
+    "standortId": "st-wien",
+    "titel": "Abteilung IV/3: Kuriositätenkabinett und Amtsarchiv",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-33.html",
+    "leitung": {
+      "id": "p-schnitzler-ferdinand",
+      "name": "HR Dr. Ferdinand Schnitzler",
+      "funktion": "Abteilungsleiter IV/3 (Kustos des Kuriositätenkabinetts)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-schnitzler-ferdinand"
+    ],
+    "aufgabeIds": [
+      "auf-kabinett"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-33.json"
+  },
+  "parent": {
+    "id": "abt-3",
+    "typ": "abteilung",
+    "kuerzel": "IV",
+    "name": "Außergewöhnliche Ereignisse",
+    "parentId": "leitung",
+    "leitungPersonId": "p-leitner-brigitte",
+    "beschreibung": "Lagezentrum, wetterbedingte Sonderfälle, Kuriositätenkabinett und Vorsorge für das Unwahrscheinliche.",
+    "standortId": "st-wien",
+    "titel": "Sektion IV: Außergewöhnliche Ereignisse",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-3.html",
+    "leitung": {
+      "id": "p-leitner-brigitte",
+      "name": "Mag.a Brigitte Leitner",
+      "funktion": "Sektionschefin, Leiterin der Sektion IV"
+    },
+    "childIds": [
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34"
+    ],
+    "personIds": [
+      "p-leitner-brigitte"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-3.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-schnitzler-ferdinand",
+      "anrede": "Herr",
+      "titel": "HR Dr.",
+      "vorname": "Ferdinand",
+      "nachname": "Schnitzler",
+      "funktion": "Abteilungsleiter IV/3 (Kustos des Kuriositätenkabinetts)",
+      "einheitId": "ref-33",
+      "email": "ferdinand.schnitzler@bbsa-bund.example",
+      "telefon": "+43 1 4711-5300",
+      "kurzvita": "Kustos des Kuriositätenkabinetts seit 1991; verwahrt u. a. eine Melange-Tasse mit ungeklärtem Aktenzeichen aus 1912.",
+      "name": "HR Dr. Ferdinand Schnitzler",
+      "portrait": "assets/img/at/personen/p-schnitzler-ferdinand.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-schnitzler-ferdinand.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-schnitzler-ferdinand.html",
+      "einheit": {
+        "id": "ref-33",
+        "name": "Abteilung IV/3: Kuriositätenkabinett und Amtsarchiv",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-33.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-33"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-schnitzler-ferdinand.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-kabinett",
+      "titel": "Kuriositätenkabinett",
+      "kategorie": "Dokumentation",
+      "beschreibung": "Sammlung und Ausstellung kurioser Akten und Gegenstände der österreichischen Verwaltung seit 1873. Führungen jeden ersten Donnerstag im Monat.",
+      "einheitIds": [
+        "ref-33"
+      ],
+      "rechtsgrundlage": "§ 19 BBSAG"
+    }
+  ],
+  "standort": {
+    "id": "st-wien",
+    "name": "Amtsgebäude Wien",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 7",
+    "plz": "1010",
+    "ort": "Wien",
+    "telefon": "+43 1 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+    "bild": "assets/img/at/standorte/wien.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-09-melange-tasse",
+      "titel": "Kuriositätenkabinett: Melange-Tasse aus 1912 mit ungeklärtem Aktenzeichen ausgestellt",
+      "datum": "2026-09-21",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-09-melange-tasse.html"
+    }
+  ]
+}

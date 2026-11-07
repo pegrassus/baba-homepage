@@ -1,0 +1,112 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-z3",
+    "typ": "referat",
+    "kuerzel": "I/3",
+    "name": "Amtsgebäude und Inneres Service",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-dvorak-ivana",
+    "standortId": "st-wien",
+    "titel": "Abteilung I/3: Amtsgebäude und Inneres Service",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z3.html",
+    "leitung": {
+      "id": "p-dvorak-ivana",
+      "name": "Ing. Ivana Dvořák",
+      "funktion": "Abteilungsleiterin I/3"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-dvorak-ivana"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z3.json"
+  },
+  "parent": {
+    "id": "abt-z",
+    "typ": "abteilung",
+    "kuerzel": "I",
+    "name": "Präsidialsektion",
+    "parentId": "leitung",
+    "leitungPersonId": "p-wallner-gerhard",
+    "beschreibung": "Personal, Budget, Amtsgebäude sowie das Formular- und Stempelwesen.",
+    "standortId": "st-wien",
+    "titel": "Sektion I: Präsidialsektion",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html",
+    "leitung": {
+      "id": "p-wallner-gerhard",
+      "name": "Mag. Gerhard Wallner",
+      "funktion": "Sektionschef, Leiter der Präsidialsektion"
+    },
+    "childIds": [
+      "ref-z1",
+      "ref-z2",
+      "ref-z3",
+      "ref-z4"
+    ],
+    "personIds": [
+      "p-wallner-gerhard"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-z.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-dvorak-ivana",
+      "anrede": "Frau",
+      "titel": "Ing.",
+      "vorname": "Ivana",
+      "nachname": "Dvořák",
+      "funktion": "Abteilungsleiterin I/3",
+      "einheitId": "ref-z3",
+      "email": "ivana.dvorak@bbsa-bund.example",
+      "telefon": "+43 1 4711-2300",
+      "kurzvita": "Betreut das denkmalgeschützte Amtsgebäude in Wien und die Außenstellen.",
+      "name": "Ing. Ivana Dvořák",
+      "portrait": "assets/img/at/personen/p-dvorak-ivana.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-dvorak-ivana.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-dvorak-ivana.html",
+      "einheit": {
+        "id": "ref-z3",
+        "name": "Abteilung I/3: Amtsgebäude und Inneres Service",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z3.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-z3"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-dvorak-ivana.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-wien",
+    "name": "Amtsgebäude Wien",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 7",
+    "plz": "1010",
+    "ort": "Wien",
+    "telefon": "+43 1 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+    "bild": "assets/img/at/standorte/wien.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

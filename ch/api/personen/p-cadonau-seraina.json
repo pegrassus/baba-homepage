@@ -1,0 +1,67 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-cadonau-seraina",
+    "anrede": "Frau",
+    "titel": "",
+    "vorname": "Seraina",
+    "nachname": "Cadonau",
+    "funktion": "Mediensprecherin",
+    "einheitId": "stab-kom",
+    "email": "medien@bba-bund.example",
+    "telefon": "+41 58 999 10 20",
+    "kurzvita": "Journalistin aus dem Engadin; beantwortet Medienanfragen in vier Sprachen, bei Bedarf auch auf Rätoromanisch Vallader.",
+    "name": "Seraina Cadonau",
+    "portrait": "assets/img/ch/personen/p-cadonau-seraina.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-cadonau-seraina.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-cadonau-seraina.html",
+    "einheit": {
+      "id": "stab-kom",
+      "name": "Kommunikation",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-kom.html"
+    },
+    "abteilungId": "stab-kom",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [
+      "stab-kom"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-cadonau-seraina.json"
+  },
+  "einheit": {
+    "id": "stab-kom",
+    "typ": "stab",
+    "kuerzel": "KOM",
+    "name": "Kommunikation",
+    "parentId": "leitung",
+    "leitungPersonId": "p-cadonau-seraina",
+    "beschreibung": "Medienarbeit, Website, Publikationen und Anfragen aus der Bevölkerung – in allen Landessprachen.",
+    "standortId": "st-bern",
+    "titel": "Kommunikation",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-kom.html",
+    "leitung": {
+      "id": "p-cadonau-seraina",
+      "name": "Seraina Cadonau",
+      "funktion": "Mediensprecherin"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-cadonau-seraina"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-kom.json"
+  },
+  "news": [
+    {
+      "id": "2026-09-jahresbericht",
+      "titel": "Jahresbericht 2025: 9'874 Sonderfälle – Rekord bei Murmeltier-Eingaben",
+      "datum": "2026-09-08",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-jahresbericht.html"
+    }
+  ]
+}

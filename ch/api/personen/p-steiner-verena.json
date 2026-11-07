@@ -1,0 +1,62 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-steiner-verena",
+    "anrede": "Frau",
+    "titel": "Dr.",
+    "vorname": "Verena",
+    "nachname": "Steiner",
+    "funktion": "Sektionschefin Grundsatzfragen der Besonderheit",
+    "einheitId": "ref-11",
+    "email": "verena.steiner@bba-bund.example",
+    "telefon": "+41 58 999 31 00",
+    "kurzvita": "Seit 1991 im Amt; kennt jeden Grundsatzentscheid seit dem Büro für Unzuordenbares.",
+    "name": "Dr. Verena Steiner",
+    "portrait": "assets/img/ch/personen/p-steiner-verena.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-steiner-verena.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-steiner-verena.html",
+    "einheit": {
+      "id": "ref-11",
+      "name": "Sektion G1: Grundsatzfragen der Besonderheit",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-11.html"
+    },
+    "abteilungId": "abt-1",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [
+      "ref-11"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-steiner-verena.json"
+  },
+  "einheit": {
+    "id": "ref-11",
+    "typ": "referat",
+    "kuerzel": "G1",
+    "name": "Grundsatzfragen der Besonderheit",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-steiner-verena",
+    "standortId": "st-bern",
+    "titel": "Sektion G1: Grundsatzfragen der Besonderheit",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-11.html",
+    "leitung": {
+      "id": "p-steiner-verena",
+      "name": "Dr. Verena Steiner",
+      "funktion": "Sektionschefin Grundsatzfragen der Besonderheit"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-steiner-verena"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit",
+      "auf-abgrenzung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-11.json"
+  },
+  "news": []
+}

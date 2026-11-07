@@ -1,0 +1,138 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-08-fondue-uebung",
+    "datum": "2026-08-14",
+    "kategorie": "Medienmitteilung",
+    "titel": "Übung «Käse alle»: Lagezentrum probt den nationalen Fondue-Engpass",
+    "teaser": "In einer 24-stündigen Stabsübung testeten Bund und Kantone die Abläufe für den Fall, dass am ersten Wintersonntag landesweit der Fonduekäse ausgeht.",
+    "text": [
+      "Das Lagezentrum Besonderheiten hat zusammen mit 19 Kantonen die Übung «Käse alle» durchgeführt.",
+      "Geprüft wurden unter anderem Meldewege, die Priorisierung von Berghütten und ein Notfallplan für Raclette als Ersatzmittel. «Der Ersatz von Fondue durch Raclette ist rechtlich heikel und muss gut begründet sein», sagte Sektionschefin Mai Nguyen.",
+      "Sektionschefin Fabienne Schmid zog eine positive Bilanz. Einzig die Frage, wer die Caquelons abwäscht, konnte nicht abschliessend geklärt werden."
+    ],
+    "bild": "assets/img/ch/news/2026-08-fondue-uebung.jpg",
+    "einheitId": "ref-31",
+    "personIds": [
+      "p-schmid-fabienne",
+      "p-nguyen-mai",
+      "p-rueegg-thomas"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-08-fondue-uebung.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-08-fondue-uebung.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-08-fondue-uebung.json"
+  },
+  "einheit": {
+    "id": "ref-31",
+    "typ": "referat",
+    "kuerzel": "E1",
+    "name": "Lagezentrum Besonderheiten",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-schmid-fabienne",
+    "standortId": "st-bern",
+    "titel": "Sektion E1: Lagezentrum Besonderheiten",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-31.html",
+    "leitung": {
+      "id": "p-schmid-fabienne",
+      "name": "Fabienne Schmid",
+      "funktion": "Sektionschefin Lagezentrum"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-schmid-fabienne"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-31.json"
+  },
+  "personen": [
+    {
+      "id": "p-schmid-fabienne",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Fabienne",
+      "nachname": "Schmid",
+      "funktion": "Sektionschefin Lagezentrum",
+      "einheitId": "ref-31",
+      "email": "lagezentrum@bba-bund.example",
+      "telefon": "+41 58 999 51 00",
+      "kurzvita": "Leitet das Lagezentrum Besonderheiten, rund um die Uhr besetzt.",
+      "name": "Fabienne Schmid",
+      "portrait": "assets/img/ch/personen/p-schmid-fabienne.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-schmid-fabienne.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-schmid-fabienne.html",
+      "einheit": {
+        "id": "ref-31",
+        "name": "Sektion E1: Lagezentrum Besonderheiten",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-31.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-31"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-schmid-fabienne.json"
+    },
+    {
+      "id": "p-nguyen-mai",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Mai",
+      "nachname": "Nguyen",
+      "funktion": "Sektionschefin Prävention des Unwahrscheinlichen",
+      "einheitId": "ref-34",
+      "email": "mai.nguyen@bba-bund.example",
+      "telefon": "+41 58 999 54 00",
+      "kurzvita": "Risikoanalystin (ETH Zürich); entwickelt Szenarien wie «Käse alle» und «Bahnhofsuhr steht still».",
+      "name": "Mai Nguyen",
+      "portrait": "assets/img/ch/personen/p-nguyen-mai.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-nguyen-mai.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-nguyen-mai.html",
+      "einheit": {
+        "id": "ref-34",
+        "name": "Sektion E4: Prävention des Unwahrscheinlichen",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-34.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-34"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-nguyen-mai.json"
+    },
+    {
+      "id": "p-rueegg-thomas",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Thomas",
+      "nachname": "Rüegg",
+      "funktion": "Leiter Abteilung Ausserordentliche Ereignisse",
+      "einheitId": "abt-3",
+      "email": "thomas.rueegg@bba-bund.example",
+      "telefon": "+41 58 999 50 00",
+      "kurzvita": "Ehemaliger Bergführer und Leiter des Lagezentrums.",
+      "name": "Thomas Rüegg",
+      "portrait": "assets/img/ch/personen/p-rueegg-thomas.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-rueegg-thomas.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-rueegg-thomas.html",
+      "einheit": {
+        "id": "abt-3",
+        "name": "Abteilung E: Ausserordentliche Ereignisse",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "abt-3"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rueegg-thomas.json"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-44",
+    "typ": "referat",
+    "kuerzel": "V/4",
+    "name": "Informationssicherheit",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-kaltenbrunner-paul",
+    "standortId": "st-innsbruck",
+    "titel": "Abteilung V/4: Informationssicherheit",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-44.html",
+    "leitung": {
+      "id": "p-kaltenbrunner-paul",
+      "name": "DI Paul Kaltenbrunner",
+      "funktion": "Abteilungsleiter V/4 (CISO)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-kaltenbrunner-paul"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-44.json"
+  },
+  "parent": {
+    "id": "abt-4",
+    "typ": "abteilung",
+    "kuerzel": "V",
+    "name": "Digitales und Register",
+    "parentId": "leitung",
+    "leitungPersonId": "p-gruber-stefan",
+    "beschreibung": "Bundesregister besonderer und sonstiger Angelegenheiten, IT-Verfahren und ELAK, Daten und Informationssicherheit.",
+    "standortId": "st-innsbruck",
+    "titel": "Sektion V: Digitales und Register",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-4.html",
+    "leitung": {
+      "id": "p-gruber-stefan",
+      "name": "DI Stefan Gruber",
+      "funktion": "Sektionschef, Leiter der Sektion V (CIO)"
+    },
+    "childIds": [
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "personIds": [
+      "p-gruber-stefan"
+    ],
+    "aufgabeIds": [
+      "auf-brbsa"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-4.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-kaltenbrunner-paul",
+      "anrede": "Herr",
+      "titel": "DI",
+      "vorname": "Paul",
+      "nachname": "Kaltenbrunner",
+      "funktion": "Abteilungsleiter V/4 (CISO)",
+      "einheitId": "ref-44",
+      "email": "paul.kaltenbrunner@bbsa-bund.example",
+      "telefon": "+43 512 4711-6400",
+      "kurzvita": "Informationssicherheitsbeauftragter des Amtes.",
+      "name": "DI Paul Kaltenbrunner",
+      "portrait": "assets/img/at/personen/p-kaltenbrunner-paul.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-kaltenbrunner-paul.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-kaltenbrunner-paul.html",
+      "einheit": {
+        "id": "ref-44",
+        "name": "Abteilung V/4: Informationssicherheit",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-44.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-innsbruck",
+      "leitetEinheitIds": [
+        "ref-44"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-kaltenbrunner-paul.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-innsbruck",
+    "name": "Außenstelle Innsbruck",
+    "typ": "Außenstelle",
+    "strasse": "Zuständigkeitsweg 4",
+    "plz": "6020",
+    "ort": "Innsbruck",
+    "telefon": "+43 512 4711-0",
+    "beschreibung": "Standort der Sektion V (Digitales und Register) und der Abteilung IV/2 – aus naheliegenden Gründen im Föhngebiet.",
+    "bild": "assets/img/at/standorte/innsbruck.jpg",
+    "einheitIds": [
+      "abt-4"
+    ]
+  },
+  "news": []
+}

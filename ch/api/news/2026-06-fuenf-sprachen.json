@@ -1,0 +1,82 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-06-fuenf-sprachen",
+    "datum": "2026-06-03",
+    "kategorie": "Mitteilung",
+    "titel": "Sprachdienst übersetzt Verfügung erstmals in vier Landessprachen und Walliserdeutsch",
+    "teaser": "Eine Verfügung zu einem Grenzfall im Oberwallis wurde auf Wunsch aller Beteiligten auch in Walliserdeutsch ausgefertigt. Die Ausfertigung umfasst 47 Seiten.",
+    "text": [
+      "Die Sektion Sprachdienste hat eine Verfügung des BBA erstmals in fünf Sprachfassungen erstellt.",
+      "«Walliserdeutsch ist keine Amtssprache, aber für die Beteiligten war es die einzig verständliche», erklärte Sektionschefin Chiara Rossi.",
+      "Die Walliser Fassung ist rechtlich nicht verbindlich, wurde aber von allen Parteien als die schönste bezeichnet."
+    ],
+    "bild": "assets/img/ch/news/2026-06-fuenf-sprachen.jpg",
+    "einheitId": "ref-z4",
+    "personIds": [
+      "p-rossi-chiara"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-06-fuenf-sprachen.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-06-fuenf-sprachen.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-06-fuenf-sprachen.json"
+  },
+  "einheit": {
+    "id": "ref-z4",
+    "typ": "referat",
+    "kuerzel": "R4",
+    "name": "Sprachdienste (DE/FR/IT/RM)",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-rossi-chiara",
+    "standortId": "st-bern",
+    "titel": "Sektion R4: Sprachdienste (DE/FR/IT/RM)",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z4.html",
+    "leitung": {
+      "id": "p-rossi-chiara",
+      "name": "Chiara Rossi",
+      "funktion": "Sektionschefin Sprachdienste"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-rossi-chiara"
+    ],
+    "aufgabeIds": [
+      "auf-sprachen"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z4.json"
+  },
+  "personen": [
+    {
+      "id": "p-rossi-chiara",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Chiara",
+      "nachname": "Rossi",
+      "funktion": "Sektionschefin Sprachdienste",
+      "einheitId": "ref-z4",
+      "email": "chiara.rossi@bba-bund.example",
+      "telefon": "+41 58 999 24 00",
+      "kurzvita": "Übersetzerin aus Locarno; leitet ein Team, das Sonderfälle in alle Landessprachen und auf Anfrage in Walliserdeutsch überträgt.",
+      "name": "Chiara Rossi",
+      "portrait": "assets/img/ch/personen/p-rossi-chiara.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-rossi-chiara.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-rossi-chiara.html",
+      "einheit": {
+        "id": "ref-z4",
+        "name": "Sektion R4: Sprachdienste (DE/FR/IT/RM)",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z4.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-z4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rossi-chiara.json"
+    }
+  ]
+}

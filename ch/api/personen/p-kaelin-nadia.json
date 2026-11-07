@@ -1,0 +1,74 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-kaelin-nadia",
+    "anrede": "Frau",
+    "titel": "",
+    "vorname": "Nadia",
+    "nachname": "Kälin",
+    "funktion": "Leiterin Abteilung Digitales und Register (CDO)",
+    "einheitId": "abt-4",
+    "email": "nadia.kaelin@bba-bund.example",
+    "telefon": "+41 58 999 60 00",
+    "kurzvita": "Informatikerin; verantwortet die Digitalisierung des Amtes am zweisprachigen Standort Biel/Bienne.",
+    "name": "Nadia Kälin",
+    "portrait": "assets/img/ch/personen/p-kaelin-nadia.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-kaelin-nadia.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-kaelin-nadia.html",
+    "einheit": {
+      "id": "abt-4",
+      "name": "Abteilung D: Digitales und Register",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html"
+    },
+    "abteilungId": "abt-4",
+    "standortId": "st-biel",
+    "leitetEinheitIds": [
+      "abt-4"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-kaelin-nadia.json"
+  },
+  "einheit": {
+    "id": "abt-4",
+    "typ": "abteilung",
+    "kuerzel": "D",
+    "name": "Digitales und Register",
+    "parentId": "leitung",
+    "leitungPersonId": "p-kaelin-nadia",
+    "beschreibung": "Eidgenössisches Register besonderer Angelegenheiten, Fachanwendungen, Daten und Informationssicherheit.",
+    "standortId": "st-biel",
+    "titel": "Abteilung D: Digitales und Register",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html",
+    "leitung": {
+      "id": "p-kaelin-nadia",
+      "name": "Nadia Kälin",
+      "funktion": "Leiterin Abteilung Digitales und Register (CDO)"
+    },
+    "childIds": [
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "personIds": [
+      "p-kaelin-nadia"
+    ],
+    "aufgabeIds": [
+      "auf-erba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-4.json"
+  },
+  "news": [
+    {
+      "id": "2026-07-erba-start",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) in Betrieb",
+      "datum": "2026-07-01",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-07-erba-start.html"
+    }
+  ]
+}

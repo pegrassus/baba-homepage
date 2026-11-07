@@ -1,0 +1,59 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-ammann-patrick",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Patrick",
+    "nachname": "Ammann",
+    "funktion": "Sektionschef Finanzen und Beschaffung",
+    "einheitId": "ref-z2",
+    "email": "patrick.ammann@bba-bund.example",
+    "telefon": "+41 58 999 22 00",
+    "kurzvita": "Hat das Budget auf den Rappen genau im Kopf.",
+    "name": "Patrick Ammann",
+    "portrait": "assets/img/ch/personen/p-ammann-patrick.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-ammann-patrick.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-ammann-patrick.html",
+    "einheit": {
+      "id": "ref-z2",
+      "name": "Sektion R2: Finanzen und Beschaffung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z2.html"
+    },
+    "abteilungId": "abt-z",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [
+      "ref-z2"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-ammann-patrick.json"
+  },
+  "einheit": {
+    "id": "ref-z2",
+    "typ": "referat",
+    "kuerzel": "R2",
+    "name": "Finanzen und Beschaffung",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-ammann-patrick",
+    "standortId": "st-bern",
+    "titel": "Sektion R2: Finanzen und Beschaffung",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-z2.html",
+    "leitung": {
+      "id": "p-ammann-patrick",
+      "name": "Patrick Ammann",
+      "funktion": "Sektionschef Finanzen und Beschaffung"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-ammann-patrick"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-z2.json"
+  },
+  "news": []
+}

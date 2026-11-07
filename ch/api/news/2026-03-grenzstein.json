@@ -1,0 +1,110 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-03-grenzstein",
+    "datum": "2026-03-02",
+    "kategorie": "Medienmitteilung",
+    "titel": "Kompromiss gefunden: Umstrittener Grenzstein wird halbiert",
+    "teaser": "Nach 132 Jahren Streit zwischen zwei Gemeinden hat die Sektion Konkordanz eine Lösung gefunden. Jede Gemeinde erhält eine Hälfte des Grenzsteins.",
+    "text": [
+      "Der Grenzstein zwischen zwei Gemeinden im Mittelland war seit 1894 Gegenstand von Auseinandersetzungen.",
+      "«Am Ende waren alle gleich wenig zufrieden. Das ist ein gutschweizerischer Kompromiss», sagte Sektionschefin Stéphanie Roduit.",
+      "Die beiden Steinhälften werden mit einer Fuge von genau einem Zentimeter wieder aufgestellt. Für den Zentimeter bleibt das BBA zuständig."
+    ],
+    "bild": "assets/img/ch/news/2026-03-grenzstein.jpg",
+    "einheitId": "ref-13",
+    "personIds": [
+      "p-roduit-stephanie",
+      "p-bernasconi-andrea"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-03-grenzstein.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-03-grenzstein.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/news/2026-03-grenzstein.json"
+  },
+  "einheit": {
+    "id": "ref-13",
+    "typ": "referat",
+    "kuerzel": "G3",
+    "name": "Konkordanz und Kompromissfindung",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-roduit-stephanie",
+    "standortId": "st-bern",
+    "titel": "Sektion G3: Konkordanz und Kompromissfindung",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-13.html",
+    "leitung": {
+      "id": "p-roduit-stephanie",
+      "name": "Stéphanie Roduit",
+      "funktion": "Sektionschefin Konkordanz und Kompromissfindung"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-roduit-stephanie"
+    ],
+    "aufgabeIds": [
+      "auf-kantone"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-13.json"
+  },
+  "personen": [
+    {
+      "id": "p-roduit-stephanie",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Stéphanie",
+      "nachname": "Roduit",
+      "funktion": "Sektionschefin Konkordanz und Kompromissfindung",
+      "einheitId": "ref-13",
+      "email": "stephanie.roduit@bba-bund.example",
+      "telefon": "+41 58 999 33 00",
+      "kurzvita": "Mediatorin aus dem Wallis; hat bisher jeden Streit beigelegt, notfalls durch Halbierung.",
+      "name": "Stéphanie Roduit",
+      "portrait": "assets/img/ch/personen/p-roduit-stephanie.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-roduit-stephanie.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-roduit-stephanie.html",
+      "einheit": {
+        "id": "ref-13",
+        "name": "Sektion G3: Konkordanz und Kompromissfindung",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-13.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-13"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-roduit-stephanie.json"
+    },
+    {
+      "id": "p-bernasconi-andrea",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Andrea",
+      "nachname": "Bernasconi",
+      "funktion": "Leiter Abteilung Grundsätze und Konkordanz",
+      "einheitId": "abt-1",
+      "email": "andrea.bernasconi@bba-bund.example",
+      "telefon": "+41 58 999 30 00",
+      "kurzvita": "Staatsrechtler aus Mendrisio; erklärt geduldig, dass Andrea im Tessin ein Männername ist.",
+      "name": "Dr. Andrea Bernasconi",
+      "portrait": "assets/img/ch/personen/p-bernasconi-andrea.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-bernasconi-andrea.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-bernasconi-andrea.html",
+      "einheit": {
+        "id": "abt-1",
+        "name": "Abteilung G: Grundsätze und Konkordanz",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "abt-1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-bernasconi-andrea.json"
+    }
+  ]
+}

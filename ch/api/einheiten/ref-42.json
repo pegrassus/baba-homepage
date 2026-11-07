@@ -1,0 +1,108 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-42",
+    "typ": "referat",
+    "kuerzel": "D2",
+    "name": "Fachanwendungen und GEVER",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-moser-elena",
+    "standortId": "st-biel",
+    "titel": "Sektion D2: Fachanwendungen und GEVER",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-42.html",
+    "leitung": {
+      "id": "p-moser-elena",
+      "name": "Elena Moser",
+      "funktion": "Sektionschefin Fachanwendungen und GEVER"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-moser-elena"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-42.json"
+  },
+  "parent": {
+    "id": "abt-4",
+    "typ": "abteilung",
+    "kuerzel": "D",
+    "name": "Digitales und Register",
+    "parentId": "leitung",
+    "leitungPersonId": "p-kaelin-nadia",
+    "beschreibung": "Eidgenössisches Register besonderer Angelegenheiten, Fachanwendungen, Daten und Informationssicherheit.",
+    "standortId": "st-biel",
+    "titel": "Abteilung D: Digitales und Register",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html",
+    "leitung": {
+      "id": "p-kaelin-nadia",
+      "name": "Nadia Kälin",
+      "funktion": "Leiterin Abteilung Digitales und Register (CDO)"
+    },
+    "childIds": [
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "personIds": [
+      "p-kaelin-nadia"
+    ],
+    "aufgabeIds": [
+      "auf-erba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-4.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-moser-elena",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Elena",
+      "nachname": "Moser",
+      "funktion": "Sektionschefin Fachanwendungen und GEVER",
+      "einheitId": "ref-42",
+      "email": "elena.moser@bba-bund.example",
+      "telefon": "+41 58 999 62 00",
+      "kurzvita": "Verantwortet die Fachanwendungen und die elektronische Geschäftsverwaltung.",
+      "name": "Elena Moser",
+      "portrait": "assets/img/ch/personen/p-moser-elena.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-moser-elena.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-moser-elena.html",
+      "einheit": {
+        "id": "ref-42",
+        "name": "Sektion D2: Fachanwendungen und GEVER",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-42.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-biel",
+      "leitetEinheitIds": [
+        "ref-42"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-moser-elena.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-biel",
+    "name": "Standort Biel/Bienne",
+    "typ": "Standort",
+    "strasse": "Sonderfallstrasse 5 / Rue du Cas particulier 5",
+    "plz": "2502",
+    "ort": "Biel/Bienne",
+    "telefon": "+41 58 999 60 00",
+    "beschreibung": "Zweisprachiger Standort der Abteilung Digitales und Register mit dem Rechenzentrum des ERbA.",
+    "bild": "assets/img/ch/standorte/biel.jpg",
+    "einheitIds": [
+      "abt-4"
+    ]
+  },
+  "news": []
+}

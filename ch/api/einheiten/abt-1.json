@@ -1,0 +1,247 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "abt-1",
+    "typ": "abteilung",
+    "kuerzel": "G",
+    "name": "Grundsätze und Konkordanz",
+    "parentId": "leitung",
+    "leitungPersonId": "p-bernasconi-andrea",
+    "beschreibung": "Grundsatzfragen, kantonale Sonderfälle, Kompromissfindung und Ausnahmebewilligungen.",
+    "standortId": "st-bern",
+    "titel": "Abteilung G: Grundsätze und Konkordanz",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html",
+    "leitung": {
+      "id": "p-bernasconi-andrea",
+      "name": "Dr. Andrea Bernasconi",
+      "funktion": "Leiter Abteilung Grundsätze und Konkordanz"
+    },
+    "childIds": [
+      "ref-11",
+      "ref-12",
+      "ref-13",
+      "ref-14"
+    ],
+    "personIds": [
+      "p-bernasconi-andrea"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-1.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "DIR",
+    "name": "Direktion",
+    "parentId": null,
+    "leitungPersonId": "p-braendli-ursula",
+    "vertretungPersonId": "p-favre-jean-daniel",
+    "beschreibung": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.",
+    "standortId": "st-bern",
+    "titel": "Direktion",
+    "typLabel": "Direktion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html",
+    "leitung": {
+      "id": "p-braendli-ursula",
+      "name": "Dr. Ursula Brändli",
+      "funktion": "Direktorin"
+    },
+    "childIds": [
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-braendli-ursula",
+      "p-favre-jean-daniel"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/leitung.json"
+  },
+  "children": [
+    {
+      "id": "ref-11",
+      "typ": "referat",
+      "kuerzel": "G1",
+      "name": "Grundsatzfragen der Besonderheit",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-steiner-verena",
+      "standortId": "st-bern",
+      "titel": "Sektion G1: Grundsatzfragen der Besonderheit",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-11.html",
+      "leitung": {
+        "id": "p-steiner-verena",
+        "name": "Dr. Verena Steiner",
+        "funktion": "Sektionschefin Grundsatzfragen der Besonderheit"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-steiner-verena"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit",
+        "auf-abgrenzung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-11.json"
+    },
+    {
+      "id": "ref-12",
+      "typ": "referat",
+      "kuerzel": "G2",
+      "name": "Kantonale Sonderfälle",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-wyss-lukas",
+      "standortId": "st-bern",
+      "titel": "Sektion G2: Kantonale Sonderfälle",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-12.html",
+      "leitung": {
+        "id": "p-wyss-lukas",
+        "name": "Lukas Wyss",
+        "funktion": "Sektionschef Kantonale Sonderfälle"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-wyss-lukas"
+      ],
+      "aufgabeIds": [
+        "auf-kantone"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-12.json"
+    },
+    {
+      "id": "ref-13",
+      "typ": "referat",
+      "kuerzel": "G3",
+      "name": "Konkordanz und Kompromissfindung",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-roduit-stephanie",
+      "standortId": "st-bern",
+      "titel": "Sektion G3: Konkordanz und Kompromissfindung",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-13.html",
+      "leitung": {
+        "id": "p-roduit-stephanie",
+        "name": "Stéphanie Roduit",
+        "funktion": "Sektionschefin Konkordanz und Kompromissfindung"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-roduit-stephanie"
+      ],
+      "aufgabeIds": [
+        "auf-kantone"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-13.json"
+    },
+    {
+      "id": "ref-14",
+      "typ": "referat",
+      "kuerzel": "G4",
+      "name": "Ausnahmebewilligungen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-baumann-urs",
+      "standortId": "st-bern",
+      "titel": "Sektion G4: Ausnahmebewilligungen",
+      "typLabel": "Sektion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-14.html",
+      "leitung": {
+        "id": "p-baumann-urs",
+        "name": "Urs Baumann",
+        "funktion": "Sektionschef Ausnahmebewilligungen"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-baumann-urs"
+      ],
+      "aufgabeIds": [
+        "auf-ausnahme"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-14.json"
+    }
+  ],
+  "personen": [
+    {
+      "id": "p-bernasconi-andrea",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Andrea",
+      "nachname": "Bernasconi",
+      "funktion": "Leiter Abteilung Grundsätze und Konkordanz",
+      "einheitId": "abt-1",
+      "email": "andrea.bernasconi@bba-bund.example",
+      "telefon": "+41 58 999 30 00",
+      "kurzvita": "Staatsrechtler aus Mendrisio; erklärt geduldig, dass Andrea im Tessin ein Männername ist.",
+      "name": "Dr. Andrea Bernasconi",
+      "portrait": "assets/img/ch/personen/p-bernasconi-andrea.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-bernasconi-andrea.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-bernasconi-andrea.html",
+      "einheit": {
+        "id": "abt-1",
+        "name": "Abteilung G: Grundsätze und Konkordanz",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "abt-1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-bernasconi-andrea.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-zustaendigkeit",
+      "titel": "Auffangzuständigkeit des Bundes",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Das BBA übernimmt Angelegenheiten, für die weder ein anderes Bundesamt noch ein Kanton zuständig ist – oder für die sich alle gleichzeitig zuständig fühlen.",
+      "einheitIds": [
+        "abt-1",
+        "ref-11"
+      ],
+      "rechtsgrundlage": "Art. 2 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-bern",
+    "name": "Hauptsitz Bern",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 12",
+    "plz": "3011",
+    "ort": "Bern",
+    "telefon": "+41 58 999 10 00",
+    "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+    "bild": "assets/img/ch/standorte/bern.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-03-grenzstein",
+      "titel": "Kompromiss gefunden: Umstrittener Grenzstein wird halbiert",
+      "datum": "2026-03-02",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-03-grenzstein.html"
+    }
+  ]
+}

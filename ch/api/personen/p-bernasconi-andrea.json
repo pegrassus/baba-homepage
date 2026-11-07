@@ -1,0 +1,74 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-bernasconi-andrea",
+    "anrede": "Herr",
+    "titel": "Dr.",
+    "vorname": "Andrea",
+    "nachname": "Bernasconi",
+    "funktion": "Leiter Abteilung Grundsätze und Konkordanz",
+    "einheitId": "abt-1",
+    "email": "andrea.bernasconi@bba-bund.example",
+    "telefon": "+41 58 999 30 00",
+    "kurzvita": "Staatsrechtler aus Mendrisio; erklärt geduldig, dass Andrea im Tessin ein Männername ist.",
+    "name": "Dr. Andrea Bernasconi",
+    "portrait": "assets/img/ch/personen/p-bernasconi-andrea.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-bernasconi-andrea.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-bernasconi-andrea.html",
+    "einheit": {
+      "id": "abt-1",
+      "name": "Abteilung G: Grundsätze und Konkordanz",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html"
+    },
+    "abteilungId": "abt-1",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [
+      "abt-1"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-bernasconi-andrea.json"
+  },
+  "einheit": {
+    "id": "abt-1",
+    "typ": "abteilung",
+    "kuerzel": "G",
+    "name": "Grundsätze und Konkordanz",
+    "parentId": "leitung",
+    "leitungPersonId": "p-bernasconi-andrea",
+    "beschreibung": "Grundsatzfragen, kantonale Sonderfälle, Kompromissfindung und Ausnahmebewilligungen.",
+    "standortId": "st-bern",
+    "titel": "Abteilung G: Grundsätze und Konkordanz",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html",
+    "leitung": {
+      "id": "p-bernasconi-andrea",
+      "name": "Dr. Andrea Bernasconi",
+      "funktion": "Leiter Abteilung Grundsätze und Konkordanz"
+    },
+    "childIds": [
+      "ref-11",
+      "ref-12",
+      "ref-13",
+      "ref-14"
+    ],
+    "personIds": [
+      "p-bernasconi-andrea"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-1.json"
+  },
+  "news": [
+    {
+      "id": "2026-03-grenzstein",
+      "titel": "Kompromiss gefunden: Umstrittener Grenzstein wird halbiert",
+      "datum": "2026-03-02",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-03-grenzstein.html"
+    }
+  ]
+}

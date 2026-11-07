@@ -1,0 +1,180 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "name": "Bundesamt für besondere und sonstige Angelegenheiten",
+  "kurzname": "BBSA",
+  "beschreibung": "Maschinenlesbare Schnittstelle der (fiktiven) Behörde, Länderversion Österreich. Alle Inhalte der Website sind hier als JSON abrufbar. IDs sind stabil und dateiübergreifend referenzierbar.",
+  "logo": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-logo.png",
+  "begriffe": {
+    "leitung": "Amtsleitung",
+    "stab": "Stabsstelle",
+    "abteilung": "Sektion",
+    "referat": "Abteilung",
+    "hinweis": "Die internen Typen 'abteilung' und 'referat' heißen in dieser Länderversion 'Sektion' und 'Abteilung'."
+  },
+  "varianten": [
+    {
+      "variante": "de",
+      "land": "Deutschland",
+      "name": "Bundesamt für besondere Angelegenheiten",
+      "kurzname": "BAbA",
+      "website": "https://pegrassus.github.io/baba-homepage/index.html",
+      "api": "https://pegrassus.github.io/baba-homepage/api/index.json"
+    },
+    {
+      "variante": "ch",
+      "land": "Schweiz",
+      "name": "Bundesamt für besondere Angelegenheiten",
+      "kurzname": "BBA",
+      "website": "https://pegrassus.github.io/baba-homepage/ch/index.html",
+      "api": "https://pegrassus.github.io/baba-homepage/ch/api/index.json"
+    },
+    {
+      "variante": "at",
+      "land": "Österreich",
+      "name": "Bundesamt für besondere und sonstige Angelegenheiten",
+      "kurzname": "BBSA",
+      "website": "https://pegrassus.github.io/baba-homepage/at/index.html",
+      "api": "https://pegrassus.github.io/baba-homepage/at/api/index.json"
+    }
+  ],
+  "endpunkte": [
+    {
+      "pfad": "api/behoerde.json",
+      "url": "https://pegrassus.github.io/baba-homepage/at/api/behoerde.json",
+      "beschreibung": "Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte"
+    },
+    {
+      "pfad": "api/organisation.json",
+      "url": "https://pegrassus.github.io/baba-homepage/at/api/organisation.json",
+      "beschreibung": "Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)"
+    },
+    {
+      "pfad": "api/personen.json",
+      "url": "https://pegrassus.github.io/baba-homepage/at/api/personen.json",
+      "beschreibung": "Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL"
+    },
+    {
+      "pfad": "api/aufgaben.json",
+      "url": "https://pegrassus.github.io/baba-homepage/at/api/aufgaben.json",
+      "beschreibung": "Aufgaben und Leistungen mit zuständigen Einheiten"
+    },
+    {
+      "pfad": "api/news.json",
+      "url": "https://pegrassus.github.io/baba-homepage/at/api/news.json",
+      "beschreibung": "Meldungen und Mitteilungen, neueste zuerst"
+    },
+    {
+      "pfad": "api/standorte.json",
+      "url": "https://pegrassus.github.io/baba-homepage/at/api/standorte.json",
+      "beschreibung": "Standorte mit Adressen"
+    },
+    {
+      "pfad": "api/downloads.json",
+      "url": "https://pegrassus.github.io/baba-homepage/at/api/downloads.json",
+      "beschreibung": "Formulare und Publikationen"
+    },
+    {
+      "pfad": "api/alles.json",
+      "url": "https://pegrassus.github.io/baba-homepage/at/api/alles.json",
+      "beschreibung": "Gesamtexport aller Inhalte in einer Datei"
+    },
+    {
+      "pfad": "api/personen/{id}.json",
+      "url": "https://pegrassus.github.io/baba-homepage/at/api/personen/{id}.json",
+      "beschreibung": "Einzelne Person inkl. Einheit und Erwähnungen"
+    },
+    {
+      "pfad": "api/einheiten/{id}.json",
+      "url": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/{id}.json",
+      "beschreibung": "Einzelne Organisationseinheit inkl. Leitung, Personen, Unter-Einheiten, Aufgaben"
+    },
+    {
+      "pfad": "api/news/{id}.json",
+      "url": "https://pegrassus.github.io/baba-homepage/at/api/news/{id}.json",
+      "beschreibung": "Einzelne Meldung inkl. beteiligter Personen"
+    }
+  ],
+  "ids": {
+    "personen": [
+      "p-hinterberger-elisabeth",
+      "p-pichler-franz-josef",
+      "p-novak-katharina",
+      "p-auer-florian",
+      "p-kovacs-julia",
+      "p-wallner-gerhard",
+      "p-fuchs-renate",
+      "p-berger-markus",
+      "p-dvorak-ivana",
+      "p-stempfl-alois",
+      "p-schwarzl-andrea",
+      "p-eder-maria",
+      "p-sonnleitner-wolfgang",
+      "p-hofer-lisa",
+      "p-nachbaur-thomas",
+      "p-moosbrugger-klaus",
+      "p-gassner-sabine",
+      "p-oezdemir-emre",
+      "p-winkler-petra",
+      "p-brueckl-herbert",
+      "p-leitner-brigitte",
+      "p-reiter-michael",
+      "p-lechner-veronika",
+      "p-schnitzler-ferdinand",
+      "p-mayr-sophie",
+      "p-gruber-stefan",
+      "p-pospischil-karl",
+      "p-horvath-nina",
+      "p-ebner-jana",
+      "p-kaltenbrunner-paul"
+    ],
+    "einheiten": [
+      "leitung",
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "ref-z1",
+      "ref-z2",
+      "ref-z3",
+      "ref-z4",
+      "abt-1",
+      "ref-11",
+      "ref-12",
+      "ref-13",
+      "ref-14",
+      "abt-2",
+      "ref-21",
+      "ref-22",
+      "ref-23",
+      "ref-24",
+      "abt-3",
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34",
+      "abt-4",
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "news": [
+      "2026-10-jahresbericht",
+      "2026-10-fenstertage",
+      "2026-09-melange-tasse",
+      "2026-08-foehn-richtlinie",
+      "2026-07-formular-f0",
+      "2026-06-brbsa-online",
+      "2026-05-murmeltier-arlberg",
+      "2026-03-abgrenzungsleitfaden",
+      "2026-02-lehrlinge",
+      "2025-12-krampus-uebung"
+    ]
+  },
+  "jsonLd": "Jede HTML-Seite enthält zusätzlich schema.org-JSON-LD (GovernmentOrganization, Person, NewsArticle)."
+}

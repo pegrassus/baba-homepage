@@ -1,0 +1,119 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "stab-dr",
+    "typ": "stab",
+    "kuerzel": "DR",
+    "name": "Datenschutz und Interne Revision",
+    "parentId": "leitung",
+    "leitungPersonId": "p-kovacs-julia",
+    "beschreibung": "Datenschutzbeauftragte, Interne Revision und Korruptionsprävention.",
+    "standortId": "st-wien",
+    "titel": "Datenschutz und Interne Revision",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-dr.html",
+    "leitung": {
+      "id": "p-kovacs-julia",
+      "name": "Mag.a Julia Kovács",
+      "funktion": "Datenschutzbeauftragte"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-kovacs-julia"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/stab-dr.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-hinterberger-elisabeth",
+    "vertretungPersonId": "p-pichler-franz-josef",
+    "beschreibung": "Die Präsidentin und der Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-wien",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html",
+    "leitung": {
+      "id": "p-hinterberger-elisabeth",
+      "name": "Mag.a Dr.in Elisabeth Hinterberger",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-hinterberger-elisabeth",
+      "p-pichler-franz-josef"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/leitung.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-kovacs-julia",
+      "anrede": "Frau",
+      "titel": "Mag.a",
+      "vorname": "Julia",
+      "nachname": "Kovács",
+      "funktion": "Datenschutzbeauftragte",
+      "einheitId": "stab-dr",
+      "email": "datenschutz@bbsa-bund.example",
+      "telefon": "+43 1 4711-1030",
+      "kurzvita": "Juristin; Datenschutzbeauftragte und Leiterin der Internen Revision.",
+      "name": "Mag.a Julia Kovács",
+      "portrait": "assets/img/at/personen/p-kovacs-julia.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-kovacs-julia.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-kovacs-julia.html",
+      "einheit": {
+        "id": "stab-dr",
+        "name": "Datenschutz und Interne Revision",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/stab-dr.html"
+      },
+      "abteilungId": "stab-dr",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "stab-dr"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-kovacs-julia.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-wien",
+    "name": "Amtsgebäude Wien",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 7",
+    "plz": "1010",
+    "ort": "Wien",
+    "telefon": "+43 1 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+    "bild": "assets/img/at/standorte/wien.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

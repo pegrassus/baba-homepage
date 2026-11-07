@@ -1,0 +1,352 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "DIR",
+    "name": "Direktion",
+    "parentId": null,
+    "leitungPersonId": "p-braendli-ursula",
+    "vertretungPersonId": "p-favre-jean-daniel",
+    "beschreibung": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.",
+    "standortId": "st-bern",
+    "titel": "Direktion",
+    "typLabel": "Direktion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html",
+    "leitung": {
+      "id": "p-braendli-ursula",
+      "name": "Dr. Ursula Brändli",
+      "funktion": "Direktorin"
+    },
+    "childIds": [
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-braendli-ursula",
+      "p-favre-jean-daniel"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/leitung.json"
+  },
+  "parent": null,
+  "children": [
+    {
+      "id": "stab-dir",
+      "typ": "stab",
+      "kuerzel": "DS",
+      "name": "Direktionsstab",
+      "parentId": "leitung",
+      "leitungPersonId": "p-gisler-reto",
+      "beschreibung": "Unterstützt die Direktion, koordiniert Geschäfte mit dem Departement und den Kantonen und führt die Geschäftskontrolle.",
+      "standortId": "st-bern",
+      "titel": "Direktionsstab",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dir.html",
+      "leitung": {
+        "id": "p-gisler-reto",
+        "name": "Reto Gisler",
+        "funktion": "Leiter Direktionsstab"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-gisler-reto"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-dir.json"
+    },
+    {
+      "id": "stab-kom",
+      "typ": "stab",
+      "kuerzel": "KOM",
+      "name": "Kommunikation",
+      "parentId": "leitung",
+      "leitungPersonId": "p-cadonau-seraina",
+      "beschreibung": "Medienarbeit, Website, Publikationen und Anfragen aus der Bevölkerung – in allen Landessprachen.",
+      "standortId": "st-bern",
+      "titel": "Kommunikation",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-kom.html",
+      "leitung": {
+        "id": "p-cadonau-seraina",
+        "name": "Seraina Cadonau",
+        "funktion": "Mediensprecherin"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-cadonau-seraina"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-kom.json"
+    },
+    {
+      "id": "stab-dsr",
+      "typ": "stab",
+      "kuerzel": "DSR",
+      "name": "Datenschutz und Revision",
+      "parentId": "leitung",
+      "leitungPersonId": "p-huerlimann-monika",
+      "beschreibung": "Datenschutzberatung, interne Revision und Compliance.",
+      "standortId": "st-bern",
+      "titel": "Datenschutz und Revision",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dsr.html",
+      "leitung": {
+        "id": "p-huerlimann-monika",
+        "name": "Monika Hürlimann",
+        "funktion": "Datenschutzberaterin"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-huerlimann-monika"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-dsr.json"
+    },
+    {
+      "id": "abt-z",
+      "typ": "abteilung",
+      "kuerzel": "R",
+      "name": "Ressourcen",
+      "parentId": "leitung",
+      "leitungPersonId": "p-zuercher-martin",
+      "beschreibung": "Personal, Finanzen, Logistik und Sprachdienste.",
+      "standortId": "st-bern",
+      "titel": "Abteilung R: Ressourcen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-z.html",
+      "leitung": {
+        "id": "p-zuercher-martin",
+        "name": "Martin Zürcher",
+        "funktion": "Leiter Abteilung Ressourcen"
+      },
+      "childIds": [
+        "ref-z1",
+        "ref-z2",
+        "ref-z3",
+        "ref-z4"
+      ],
+      "personIds": [
+        "p-zuercher-martin"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-z.json"
+    },
+    {
+      "id": "abt-1",
+      "typ": "abteilung",
+      "kuerzel": "G",
+      "name": "Grundsätze und Konkordanz",
+      "parentId": "leitung",
+      "leitungPersonId": "p-bernasconi-andrea",
+      "beschreibung": "Grundsatzfragen, kantonale Sonderfälle, Kompromissfindung und Ausnahmebewilligungen.",
+      "standortId": "st-bern",
+      "titel": "Abteilung G: Grundsätze und Konkordanz",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-1.html",
+      "leitung": {
+        "id": "p-bernasconi-andrea",
+        "name": "Dr. Andrea Bernasconi",
+        "funktion": "Leiter Abteilung Grundsätze und Konkordanz"
+      },
+      "childIds": [
+        "ref-11",
+        "ref-12",
+        "ref-13",
+        "ref-14"
+      ],
+      "personIds": [
+        "p-bernasconi-andrea"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-1.json"
+    },
+    {
+      "id": "abt-2",
+      "typ": "abteilung",
+      "kuerzel": "V",
+      "name": "Verfahren und Vernehmlassungen",
+      "parentId": "leitung",
+      "leitungPersonId": "p-rochat-christine",
+      "beschreibung": "Besondere Verwaltungsverfahren, Vernehmlassungen, Einsprachen und die amtliche Pünktlichkeit.",
+      "standortId": "st-bellinzona",
+      "titel": "Abteilung V: Verfahren und Vernehmlassungen",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html",
+      "leitung": {
+        "id": "p-rochat-christine",
+        "name": "Prof. Dr. Christine Rochat",
+        "funktion": "Leiterin Abteilung Verfahren und Vernehmlassungen"
+      },
+      "childIds": [
+        "ref-21",
+        "ref-22",
+        "ref-23",
+        "ref-24"
+      ],
+      "personIds": [
+        "p-rochat-christine"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-2.json"
+    },
+    {
+      "id": "abt-3",
+      "typ": "abteilung",
+      "kuerzel": "E",
+      "name": "Ausserordentliche Ereignisse",
+      "parentId": "leitung",
+      "leitungPersonId": "p-rueegg-thomas",
+      "beschreibung": "Lagebeobachtung, alpine Sonderfälle, Kuriositätenarchiv und Vorsorge für das Unwahrscheinliche.",
+      "standortId": "st-bern",
+      "titel": "Abteilung E: Ausserordentliche Ereignisse",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html",
+      "leitung": {
+        "id": "p-rueegg-thomas",
+        "name": "Thomas Rüegg",
+        "funktion": "Leiter Abteilung Ausserordentliche Ereignisse"
+      },
+      "childIds": [
+        "ref-31",
+        "ref-32",
+        "ref-33",
+        "ref-34"
+      ],
+      "personIds": [
+        "p-rueegg-thomas"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-3.json"
+    },
+    {
+      "id": "abt-4",
+      "typ": "abteilung",
+      "kuerzel": "D",
+      "name": "Digitales und Register",
+      "parentId": "leitung",
+      "leitungPersonId": "p-kaelin-nadia",
+      "beschreibung": "Eidgenössisches Register besonderer Angelegenheiten, Fachanwendungen, Daten und Informationssicherheit.",
+      "standortId": "st-biel",
+      "titel": "Abteilung D: Digitales und Register",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-4.html",
+      "leitung": {
+        "id": "p-kaelin-nadia",
+        "name": "Nadia Kälin",
+        "funktion": "Leiterin Abteilung Digitales und Register (CDO)"
+      },
+      "childIds": [
+        "ref-41",
+        "ref-42",
+        "ref-43",
+        "ref-44"
+      ],
+      "personIds": [
+        "p-kaelin-nadia"
+      ],
+      "aufgabeIds": [
+        "auf-erba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-4.json"
+    }
+  ],
+  "personen": [
+    {
+      "id": "p-braendli-ursula",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Ursula",
+      "nachname": "Brändli",
+      "funktion": "Direktorin",
+      "einheitId": "leitung",
+      "email": "ursula.braendli@bba-bund.example",
+      "telefon": "+41 58 999 10 01",
+      "kurzvita": "Promovierte Juristin (Universität Freiburg), zuvor Vizedirektorin und Leiterin der Abteilung Grundsätze und Konkordanz. Seit 2020 Direktorin des BBA. Hält die Mittagspause für ein Grundrecht.",
+      "name": "Dr. Ursula Brändli",
+      "portrait": "assets/img/ch/personen/p-braendli-ursula.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-braendli-ursula.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-braendli-ursula.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Direktion",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "leitung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-braendli-ursula.json"
+    },
+    {
+      "id": "p-favre-jean-daniel",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Jean-Daniel",
+      "nachname": "Favre",
+      "funktion": "Vizedirektor",
+      "einheitId": "leitung",
+      "email": "jean-daniel.favre@bba-bund.example",
+      "telefon": "+41 58 999 10 02",
+      "kurzvita": "Ökonom aus Neuenburg; verantwortet die Beziehungen zu den Kantonen und zur Romandie. Beherrscht die Kunst, auf Französisch Ja und auf Deutsch Nein zu sagen – im selben Satz.",
+      "name": "Jean-Daniel Favre",
+      "portrait": "assets/img/ch/personen/p-favre-jean-daniel.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-favre-jean-daniel.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-favre-jean-daniel.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Direktion",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-favre-jean-daniel.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-bern",
+    "name": "Hauptsitz Bern",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 12",
+    "plz": "3011",
+    "ort": "Bern",
+    "telefon": "+41 58 999 10 00",
+    "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+    "bild": "assets/img/ch/standorte/bern.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-09-jahresbericht",
+      "titel": "Jahresbericht 2025: 9'874 Sonderfälle – Rekord bei Murmeltier-Eingaben",
+      "datum": "2026-09-08",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-jahresbericht.html"
+    }
+  ]
+}

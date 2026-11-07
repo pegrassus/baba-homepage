@@ -1,0 +1,115 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-34",
+    "typ": "referat",
+    "kuerzel": "IV/4",
+    "name": "Prävention des Unwahrscheinlichen",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-mayr-sophie",
+    "standortId": "st-wien",
+    "titel": "Abteilung IV/4: Prävention des Unwahrscheinlichen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-34.html",
+    "leitung": {
+      "id": "p-mayr-sophie",
+      "name": "Sophie Mayr, MSc",
+      "funktion": "Abteilungsleiterin IV/4"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-mayr-sophie"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-34.json"
+  },
+  "parent": {
+    "id": "abt-3",
+    "typ": "abteilung",
+    "kuerzel": "IV",
+    "name": "Außergewöhnliche Ereignisse",
+    "parentId": "leitung",
+    "leitungPersonId": "p-leitner-brigitte",
+    "beschreibung": "Lagezentrum, wetterbedingte Sonderfälle, Kuriositätenkabinett und Vorsorge für das Unwahrscheinliche.",
+    "standortId": "st-wien",
+    "titel": "Sektion IV: Außergewöhnliche Ereignisse",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-3.html",
+    "leitung": {
+      "id": "p-leitner-brigitte",
+      "name": "Mag.a Brigitte Leitner",
+      "funktion": "Sektionschefin, Leiterin der Sektion IV"
+    },
+    "childIds": [
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34"
+    ],
+    "personIds": [
+      "p-leitner-brigitte"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/abt-3.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-mayr-sophie",
+      "anrede": "Frau",
+      "titel": "",
+      "titelNach": "MSc",
+      "vorname": "Sophie",
+      "nachname": "Mayr",
+      "funktion": "Abteilungsleiterin IV/4",
+      "einheitId": "ref-34",
+      "email": "sophie.mayr@bbsa-bund.example",
+      "telefon": "+43 1 4711-5400",
+      "kurzvita": "Risikoanalystin; plant für Szenarien wie „Krampus ohne Begleitperson“.",
+      "name": "Sophie Mayr, MSc",
+      "portrait": "assets/img/at/personen/p-mayr-sophie.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-mayr-sophie.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-mayr-sophie.html",
+      "einheit": {
+        "id": "ref-34",
+        "name": "Abteilung IV/4: Prävention des Unwahrscheinlichen",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-34.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-34"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-mayr-sophie.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-wien",
+    "name": "Amtsgebäude Wien",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 7",
+    "plz": "1010",
+    "ort": "Wien",
+    "telefon": "+43 1 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+    "bild": "assets/img/at/standorte/wien.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-pb",
+      "stab-pk",
+      "stab-dr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

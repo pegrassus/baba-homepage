@@ -1,0 +1,40 @@
+{
+  "stand": "2026-11-01",
+  "einheiten": [
+    { "id": "leitung", "typ": "leitung", "kuerzel": "P", "name": "Amtsleitung", "parentId": null, "leitungPersonId": "p-hinterberger-elisabeth", "vertretungPersonId": "p-pichler-franz-josef", "beschreibung": "Die Präsidentin und der Vizepräsident leiten das Amt und vertreten es nach außen.", "standortId": "st-wien" },
+
+    { "id": "stab-pb", "typ": "stab", "kuerzel": "PB", "name": "Präsidialbüro", "parentId": "leitung", "leitungPersonId": "p-novak-katharina", "beschreibung": "Unterstützt die Amtsleitung, koordiniert Ministerratsvorträge, parlamentarische Anfragen und den Aktenlauf.", "standortId": "st-wien" },
+    { "id": "stab-pk", "typ": "stab", "kuerzel": "PK", "name": "Presse und Kommunikation", "parentId": "leitung", "leitungPersonId": "p-auer-florian", "beschreibung": "Pressearbeit, Website, Publikationen und Bürgerservice.", "standortId": "st-wien" },
+    { "id": "stab-dr", "typ": "stab", "kuerzel": "DR", "name": "Datenschutz und Interne Revision", "parentId": "leitung", "leitungPersonId": "p-kovacs-julia", "beschreibung": "Datenschutzbeauftragte, Interne Revision und Korruptionsprävention.", "standortId": "st-wien" },
+
+    { "id": "abt-z", "typ": "abteilung", "kuerzel": "I", "name": "Präsidialsektion", "parentId": "leitung", "leitungPersonId": "p-wallner-gerhard", "beschreibung": "Personal, Budget, Amtsgebäude sowie das Formular- und Stempelwesen.", "standortId": "st-wien" },
+    { "id": "ref-z1", "typ": "referat", "kuerzel": "I/1", "name": "Personal und Lehrlingsausbildung", "parentId": "abt-z", "leitungPersonId": "p-fuchs-renate", "standortId": "st-wien" },
+    { "id": "ref-z2", "typ": "referat", "kuerzel": "I/2", "name": "Budget und Beschaffung", "parentId": "abt-z", "leitungPersonId": "p-berger-markus", "standortId": "st-wien" },
+    { "id": "ref-z3", "typ": "referat", "kuerzel": "I/3", "name": "Amtsgebäude und Inneres Service", "parentId": "abt-z", "leitungPersonId": "p-dvorak-ivana", "standortId": "st-wien" },
+    { "id": "ref-z4", "typ": "referat", "kuerzel": "I/4", "name": "Formular- und Stempelwesen", "parentId": "abt-z", "leitungPersonId": "p-stempfl-alois", "standortId": "st-wien" },
+
+    { "id": "abt-1", "typ": "abteilung", "kuerzel": "II", "name": "Grundsatz, Sonderfälle und Sonstiges", "parentId": "leitung", "leitungPersonId": "p-schwarzl-andrea", "beschreibung": "Grundsatzangelegenheiten, Abgrenzung des Besonderen vom Sonstigen, föderale Grenzfälle und Nachsichten.", "standortId": "st-wien" },
+    { "id": "ref-11", "typ": "referat", "kuerzel": "II/1", "name": "Grundsatzangelegenheiten", "parentId": "abt-1", "leitungPersonId": "p-eder-maria", "standortId": "st-wien" },
+    { "id": "ref-12", "typ": "referat", "kuerzel": "II/2", "name": "Abgrenzung Besonderes – Sonstiges", "parentId": "abt-1", "leitungPersonId": "p-sonnleitner-wolfgang", "standortId": "st-wien" },
+    { "id": "ref-13", "typ": "referat", "kuerzel": "II/3", "name": "Föderale Grenzfälle (Bund – Länder)", "parentId": "abt-1", "leitungPersonId": "p-hofer-lisa", "standortId": "st-wien" },
+    { "id": "ref-14", "typ": "referat", "kuerzel": "II/4", "name": "Nachsichten und Ausnahmen", "parentId": "abt-1", "leitungPersonId": "p-nachbaur-thomas", "standortId": "st-wien" },
+
+    { "id": "abt-2", "typ": "abteilung", "kuerzel": "III", "name": "Besondere Verfahren", "parentId": "leitung", "leitungPersonId": "p-moosbrugger-klaus", "beschreibung": "Durchführung besonderer Verwaltungsverfahren nach dem AVG, Bescheide besonderer Art sowie Fristen, Feiertage und Fenstertage.", "standortId": "st-graz" },
+    { "id": "ref-21", "typ": "referat", "kuerzel": "III/1", "name": "Verfahren nach dem BBSAG", "parentId": "abt-2", "leitungPersonId": "p-gassner-sabine", "standortId": "st-graz" },
+    { "id": "ref-22", "typ": "referat", "kuerzel": "III/2", "name": "Bescheide besonderer Art", "parentId": "abt-2", "leitungPersonId": "p-oezdemir-emre", "standortId": "st-graz" },
+    { "id": "ref-23", "typ": "referat", "kuerzel": "III/3", "name": "Beschwerdevorentscheidungen", "parentId": "abt-2", "leitungPersonId": "p-winkler-petra", "standortId": "st-graz" },
+    { "id": "ref-24", "typ": "referat", "kuerzel": "III/4", "name": "Fristen, Feiertage und Fenstertage", "parentId": "abt-2", "leitungPersonId": "p-brueckl-herbert", "standortId": "st-graz" },
+
+    { "id": "abt-3", "typ": "abteilung", "kuerzel": "IV", "name": "Außergewöhnliche Ereignisse", "parentId": "leitung", "leitungPersonId": "p-leitner-brigitte", "beschreibung": "Lagezentrum, wetterbedingte Sonderfälle, Kuriositätenkabinett und Vorsorge für das Unwahrscheinliche.", "standortId": "st-wien" },
+    { "id": "ref-31", "typ": "referat", "kuerzel": "IV/1", "name": "Lagezentrum Besonderheiten", "parentId": "abt-3", "leitungPersonId": "p-reiter-michael", "standortId": "st-wien" },
+    { "id": "ref-32", "typ": "referat", "kuerzel": "IV/2", "name": "Föhn, Wetterfühligkeit und Unvorhergesehenes", "parentId": "abt-3", "leitungPersonId": "p-lechner-veronika", "standortId": "st-innsbruck" },
+    { "id": "ref-33", "typ": "referat", "kuerzel": "IV/3", "name": "Kuriositätenkabinett und Amtsarchiv", "parentId": "abt-3", "leitungPersonId": "p-schnitzler-ferdinand", "standortId": "st-wien" },
+    { "id": "ref-34", "typ": "referat", "kuerzel": "IV/4", "name": "Prävention des Unwahrscheinlichen", "parentId": "abt-3", "leitungPersonId": "p-mayr-sophie", "standortId": "st-wien" },
+
+    { "id": "abt-4", "typ": "abteilung", "kuerzel": "V", "name": "Digitales und Register", "parentId": "leitung", "leitungPersonId": "p-gruber-stefan", "beschreibung": "Bundesregister besonderer und sonstiger Angelegenheiten, IT-Verfahren und ELAK, Daten und Informationssicherheit.", "standortId": "st-innsbruck" },
+    { "id": "ref-41", "typ": "referat", "kuerzel": "V/1", "name": "Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)", "parentId": "abt-4", "leitungPersonId": "p-pospischil-karl", "standortId": "st-wien" },
+    { "id": "ref-42", "typ": "referat", "kuerzel": "V/2", "name": "IT-Verfahren und Elektronischer Akt (ELAK)", "parentId": "abt-4", "leitungPersonId": "p-horvath-nina", "standortId": "st-innsbruck" },
+    { "id": "ref-43", "typ": "referat", "kuerzel": "V/3", "name": "Daten und Schnittstellen", "parentId": "abt-4", "leitungPersonId": "p-ebner-jana", "standortId": "st-innsbruck" },
+    { "id": "ref-44", "typ": "referat", "kuerzel": "V/4", "name": "Informationssicherheit", "parentId": "abt-4", "leitungPersonId": "p-kaltenbrunner-paul", "standortId": "st-innsbruck" }
+  ]
+}

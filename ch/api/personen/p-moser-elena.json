@@ -1,0 +1,59 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-moser-elena",
+    "anrede": "Frau",
+    "titel": "",
+    "vorname": "Elena",
+    "nachname": "Moser",
+    "funktion": "Sektionschefin Fachanwendungen und GEVER",
+    "einheitId": "ref-42",
+    "email": "elena.moser@bba-bund.example",
+    "telefon": "+41 58 999 62 00",
+    "kurzvita": "Verantwortet die Fachanwendungen und die elektronische Geschäftsverwaltung.",
+    "name": "Elena Moser",
+    "portrait": "assets/img/ch/personen/p-moser-elena.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-moser-elena.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-moser-elena.html",
+    "einheit": {
+      "id": "ref-42",
+      "name": "Sektion D2: Fachanwendungen und GEVER",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-42.html"
+    },
+    "abteilungId": "abt-4",
+    "standortId": "st-biel",
+    "leitetEinheitIds": [
+      "ref-42"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-moser-elena.json"
+  },
+  "einheit": {
+    "id": "ref-42",
+    "typ": "referat",
+    "kuerzel": "D2",
+    "name": "Fachanwendungen und GEVER",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-moser-elena",
+    "standortId": "st-biel",
+    "titel": "Sektion D2: Fachanwendungen und GEVER",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-42.html",
+    "leitung": {
+      "id": "p-moser-elena",
+      "name": "Elena Moser",
+      "funktion": "Sektionschefin Fachanwendungen und GEVER"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-moser-elena"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-42.json"
+  },
+  "news": []
+}

@@ -1,0 +1,7 @@
+{
+  "standorte": [
+    { "id": "st-bern", "name": "Hauptsitz Bern", "typ": "Hauptsitz", "strasse": "Ausnahmegasse 12", "plz": "3011", "ort": "Bern", "telefon": "+41 58 999 10 00", "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.", "bild": "assets/img/ch/standorte/bern.jpg", "einheitIds": ["leitung", "stab-dir", "stab-kom", "stab-dsr", "abt-z", "abt-1", "abt-3"] },
+    { "id": "st-biel", "name": "Standort Biel/Bienne", "typ": "Standort", "strasse": "Sonderfallstrasse 5 / Rue du Cas particulier 5", "plz": "2502", "ort": "Biel/Bienne", "telefon": "+41 58 999 60 00", "beschreibung": "Zweisprachiger Standort der Abteilung Digitales und Register mit dem Rechenzentrum des ERbA.", "bild": "assets/img/ch/standorte/biel.jpg", "einheitIds": ["abt-4"] },
+    { "id": "st-bellinzona", "name": "Sede di Bellinzona", "typ": "Standort", "strasse": "Via dei Casi Speciali 3", "plz": "6500", "ort": "Bellinzona", "telefon": "+41 58 999 40 00", "beschreibung": "Standort der Abteilung Verfahren und Vernehmlassungen. Die Sitzungen beginnen pünktlich, der Espresso danach ebenfalls.", "bild": "assets/img/ch/standorte/bellinzona.jpg", "einheitIds": ["abt-2"] }
+  ]
+}

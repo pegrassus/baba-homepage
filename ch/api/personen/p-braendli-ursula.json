@@ -1,0 +1,78 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-braendli-ursula",
+    "anrede": "Frau",
+    "titel": "Dr.",
+    "vorname": "Ursula",
+    "nachname": "Brändli",
+    "funktion": "Direktorin",
+    "einheitId": "leitung",
+    "email": "ursula.braendli@bba-bund.example",
+    "telefon": "+41 58 999 10 01",
+    "kurzvita": "Promovierte Juristin (Universität Freiburg), zuvor Vizedirektorin und Leiterin der Abteilung Grundsätze und Konkordanz. Seit 2020 Direktorin des BBA. Hält die Mittagspause für ein Grundrecht.",
+    "name": "Dr. Ursula Brändli",
+    "portrait": "assets/img/ch/personen/p-braendli-ursula.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-braendli-ursula.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-braendli-ursula.html",
+    "einheit": {
+      "id": "leitung",
+      "name": "Direktion",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html"
+    },
+    "abteilungId": "leitung",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [
+      "leitung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-braendli-ursula.json"
+  },
+  "einheit": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "DIR",
+    "name": "Direktion",
+    "parentId": null,
+    "leitungPersonId": "p-braendli-ursula",
+    "vertretungPersonId": "p-favre-jean-daniel",
+    "beschreibung": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.",
+    "standortId": "st-bern",
+    "titel": "Direktion",
+    "typLabel": "Direktion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html",
+    "leitung": {
+      "id": "p-braendli-ursula",
+      "name": "Dr. Ursula Brändli",
+      "funktion": "Direktorin"
+    },
+    "childIds": [
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-braendli-ursula",
+      "p-favre-jean-daniel"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/leitung.json"
+  },
+  "news": [
+    {
+      "id": "2026-09-jahresbericht",
+      "titel": "Jahresbericht 2025: 9'874 Sonderfälle – Rekord bei Murmeltier-Eingaben",
+      "datum": "2026-09-08",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-jahresbericht.html"
+    }
+  ]
+}

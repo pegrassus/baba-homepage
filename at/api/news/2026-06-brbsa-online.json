@@ -1,0 +1,110 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-06-brbsa-online",
+    "datum": "2026-06-09",
+    "kategorie": "Presseaussendung",
+    "titel": "BRbsA online: 1,2 Millionen Einträge seit 1873 digitalisiert",
+    "teaser": "Auch 380.000 handschriftliche Einträge in Kurrentschrift sind nun durchsuchbar. Die älteste Eintragung betrifft einen Hofhund ohne Zuständigkeit.",
+    "text": [
+      "Mit dem Start des digitalen Bundesregisters besonderer und sonstiger Angelegenheiten (BRbsA) ist die Digitalisierung des Amtes einen großen Schritt weiter.",
+      "„Die Texterkennung für Kurrentschrift haben wir gemeinsam mit unseren pensionierten Kolleginnen und Kollegen trainiert“, erklärt Registerführer Mag. Karl Pospischil.",
+      "Sektionschef DI Stefan Gruber kündigte an, dass Behörden ab 2027 über eine Schnittstelle Auskünfte abrufen können."
+    ],
+    "bild": "assets/img/at/news/2026-06-brbsa-online.jpg",
+    "einheitId": "ref-41",
+    "personIds": [
+      "p-pospischil-karl",
+      "p-gruber-stefan"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-06-brbsa-online.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-06-brbsa-online.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-06-brbsa-online.json"
+  },
+  "einheit": {
+    "id": "ref-41",
+    "typ": "referat",
+    "kuerzel": "V/1",
+    "name": "Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-pospischil-karl",
+    "standortId": "st-wien",
+    "titel": "Abteilung V/1: Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-41.html",
+    "leitung": {
+      "id": "p-pospischil-karl",
+      "name": "Mag. Karl Pospischil",
+      "funktion": "Abteilungsleiter V/1 (Registerführer)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-pospischil-karl"
+    ],
+    "aufgabeIds": [
+      "auf-brbsa"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-41.json"
+  },
+  "personen": [
+    {
+      "id": "p-pospischil-karl",
+      "anrede": "Herr",
+      "titel": "Mag.",
+      "vorname": "Karl",
+      "nachname": "Pospischil",
+      "funktion": "Abteilungsleiter V/1 (Registerführer)",
+      "einheitId": "ref-41",
+      "email": "brbsa@bbsa-bund.example",
+      "telefon": "+43 1 4711-6100",
+      "kurzvita": "Führt das BRbsA; liest Kurrentschrift fließend.",
+      "name": "Mag. Karl Pospischil",
+      "portrait": "assets/img/at/personen/p-pospischil-karl.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-pospischil-karl.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-pospischil-karl.html",
+      "einheit": {
+        "id": "ref-41",
+        "name": "Abteilung V/1: Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-41.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-41"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-pospischil-karl.json"
+    },
+    {
+      "id": "p-gruber-stefan",
+      "anrede": "Herr",
+      "titel": "DI",
+      "vorname": "Stefan",
+      "nachname": "Gruber",
+      "funktion": "Sektionschef, Leiter der Sektion V (CIO)",
+      "einheitId": "abt-4",
+      "email": "stefan.gruber@bbsa-bund.example",
+      "telefon": "+43 512 4711-6000",
+      "kurzvita": "Informatiker; verantwortet die Digitalisierung des Amtes von Innsbruck aus.",
+      "name": "DI Stefan Gruber",
+      "portrait": "assets/img/at/personen/p-gruber-stefan.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-gruber-stefan.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-gruber-stefan.html",
+      "einheit": {
+        "id": "abt-4",
+        "name": "Sektion V: Digitales und Register",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-4.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-innsbruck",
+      "leitetEinheitIds": [
+        "abt-4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-gruber-stefan.json"
+    }
+  ]
+}

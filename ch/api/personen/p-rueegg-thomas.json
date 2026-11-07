@@ -1,0 +1,74 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-rueegg-thomas",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Thomas",
+    "nachname": "Rüegg",
+    "funktion": "Leiter Abteilung Ausserordentliche Ereignisse",
+    "einheitId": "abt-3",
+    "email": "thomas.rueegg@bba-bund.example",
+    "telefon": "+41 58 999 50 00",
+    "kurzvita": "Ehemaliger Bergführer und Leiter des Lagezentrums.",
+    "name": "Thomas Rüegg",
+    "portrait": "assets/img/ch/personen/p-rueegg-thomas.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-rueegg-thomas.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-rueegg-thomas.html",
+    "einheit": {
+      "id": "abt-3",
+      "name": "Abteilung E: Ausserordentliche Ereignisse",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html"
+    },
+    "abteilungId": "abt-3",
+    "standortId": "st-bern",
+    "leitetEinheitIds": [
+      "abt-3"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rueegg-thomas.json"
+  },
+  "einheit": {
+    "id": "abt-3",
+    "typ": "abteilung",
+    "kuerzel": "E",
+    "name": "Ausserordentliche Ereignisse",
+    "parentId": "leitung",
+    "leitungPersonId": "p-rueegg-thomas",
+    "beschreibung": "Lagebeobachtung, alpine Sonderfälle, Kuriositätenarchiv und Vorsorge für das Unwahrscheinliche.",
+    "standortId": "st-bern",
+    "titel": "Abteilung E: Ausserordentliche Ereignisse",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-3.html",
+    "leitung": {
+      "id": "p-rueegg-thomas",
+      "name": "Thomas Rüegg",
+      "funktion": "Leiter Abteilung Ausserordentliche Ereignisse"
+    },
+    "childIds": [
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34"
+    ],
+    "personIds": [
+      "p-rueegg-thomas"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-3.json"
+  },
+  "news": [
+    {
+      "id": "2026-08-fondue-uebung",
+      "titel": "Übung «Käse alle»: Lagezentrum probt den nationalen Fondue-Engpass",
+      "datum": "2026-08-14",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-08-fondue-uebung.html"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörden – Demonstrationsinhalt für Actanova.",
+  "varianten": [
+    {
+      "variante": "de",
+      "land": "Deutschland",
+      "name": "Bundesamt für besondere Angelegenheiten",
+      "kurzname": "BAbA",
+      "sprache": "de-DE",
+      "website": "https://pegrassus.github.io/baba-homepage/index.html",
+      "api": "https://pegrassus.github.io/baba-homepage/api/index.json",
+      "llms": "https://pegrassus.github.io/baba-homepage/llms.txt"
+    },
+    {
+      "variante": "ch",
+      "land": "Schweiz",
+      "name": "Bundesamt für besondere Angelegenheiten",
+      "kurzname": "BBA",
+      "sprache": "de-CH",
+      "website": "https://pegrassus.github.io/baba-homepage/ch/index.html",
+      "api": "https://pegrassus.github.io/baba-homepage/ch/api/index.json",
+      "llms": "https://pegrassus.github.io/baba-homepage/ch/llms.txt"
+    },
+    {
+      "variante": "at",
+      "land": "Österreich",
+      "name": "Bundesamt für besondere und sonstige Angelegenheiten",
+      "kurzname": "BBSA",
+      "sprache": "de-AT",
+      "website": "https://pegrassus.github.io/baba-homepage/at/index.html",
+      "api": "https://pegrassus.github.io/baba-homepage/at/api/index.json",
+      "llms": "https://pegrassus.github.io/baba-homepage/at/llms.txt"
+    }
+  ]
+}

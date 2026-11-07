@@ -1,0 +1,119 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "stab-dir",
+    "typ": "stab",
+    "kuerzel": "DS",
+    "name": "Direktionsstab",
+    "parentId": "leitung",
+    "leitungPersonId": "p-gisler-reto",
+    "beschreibung": "Unterstützt die Direktion, koordiniert Geschäfte mit dem Departement und den Kantonen und führt die Geschäftskontrolle.",
+    "standortId": "st-bern",
+    "titel": "Direktionsstab",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dir.html",
+    "leitung": {
+      "id": "p-gisler-reto",
+      "name": "Reto Gisler",
+      "funktion": "Leiter Direktionsstab"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-gisler-reto"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-dir.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "DIR",
+    "name": "Direktion",
+    "parentId": null,
+    "leitungPersonId": "p-braendli-ursula",
+    "vertretungPersonId": "p-favre-jean-daniel",
+    "beschreibung": "Die Direktorin und der Vizedirektor führen das Amt und vertreten es gegenüber Departement, Kantonen und Öffentlichkeit.",
+    "standortId": "st-bern",
+    "titel": "Direktion",
+    "typLabel": "Direktion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/leitung.html",
+    "leitung": {
+      "id": "p-braendli-ursula",
+      "name": "Dr. Ursula Brändli",
+      "funktion": "Direktorin"
+    },
+    "childIds": [
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-braendli-ursula",
+      "p-favre-jean-daniel"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/leitung.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-gisler-reto",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Reto",
+      "nachname": "Gisler",
+      "funktion": "Leiter Direktionsstab",
+      "einheitId": "stab-dir",
+      "email": "reto.gisler@bba-bund.example",
+      "telefon": "+41 58 999 10 10",
+      "kurzvita": "Politologe; führt die Geschäftskontrolle mit über 1'400 offenen Pendenzen – alle fristgerecht.",
+      "name": "Reto Gisler",
+      "portrait": "assets/img/ch/personen/p-gisler-reto.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-gisler-reto.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-gisler-reto.html",
+      "einheit": {
+        "id": "stab-dir",
+        "name": "Direktionsstab",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/stab-dir.html"
+      },
+      "abteilungId": "stab-dir",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "stab-dir"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-gisler-reto.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-bern",
+    "name": "Hauptsitz Bern",
+    "typ": "Hauptsitz",
+    "strasse": "Ausnahmegasse 12",
+    "plz": "3011",
+    "ort": "Bern",
+    "telefon": "+41 58 999 10 00",
+    "beschreibung": "Sitz der Direktion, der Stabsstellen sowie der Abteilungen Ressourcen, Grundsätze und Ausserordentliche Ereignisse. Sandsteinbau aus dem 19. Jahrhundert mit Holz-Atrium von 2012.",
+    "bild": "assets/img/ch/standorte/bern.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-dir",
+      "stab-kom",
+      "stab-dsr",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

@@ -1,0 +1,45 @@
+# Bundesamt für besondere und sonstige Angelegenheiten (BBSA) – Länderversion Österreich
+
+> Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.
+> Das Bundesamt für besondere und sonstige Angelegenheiten (BBSA) ist zuständig für alle Angelegenheiten des Bundes, die besonders sind, sowie für jene, die zwar nicht besonders, aber auch nirgends sonst unterzubringen sind („sonstige Angelegenheiten“). Es entscheidet mit Bescheid, stellt Fenstertage fest, führt das Kuriositätenkabinett und das Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA) – seit 1873, mit kurzer Unterbrechung für die Mittagspause.
+
+Leitung: Mag.a Dr.in Elisabeth Hinterberger (Präsidentin). Hauptsitz: Ausnahmegasse 7, 1010 Wien. Kontakt: +43 1 4711-0, einlaufstelle@bbsa-bund.example.
+Begriffe in dieser Version: Sektion (abt-*), Abteilung (ref-*), Stabsstelle (stab-*).
+
+## Maschinenlesbare Daten
+- [api/behoerde.json](https://pegrassus.github.io/baba-homepage/at/api/behoerde.json): Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte
+- [api/organisation.json](https://pegrassus.github.io/baba-homepage/at/api/organisation.json): Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)
+- [api/personen.json](https://pegrassus.github.io/baba-homepage/at/api/personen.json): Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL
+- [api/aufgaben.json](https://pegrassus.github.io/baba-homepage/at/api/aufgaben.json): Aufgaben und Leistungen mit zuständigen Einheiten
+- [api/news.json](https://pegrassus.github.io/baba-homepage/at/api/news.json): Meldungen und Mitteilungen, neueste zuerst
+- [api/standorte.json](https://pegrassus.github.io/baba-homepage/at/api/standorte.json): Standorte mit Adressen
+- [api/downloads.json](https://pegrassus.github.io/baba-homepage/at/api/downloads.json): Formulare und Publikationen
+- [api/alles.json](https://pegrassus.github.io/baba-homepage/at/api/alles.json): Gesamtexport aller Inhalte in einer Datei
+- Einzelobjekte: https://pegrassus.github.io/baba-homepage/at/api/personen/{id}.json, https://pegrassus.github.io/baba-homepage/at/api/einheiten/{id}.json, https://pegrassus.github.io/baba-homepage/at/api/news/{id}.json
+
+## Organisation
+- [Amtsleitung](https://pegrassus.github.io/baba-homepage/at/organisation/leitung.html): Leitung Mag.a Dr.in Elisabeth Hinterberger
+- [Präsidialbüro](https://pegrassus.github.io/baba-homepage/at/organisation/stab-pb.html): Leitung Mag.a Katharina Novak
+- [Presse und Kommunikation](https://pegrassus.github.io/baba-homepage/at/organisation/stab-pk.html): Leitung Florian Auer, MA
+- [Datenschutz und Interne Revision](https://pegrassus.github.io/baba-homepage/at/organisation/stab-dr.html): Leitung Mag.a Julia Kovács
+- [Sektion I: Präsidialsektion](https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html): Leitung Mag. Gerhard Wallner; Abteilungen: I/1 Personal und Lehrlingsausbildung, I/2 Budget und Beschaffung, I/3 Amtsgebäude und Inneres Service, I/4 Formular- und Stempelwesen
+- [Sektion II: Grundsatz, Sonderfälle und Sonstiges](https://pegrassus.github.io/baba-homepage/at/organisation/abt-1.html): Leitung Dr.in Andrea Schwarzl; Abteilungen: II/1 Grundsatzangelegenheiten, II/2 Abgrenzung Besonderes – Sonstiges, II/3 Föderale Grenzfälle (Bund – Länder), II/4 Nachsichten und Ausnahmen
+- [Sektion III: Besondere Verfahren](https://pegrassus.github.io/baba-homepage/at/organisation/abt-2.html): Leitung Univ.-Prof. Dr. Klaus Moosbrugger; Abteilungen: III/1 Verfahren nach dem BBSAG, III/2 Bescheide besonderer Art, III/3 Beschwerdevorentscheidungen, III/4 Fristen, Feiertage und Fenstertage
+- [Sektion IV: Außergewöhnliche Ereignisse](https://pegrassus.github.io/baba-homepage/at/organisation/abt-3.html): Leitung Mag.a Brigitte Leitner; Abteilungen: IV/1 Lagezentrum Besonderheiten, IV/2 Föhn, Wetterfühligkeit und Unvorhergesehenes, IV/3 Kuriositätenkabinett und Amtsarchiv, IV/4 Prävention des Unwahrscheinlichen
+- [Sektion V: Digitales und Register](https://pegrassus.github.io/baba-homepage/at/organisation/abt-4.html): Leitung DI Stefan Gruber; Abteilungen: V/1 Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA), V/2 IT-Verfahren und Elektronischer Akt (ELAK), V/3 Daten und Schnittstellen, V/4 Informationssicherheit
+
+## Seiten
+- [Startseite](https://pegrassus.github.io/baba-homepage/at/index.html)
+- [Über uns](https://pegrassus.github.io/baba-homepage/at/ueber-uns.html)
+- [Organisation](https://pegrassus.github.io/baba-homepage/at/organisation.html)
+- [Personen](https://pegrassus.github.io/baba-homepage/at/personen.html)
+- [Aufgaben](https://pegrassus.github.io/baba-homepage/at/aufgaben.html)
+- [Aktuelles](https://pegrassus.github.io/baba-homepage/at/aktuelles.html)
+- [Service](https://pegrassus.github.io/baba-homepage/at/service.html)
+- [Presse](https://pegrassus.github.io/baba-homepage/at/presse.html)
+- [Offene Daten](https://pegrassus.github.io/baba-homepage/at/daten.html)
+
+## Länderversionen
+- Deutschland: [Bundesamt für besondere Angelegenheiten (BAbA)](https://pegrassus.github.io/baba-homepage/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/api/index.json)
+- Schweiz: [Bundesamt für besondere Angelegenheiten (BBA)](https://pegrassus.github.io/baba-homepage/ch/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/ch/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/ch/api/index.json)
+- Österreich: [Bundesamt für besondere und sonstige Angelegenheiten (BBSA)](https://pegrassus.github.io/baba-homepage/at/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/at/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/at/api/index.json)

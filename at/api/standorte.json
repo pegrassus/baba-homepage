@@ -1,0 +1,61 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "standorte": [
+    {
+      "id": "st-wien",
+      "name": "Amtsgebäude Wien",
+      "typ": "Hauptsitz",
+      "strasse": "Ausnahmegasse 7",
+      "plz": "1010",
+      "ort": "Wien",
+      "telefon": "+43 1 4711-0",
+      "beschreibung": "Sitz der Amtsleitung, der Stabsstellen sowie der Sektionen I, II und IV. Ringstraßenbau von 1881 in Schönbrunner Gelb, mit Prunkstiege und hauseigenem Kaffeeautomaten von 1974.",
+      "bild": "assets/img/at/standorte/wien.jpg",
+      "einheitIds": [
+        "leitung",
+        "stab-pb",
+        "stab-pk",
+        "stab-dr",
+        "abt-z",
+        "abt-1",
+        "abt-3"
+      ],
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/standorte/wien.jpg"
+    },
+    {
+      "id": "st-graz",
+      "name": "Außenstelle Graz",
+      "typ": "Außenstelle",
+      "strasse": "Sonderfallplatz 2",
+      "plz": "8010",
+      "ort": "Graz",
+      "telefon": "+43 316 4711-0",
+      "beschreibung": "Standort der Sektion III (Besondere Verfahren) mit Blick auf den Uhrturm.",
+      "bild": "assets/img/at/standorte/graz.jpg",
+      "einheitIds": [
+        "abt-2"
+      ],
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/standorte/graz.jpg"
+    },
+    {
+      "id": "st-innsbruck",
+      "name": "Außenstelle Innsbruck",
+      "typ": "Außenstelle",
+      "strasse": "Zuständigkeitsweg 4",
+      "plz": "6020",
+      "ort": "Innsbruck",
+      "telefon": "+43 512 4711-0",
+      "beschreibung": "Standort der Sektion V (Digitales und Register) und der Abteilung IV/2 – aus naheliegenden Gründen im Föhngebiet.",
+      "bild": "assets/img/at/standorte/innsbruck.jpg",
+      "einheitIds": [
+        "abt-4"
+      ],
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/standorte/innsbruck.jpg"
+    }
+  ]
+}

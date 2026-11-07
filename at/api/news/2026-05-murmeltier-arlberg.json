@@ -1,0 +1,110 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-05-murmeltier-arlberg",
+    "datum": "2026-05-04",
+    "kategorie": "Meldung",
+    "titel": "Grenzfall am Arlberg: Murmeltierbau liegt in zwei Bundesländern",
+    "teaser": "Der Eingang liegt in Tirol, der Ausgang in Vorarlberg. Das BBSA vermittelt zwischen den Ländern – das Murmeltier wurde nicht befragt.",
+    "text": [
+      "Ein Murmeltierbau am Arlberg hat einen Zuständigkeitsstreit zwischen Tirol und Vorarlberg ausgelöst.",
+      "„Die Frage ist, ob ein Bau dort liegt, wo man hineingeht, oder dort, wo man herauskommt“, erklärte Abteilungsleiterin Mag.a Lisa Hofer.",
+      "Bis zur Klärung gilt der Bau als sonstige Angelegenheit des Bundes. Abteilungsleiter Dr. Thomas Nachbaur gewährte vorsorglich eine Nachsicht für den Winterschlaf."
+    ],
+    "bild": "assets/img/at/news/2026-05-murmeltier-arlberg.jpg",
+    "einheitId": "ref-13",
+    "personIds": [
+      "p-hofer-lisa",
+      "p-nachbaur-thomas"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-05-murmeltier-arlberg.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-05-murmeltier-arlberg.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-05-murmeltier-arlberg.json"
+  },
+  "einheit": {
+    "id": "ref-13",
+    "typ": "referat",
+    "kuerzel": "II/3",
+    "name": "Föderale Grenzfälle (Bund – Länder)",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-hofer-lisa",
+    "standortId": "st-wien",
+    "titel": "Abteilung II/3: Föderale Grenzfälle (Bund – Länder)",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-13.html",
+    "leitung": {
+      "id": "p-hofer-lisa",
+      "name": "Mag.a Lisa Hofer",
+      "funktion": "Abteilungsleiterin II/3"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-hofer-lisa"
+    ],
+    "aufgabeIds": [
+      "auf-laender"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-13.json"
+  },
+  "personen": [
+    {
+      "id": "p-hofer-lisa",
+      "anrede": "Frau",
+      "titel": "Mag.a",
+      "vorname": "Lisa",
+      "nachname": "Hofer",
+      "funktion": "Abteilungsleiterin II/3",
+      "einheitId": "ref-13",
+      "email": "lisa.hofer@bbsa-bund.example",
+      "telefon": "+43 1 4711-3300",
+      "kurzvita": "Vermittelt in Grenzfällen zwischen Bund und den neun Ländern.",
+      "name": "Mag.a Lisa Hofer",
+      "portrait": "assets/img/at/personen/p-hofer-lisa.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-hofer-lisa.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-hofer-lisa.html",
+      "einheit": {
+        "id": "ref-13",
+        "name": "Abteilung II/3: Föderale Grenzfälle (Bund – Länder)",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-13.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-13"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-hofer-lisa.json"
+    },
+    {
+      "id": "p-nachbaur-thomas",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Thomas",
+      "nachname": "Nachbaur",
+      "funktion": "Abteilungsleiter II/4",
+      "einheitId": "ref-14",
+      "email": "thomas.nachbaur@bbsa-bund.example",
+      "telefon": "+43 1 4711-3400",
+      "kurzvita": "Gebürtiger Vorarlberger; gewährt Nachsichten nach § 7 BBSAG – mit alemannischer Gründlichkeit.",
+      "name": "Dr. Thomas Nachbaur",
+      "portrait": "assets/img/at/personen/p-nachbaur-thomas.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-nachbaur-thomas.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-nachbaur-thomas.html",
+      "einheit": {
+        "id": "ref-14",
+        "name": "Abteilung II/4: Nachsichten und Ausnahmen",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-14.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "ref-14"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-nachbaur-thomas.json"
+    }
+  ]
+}

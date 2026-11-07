@@ -1,0 +1,10 @@
+{
+  "downloads": [
+    { "id": "dl-jahresbericht-2025", "art": "jahresbericht", "titel": "Jahresbericht 2025", "typ": "PDF", "datei": "assets/downloads/ch/bba-jahresbericht-2025.pdf", "kategorie": "Publikation", "einheitId": "stab-kom" },
+    { "id": "dl-leitfaden-besonderheit", "art": "leitfaden", "titel": "Kriterienkatalog «Wann ist eine Angelegenheit besonders?»", "typ": "PDF", "datei": "assets/downloads/ch/bba-kriterienkatalog.pdf", "kategorie": "Publikation", "einheitId": "ref-11" },
+    { "id": "dl-antrag-feststellung", "art": "formular", "titel": "Gesuch um Feststellung der Besonderheit (Formular BBA-1)", "typ": "PDF", "datei": "assets/downloads/ch/formular-bba-1.pdf", "kategorie": "Formular", "einheitId": "ref-21", "felder": ["1. Gesuchstellende Person oder Behörde (Name, Adresse, Kanton)", "2. Beschreibung der Angelegenheit", "3. Gewünschte Amtssprache der Verfügung (DE/FR/IT/RM)", "4. Weshalb ist die Angelegenheit besonders? (Kriterienkatalog)"] },
+    { "id": "dl-antrag-ausnahme", "art": "formular", "titel": "Gesuch um Ausnahmebewilligung (Formular BBA-7)", "typ": "PDF", "datei": "assets/downloads/ch/formular-bba-7.pdf", "kategorie": "Formular", "einheitId": "ref-14", "felder": ["1. Gesuchstellende Person", "2. Vorschrift, von der abgewichen werden soll", "3. Begründung (bei Tieren: Name, Rasse, Alp)", "4. Betroffene Kantone"] },
+    { "id": "dl-auskunft-brba", "art": "formular", "titel": "Gesuch um Registerauszug ERbA (Formular ERbA-22)", "typ": "PDF", "datei": "assets/downloads/ch/formular-erba-22.pdf", "kategorie": "Formular", "einheitId": "ref-41", "felder": ["1. Gesuchstellende Behörde", "2. Schutzwürdiges Interesse", "3. Registernummer oder Suchmerkmale", "4. Gewünschte Sprache des Auszugs"] },
+    { "id": "dl-organigramm", "art": "organigramm", "titel": "Organigramm (Stand 1. November 2026)", "typ": "SVG", "datei": "assets/downloads/ch/bba-organigramm.svg", "kategorie": "Organisation", "einheitId": "stab-dir" }
+  ]
+}

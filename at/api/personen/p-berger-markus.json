@@ -1,0 +1,59 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-berger-markus",
+    "anrede": "Herr",
+    "titel": "Mag. (FH)",
+    "vorname": "Markus",
+    "nachname": "Berger",
+    "funktion": "Abteilungsleiter I/2",
+    "einheitId": "ref-z2",
+    "email": "markus.berger@bbsa-bund.example",
+    "telefon": "+43 1 4711-2200",
+    "kurzvita": "Verantwortet Budget und Beschaffung; hat 2025 die Anschaffung von 400 neuen Stempelkissen durchgesetzt.",
+    "name": "Mag. (FH) Markus Berger",
+    "portrait": "assets/img/at/personen/p-berger-markus.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-berger-markus.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-berger-markus.html",
+    "einheit": {
+      "id": "ref-z2",
+      "name": "Abteilung I/2: Budget und Beschaffung",
+      "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z2.html"
+    },
+    "abteilungId": "abt-z",
+    "standortId": "st-wien",
+    "leitetEinheitIds": [
+      "ref-z2"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-berger-markus.json"
+  },
+  "einheit": {
+    "id": "ref-z2",
+    "typ": "referat",
+    "kuerzel": "I/2",
+    "name": "Budget und Beschaffung",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-berger-markus",
+    "standortId": "st-wien",
+    "titel": "Abteilung I/2: Budget und Beschaffung",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-z2.html",
+    "leitung": {
+      "id": "p-berger-markus",
+      "name": "Mag. (FH) Markus Berger",
+      "funktion": "Abteilungsleiter I/2"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-berger-markus"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-z2.json"
+  },
+  "news": []
+}

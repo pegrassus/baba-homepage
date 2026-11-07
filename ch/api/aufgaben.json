@@ -1,0 +1,250 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "anzahl": 12,
+  "aufgaben": [
+    {
+      "id": "auf-zustaendigkeit",
+      "titel": "Auffangzuständigkeit des Bundes",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Das BBA übernimmt Angelegenheiten, für die weder ein anderes Bundesamt noch ein Kanton zuständig ist – oder für die sich alle gleichzeitig zuständig fühlen.",
+      "einheitIds": [
+        "abt-1",
+        "ref-11"
+      ],
+      "rechtsgrundlage": "Art. 2 BABG",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-zustaendigkeit",
+      "einheiten": [
+        {
+          "id": "abt-1",
+          "name": "Abteilung G: Grundsätze und Konkordanz"
+        },
+        {
+          "id": "ref-11",
+          "name": "Sektion G1: Grundsatzfragen der Besonderheit"
+        }
+      ]
+    },
+    {
+      "id": "auf-abgrenzung",
+      "titel": "Feststellung der Besonderheit",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Auf Gesuch hin stellt das Amt mit Verfügung fest, ob eine Angelegenheit besonders ist. Massgebend ist der Kriterienkatalog mit 14 Punkten.",
+      "einheitIds": [
+        "ref-11",
+        "ref-21"
+      ],
+      "rechtsgrundlage": "Art. 3 BABG",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-abgrenzung",
+      "einheiten": [
+        {
+          "id": "ref-11",
+          "name": "Sektion G1: Grundsatzfragen der Besonderheit"
+        },
+        {
+          "id": "ref-21",
+          "name": "Sektion V1: Besondere Verfahren"
+        }
+      ]
+    },
+    {
+      "id": "auf-kantone",
+      "titel": "Kantonale Sonderfälle",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Klärung von Sachverhalten, die mehrere Kantone betreffen und zu denen mindestens 26 verschiedene Meinungen bestehen.",
+      "einheitIds": [
+        "ref-12",
+        "ref-13"
+      ],
+      "rechtsgrundlage": "Art. 4 BABG",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-kantone",
+      "einheiten": [
+        {
+          "id": "ref-12",
+          "name": "Sektion G2: Kantonale Sonderfälle"
+        },
+        {
+          "id": "ref-13",
+          "name": "Sektion G3: Konkordanz und Kompromissfindung"
+        }
+      ]
+    },
+    {
+      "id": "auf-ausnahme",
+      "titel": "Ausnahmebewilligungen",
+      "kategorie": "Leistung für die Bevölkerung und Unternehmen",
+      "beschreibung": "Erteilung von Ausnahmebewilligungen für Fälle, die keine Verordnung vorhergesehen hat – etwa den Alpaufzug in zwei Kantonen gleichzeitig.",
+      "einheitIds": [
+        "ref-14"
+      ],
+      "rechtsgrundlage": "Art. 7 BABG",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-ausnahme",
+      "einheiten": [
+        {
+          "id": "ref-14",
+          "name": "Sektion G4: Ausnahmebewilligungen"
+        }
+      ]
+    },
+    {
+      "id": "auf-vernehmlassung",
+      "titel": "Vernehmlassungen zu Unvorhergesehenem",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Durchführung von Vernehmlassungen bei Kantonen, Parteien und Verbänden zu Fragen, die sich noch niemand gestellt hat.",
+      "einheitIds": [
+        "ref-22"
+      ],
+      "rechtsgrundlage": "Art. 10 BABG",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-vernehmlassung",
+      "einheiten": [
+        {
+          "id": "ref-22",
+          "name": "Sektion V2: Vernehmlassungen zu Unvernehmlassbarem"
+        }
+      ]
+    },
+    {
+      "id": "auf-einsprache",
+      "titel": "Einsprachen und Beschwerden",
+      "kategorie": "Leistung für die Bevölkerung und Unternehmen",
+      "beschreibung": "Behandlung von Einsprachen gegen Verfügungen des BBA; Weiterzug an das Bundesverwaltungsgericht bleibt vorbehalten.",
+      "einheitIds": [
+        "ref-23"
+      ],
+      "rechtsgrundlage": "Art. 15 BABG",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-einsprache",
+      "einheiten": [
+        {
+          "id": "ref-23",
+          "name": "Sektion V3: Einsprachen und Beschwerden"
+        }
+      ]
+    },
+    {
+      "id": "auf-puenktlichkeit",
+      "titel": "Amtliche Pünktlichkeitsauskunft",
+      "kategorie": "Beratung",
+      "beschreibung": "Verbindliche Auskunft darüber, ob ein Ereignis pünktlich, knapp pünktlich oder bereits verspätet war. Toleranz: 59 Sekunden.",
+      "einheitIds": [
+        "ref-24"
+      ],
+      "rechtsgrundlage": "Art. 16 BABG",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-puenktlichkeit",
+      "einheiten": [
+        {
+          "id": "ref-24",
+          "name": "Sektion V4: Fristen und Pünktlichkeit"
+        }
+      ]
+    },
+    {
+      "id": "auf-lage",
+      "titel": "Lagebeobachtung",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Beobachtung und Bewertung ausserordentlicher Ereignisse rund um die Uhr, inklusive Föhnlagen und Fondue-Engpässen.",
+      "einheitIds": [
+        "abt-3",
+        "ref-31",
+        "ref-34"
+      ],
+      "rechtsgrundlage": "Art. 18 BABG",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-lage",
+      "einheiten": [
+        {
+          "id": "abt-3",
+          "name": "Abteilung E: Ausserordentliche Ereignisse"
+        },
+        {
+          "id": "ref-31",
+          "name": "Sektion E1: Lagezentrum Besonderheiten"
+        },
+        {
+          "id": "ref-34",
+          "name": "Sektion E4: Prävention des Unwahrscheinlichen"
+        }
+      ]
+    },
+    {
+      "id": "auf-alpin",
+      "titel": "Alpine Sonderfälle",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Zuständigkeit für Kühe auf der falschen Alp, Murmeltiere mit Doppelwohnsitz, Gämsen ohne Aufenthaltsbewilligung und Echos, die falsch antworten.",
+      "einheitIds": [
+        "ref-32"
+      ],
+      "rechtsgrundlage": "Art. 19 BABG",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-alpin",
+      "einheiten": [
+        {
+          "id": "ref-32",
+          "name": "Sektion E2: Alpine Sonderfälle"
+        }
+      ]
+    },
+    {
+      "id": "auf-archiv",
+      "titel": "Kuriositätenarchiv",
+      "kategorie": "Dokumentation",
+      "beschreibung": "Dokumentation und Archivierung kurioser Vorgänge von bleibendem öffentlichem Interesse, inklusive Tonarchiv ungeklärter Echos.",
+      "einheitIds": [
+        "ref-33"
+      ],
+      "rechtsgrundlage": "Art. 20 BABG",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-archiv",
+      "einheiten": [
+        {
+          "id": "ref-33",
+          "name": "Sektion E3: Kuriositätenarchiv"
+        }
+      ]
+    },
+    {
+      "id": "auf-erba",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA)",
+      "kategorie": "Register",
+      "beschreibung": "Führung des zentralen Registers; Registerauszüge an berechtigte Behörden von Bund, Kantonen und Gemeinden.",
+      "einheitIds": [
+        "abt-4",
+        "ref-41",
+        "ref-43"
+      ],
+      "rechtsgrundlage": "Art. 22–25 BABG",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-erba",
+      "einheiten": [
+        {
+          "id": "abt-4",
+          "name": "Abteilung D: Digitales und Register"
+        },
+        {
+          "id": "ref-41",
+          "name": "Sektion D1: Eidgenössisches Register besonderer Angelegenheiten (ERbA)"
+        },
+        {
+          "id": "ref-43",
+          "name": "Sektion D3: Daten und Schnittstellen"
+        }
+      ]
+    },
+    {
+      "id": "auf-sprachen",
+      "titel": "Übersetzung von Sonderfällen",
+      "kategorie": "Leistung für die Bevölkerung und Unternehmen",
+      "beschreibung": "Jede Verfügung wird in die Amtssprache der gesuchstellenden Person übersetzt. Rätoromanisch in Rumantsch Grischun, auf Wunsch in einem der fünf Idiome.",
+      "einheitIds": [
+        "ref-z4"
+      ],
+      "rechtsgrundlage": "Art. 6 BABG i. V. m. Sprachengesetz",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-sprachen",
+      "einheiten": [
+        {
+          "id": "ref-z4",
+          "name": "Sektion R4: Sprachdienste (DE/FR/IT/RM)"
+        }
+      ]
+    }
+  ]
+}

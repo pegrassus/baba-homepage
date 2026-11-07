@@ -1,0 +1,110 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-08-foehn-richtlinie",
+    "datum": "2026-08-28",
+    "kategorie": "Presseaussendung",
+    "titel": "Neue Richtlinie: Föhnbedingte Bescheide können neu erlassen werden",
+    "teaser": "Wer glaubt, dass sein Bescheid unter Föhneinfluss zustande gekommen ist, kann ab 1. September ein Gutachten beantragen.",
+    "text": [
+      "Die Abteilung IV/2 in Innsbruck hat eine Richtlinie zur Behandlung föhnbedingter Bescheide erlassen.",
+      "„Föhn beeinflusst nachweislich Stimmung und Konzentration. Das darf sich nicht auf die Qualität von Bescheiden auswirken“, erklärt Abteilungsleiterin Dr.in Veronika Lechner.",
+      "Als föhnbedingt gilt ein Bescheid, wenn am Tag seiner Erlassung am Standort der Behörde Windgeschwindigkeiten über 60 km/h aus südlicher Richtung gemessen wurden."
+    ],
+    "bild": "assets/img/at/news/2026-08-foehn-richtlinie.jpg",
+    "einheitId": "ref-32",
+    "personIds": [
+      "p-lechner-veronika",
+      "p-leitner-brigitte"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-08-foehn-richtlinie.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-08-foehn-richtlinie.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/news/2026-08-foehn-richtlinie.json"
+  },
+  "einheit": {
+    "id": "ref-32",
+    "typ": "referat",
+    "kuerzel": "IV/2",
+    "name": "Föhn, Wetterfühligkeit und Unvorhergesehenes",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-lechner-veronika",
+    "standortId": "st-innsbruck",
+    "titel": "Abteilung IV/2: Föhn, Wetterfühligkeit und Unvorhergesehenes",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-32.html",
+    "leitung": {
+      "id": "p-lechner-veronika",
+      "name": "Dr.in Veronika Lechner",
+      "funktion": "Abteilungsleiterin IV/2"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-lechner-veronika"
+    ],
+    "aufgabeIds": [
+      "auf-foehn"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/at/api/einheiten/ref-32.json"
+  },
+  "personen": [
+    {
+      "id": "p-lechner-veronika",
+      "anrede": "Frau",
+      "titel": "Dr.in",
+      "vorname": "Veronika",
+      "nachname": "Lechner",
+      "funktion": "Abteilungsleiterin IV/2",
+      "einheitId": "ref-32",
+      "email": "veronika.lechner@bbsa-bund.example",
+      "telefon": "+43 512 4711-5200",
+      "kurzvita": "Meteorologin in Innsbruck; bewertet Föhnlagen, Wetterfühligkeit und alles Unvorhergesehene.",
+      "name": "Dr.in Veronika Lechner",
+      "portrait": "assets/img/at/personen/p-lechner-veronika.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-lechner-veronika.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-lechner-veronika.html",
+      "einheit": {
+        "id": "ref-32",
+        "name": "Abteilung IV/2: Föhn, Wetterfühligkeit und Unvorhergesehenes",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/ref-32.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-innsbruck",
+      "leitetEinheitIds": [
+        "ref-32"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-lechner-veronika.json"
+    },
+    {
+      "id": "p-leitner-brigitte",
+      "anrede": "Frau",
+      "titel": "Mag.a",
+      "vorname": "Brigitte",
+      "nachname": "Leitner",
+      "funktion": "Sektionschefin, Leiterin der Sektion IV",
+      "einheitId": "abt-3",
+      "email": "brigitte.leitner@bbsa-bund.example",
+      "telefon": "+43 1 4711-5000",
+      "kurzvita": "Leitete zuvor das Lagezentrum; seit 2022 Sektionschefin.",
+      "name": "Mag.a Brigitte Leitner",
+      "portrait": "assets/img/at/personen/p-leitner-brigitte.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-leitner-brigitte.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-leitner-brigitte.html",
+      "einheit": {
+        "id": "abt-3",
+        "name": "Sektion IV: Außergewöhnliche Ereignisse",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-3.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "abt-3"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-leitner-brigitte.json"
+    }
+  ]
+}

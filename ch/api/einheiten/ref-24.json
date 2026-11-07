@@ -1,0 +1,126 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-24",
+    "typ": "referat",
+    "kuerzel": "V4",
+    "name": "Fristen und Pünktlichkeit",
+    "parentId": "abt-2",
+    "leitungPersonId": "p-imboden-kurt",
+    "standortId": "st-bellinzona",
+    "titel": "Sektion V4: Fristen und Pünktlichkeit",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-24.html",
+    "leitung": {
+      "id": "p-imboden-kurt",
+      "name": "Kurt Imboden",
+      "funktion": "Sektionschef Fristen und Pünktlichkeit"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-imboden-kurt"
+    ],
+    "aufgabeIds": [
+      "auf-puenktlichkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-24.json"
+  },
+  "parent": {
+    "id": "abt-2",
+    "typ": "abteilung",
+    "kuerzel": "V",
+    "name": "Verfahren und Vernehmlassungen",
+    "parentId": "leitung",
+    "leitungPersonId": "p-rochat-christine",
+    "beschreibung": "Besondere Verwaltungsverfahren, Vernehmlassungen, Einsprachen und die amtliche Pünktlichkeit.",
+    "standortId": "st-bellinzona",
+    "titel": "Abteilung V: Verfahren und Vernehmlassungen",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/abt-2.html",
+    "leitung": {
+      "id": "p-rochat-christine",
+      "name": "Prof. Dr. Christine Rochat",
+      "funktion": "Leiterin Abteilung Verfahren und Vernehmlassungen"
+    },
+    "childIds": [
+      "ref-21",
+      "ref-22",
+      "ref-23",
+      "ref-24"
+    ],
+    "personIds": [
+      "p-rochat-christine"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-2.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-imboden-kurt",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Kurt",
+      "nachname": "Imboden",
+      "funktion": "Sektionschef Fristen und Pünktlichkeit",
+      "einheitId": "ref-24",
+      "email": "kurt.imboden@bba-bund.example",
+      "telefon": "+41 58 999 44 00",
+      "kurzvita": "Amtlicher Pünktlichkeitsexperte; ist in 34 Dienstjahren nie zu spät gekommen, einmal aber 40 Sekunden zu früh.",
+      "name": "Kurt Imboden",
+      "portrait": "assets/img/ch/personen/p-imboden-kurt.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-imboden-kurt.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-imboden-kurt.html",
+      "einheit": {
+        "id": "ref-24",
+        "name": "Sektion V4: Fristen und Pünktlichkeit",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-24.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "ref-24"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-imboden-kurt.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-puenktlichkeit",
+      "titel": "Amtliche Pünktlichkeitsauskunft",
+      "kategorie": "Beratung",
+      "beschreibung": "Verbindliche Auskunft darüber, ob ein Ereignis pünktlich, knapp pünktlich oder bereits verspätet war. Toleranz: 59 Sekunden.",
+      "einheitIds": [
+        "ref-24"
+      ],
+      "rechtsgrundlage": "Art. 16 BABG"
+    }
+  ],
+  "standort": {
+    "id": "st-bellinzona",
+    "name": "Sede di Bellinzona",
+    "typ": "Standort",
+    "strasse": "Via dei Casi Speciali 3",
+    "plz": "6500",
+    "ort": "Bellinzona",
+    "telefon": "+41 58 999 40 00",
+    "beschreibung": "Standort der Abteilung Verfahren und Vernehmlassungen. Die Sitzungen beginnen pünktlich, der Espresso danach ebenfalls.",
+    "bild": "assets/img/ch/standorte/bellinzona.jpg",
+    "einheitIds": [
+      "abt-2"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-04-puenktlichkeit",
+      "titel": "Grundsatzentscheid: 08:00:59 Uhr gilt noch als pünktlich",
+      "datum": "2026-04-15",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-04-puenktlichkeit.html"
+    }
+  ]
+}

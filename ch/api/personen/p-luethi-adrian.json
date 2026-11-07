@@ -1,0 +1,59 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-07",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-luethi-adrian",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Adrian",
+    "nachname": "Lüthi",
+    "funktion": "Sektionschef Informationssicherheit (ISBO)",
+    "einheitId": "ref-44",
+    "email": "adrian.luethi@bba-bund.example",
+    "telefon": "+41 58 999 64 00",
+    "kurzvita": "Informationssicherheitsbeauftragter des Amtes.",
+    "name": "Adrian Lüthi",
+    "portrait": "assets/img/ch/personen/p-luethi-adrian.jpg",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-luethi-adrian.jpg",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-luethi-adrian.html",
+    "einheit": {
+      "id": "ref-44",
+      "name": "Sektion D4: Informationssicherheit",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-44.html"
+    },
+    "abteilungId": "abt-4",
+    "standortId": "st-biel",
+    "leitetEinheitIds": [
+      "ref-44"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-luethi-adrian.json"
+  },
+  "einheit": {
+    "id": "ref-44",
+    "typ": "referat",
+    "kuerzel": "D4",
+    "name": "Informationssicherheit",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-luethi-adrian",
+    "standortId": "st-biel",
+    "titel": "Sektion D4: Informationssicherheit",
+    "typLabel": "Sektion",
+    "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-44.html",
+    "leitung": {
+      "id": "p-luethi-adrian",
+      "name": "Adrian Lüthi",
+      "funktion": "Sektionschef Informationssicherheit (ISBO)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-luethi-adrian"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-44.json"
+  },
+  "news": []
+}
