@@ -6,7 +6,7 @@
   "pfad": "",
   "name": "Bundesamt für besondere Angelegenheiten",
   "kurzname": "BAbA",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "typ": "Bundesoberbehörde",
   "geschaeftsbereich": "Bundesministerium für Allgemeines und Übriges (fiktiv)",
   "zuordnung": "Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Allgemeines und Übriges (fiktiv)",
@@ -133,7 +133,7 @@
     "bild": "assets/img/hero/hero-atrium.jpg",
     "alt": "Atrium des Hauptsitzes in Bonn"
   },
-  "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Keine echte Einrichtung des Bundes.",
+  "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Keine echte Einrichtung des Bundes.",
   "leitfadenKriterien": [
     "Einmaligkeit des Sachverhalts",
     "Fehlende Regelungszuständigkeit",

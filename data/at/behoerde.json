@@ -7,7 +7,7 @@
   "name": "Bundesamt für besondere und sonstige Angelegenheiten",
   "kurzname": "BBSA",
   "markeZeile": "BBSA · gegr. 1873",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "typ": "Bundesamt",
   "geschaeftsbereich": "Bundesministerium für Allgemeines, Übriges und Sonstiges (BMAÜS, fiktiv)",
   "zuordnung": "Nachgeordnete Dienststelle des Bundesministeriums für Allgemeines, Übriges und Sonstiges (BMAÜS, fiktiv)",
@@ -69,7 +69,7 @@
   "jahresberichtZitat": "Was besonders ist, entscheiden wir. Was sonstig ist, auch.",
   "hero": { "bild": "assets/img/at/hero/hero-gebaeude.jpg", "alt": "Amtsgebäude des BBSA an einem Wiener Boulevard im Abendlicht" },
   "heroInnen": { "bild": "assets/img/at/hero/hero-stiege.jpg", "alt": "Prunkstiege im Amtsgebäude Wien" },
-  "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Keine Einrichtung der Republik Österreich.",
+  "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Keine Einrichtung der Republik Österreich.",
   "leitfadenKriterien": [
     "Der Sachverhalt ist besonders (→ besondere Angelegenheit)",
     "Der Sachverhalt ist nicht besonders, aber auch nicht gewöhnlich (→ sonstige Angelegenheit)",

@@ -1,6 +1,6 @@
 # Bundesamt für besondere Angelegenheiten (BBA) – Länderversion Schweiz
 
-> Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.
+> Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.
 > Das Bundesamt für besondere Angelegenheiten (BBA) ist das Kompetenzzentrum des Bundes für alles, was weder in eine Bundes- noch in eine Kantonszuständigkeit passt. Es klärt Sonderfälle zwischen den 26 Kantonen, führt Vernehmlassungen zu Unvorhergesehenem durch, entscheidet über alpine Sonderfälle und führt das Eidgenössische Register besonderer Angelegenheiten (ERbA). Selbstverständlich termingerecht.
 
 Leitung: Dr. Ursula Brändli (Direktorin). Hauptsitz: Ausnahmegasse 12, 3011 Bern. Kontakt: +41 58 999 10 00, info@bba-bund.example.

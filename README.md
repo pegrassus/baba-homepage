@@ -1,6 +1,6 @@
 # Bundesamt für besondere Angelegenheiten – fiktive Behörden-Homepages (DE · CH · AT)
 
-Statische Demo-Websites als Datenquelle für **Actanova Studio** (Abruf per MCP). Alle Personen, Adressen und Vorgänge sind erfunden; alle Bilder wurden mit Higgsfield erzeugt.
+Statische Demo-Websites als Datenquelle für **Acta Nova Studio** (Abruf per MCP). Alle Personen, Adressen und Vorgänge sind erfunden; alle Bilder wurden mit Higgsfield erzeugt.
 
 | Variante | Behörde | Live | Daten |
 |---|---|---|---|
@@ -32,7 +32,7 @@ Bilder: DE unter `assets/img/…`, CH unter `assets/img/ch/…`, AT unter `asset
 Herkunft der Higgsfield-Bilder: `tools/assets-manifest.json` (erneut laden: `python -I tools/fetch-assets.py`).
 Logos CH/AT neu erzeugen: `python -I tools/make-logos.py`.
 
-## Für Actanova / MCP
+## Für Acta Nova / MCP
 
 Jede Variante hat dieselbe API unter ihrem Pfad (`api/…`, `ch/api/…`, `at/api/…`). Übersicht aller Varianten: `api/varianten.json`.
 

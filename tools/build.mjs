@@ -509,7 +509,7 @@ function finish() {
   const htmlPages = written.filter((f) => f.endsWith(".html"));
   fs.writeFileSync(path.join(ROOT, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${htmlPages.map((f) => `  <url><loc>${abs(f)}</loc><lastmod>${BUILD_DATE}</lastmod></url>`).join("\n")}\n</urlset>\n`);
   fs.writeFileSync(path.join(ROOT, "robots.txt"), `# Fiktive Behörden – Demo. Inhalte dürfen von Werkzeugen (z. B. MCP) abgerufen werden.\nUser-agent: *\nAllow: /\nSitemap: ${abs("sitemap.xml")}\n`);
-  fs.writeFileSync(path.join(ROOT, "api", "varianten.json"), JSON.stringify({ stand: BUILD_DATE, hinweis: "Fiktive Behörden – Demonstrationsinhalt für Actanova.", varianten: VARIANT_META.map((m) => ({ variante: m.id, land: m.land, name: m.name, kurzname: m.kurzname, sprache: m.locale, website: abs(m.pfad + "index.html"), api: abs(m.pfad + "api/index.json"), llms: abs(m.pfad + "llms.txt") })) }, null, 2) + "\n");
+  fs.writeFileSync(path.join(ROOT, "api", "varianten.json"), JSON.stringify({ stand: BUILD_DATE, hinweis: "Fiktive Behörden – Demonstrationsinhalt für Acta Nova.", varianten: VARIANT_META.map((m) => ({ variante: m.id, land: m.land, name: m.name, kurzname: m.kurzname, sprache: m.locale, website: abs(m.pfad + "index.html"), api: abs(m.pfad + "api/index.json"), llms: abs(m.pfad + "llms.txt") })) }, null, 2) + "\n");
 
   // Linkprüfung über alle Varianten
   const missing = [];

@@ -13,7 +13,7 @@
     { "sprache": "rm", "name": "Uffizi federal per fatgs particulars", "kurz": "UFFP" }
   ],
   "markeZeile": "BBA",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "typ": "Bundesamt",
   "geschaeftsbereich": "Eidgenössisches Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
   "zuordnung": "Bundesamt im Eidgenössischen Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
@@ -74,7 +74,7 @@
   "jahresberichtZitat": "Ordnung ist, wenn auch die Ausnahme ein Formular hat.",
   "hero": { "bild": "assets/img/ch/hero/hero-gebaeude.jpg", "alt": "Hauptsitz des BBA in Bern mit Alpenpanorama" },
   "heroInnen": { "bild": "assets/img/ch/hero/hero-atrium.jpg", "alt": "Holz-Atrium im Hauptsitz Bern" },
-  "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Keine Einrichtung der Schweizerischen Eidgenossenschaft.",
+  "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Keine Einrichtung der Schweizerischen Eidgenossenschaft.",
   "leitfadenKriterien": [
     "Keine Bundes- und keine Kantonszuständigkeit",
     "Betroffenheit von mindestens zwei Kantonen mit unterschiedlicher Meinung",

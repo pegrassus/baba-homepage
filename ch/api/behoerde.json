@@ -3,8 +3,8 @@
   "variante": "ch",
   "land": "Schweiz",
   "sprache": "de-CH",
-  "stand": "2026-11-07",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "behoerde": {
     "id": "bba",
     "variante": "ch",
@@ -36,7 +36,7 @@
       }
     ],
     "markeZeile": "BBA",
-    "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+    "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
     "typ": "Bundesamt",
     "geschaeftsbereich": "Eidgenössisches Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
     "zuordnung": "Bundesamt im Eidgenössischen Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
@@ -135,7 +135,7 @@
       "bild": "assets/img/ch/hero/hero-atrium.jpg",
       "alt": "Holz-Atrium im Hauptsitz Bern"
     },
-    "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Actanova. Keine Einrichtung der Schweizerischen Eidgenossenschaft.",
+    "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Keine Einrichtung der Schweizerischen Eidgenossenschaft.",
     "leitfadenKriterien": [
       "Keine Bundes- und keine Kantonszuständigkeit",
       "Betroffenheit von mindestens zwei Kantonen mit unterschiedlicher Meinung",

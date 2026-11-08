@@ -1,6 +1,6 @@
 # Bundesamt für besondere Angelegenheiten (BAbA) – Länderversion Deutschland
 
-> Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.
+> Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.
 > Das Bundesamt für besondere Angelegenheiten (BAbA) ist zuständig für alle Angelegenheiten des Bundes, die keiner anderen Stelle eindeutig zugeordnet werden können, sowie für Verfahren, die aufgrund ihrer Besonderheit einer gesonderten Behandlung bedürfen. Es führt das Bundesregister besonderer Angelegenheiten (BRbA), berät Bundes- und Landesbehörden in Grenz- und Sonderfällen und dokumentiert außergewöhnliche Ereignisse von öffentlichem Interesse.
 
 Leitung: Dr. Hanna Wellbrock (Präsidentin). Hauptsitz: Am Sonderweg 1, 53113 Bonn. Kontakt: +49 228 4711-0, poststelle@baba-bund.example.

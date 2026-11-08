@@ -1,6 +1,6 @@
 # Bundesamt für besondere und sonstige Angelegenheiten (BBSA) – Länderversion Österreich
 
-> Fiktive Behörde – Demonstrationsinhalt für Actanova. Alle Personen, Adressen und Vorgänge sind frei erfunden.
+> Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.
 > Das Bundesamt für besondere und sonstige Angelegenheiten (BBSA) ist zuständig für alle Angelegenheiten des Bundes, die besonders sind, sowie für jene, die zwar nicht besonders, aber auch nirgends sonst unterzubringen sind („sonstige Angelegenheiten“). Es entscheidet mit Bescheid, stellt Fenstertage fest, führt das Kuriositätenkabinett und das Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA) – seit 1873, mit kurzer Unterbrechung für die Mittagspause.
 
 Leitung: Mag.a Dr.in Elisabeth Hinterberger (Präsidentin). Hauptsitz: Ausnahmegasse 7, 1010 Wien. Kontakt: +43 1 4711-0, einlaufstelle@bbsa-bund.example.
