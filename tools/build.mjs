@@ -34,7 +34,7 @@ const ACCESSIBILITY_LAW = {
   at: "dem Web-Zugänglichkeits-Gesetz (WZG)",
 };
 const SEARCH_EXAMPLE = { de: "z. B. Register, Fristen, Kobold", ch: "z. B. Kuh, Echo, Pünktlichkeit", at: "z. B. Föhn, Stempel, Fenstertag" };
-const COMMON_PAGES = ["index.html", "ueber-uns.html", "organisation.html", "personen.html", "aufgaben.html", "aktuelles.html", "service.html", "presse.html", "kontakt.html", "impressum.html", "datenschutz.html", "barrierefreiheit.html", "suche.html", "daten.html"];
+const COMMON_PAGES = ["index.html", "ueber-uns.html", "auftrag.html", "organisation.html", "personen.html", "aufgaben.html", "aktuelles.html", "service.html", "presse.html", "kontakt.html", "impressum.html", "datenschutz.html", "barrierefreiheit.html", "suche.html", "daten.html"];
 
 for (const V of VARIANTS) buildVariant(V);
 finish();
@@ -60,6 +60,12 @@ function buildVariant({ id: VID, behoerde, org, personen, aufgaben, news: newsUn
   einheiten.forEach((u) => { need(E, u.parentId, `einheit ${u.id}.parentId`); need(P, u.leitungPersonId, `einheit ${u.id}.leitungPersonId`); need(P, u.vertretungPersonId, `einheit ${u.id}.vertretungPersonId`); need(S, u.standortId, `einheit ${u.id}.standortId`); });
   personen.forEach((p) => need(E, p.einheitId, `person ${p.id}.einheitId`));
   aufgaben.forEach((a) => a.einheitIds.forEach((id) => need(E, id, `aufgabe ${a.id}.einheitIds`)));
+  const SZ = behoerde.auftragSeite || null; // öffentliche Auftrag-Seite
+  if (SZ) for (const key of ["titel", "kurzfassung", "einleitung", "zustaendig", "nichtZustaendig"]) if (!SZ[key]) errors.push(`auftragSeite.${key} fehlt`);
+  // Musterlösung (nur lokal, referenz/ ist nicht im Git und wird nicht veröffentlicht)
+  const REF_FILE = path.join(ROOT, "referenz", VID, "szenario.json");
+  const REF = fs.existsSync(REF_FILE) ? JSON.parse(fs.readFileSync(REF_FILE, "utf8")) : null;
+  if (REF) { (REF.vorgangsarten || []).forEach((v) => need(E, v.einheitId, `referenz vorgangsarten ${v.id}.einheitId`)); (REF.beispielfaelle || []).forEach((f, i) => need(E, f.einheitId, `referenz beispielfaelle[${i}].einheitId`)); }
   news.forEach((n) => { need(E, n.einheitId, `news ${n.id}.einheitId`); n.personIds.forEach((id) => need(P, id, `news ${n.id}.personIds`)); if (!exists(n.bild)) errors.push(`news ${n.id}: Bild fehlt (${n.bild})`); });
   standorte.forEach((s) => { s.einheitIds.forEach((id) => need(E, id, `standort ${s.id}.einheitIds`)); if (!exists(s.bild)) errors.push(`standort ${s.id}: Bild fehlt`); });
   downloads.forEach((d) => need(E, d.einheitId, `download ${d.id}.einheitId`));
@@ -115,11 +121,11 @@ function buildVariant({ id: VID, behoerde, org, personen, aufgaben, news: newsUn
     };
   }
   const ldPerson = (p) => ({ "@context": "https://schema.org", "@type": "Person", "@id": abs(url.person(p.id)), name: fullName(p), givenName: p.vorname, familyName: p.nachname, honorificPrefix: p.titel || undefined, honorificSuffix: p.titelNach || undefined, jobTitle: p.funktion, email: p.email, telephone: p.telefon, image: abs(portrait(p)), url: abs(url.person(p.id)), description: p.kurzvita, worksFor: { "@type": "GovernmentOrganization", name: unitTitle(E[p.einheitId]), url: abs(url.einheit(p.einheitId)), parentOrganization: orgRef } });
-  const ldNews = (n) => ({ "@context": "https://schema.org", "@type": "NewsArticle", "@id": abs(url.news(n.id)), headline: n.titel, description: n.teaser, datePublished: n.datum, image: abs(n.bild), articleSection: n.kategorie, inLanguage: LOCALE, author: orgRef, publisher: orgRef, mentions: n.personIds.map((id) => ({ "@type": "Person", name: fullName(P[id]), url: abs(url.person(id)) })) });
+  const ldNews = (n) => ({ "@context": "https://schema.org", "@type": "NewsArticle", "@id": abs(url.news(n.id)), headline: n.titel, description: n.teaser, datePublished: n.datum, image: abs(n.bild), articleSection: n.kategorie, articleBody: plain(n.text), wordCount: plain(n.text).split(/\s+/).length, inLanguage: LOCALE, author: orgRef, publisher: orgRef, mentions: n.personIds.map((id) => ({ "@type": "Person", name: fullName(P[id]), url: abs(url.person(id)) })) });
   const ldBreadcrumbs = (crumbs) => ({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: crumbs.map((c, i) => ({ "@type": "ListItem", position: i + 1, name: c[0], item: abs(c[1]) })) });
 
   // ---------- Layout ----------
-  const NAV = [["index.html", "Startseite"], ["ueber-uns.html", "Über uns"], ["organisation.html", "Organisation"], ["personen.html", "Personen"], ["aufgaben.html", "Aufgaben"], ["aktuelles.html", "Aktuelles"], ["service.html", "Service"], ["presse.html", "Presse"]];
+  const NAV = [["index.html", "Startseite"], ["ueber-uns.html", "Über uns"], ...(SZ ? [["auftrag.html", "Auftrag"]] : []), ["organisation.html", "Organisation"], ["personen.html", "Personen"], ["aufgaben.html", "Aufgaben"], ["aktuelles.html", "Aktuelles"], ["service.html", "Service"], ["presse.html", "Presse"]];
   const brandName = esc(behoerde.name).replace(" für ", " für<br>");
   function page({ rel, title, description, active, crumbs = [], body, jsonld = [], alternate }) {
     const depth = rel.split("/").length - 1;
@@ -176,7 +182,7 @@ ${body}
 <div class="footer-grid">
 <div><div class="footer-brand"><img src="@/${behoerde.logo.negativ}" alt="" width="44" height="44">${esc(behoerde.name)}</div>
 <p>${esc(hs.strasse)}<br>${esc(hs.plz)} ${esc(hs.ort)}<br>Telefon ${esc(behoerde.kontakt.telefon)}<br><a href="mailto:${esc(behoerde.kontakt.email)}">${esc(behoerde.kontakt.email)}</a></p></div>
-<div><h2>Das Amt</h2><ul><li><a href="@/${VP}ueber-uns.html">Über uns</a></li><li><a href="@/${VP}organisation.html">Organigramm</a></li><li><a href="@/${VP}personen.html">Ansprechpersonen</a></li><li><a href="@/${VP}aufgaben.html">Aufgaben</a></li></ul></div>
+<div><h2>Das Amt</h2><ul><li><a href="@/${VP}ueber-uns.html">Über uns</a></li>${SZ ? `<li><a href="@/${VP}auftrag.html">Auftrag und Zuständigkeit</a></li>` : ""}<li><a href="@/${VP}organisation.html">Organigramm</a></li><li><a href="@/${VP}personen.html">Ansprechpersonen</a></li><li><a href="@/${VP}aufgaben.html">Aufgaben</a></li></ul></div>
 <div><h2>Service</h2><ul><li><a href="@/${VP}service.html">Formulare &amp; Downloads</a></li><li><a href="@/${VP}aktuelles.html">Aktuelles</a></li><li><a href="@/${VP}presse.html">Presse</a></li><li><a href="@/${VP}kontakt.html">Kontakt</a></li></ul></div>
 <div><h2>Rechtliches</h2><ul><li><a href="@/${VP}impressum.html">Impressum</a></li><li><a href="@/${VP}datenschutz.html">Datenschutz</a></li><li><a href="@/${VP}barrierefreiheit.html">Barrierefreiheit</a></li><li><a href="@/${VP}daten.html">Offene Daten &amp; API</a></li></ul></div>
 </div>
@@ -199,7 +205,12 @@ ${body}
   const personCard = (p) => `<article class="card person-card"><img src="@/${portrait(p)}" alt="Porträt ${esc(fullName(p))}" loading="lazy" width="640" height="800"><div class="card-body"><h3><a href="@/${url.person(p.id)}">${esc(fullName(p))}</a></h3><div class="person-role">${esc(p.funktion)}</div><div class="person-unit">${esc(unitTitle(E[p.einheitId]))}</div></div></article>`;
   const newsCard = (n) => `<article class="card"><img src="@/${n.bild}" alt="" loading="lazy" width="1400" height="788"><div class="card-body"><div class="meta"><time datetime="${n.datum}">${fmtDate(n.datum)}</time><span class="tag">${esc(n.kategorie)}</span></div><h3><a href="@/${url.news(n.id)}">${esc(n.titel)}</a></h3><p>${esc(n.teaser)}</p><a class="more" href="@/${url.news(n.id)}" aria-label="Weiterlesen: ${esc(n.titel)}">Weiterlesen</a></div></article>`;
   const unitLink = (id) => `<a href="@/${url.einheit(id)}">${esc(unitTitle(E[id]))}</a>`;
-  const taskCard = (a) => `<article class="card task" id="${a.id}"><div class="card-body"><span class="tag tag-gold">${esc(a.kategorie)}</span><h3 style="margin-top:.5em">${esc(a.titel)}</h3><p>${esc(a.beschreibung)}</p><div class="meta">Rechtsgrundlage: ${esc(a.rechtsgrundlage)}</div><div class="units">${a.einheitIds.map((id) => `<a class="tag" href="@/${url.einheit(id)}">${esc(unitShort(E[id]))}</a>`).join("")}</div></div></article>`;
+  const taskCard = (a) => `<article class="card task"><div class="card-body"><span class="tag tag-gold">${esc(a.kategorie)}</span><h3 style="margin-top:.5em"><a href="@/${VP}aufgaben.html#${a.id}">${esc(a.titel)}</a></h3><p>${esc(a.beschreibung)}</p><div class="meta">Rechtsgrundlage: ${esc(a.rechtsgrundlage)}</div><div class="units">${a.einheitIds.map((id) => `<a class="tag" href="@/${url.einheit(id)}">${esc(unitShort(E[id]))}</a>`).join("")}</div></div></article>`;
+  const para = (t) => (t.startsWith("## ") ? `<h2>${esc(t.slice(3))}</h2>` : `<p>${esc(t)}</p>`);
+  const plain = (arr) => arr.filter((t) => !t.startsWith("## ")).join("\n\n");
+  const taskDetail = (a) => `<article class="task-detail" id="${a.id}"><span class="tag tag-gold">${esc(a.kategorie)}</span><h3>${esc(a.titel)}</h3><p class="task-lead">${esc(a.beschreibung)}</p>
+${(a.details || []).map(para).join("")}${a.beispiele?.length ? `<h4>Typische Fälle</h4><ul class="checklist">${a.beispiele.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+<dl class="facts facts-compact">${a.leistung ? [["Einreichung", a.leistung.antrag], ["Bearbeitungsdauer", a.leistung.dauer], ["Kosten", a.leistung.kosten]].filter(([, v]) => v).map(([kk, v]) => `<div><dt>${kk}</dt><dd>${esc(v)}</dd></div>`).join("") : ""}<div><dt>Rechtsgrundlage</dt><dd>${esc(a.rechtsgrundlage)}</dd></div><div><dt>Zuständig</dt><dd>${a.einheitIds.map(unitLink).join(", ")}</dd></div></dl></article>`;
   const orgBox = (u, cls = "") => { const l = P[u.leitungPersonId]; return `<div class="org-box ${cls}"><a href="@/${url.einheit(u.id)}">${u.typ === "referat" ? `<span class="org-kuerzel">${esc(u.kuerzel)}</span>` : ""}${esc(u.name)}</a>${l ? `<span class="lead-name">${esc(fullName(l))}</span>` : ""}</div>`; };
   const newsList = (list) => `<ul class="list-plain">${list.map((n) => `<li><time datetime="${n.datum}">${fmtDate(n.datum)}</time> – <a href="@/${url.news(n.id)}">${esc(n.titel)}</a></li>`).join("")}</ul>`;
 
@@ -210,20 +221,21 @@ ${body}
     alternate: "api/behoerde.json",
     body: `<section class="hero" aria-labelledby="hero-titel"><img src="@/${behoerde.hero.bild}" alt="${esc(behoerde.hero.alt)}" width="2400" height="1029" fetchpriority="high">
 <div class="container"><span class="hero-kicker">${esc(behoerde.typ)} · seit ${behoerde.gruendung.slice(0, 4)}</span><h1 id="hero-titel">${esc(behoerde.claim)}</h1><p>${esc(behoerde.auftrag.split(". ")[0])}.</p>
-<div class="btn-row"><a class="btn btn-primary" href="@/${VP}aufgaben.html">Unsere Aufgaben</a><a class="btn btn-ghost" href="@/${VP}service.html">${esc(B.antraegeButton)}</a></div></div></section>
+<div class="btn-row">${SZ ? `<a class="btn btn-primary" href="@/${VP}auftrag.html">Wofür wir da sind</a><a class="btn btn-ghost" href="@/${VP}aufgaben.html">Unsere Aufgaben</a>` : `<a class="btn btn-primary" href="@/${VP}aufgaben.html">Unsere Aufgaben</a><a class="btn btn-ghost" href="@/${VP}service.html">${esc(B.antraegeButton)}</a>`}</div></div></section>
 <section class="quick" aria-label="Schnellzugriff"><div class="container"><div class="quick-grid">
 <a href="@/${VP}service.html">${icon("doc")}<div><strong>${esc(B.antraegeTitel)}</strong><span>${esc(B.antraegeText)}</span></div></a>
 <a href="@/${VP}organisation.html">${icon("org")}<div><strong>Organisation</strong><span>Organigramm mit ${abteilungen.length} ${esc(B.abteilungPlural)} und ${referate.length} ${esc(B.referatPlural)}</span></div></a>
 <a href="@/${VP}personen.html">${icon("people")}<div><strong>Ansprechpersonen</strong><span>Leitung und ${esc(B.referatsleitungen)}</span></div></a>
 <a href="@/${VP}daten.html">${icon("data")}<div><strong>Offene Daten</strong><span>Alle Inhalte als JSON-Schnittstelle</span></div></a>
 </div></div></section>
-<section class="section"><div class="container"><div class="section-head"><div><div class="eyebrow">Aktuelles</div><h2>Neuigkeiten aus dem Amt</h2></div><a class="btn btn-outline" href="@/${VP}aktuelles.html">Alle Meldungen</a></div>
+${SZ ? `<section class="section"><div class="container mission"><div><div class="eyebrow">Wofür wir da sind</div><h2>${esc(SZ.titel)}</h2><p class="lead">${esc(SZ.kurzfassung)}</p><p>${esc(SZ.einleitung[0])}</p><div class="btn-row"><a class="btn btn-primary" href="@/${VP}auftrag.html">Mehr über unseren Auftrag</a></div></div><div class="aside-box"><h3>Wir sind zuständig für</h3><ul class="checklist">${SZ.zustaendig.slice(0, 5).map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div></div></section>` : ""}
+<section class="section section-soft"><div class="container"><div class="section-head"><div><div class="eyebrow">Aktuelles</div><h2>Neuigkeiten aus dem Amt</h2></div><a class="btn btn-outline" href="@/${VP}aktuelles.html">Alle Meldungen</a></div>
 <div class="grid grid-3">${news.slice(0, 3).map(newsCard).join("")}</div></div></section>
-<section class="section section-soft"><div class="container"><div class="section-head"><div><div class="eyebrow">Das ${esc(behoerde.kurzname)} in Zahlen</div><h2>Besonders. Seit ${behoerde.gruendung.slice(0, 4)}.</h2></div></div>
+<section class="section"><div class="container"><div class="section-head"><div><div class="eyebrow">Das ${esc(behoerde.kurzname)} in Zahlen</div><h2>Besonders. Seit ${behoerde.gruendung.slice(0, 4)}.</h2></div></div>
 <div class="stats">${behoerde.kennzahlen.map((k) => `<div class="stat"><div class="stat-value">${esc(k.wert)}</div><div class="stat-label">${esc(k.label)}</div></div>`).join("")}</div></div></section>
-<section class="section"><div class="container"><div class="section-head"><div><div class="eyebrow">Was wir tun</div><h2>Aufgaben im Überblick</h2></div><a class="btn btn-outline" href="@/${VP}aufgaben.html">Alle Aufgaben</a></div>
+<section class="section section-soft"><div class="container"><div class="section-head"><div><div class="eyebrow">Was wir tun</div><h2>Aufgaben im Überblick</h2></div><a class="btn btn-outline" href="@/${VP}aufgaben.html">Alle Aufgaben</a></div>
 <div class="grid grid-3">${aufgaben.filter((a) => a.kategorie === "Kernaufgabe").slice(0, 3).map(taskCard).join("")}</div></div></section>
-<section class="section section-soft"><div class="container greeting"><img src="@/${portrait(leitung)}" alt="Porträt ${esc(fullName(leitung))}" width="640" height="800" loading="lazy">
+<section class="section"><div class="container greeting"><img src="@/${portrait(leitung)}" alt="Porträt ${esc(fullName(leitung))}" width="640" height="800" loading="lazy">
 <div><div class="eyebrow">${esc(behoerde.grusswort.titel)}</div><h2>Willkommen beim ${esc(behoerde.kurzname)}</h2><blockquote><p>${VID === "ch" ? "«" : "„"}${esc(behoerde.grusswort.text)}${VID === "ch" ? "»" : "“"}</p></blockquote>
 <p><strong><a href="@/${url.person(leitung.id)}">${esc(fullName(leitung))}</a></strong><br>${esc(leitung.funktion)}, ${esc(behoerde.name)}</p></div></div></section>
 `,
@@ -239,7 +251,7 @@ ${body}
 <h2 style="margin-top:1.5em">Geschichte</h2><ol class="timeline">${behoerde.geschichte.map((g) => `<li><strong>${esc(g.jahr)}</strong>${esc(g.ereignis)}</li>`).join("")}</ol>
 </div><aside>
 <div class="aside-box"><h2>Auf einen Blick</h2><dl class="facts" style="margin:0"><div><dt>Gründung</dt><dd>${fmtDate(behoerde.gruendung)}</dd></div><div><dt>Leitung</dt><dd><a href="@/${url.person(leitung.id)}">${esc(fullName(leitung))}</a></dd></div><div><dt>Hauptsitz</dt><dd>${esc(hs.ort)}</dd></div>${behoerde.kennzahlen.map((k) => `<div><dt>${esc(k.label)}</dt><dd>${esc(k.wert)}</dd></div>`).join("")}</dl></div>
-<div class="aside-box"><h2>Weiterführend</h2><ul class="list-plain"><li><a href="@/${VP}organisation.html">Organigramm</a></li><li><a href="@/${VP}aufgaben.html">Aufgaben</a></li><li><a href="@/${VP}service.html">Jahresbericht</a></li></ul></div>
+<div class="aside-box"><h2>Weiterführend</h2><ul class="list-plain">${SZ ? `<li><a href="@/${VP}auftrag.html">Auftrag und Zuständigkeit</a></li>` : ""}<li><a href="@/${VP}organisation.html">Organigramm</a></li><li><a href="@/${VP}aufgaben.html">Aufgaben</a></li><li><a href="@/${VP}service.html">Jahresbericht</a></li></ul></div>
 </aside></div></section>
 <section class="section section-soft"><div class="container"><h2>Unsere Standorte</h2><div class="grid grid-3">${standorte.map((s) => `<article class="card" id="${s.id}"><img src="@/${s.bild}" alt="${esc(s.name)}" loading="lazy" width="1400" height="933"><div class="card-body"><span class="tag">${esc(s.typ)}</span><h3 style="margin-top:.5em">${esc(s.name)}</h3><p>${esc(standortAddr(s))}<br>Telefon ${esc(s.telefon)}</p><p>${esc(s.beschreibung)}</p></div></article>`).join("")}</div></div></section>`,
   });
@@ -322,7 +334,8 @@ ${pn.length ? `<h2>Erwähnt in</h2>${newsList(pn)}` : ""}
     rel: url.page("aufgaben.html"), active: "aufgaben.html", title: "Aufgaben", description: `Aufgaben und Leistungen des ${behoerde.name}.`, crumbs: [["Aufgaben", url.page("aufgaben.html")]], alternate: "api/aufgaben.json",
     jsonld: [{ "@context": "https://schema.org", "@type": "ItemList", name: `Aufgaben des ${behoerde.kurzname}`, itemListElement: aufgaben.map((a, i) => ({ "@type": "ListItem", position: i + 1, item: { "@type": "GovernmentService", name: a.titel, description: a.beschreibung, provider: orgRef, url: abs(url.page("aufgaben.html#" + a.id)) } })) }],
     body: `<div class="container page-head"><div class="eyebrow">Was wir tun</div><h1>Aufgaben und Leistungen</h1><p class="lead">${esc(behoerde.auftrag)}</p></div>
-${kategorien.map((k) => `<section class="section" style="padding:24px 0"><div class="container"><h2>${esc(k)}</h2><div class="grid grid-3">${aufgaben.filter((a) => a.kategorie === k).map(taskCard).join("")}</div></div></section>`).join("")}`,
+<nav class="container toc" aria-label="Inhalt">${kategorien.map((k) => `<div><strong>${esc(k)}</strong><ul class="list-plain">${aufgaben.filter((a) => a.kategorie === k).map((a) => `<li><a href="#${a.id}">${esc(a.titel)}</a></li>`).join("")}</ul></div>`).join("")}</nav>
+${kategorien.map((k) => `<section class="section" style="padding:24px 0"><div class="container"><h2>${esc(k)}</h2><div class="task-list">${aufgaben.filter((a) => a.kategorie === k).map(taskDetail).join("")}</div></div></section>`).join("")}`,
   });
 
   // Aktuelles
@@ -336,7 +349,7 @@ ${kategorien.map((k) => `<section class="section" style="padding:24px 0"><div cl
       rel: url.news(n.id), active: "aktuelles.html", title: n.titel, description: n.teaser, crumbs: [["Aktuelles", url.page("aktuelles.html")], [n.titel, url.news(n.id)]], jsonld: [ldNews(n)], alternate: `api/news/${n.id}.json`,
       body: `<section class="section"><div class="container layout-aside"><article class="article"><div class="meta"><time datetime="${n.datum}">${fmtDate(n.datum)}</time><span class="tag">${esc(n.kategorie)}</span></div><h1>${esc(n.titel)}</h1><p class="lead">${esc(n.teaser)}</p>
 <figure class="article-figure"><img src="@/${n.bild}" alt="" width="1400" height="788"><figcaption>Foto: ${esc(behoerde.kurzname)} (KI-generiert, fiktiv)</figcaption></figure>
-${n.text.map((t) => `<p>${esc(t)}</p>`).join("\n")}</article>
+${n.text.map(para).join("\n")}</article>
 <aside><div class="aside-box"><h2>Zuständig</h2><p>${unitLink(n.einheitId)}</p></div><div class="aside-box"><h2>Personen in dieser Meldung</h2><ul class="list-plain">${n.personIds.map((id) => `<li><a href="@/${url.person(id)}">${esc(fullName(P[id]))}</a><br><small>${esc(P[id].funktion)}</small></li>`).join("")}</ul></div>${presseBox}</aside></div></section>`,
     });
   }
@@ -409,14 +422,15 @@ ${standorte.map((s) => `<div class="aside-box"><h2>${esc(s.name)}</h2><p>${esc(b
   writeJson(`${VP}api/suche.json`, { eintraege: [
     ...personen.map((p) => ({ typ: "Person", titel: fullName(p), text: `${p.funktion} – ${unitTitle(E[p.einheitId])}. ${p.kurzvita}`, url: local(url.person(p.id)) })),
     ...einheiten.map((u) => ({ typ: typLabel[u.typ], titel: unitTitle(u), text: u.beschreibung || `Leitung: ${u.leitungPersonId ? fullName(P[u.leitungPersonId]) : "–"}`, url: local(url.einheit(u.id)) })),
-    ...aufgaben.map((a) => ({ typ: "Aufgabe", titel: a.titel, text: a.beschreibung, url: "aufgaben.html#" + a.id })),
-    ...news.map((n) => ({ typ: n.kategorie, titel: n.titel, text: n.teaser + " " + n.text.join(" "), url: local(url.news(n.id)) })),
+    ...aufgaben.map((a) => ({ typ: "Aufgabe", titel: a.titel, text: [a.beschreibung, ...(a.details || []), ...(a.beispiele || [])].join(" "), url: "aufgaben.html#" + a.id })),
+    ...(SZ ? [{ typ: "Seite", titel: SZ.titel, text: [SZ.kurzfassung, ...SZ.einleitung, ...SZ.zustaendig].join(" "), url: "auftrag.html" }] : []),
+    ...news.map((n) => ({ typ: n.kategorie, titel: n.titel, text: n.teaser + " " + plain(n.text), url: local(url.news(n.id)) })),
   ] });
   const endpoints = [
     ["api/behoerde.json", "Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte"],
     ["api/organisation.json", "Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)"],
     ["api/personen.json", "Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL"],
-    ["api/aufgaben.json", "Aufgaben und Leistungen mit zuständigen Einheiten"],
+    ["api/aufgaben.json", "Aufgaben und Leistungen mit zuständigen Einheiten, Details und Beispielen"],
     ["api/news.json", "Meldungen und Mitteilungen, neueste zuerst"],
     ["api/standorte.json", "Standorte mit Adressen"],
     ["api/downloads.json", "Formulare und Publikationen"],
@@ -435,12 +449,75 @@ ${standorte.map((s) => `<div class="aside-box"><h2>${esc(s.name)}</h2><p>${esc(b
 <h2 style="margin-top:32px">IDs</h2><p>Personen: <code>p-nachname-vorname</code>, Einheiten: <code>leitung</code>, <code>stab-*</code>, <code>abt-*</code>, <code>ref-*</code> (in dieser Version: ${esc(B.abteilung)} = <code>abt-*</code>, ${esc(B.referat)} = <code>ref-*</code>), Meldungen: <code>JJJJ-MM-stichwort</code>. Jede HTML-Seite verweist per <code>&lt;link rel="alternate" type="application/json"&gt;</code> auf ihr JSON-Gegenstück.</p></div></section>`,
   });
 
+  // Auftrag-Seite (öffentlich, bewusst ohne Prozessmodell)
+  if (SZ) {
+    page({
+      rel: url.page("auftrag.html"), active: "auftrag.html", title: SZ.titel, description: SZ.kurzfassung, crumbs: [["Auftrag", url.page("auftrag.html")]], jsonld: [ldOrganisation()], alternate: "api/behoerde.json",
+      body: `<div class="container page-head"><div class="eyebrow">Unser Auftrag</div><h1>${esc(SZ.titel)}</h1><p class="lead">${esc(SZ.kurzfassung)}</p></div>
+<section class="section" style="padding-top:8px"><div class="container layout-aside"><div class="prose">
+${SZ.einleitung.map(para).join("\n")}
+<h2>Wofür wir zuständig sind</h2><ul class="checklist">${SZ.zustaendig.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>
+<h2>Wofür wir nicht zuständig sind</h2><ul class="crosslist">${SZ.nichtZustaendig.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>
+</div><aside><div class="aside-box"><h2>Auf einen Blick</h2><dl class="facts facts-compact"><div><dt>Rechtsgrundlage</dt><dd>${esc(behoerde.rechtsgrundlage.titel)}</dd></div><div><dt>Leitung</dt><dd><a href="@/${url.person(leitung.id)}">${esc(fullName(leitung))}</a></dd></div><div><dt>Hauptsitz</dt><dd>${esc(hs.ort)}</dd></div></dl></div>
+<div class="aside-box"><h2>Weiterführend</h2><ul class="list-plain"><li><a href="@/${VP}aufgaben.html">Aufgaben und Leistungen</a></li><li><a href="@/${VP}service.html">Formulare und Downloads</a></li><li><a href="@/${VP}organisation.html">Organigramm</a></li><li><a href="@/${VP}aktuelles.html">Aktuelles</a></li></ul></div></aside></div></section>`,
+    });
+  }
+
+  // Musterlösung: nur lokal nach referenz/<variante>/musterloesung.md (nicht im Git, nicht veröffentlicht)
+  if (REF) {
+    const q = (t) => (VID === "ch" ? `«${t}»` : `„${t}“`);
+    const ref = `# Musterlösung: ${behoerde.name} (${behoerde.kurzname})
+
+Nur für die Auswertung. Diese Datei wird nicht veröffentlicht.
+Land: ${behoerde.land} · Sprache: ${LOCALE} · Gegründet: ${behoerde.gruendung.slice(0, 4)} · Hauptsitz: ${standortAddr(hs)}
+Leitung: ${fullName(leitung)} (${leitung.funktion}) · Rechtsgrundlage: ${behoerde.rechtsgrundlage.titel}
+Motto: ${q(behoerde.claim)}
+
+## Kurzfassung
+${REF.kurzfassung}
+
+## Auftrag
+${behoerde.auftrag}
+
+${REF.einleitung.join("\n\n")}
+
+## Zuständig
+${REF.zustaendig.map((x) => `- ${x}`).join("\n")}
+
+## Nicht zuständig
+${REF.nichtZustaendig.map((x) => `- ${x}`).join("\n")}
+
+## Aufbauorganisation (${B.leitung} → ${B.abteilungPlural} → ${B.referatPlural})
+- ${B.leitung}: ${fullName(leitung)}; ${B.stabPlural}: ${stabs.map((u) => `${u.name} (${fullName(P[u.leitungPersonId])})`).join(", ")}
+${abteilungen.map((a) => `- ${B.abteilung} ${a.kuerzel} ${a.name} (Leitung ${fullName(P[a.leitungPersonId])}): ${children(a.id).map((c) => `${c.kuerzel} ${c.name}`).join("; ")}`).join("\n")}
+
+## Vorgangsarten
+${REF.vorgangsarten.map((v) => `### ${v.titel} [${v.id}]\n${v.beschreibung}\n- Auslöser: ${v.ausloeser}\n- Ergebnis: ${v.ergebnis}\n- Frist: ${v.frist}\n- Zuständig: ${unitTitle(E[v.einheitId])} (${v.einheitId})`).join("\n\n")}
+
+## Typischer Verfahrensablauf
+${REF.ablauf.map((x, i) => `${i + 1}. ${x.schritt}: ${x.text}`).join("\n")}
+
+## Beteiligte
+${REF.beteiligte.map((x) => `- ${x.rolle}: ${x.text}`).join("\n")}
+
+## Beispielfälle
+${REF.beispielfaelle.map((f) => `### ${f.titel} (Az. ${f.aktenzeichen})\n${f.text}\nZuständig: ${unitTitle(E[f.einheitId])}`).join("\n\n")}
+
+## Aufgaben und Leistungen
+${aufgaben.map((a) => `- ${a.titel} (${a.kategorie}, ${a.rechtsgrundlage}): ${a.beschreibung}`).join("\n")}
+
+## Tonalität
+${REF.tonalitaet}
+`;
+    fs.writeFileSync(path.join(ROOT, "referenz", VID, "musterloesung.md"), swiss(ref));
+  }
+
   // llms.txt
   const llms = `# ${behoerde.name} (${behoerde.kurzname}) – Länderversion ${behoerde.land}
 
 > ${behoerde.hinweis}
 > ${behoerde.auftrag}
-
+${SZ ? `\n## Auftrag\n${SZ.kurzfassung}\nMehr: ${abs(VP + "auftrag.html")}\n` : ""}
 Leitung: ${fullName(leitung)} (${leitung.funktion}). Hauptsitz: ${standortAddr(hs)}. Kontakt: ${k.telefon}, ${k.email}.
 Begriffe in dieser Version: ${B.abteilung} (abt-*), ${B.referat} (ref-*), ${B.stab} (stab-*).
 
@@ -509,7 +586,7 @@ function finish() {
   const htmlPages = written.filter((f) => f.endsWith(".html"));
   fs.writeFileSync(path.join(ROOT, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${htmlPages.map((f) => `  <url><loc>${abs(f)}</loc><lastmod>${BUILD_DATE}</lastmod></url>`).join("\n")}\n</urlset>\n`);
   fs.writeFileSync(path.join(ROOT, "robots.txt"), `# Fiktive Behörden – Demo. Inhalte dürfen von Werkzeugen (z. B. MCP) abgerufen werden.\nUser-agent: *\nAllow: /\nSitemap: ${abs("sitemap.xml")}\n`);
-  fs.writeFileSync(path.join(ROOT, "api", "varianten.json"), JSON.stringify({ stand: BUILD_DATE, hinweis: "Fiktive Behörden – Demonstrationsinhalt für Acta Nova.", varianten: VARIANT_META.map((m) => ({ variante: m.id, land: m.land, name: m.name, kurzname: m.kurzname, sprache: m.locale, website: abs(m.pfad + "index.html"), api: abs(m.pfad + "api/index.json"), llms: abs(m.pfad + "llms.txt") })) }, null, 2) + "\n");
+  fs.writeFileSync(path.join(ROOT, "api", "varianten.json"), JSON.stringify({ stand: BUILD_DATE, hinweis: "Fiktive Behörden – Demonstrationsinhalt.", varianten: VARIANT_META.map((m) => ({ variante: m.id, land: m.land, name: m.name, kurzname: m.kurzname, sprache: m.locale, website: abs(m.pfad + "index.html"), api: abs(m.pfad + "api/index.json"), llms: abs(m.pfad + "llms.txt") })) }, null, 2) + "\n");
 
   // Linkprüfung über alle Varianten
   const missing = [];

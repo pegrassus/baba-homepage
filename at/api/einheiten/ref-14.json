@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-14",
     "typ": "referat",
@@ -100,7 +100,21 @@
       "einheitIds": [
         "ref-14"
       ],
-      "rechtsgrundlage": "§ 7 BBSAG"
+      "rechtsgrundlage": "§ 7 BBSAG",
+      "details": [
+        "Vorschriften werden für den Regelfall geschrieben, das Leben hält sich nicht immer daran. Nach § 7 BBSAG kann die Abteilung II/4 auf Antrag Nachsicht von einer Bundesvorschrift gewähren, wenn diese den konkreten Einzelfall erkennbar nicht vorhergesehen hat und ihre Anwendung zu einer unbilligen Härte führen würde.",
+        "Geprüft werden die Unvorhersehbarkeit des Falls, die Härte für die Partei und ob öffentliche Interessen entgegenstehen. Die Nachsicht ergeht mit Bescheid und kann befristet, mit Auflagen versehen oder auf bestimmte Personen, Tiere oder Gegenstände beschränkt werden. Sie wird im BRbsA eingetragen, damit sich niemand später auf eine Nachsicht beruft, die er gar nicht hat."
+      ],
+      "beispiele": [
+        "Ein Murmeltier erhält Nachsicht von der Pflicht, für die Dauer des Winterschlafs einen Hauptwohnsitz in einem Bundesland zu begründen.",
+        "Eine Blasmusikkapelle bekommt Nachsicht von einer Ruhezeitregelung für das Einspielen am Morgen des Bezirksmusikfests.",
+        "Ein Pensionist darf ein Formular ausnahmsweise mit Füllfeder statt mit Kugelschreiber ausfüllen."
+      ],
+      "leistung": {
+        "antrag": "Schriftliches Ansuchen mit Begründung des unvorhergesehenen Einzelfalls",
+        "dauer": "rund 6 Wochen",
+        "kosten": "Bundesverwaltungsabgabe 21,80 Euro"
+      }
     }
   ],
   "standort": {

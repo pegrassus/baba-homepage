@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-31",
     "typ": "referat",
@@ -102,7 +102,21 @@
         "abt-3",
         "ref-31"
       ],
-      "rechtsgrundlage": "§ 18 BBSAG"
+      "rechtsgrundlage": "§ 18 BBSAG",
+      "details": [
+        "Das Lagezentrum Besonderheiten in Wien ist an 365 Tagen rund um die Uhr besetzt. Es nimmt Meldungen über Ereignisse entgegen, die nicht gefährlich, aber auch nicht gewöhnlich sind, bewertet sie und informiert die zuständigen Stellen in Bund, Ländern und Gemeinden.",
+        "Jede Meldung wird im ELAK als Lagemeldung erfasst und nach einem vierstufigen Schema eingestuft: gewöhnlich, sonstig, besonders, besonders und bemerkenswert. Gemeinsam mit der Abteilung IV/4 erarbeitet das Lagezentrum Szenarien für unwahrscheinliche Ereignisse und führt regelmäßig Stabsübungen durch, zuletzt die Übung „Krampusnacht“. Relevante Fälle werden als Präzedenzfall im BRbsA eingetragen."
+      ],
+      "beispiele": [
+        "Ein Krampus zieht ohne Nikolaus durch einen Pongauer Ort.",
+        "Eine Kuhherde blockiert bei einem Almabtrieb die Zufahrt zu einer Landesgrenze in beide Richtungen.",
+        "In einem Weinviertler Keller wird ein Fass gefunden, das älter ist als die Republik und noch voll."
+      ],
+      "leistung": {
+        "antrag": "Meldung rund um die Uhr telefonisch oder per E-Mail an das Lagezentrum",
+        "dauer": "Erstbewertung binnen 15 Minuten",
+        "kosten": "gebührenfrei"
+      }
     }
   ],
   "standort": {

@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-32",
     "typ": "referat",
@@ -102,7 +102,22 @@
         "ref-31",
         "ref-32"
       ],
-      "rechtsgrundlage": "§ 18 BAbAG"
+      "rechtsgrundlage": "§ 18 BAbAG",
+      "details": [
+        "Das Lagezentrum Besonderheiten (Referat 31) ist an 365 Tagen im Jahr rund um die Uhr besetzt, in Schaltjahren an 366. Es nimmt Meldungen über außergewöhnliche Ereignisse von Behörden, Unternehmen und Privatpersonen entgegen, bewertet sie und erstellt ein Lagebild für Bund und Länder. Jede Meldung wird innerhalb von 24 Stunden erstbewertet.",
+        "Die Bewertung erfolgt auf einer vierstufigen Skala von „bemerkenswert“ über „beachtlich“ und „erheblich“ bis „außerordentlich“. Ereignisse, die sich keiner Kategorie zuordnen lassen, übernimmt das Referat 32 „Unvorhergesehenes“, das den Sachverhalt vertieft untersucht und bei Bedarf weitere Stellen einbindet. Betrifft ein Ereignis die Zuständigkeit eines Landes, wird dessen Lagezentrum unverzüglich unterrichtet.",
+        "Ergebnis ist eine Lagemeldung oder ein Lagebericht, je nach Bedeutung auch ein Eintrag im BRbA mit Wiedervorlage. Besonders eigenartige Vorgänge werden nach Abschluss dem Kuriosa-Register vorgeschlagen."
+      ],
+      "beispiele": [
+        "Ein 14 Tonnen schwerer Findling wandert jährlich rund 40 Zentimeter auf eine Landesgrenze zu.",
+        "In einer Kleinstadt schlagen die Rathausglocken seit drei Wochen eine Minute zu früh, und zwar nur werktags.",
+        "Ein Starenschwarm bildet über einem Landratsamt wiederholt die Umrisse eines Formulars."
+      ],
+      "leistung": {
+        "antrag": "Meldung rund um die Uhr per Telefon, E-Mail oder Meldeformular LZ-1",
+        "dauer": "Erstbewertung innerhalb von 24 Stunden",
+        "kosten": "gebührenfrei"
+      }
     }
   ],
   "standort": {

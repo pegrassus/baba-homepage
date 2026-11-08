@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "anzahl": 12,
   "aufgaben": [
     {
@@ -18,6 +18,21 @@
         "ref-13"
       ],
       "rechtsgrundlage": "§ 2 Abs. 1 BAbAG",
+      "details": [
+        "Die Auffangzuständigkeit greift, wenn eine Angelegenheit in den Aufgabenbereich des Bundes fällt, sich aber keiner Bundesbehörde eindeutig zuordnen lässt. In der Praxis gelangen solche Vorgänge meist durch Abgabe einer anderen Behörde zum BAbA, seltener durch Bürgerinnen und Bürger, die bereits mehrere Stellen angeschrieben haben. Das Referat 11 prüft zunächst, ob tatsächlich keine andere Stelle zuständig ist, und hält das Ergebnis in einem Zuständigkeitsvermerk fest.",
+        "Ist das BAbA zuständig, wird der Vorgang einem Fachreferat zugewiesen und regulär bearbeitet. Ist eine andere Stelle zuständig, gibt das BAbA den Vorgang mit Begründung ab und informiert die antragstellende Person. Berührt die Angelegenheit zugleich Bundes- und Landesrecht, übernimmt das Referat 13 die Abstimmung mit den betroffenen Ländern.",
+        "Ergebnis ist in jedem Fall eine klare Zuordnung: Kein Vorgang verlässt das BAbA ohne Namen, Stelle und Aktenzeichen. Das Amt versteht sich ausdrücklich nicht als Ablage für Unerledigtes, sondern als letzte Station, an der eine Zuständigkeit festgestellt wird."
+      ],
+      "beispiele": [
+        "Ein Bundesministerium gibt eine Bürgeranfrage ab, die an „die zuständige Stelle für alles Übrige“ adressiert war.",
+        "Eine Anfrage zu einem Schild, das ausschließlich auf ein anderes Schild hinweist, wandert seit 2023 zwischen drei Stellen hin und her.",
+        "Ein Unternehmen fragt, wer für die Zulassung eines Produkts zuständig ist, das es nach eigenen Angaben „noch nicht gibt“."
+      ],
+      "leistung": {
+        "antrag": "Formloses Schreiben, Online-Formular „Zuständigkeitsanfrage“ oder Abgabe durch die bisher befasste Behörde",
+        "dauer": "6 Wochen",
+        "kosten": "gebührenfrei"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/aufgaben.html#auf-zustaendigkeit",
       "einheiten": [
         {
@@ -43,6 +58,21 @@
         "ref-12"
       ],
       "rechtsgrundlage": "§ 3 BAbAG",
+      "details": [
+        "Mit der Feststellung der Besonderheit entscheidet das BAbA verbindlich, ob eine Angelegenheit als besondere Angelegenheit im Sinne des BAbAG gilt. Den Antrag können natürliche und juristische Personen sowie Behörden stellen, die ein berechtigtes Interesse an der Einordnung haben. Grundlage der Prüfung ist der Leitfaden „Wann ist eine Angelegenheit besonders?“ mit seinen 14 Kriterien.",
+        "Das Referat 12 prüft den Sachverhalt anhand der Antragsunterlagen, holt bei Bedarf Stellungnahmen anderer Behörden ein und hört die antragstellende Person an. In der Regel gilt eine Angelegenheit als besonders, wenn mindestens drei Kriterien erfüllt sind oder eines in außergewöhnlich hohem Maße. Für das Kopfschüttel-Kriterium ist die übereinstimmende Einschätzung zweier unabhängiger Bediensteter erforderlich.",
+        "Das Verfahren endet mit einem Feststellungsbescheid. Eine positive Feststellung wird im BRbA eingetragen und eröffnet den Zugang zu den besonderen Verfahren des Amtes; eine negative Feststellung verweist auf die zuständige Regelbehörde."
+      ],
+      "beispiele": [
+        "Ein Bürger beantragt die Feststellung, dass sein Anliegen gewöhnlich ist, damit endlich seine Gemeinde zuständig wird.",
+        "Ein Verein lässt klären, ob sein am 29. Februar gegründetes Jubiläum alle vier Jahre oder jährlich zu feiern ist.",
+        "Eine Landesbehörde bittet um Feststellung, ob ein Dorfbrunnen, der nur bei Vollmond Wasser führt, besonders ist."
+      ],
+      "leistung": {
+        "antrag": "Formular BA-1, online oder schriftlich",
+        "dauer": "3 Monate",
+        "kosten": "50 bis 400 Euro nach Aufwand; für Behörden gebührenfrei"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/aufgaben.html#auf-abgrenzung",
       "einheiten": [
         {
@@ -60,6 +90,21 @@
         "ref-14"
       ],
       "rechtsgrundlage": "§ 7 BAbAG",
+      "details": [
+        "Eine Ausnahmegenehmigung nach § 7 BAbAG kommt in Betracht, wenn ein Vorhaben von bestehenden Regelungen nicht erfasst wird oder deren Anwendung im Einzelfall zu einem offensichtlich nicht beabsichtigten Ergebnis führen würde. Sie ist nachrangig: Bevor das BAbA entscheidet, muss geklärt sein, dass keine Fachbehörde eine eigene Ausnahme erteilen kann. Antragsberechtigt sind Bürgerinnen und Bürger, Unternehmen, Vereine und Behörden.",
+        "Das Referat 14 prüft, von welcher Regelung abgewichen werden soll, ob die Ausnahme sachlich begründet ist und ob Rechte Dritter berührt werden. Häufig wird die Genehmigung mit Nebenbestimmungen versehen, etwa einer Befristung, einer Auflage oder einem Widerrufsvorbehalt. Bei Vorhaben mit Landesbezug wird das betroffene Land angehört.",
+        "Ergebnis ist ein Genehmigungsbescheid oder ein begründeter Ablehnungsbescheid. Erteilte Ausnahmegenehmigungen werden im BRbA eingetragen, damit gleichgelagerte Fälle künftig einheitlich entschieden werden können."
+      ],
+      "beispiele": [
+        "Ein Leuchtturm in einem Rübenfeld in Sachsen-Anhalt darf mit Auflagen weiterleuchten, obwohl weit und breit kein Gewässer ist.",
+        "Ein Gemeindearchiv darf einen Aktenbestand behalten, dessen Aussonderungsfrist wegen eines Druckfehlers erst im Jahr 3019 abläuft.",
+        "Eine Behörde erhält die Genehmigung, ein Formular weiterzuverwenden, das sich auf ein inzwischen aufgehobenes Formular bezieht."
+      ],
+      "leistung": {
+        "antrag": "Formular BA-7 mit Begründung und gewünschtem Geltungszeitraum",
+        "dauer": "2 Monate",
+        "kosten": "100 bis 1.500 Euro; Verlängerung 50 Euro"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/aufgaben.html#auf-ausnahme",
       "einheiten": [
         {
@@ -79,6 +124,21 @@
         "ref-22"
       ],
       "rechtsgrundlage": "§§ 9–14 BAbAG",
+      "details": [
+        "Besondere Verwaltungsverfahren werden durchgeführt, wenn eine Angelegenheit als besonders festgestellt ist und sich nicht im Regelverfahren einer Fachbehörde bearbeiten lässt. Das Referat 21 führt Verfahren erster Ordnung, bei denen eine einzelne Besonderheit vorliegt. Das Referat 22 übernimmt mehrfach besondere Verfahren, in denen mehrere Besonderheiten zusammentreffen oder sich gegenseitig verstärken.",
+        "Der Ablauf folgt dem Verwaltungsverfahrensgesetz, ergänzt um die Sonderregeln der §§ 9–14 BAbAG: Sachverhaltsermittlung, Anhörung, Beteiligung anderer Behörden und Entscheidung. In mehrfach besonderen Verfahren gilt das Sechs-Augen-Prinzip, und die Verfahrensdauer richtet sich nach § 12 BAbAG „nach den Umständen“. Alle Verfahren werden am Standort Berlin vollständig in der E-Akte geführt.",
+        "Am Ende steht ein Bescheid, der die Angelegenheit in der Sache regelt, etwa durch eine Erlaubnis, eine Feststellung oder eine Zuordnung. Bescheide werden mit Rechtsbehelfsbelehrung bekannt gegeben und im BRbA vermerkt."
+      ],
+      "beispiele": [
+        "Ein Grundstück liegt nach drei amtlichen Vermessungen jeweils in einem anderen Landkreis.",
+        "Eine Fußgängerbrücke gehört zwei Gemeinden, darf aber nach den Satzungen nur von einer Seite aus betreten werden.",
+        "Ein Antrag begehrt zugleich Feststellung, Ausnahme und Fristauskunft und ist auf einen 29. Februar in einem Nicht-Schaltjahr datiert."
+      ],
+      "leistung": {
+        "antrag": "Einleitung von Amts wegen nach positiver Feststellung oder auf Antrag in der Sache",
+        "dauer": "6 Monate; mehrfach besondere Verfahren nach den Umständen",
+        "kosten": "nach Gebührenverzeichnis zum BAbAG, Anlage 2"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/aufgaben.html#auf-verfahren",
       "einheiten": [
         {
@@ -104,6 +164,21 @@
         "ref-23"
       ],
       "rechtsgrundlage": "§§ 68 ff. VwGO i. V. m. § 15 BAbAG",
+      "details": [
+        "Gegen Bescheide des BAbA kann innerhalb eines Monats nach Bekanntgabe Widerspruch eingelegt werden. Das Referat 23 prüft, ob der Widerspruch zulässig und begründet ist, und überprüft die angegriffene Entscheidung dabei vollständig in rechtlicher und tatsächlicher Hinsicht. Zunächst erhält die Ausgangsstelle Gelegenheit, dem Widerspruch selbst abzuhelfen.",
+        "Hilft die Ausgangsstelle nicht ab, entscheidet das Referat 23 durch Widerspruchsbescheid. Es kann den Bescheid bestätigen, ganz oder teilweise aufheben oder den Vorgang an ein anderes Referat abgeben, wenn sich im Widerspruchsverfahren eine neue Besonderheit zeigt. Gegen den Widerspruchsbescheid steht der Weg zu den Verwaltungsgerichten offen; die Prozessvertretung übernimmt das Justiziariat."
+      ],
+      "beispiele": [
+        "Widerspruch gegen die Feststellung, dass ein seit 1999 nicht schimmelndes Brötchen nicht besonders sei.",
+        "Ein Widerspruch in Reimform, dessen Begründung sich erst beim lauten Vorlesen erschließt.",
+        "Ein vorsorglicher Widerspruch gegen einen Bescheid, der noch gar nicht erlassen wurde.",
+        "Ein Widerspruch gegen den Widerspruchsbescheid, der als unzulässig verworfen und als Kuriosum eingetragen wurde."
+      ],
+      "leistung": {
+        "antrag": "Schriftlich, zur Niederschrift oder elektronisch beim BAbA innerhalb eines Monats",
+        "dauer": "3 Monate",
+        "kosten": "gebührenfrei bei Erfolg; sonst bis 250 Euro"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/aufgaben.html#auf-widerspruch",
       "einheiten": [
         {
@@ -121,6 +196,21 @@
         "ref-24"
       ],
       "rechtsgrundlage": "§ 16 BAbAG",
+      "details": [
+        "Das Referat 24 erteilt verbindliche Auskünfte darüber, wann Fristen beginnen und enden, die durch kalendarische oder zeitliche Besonderheiten beeinflusst werden. Dazu gehören Fristen über einen 29. Februar oder über die Zeitumstellung, Fristen, die an Feiertagen enden, die nur in einzelnen Ländern gelten, sowie Fristen, deren Ende auf einen aus anderen Gründen umstrittenen Tag fällt. Grundlage ist die Verwaltungsvorschrift VV-AFrist 2026.",
+        "Die Auskunft können Bürgerinnen und Bürger, Unternehmen und Behörden beantragen; sie bindet das BAbA und wird von Bundesbehörden in aller Regel übernommen. Bei landesrechtlichen Fristen hat die Auskunft den Charakter einer Empfehlung, da die Länder eigene Regelungen treffen können. Ergebnis ist eine schriftliche Fristbescheinigung mit genauer Angabe von Datum, Uhrzeit und Zeitzone."
+      ],
+      "beispiele": [
+        "Wann endet eine Monatsfrist, die am 31. Januar eines Schaltjahres beginnt?",
+        "Zwei Faxe in der Nacht der Zeitumstellung, von denen das spätere nach der Uhr früher eingegangen ist.",
+        "Eine Frist endet an einem Feiertag, der im Land der Absenderin gilt, im Land des Empfängers aber nicht.",
+        "Eine Wiedervorlage im Jahr 2100, das entgegen verbreiteter Annahme kein Schaltjahr ist."
+      ],
+      "leistung": {
+        "antrag": "Online-Formular „Fristauskunft“ oder formloses Schreiben",
+        "dauer": "10 Arbeitstage",
+        "kosten": "25 Euro; für Behörden gebührenfrei"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/aufgaben.html#auf-fristen",
       "einheiten": [
         {
@@ -140,6 +230,21 @@
         "ref-32"
       ],
       "rechtsgrundlage": "§ 18 BAbAG",
+      "details": [
+        "Das Lagezentrum Besonderheiten (Referat 31) ist an 365 Tagen im Jahr rund um die Uhr besetzt, in Schaltjahren an 366. Es nimmt Meldungen über außergewöhnliche Ereignisse von Behörden, Unternehmen und Privatpersonen entgegen, bewertet sie und erstellt ein Lagebild für Bund und Länder. Jede Meldung wird innerhalb von 24 Stunden erstbewertet.",
+        "Die Bewertung erfolgt auf einer vierstufigen Skala von „bemerkenswert“ über „beachtlich“ und „erheblich“ bis „außerordentlich“. Ereignisse, die sich keiner Kategorie zuordnen lassen, übernimmt das Referat 32 „Unvorhergesehenes“, das den Sachverhalt vertieft untersucht und bei Bedarf weitere Stellen einbindet. Betrifft ein Ereignis die Zuständigkeit eines Landes, wird dessen Lagezentrum unverzüglich unterrichtet.",
+        "Ergebnis ist eine Lagemeldung oder ein Lagebericht, je nach Bedeutung auch ein Eintrag im BRbA mit Wiedervorlage. Besonders eigenartige Vorgänge werden nach Abschluss dem Kuriosa-Register vorgeschlagen."
+      ],
+      "beispiele": [
+        "Ein 14 Tonnen schwerer Findling wandert jährlich rund 40 Zentimeter auf eine Landesgrenze zu.",
+        "In einer Kleinstadt schlagen die Rathausglocken seit drei Wochen eine Minute zu früh, und zwar nur werktags.",
+        "Ein Starenschwarm bildet über einem Landratsamt wiederholt die Umrisse eines Formulars."
+      ],
+      "leistung": {
+        "antrag": "Meldung rund um die Uhr per Telefon, E-Mail oder Meldeformular LZ-1",
+        "dauer": "Erstbewertung innerhalb von 24 Stunden",
+        "kosten": "gebührenfrei"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/aufgaben.html#auf-lage",
       "einheiten": [
         {
@@ -165,6 +270,21 @@
         "ref-33"
       ],
       "rechtsgrundlage": "§ 19 BAbAG",
+      "details": [
+        "Das Kuriosa-Register dokumentiert seit 1994 Verwaltungsvorgänge, die sich durch ihre Eigenart auszeichnen und von bleibendem öffentlichem Interesse sind. Aufgenommen werden nur abgeschlossene Vorgänge, die eine Besonderheit nach dem Leitfaden aufweisen und von mindestens zwei Referaten unabhängig voneinander vorgeschlagen werden. Personenbezogene Daten werden vor der Eintragung entfernt.",
+        "Das Referat 33 erschließt die Einträge, verschlagwortet sie und wertet sie aus, um wiederkehrende Muster zu erkennen. Aus mehreren Einträgen sind neue Verfahren hervorgegangen, weil ein kurioser Fall ein zweites Mal auftrat. Mit über 10.000 Einträgen ist das Register zugleich eine Quelle für Forschung, Ausbildung und Öffentlichkeitsarbeit."
+      ],
+      "beispiele": [
+        "Ein formgerechter Antrag auf Genehmigung der Stellung eines Antrags (Eintrag Nr. 10.000).",
+        "Die Prüfung, ob ein Jubiläumseintrag eintragungswürdig ist (Eintrag Nr. 10.001).",
+        "Ein Anwohnerparkausweis, der sich nach vollständiger Prüfung als gewöhnlich erwies.",
+        "Ein Bierdeckel mit der Skizze der ersten Registerkategorie von 1994."
+      ],
+      "leistung": {
+        "antrag": "Kein Antragsverfahren; Hinweise auf kuriose Vorgänge nimmt Referat 33 formlos entgegen",
+        "dauer": "Prüfung nach Abschluss des Ausgangsvorgangs",
+        "kosten": "gebührenfrei"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/aufgaben.html#auf-kuriosa",
       "einheiten": [
         {
@@ -183,6 +303,21 @@
         "ref-31"
       ],
       "rechtsgrundlage": "§ 20 BAbAG",
+      "details": [
+        "Das Referat 34 „Prävention des Unwahrscheinlichen“ entwickelt Vorsorgekonzepte für Ereignisse, deren Eintrittswahrscheinlichkeit gering, deren Folgen für die Verwaltung aber erheblich wären. Dazu werden Szenarien beschrieben, Zuständigkeiten vorab geklärt und Musterverfahren entworfen. Adressaten sind Bundes- und Landesbehörden sowie Kommunen.",
+        "Gemeinsam mit dem Lagezentrum führt das Referat regelmäßig Stabsrahmenübungen durch, an denen Bund und Länder teilnehmen. Jede Übung wird ausgewertet; die Ergebnisse fließen in Handlungsempfehlungen und gegebenenfalls in Vorschläge für Bund-Länder-Vereinbarungen ein. Die Szenarien werden bewusst so gewählt, dass sie unwahrscheinlich, aber nicht unmöglich sind.",
+        "Ergebnis sind Vorsorgekonzepte, Übungsberichte und Checklisten, die Behörden im Ernstfall die erste Stunde ersparen sollen. In dieser Stunde wird erfahrungsgemäß vor allem geklärt, wer wen anruft."
+      ],
+      "beispiele": [
+        "Stabsrahmenübung „Schaltjahr 2028“ zu einem unerwartet verlängerten Februar.",
+        "Vorsorgekonzept für den Fall, dass alle Bundesbehörden gleichzeitig ihre Zuständigkeit verneinen.",
+        "Checkliste für eine Gemeinde, die auf keiner amtlichen Karte verzeichnet ist."
+      ],
+      "leistung": {
+        "antrag": "Beratungsanfrage von Behörden formlos an Referat 34",
+        "dauer": "in der Regel 2 bis 4 Monate",
+        "kosten": "für Behörden gebührenfrei"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/aufgaben.html#auf-praevention",
       "einheiten": [
         {
@@ -206,6 +341,21 @@
         "ref-43"
       ],
       "rechtsgrundlage": "§§ 22–25 BAbAG",
+      "details": [
+        "Das Bundesregister besonderer Angelegenheiten (BRbA) verzeichnet alle vom BAbA festgestellten besonderen Angelegenheiten, erteilten Ausnahmegenehmigungen und abgeschlossenen besonderen Verfahren. Es umfasst derzeit 214.506 Einträge und wird seit Oktober 2026 vollständig digital im Rechenzentrum Erfurt geführt. Registerführer ist der Leiter des Referats 41.",
+        "Auskünfte erhalten Behörden von Bund, Ländern und Kommunen mit berechtigtem Interesse über eine gesicherte Schnittstelle, die das Referat 43 „Daten und Schnittstellen“ betreibt. Bürgerinnen und Bürger erhalten auf Antrag Auskunft über die zu ihrer Person oder Angelegenheit gespeicherten Einträge; das berechtigte Interesse ist im Formular BR-22 darzulegen.",
+        "Ergebnis ist eine Registerauskunft als elektronisches Dokument oder auf Wunsch als beglaubigter Ausdruck. Einträge können auf Antrag berichtigt werden; eine Löschung ist erst nach Ablauf der gesetzlichen Aufbewahrungsfristen möglich."
+      ],
+      "beispiele": [
+        "Eine Kommune fragt ab, ob ihr Vollmondbrunnen bereits als besonders festgestellt wurde.",
+        "Ein Notariat benötigt eine Auskunft zu einem Grundstück der Registerkategorie 99.9 „Einordnung nicht abschließend möglich“.",
+        "Eine Bürgerin möchte wissen, warum ihre Gänse im Register unter dem Stichwort „Ereignisse, ländliche“ geführt werden."
+      ],
+      "leistung": {
+        "antrag": "Formular BR-22 oder Schnittstelle für registrierte Behörden",
+        "dauer": "5 Arbeitstage; über die Schnittstelle sofort",
+        "kosten": "15 Euro je Auskunft; für Behörden gebührenfrei"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/aufgaben.html#auf-brba",
       "einheiten": [
         {
@@ -232,6 +382,21 @@
         "ref-11"
       ],
       "rechtsgrundlage": "§ 4 BAbAG",
+      "details": [
+        "Das BAbA berät Bundes-, Landes- und Kommunalbehörden, die bei einem Vorgang unsicher sind, ob sie zuständig sind oder wie ein ungewöhnlicher Sachverhalt einzuordnen ist. Die Beratung übernimmt in erster Linie das Referat 13 „Grenzfälle und Sonderkonstellationen“; Grundsatzfragen klärt das Referat 11. Die Beratung ist vertraulich und lässt die Zuständigkeit der anfragenden Behörde unberührt.",
+        "Besonderes Gewicht haben Fälle an der Schnittstelle zwischen Bundes- und Landesrecht. Hier moderiert das BAbA zwischen den Beteiligten, schlägt Zuordnungen vor und entwirft bei Bedarf Verwaltungsvereinbarungen. Im Bund-Länder-Arbeitskreis „Sonderfälle“ werden wiederkehrende Grenzfälle gesammelt und Empfehlungen abgestimmt.",
+        "Ergebnis ist eine schriftliche Stellungnahme oder eine Zuständigkeitsempfehlung. Sie bindet die anfragende Behörde nicht, wird aber nach Erfahrung des Amtes in rund neun von zehn Fällen befolgt – im zehnten meist deshalb nicht, weil die Empfehlung lautete, selbst zuständig zu sein."
+      ],
+      "beispiele": [
+        "Ein Haus auf der Landesgrenze, dessen Kachelofen in Hessen und dessen Schornstein in Thüringen steht.",
+        "Eine Kommune fragt, wer eine Parkbank betreut, die genau auf einer Gemarkungsgrenze steht.",
+        "Zwei Landesämter bitten um Klärung, welches von ihnen die Akte zu einem Fall führt, den beide bereits abgeschlossen haben."
+      ],
+      "leistung": {
+        "antrag": "Formlose Anfrage von Behörden per E-Mail oder über das Behördenportal",
+        "dauer": "4 Wochen",
+        "kosten": "für Behörden gebührenfrei"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/aufgaben.html#auf-beratung",
       "einheiten": [
         {
@@ -254,6 +419,20 @@
         "ref-44"
       ],
       "rechtsgrundlage": "OZG (fiktiver Bezug)",
+      "details": [
+        "Alle Verfahren des BAbA können elektronisch beantragt und bearbeitet werden. Das Referat 42 „IT-Verfahren und E-Akte“ stellt Online-Formulare, die elektronische Akte und die Anbindung an die Verwaltungsportale von Bund und Ländern bereit. Eingereichte Anträge werden automatisch registriert, mit einem Aktenzeichen versehen und dem zuständigen Referat zugewiesen.",
+        "Das Referat 44 „Informationssicherheit“ sorgt dafür, dass Anträge und Akten vertraulich, vollständig und verfügbar bleiben. Für Angelegenheiten, die sich keinem Online-Formular zuordnen lassen, gibt es das Formular BA-0 „Sonstiges“, dessen Freitextfeld keine Zeichenbegrenzung kennt. Schriftliche Anträge werden in der Poststelle digitalisiert und ebenfalls in der E-Akte geführt."
+      ],
+      "beispiele": [
+        "Ein Antrag auf Feststellung der Besonderheit wird nachts um 3 Uhr online gestellt und morgens um 7 Uhr dem Referat 12 zugewiesen.",
+        "Das Formular BA-0 „Sonstiges“ erhält eine Einreichung mit 48.000 Zeichen und drei Skizzen.",
+        "Ein per Brieftaube eingegangener Antrag wird ordnungsgemäß gescannt; die Brieftaube nicht."
+      ],
+      "leistung": {
+        "antrag": "Online über das Antragsportal des BAbA mit einem Nutzerkonto von Bund oder Ländern",
+        "dauer": "Registrierung des Eingangs sofort",
+        "kosten": "keine zusätzlichen Kosten für den digitalen Weg"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/aufgaben.html#auf-digital",
       "einheiten": [
         {

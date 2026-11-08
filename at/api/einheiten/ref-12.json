@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-12",
     "typ": "referat",
@@ -100,7 +100,23 @@
       "einheitIds": [
         "ref-12"
       ],
-      "rechtsgrundlage": "§ 3 BBSAG"
+      "rechtsgrundlage": "§ 3 BBSAG",
+      "details": [
+        "Die Abteilung II/2 entscheidet auf Antrag, ob ein Sachverhalt besonders, sonstig oder gewöhnlich ist. Antragsberechtigt sind alle Personen mit rechtlichem Interesse sowie Behörden, die für ihre eigene Zuständigkeit eine Vorfrage klären müssen. Grundlage der Prüfung ist der Abgrenzungsleitfaden mit 14 Kriterien, darunter das „Na-geh-Kriterium“.",
+        "Im Ermittlungsverfahren werden Unterlagen gesichtet, Parteien gehört und erforderlichenfalls Amtssachverständige beigezogen. Das Verfahren endet mit einem Feststellungsbescheid, der andere Bundesbehörden bindet. Im Zweifel lautet die Feststellung „sonstig“, weil sich das Besondere begründen lassen muss.",
+        "Wird eine Angelegenheit als gewöhnlich festgestellt, ist das BBSA nicht zuständig und tritt die Sache ab. Weil diese Feststellung erfahrungsgemäß als kränkend empfunden wird, ist dagegen ausdrücklich Beschwerde zulässig."
+      ],
+      "beispiele": [
+        "Ein Verein lässt feststellen, ob ein Kegelturnier auf einer Almhütte in 2.100 Meter Seehöhe eine besondere Angelegenheit ist.",
+        "Eine GesbR beantragt die Feststellung, ob sie einen Antrag stellen darf – und hat ihn damit gestellt.",
+        "Ein Unternehmen möchte wissen, ob ein Firmenjubiläum am 29. Februar besonders oder bloß selten ist.",
+        "Ein Bürger erhebt Beschwerde, weil sein Gartenzwerg-Ensemble als „gewöhnlich“ eingestuft wurde."
+      ],
+      "leistung": {
+        "antrag": "Formular BBSA-F3 samt Sachverhaltsdarstellung",
+        "dauer": "rund 3 Monate",
+        "kosten": "Bundesverwaltungsabgabe 14,30 Euro; bei Feststellung „gewöhnlich“ halbiert"
+      }
     }
   ],
   "standort": {

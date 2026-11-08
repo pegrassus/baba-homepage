@@ -1,7 +1,11 @@
 # Bundesamt für besondere Angelegenheiten (BAbA) – Länderversion Deutschland
 
-> Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.
-> Das Bundesamt für besondere Angelegenheiten (BAbA) ist zuständig für alle Angelegenheiten des Bundes, die keiner anderen Stelle eindeutig zugeordnet werden können, sowie für Verfahren, die aufgrund ihrer Besonderheit einer gesonderten Behandlung bedürfen. Es führt das Bundesregister besonderer Angelegenheiten (BRbA), berät Bundes- und Landesbehörden in Grenz- und Sonderfällen und dokumentiert außergewöhnliche Ereignisse von öffentlichem Interesse.
+> Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.
+> Das Bundesamt für besondere Angelegenheiten (BAbA) ist die Auffangbehörde des Bundes für alle Angelegenheiten, für die keine andere Stelle eindeutig zuständig ist oder die so ungewöhnlich sind, dass sie in kein Regelverfahren passen. Es stellt auf Antrag verbindlich fest, ob eine Angelegenheit besonders ist, erteilt Ausnahmegenehmigungen nach § 7 BAbAG und führt besondere Verwaltungsverfahren einschließlich der Widerspruchsverfahren durch. Daneben beobachtet es außergewöhnliche Ereignisse, berechnet Fristen außergewöhnlicher Art und führt das Bundesregister besonderer Angelegenheiten (BRbA) sowie das Kuriosa-Register. Bundes-, Landes- und Kommunalbehörden berät es in Zuständigkeits- und Grenzfragen – auch dann, wenn diese erst durch die Frage selbst entstanden sind.
+
+## Auftrag
+Das Bundesamt für besondere Angelegenheiten (BAbA) ist die Auffangbehörde des Bundes: Es bearbeitet alles, wofür keine andere Stelle eindeutig zuständig ist, und alles, was so ungewöhnlich ist, dass es in kein Regelverfahren passt. Typische Vorgänge sind Feststellungen der Besonderheit, Ausnahmegenehmigungen, besondere Verwaltungsverfahren, Widersprüche, Fristauskünfte, Ereignismeldungen und Auskünfte aus dem Bundesregister besonderer Angelegenheiten (BRbA).
+Mehr: https://pegrassus.github.io/baba-homepage/auftrag.html
 
 Leitung: Dr. Hanna Wellbrock (Präsidentin). Hauptsitz: Am Sonderweg 1, 53113 Bonn. Kontakt: +49 228 4711-0, poststelle@baba-bund.example.
 Begriffe in dieser Version: Abteilung (abt-*), Referat (ref-*), Stabsstelle (stab-*).
@@ -10,7 +14,7 @@ Begriffe in dieser Version: Abteilung (abt-*), Referat (ref-*), Stabsstelle (sta
 - [api/behoerde.json](https://pegrassus.github.io/baba-homepage/api/behoerde.json): Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte
 - [api/organisation.json](https://pegrassus.github.io/baba-homepage/api/organisation.json): Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)
 - [api/personen.json](https://pegrassus.github.io/baba-homepage/api/personen.json): Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL
-- [api/aufgaben.json](https://pegrassus.github.io/baba-homepage/api/aufgaben.json): Aufgaben und Leistungen mit zuständigen Einheiten
+- [api/aufgaben.json](https://pegrassus.github.io/baba-homepage/api/aufgaben.json): Aufgaben und Leistungen mit zuständigen Einheiten, Details und Beispielen
 - [api/news.json](https://pegrassus.github.io/baba-homepage/api/news.json): Meldungen und Mitteilungen, neueste zuerst
 - [api/standorte.json](https://pegrassus.github.io/baba-homepage/api/standorte.json): Standorte mit Adressen
 - [api/downloads.json](https://pegrassus.github.io/baba-homepage/api/downloads.json): Formulare und Publikationen
@@ -31,6 +35,7 @@ Begriffe in dieser Version: Abteilung (abt-*), Referat (ref-*), Stabsstelle (sta
 ## Seiten
 - [Startseite](https://pegrassus.github.io/baba-homepage/index.html)
 - [Über uns](https://pegrassus.github.io/baba-homepage/ueber-uns.html)
+- [Auftrag](https://pegrassus.github.io/baba-homepage/auftrag.html)
 - [Organisation](https://pegrassus.github.io/baba-homepage/organisation.html)
 - [Personen](https://pegrassus.github.io/baba-homepage/personen.html)
 - [Aufgaben](https://pegrassus.github.io/baba-homepage/aufgaben.html)

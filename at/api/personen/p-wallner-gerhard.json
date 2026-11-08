@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "person": {
     "id": "p-wallner-gerhard",
     "anrede": "Herr",
@@ -67,6 +67,12 @@
       "titel": "Neu: Das Formular zur Beantragung von Formularen (BBSA-F0)",
       "datum": "2026-07-15",
       "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-07-formular-f0.html"
+    },
+    {
+      "id": "2026-02-lehrlinge",
+      "titel": "18 Lehrlinge starten ihre Ausbildung im BBSA",
+      "datum": "2026-02-10",
+      "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-02-lehrlinge.html"
     }
   ]
 }

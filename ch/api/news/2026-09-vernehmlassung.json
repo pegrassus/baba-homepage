@@ -4,23 +4,31 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "news": {
     "id": "2026-09-vernehmlassung",
     "datum": "2026-09-30",
     "kategorie": "Vernehmlassung",
     "titel": "Vernehmlassung eröffnet: Sind Vernehmlassungen vernehmlassungspflichtig?",
-    "teaser": "Das BBA lädt Kantone, Parteien und Verbände ein, sich bis 31. Januar 2027 zur Frage zu äussern, ob zu dieser Frage eine Vernehmlassung hätte eröffnet werden müssen.",
+    "teaser": "Das BBA lädt Kantone, Parteien und Verbände ein, sich bis 31. Januar 2027 zur Frage zu äussern, ob zu dieser Frage eine Vernehmlassung hätte eröffnet werden müssen. Zur Auswahl stehen drei Varianten, von denen eine unendlich ist.",
     "text": [
-      "Mit der heute eröffneten Vernehmlassung möchte das BBA eine seit 1971 offene Grundsatzfrage klären.",
-      "«Sollte die Vernehmlassung ergeben, dass keine Vernehmlassung nötig gewesen wäre, werden wir die Ergebnisse selbstverständlich trotzdem auswerten», erklärte Sektionschef Matthias Hess.",
-      "Die Unterlagen stehen in Deutsch, Französisch und Italienisch zur Verfügung. Die rätoromanische Fassung folgt nach Abschluss einer separaten Vernehmlassung zur Übersetzung."
+      "Das Bundesamt für besondere Angelegenheiten (BBA) hat am 30. September 2026 eine Vernehmlassung zur Frage eröffnet, ob Vernehmlassungen ihrerseits vernehmlassungspflichtig sind. Eingeladen sind die 26 Kantone, die in der Bundesversammlung vertretenen Parteien, die gesamtschweizerischen Dachverbände der Gemeinden, Städte und Berggebiete sowie 41 weitere Organisationen. Die Frist läuft bis zum 31. Januar 2027. Das Geschäft wird unter dem Aktenzeichen BBA-V2-2026-00010 geführt.",
+      "## Eine Frage seit 1971",
+      "Die Frage ist beinahe so alt wie das Amt selbst. Bereits 1971 hatte das damalige Büro für Unzuordenbares eine Vernehmlassung zu seiner eigenen Zuständigkeit durchgeführt. Ein Kanton merkte in seiner Stellungnahme an, man hätte vorgängig fragen sollen, ob man fragen dürfe. Die Bemerkung wurde ordnungsgemäss protokolliert, abgelegt und 55 Jahre lang nicht beantwortet. «Wir haben den Hinweis nie vergessen. Wir haben ihn nur noch nicht entschieden», sagte Dr. Verena Steiner, Sektionschefin Grundsatzfragen der Besonderheit.",
+      "«Sollte die Vernehmlassung ergeben, dass keine Vernehmlassung nötig gewesen wäre, werden wir die Ergebnisse selbstverständlich trotzdem auswerten», erklärte Sektionschef Matthias Hess. «Und sollte sie ergeben, dass eine nötig gewesen wäre, haben wir sie ja durchgeführt.» Die Sektion rechnet mit rund 180 Stellungnahmen. Für die Auswertung sind vier Monate vorgesehen; der Ergebnisbericht soll im Juni 2027 vorliegen.",
+      "## Drei Varianten zur Auswahl",
+      "Der Vernehmlassungsentwurf legt drei Varianten vor. Variante A sieht vor, dass jede Vernehmlassung einer vorgängigen Vernehmlassung bedarf. Variante B verzichtet darauf, sieht aber eine nachträgliche Vernehmlassung darüber vor, ob man darauf hätte verzichten dürfen. Variante C, die von der Direktion bevorzugt wird, belässt alles beim Alten und hält dies ausdrücklich in einem neuen Artikel fest.",
+      "Prof. Dr. Christine Rochat, Leiterin der Abteilung Verfahren und Vernehmlassungen, hält die drohende Endlosschleife für beherrschbar. «Rechnerisch ergibt Variante A eine unendliche Kette. In der Praxis endet sie aber spätestens dann, wenn ein Kanton nicht fristgerecht antwortet», sagte Rochat. Das BBA hat zudem vorsorglich festgelegt, dass die vorliegende Vernehmlassung nicht ihrerseits einer Vernehmlassung unterliegt. Gegen diese Festlegung sind bisher zwei Einwände eingegangen; sie werden im Rahmen der Vernehmlassung behandelt.",
+      "Bei der Fristsetzung hat das BBA auf das Milizsystem Rücksicht genommen. Da viele Stellungnahmen von Gemeinderätinnen und Gemeinderäten nach Feierabend verfasst werden, wurde die Frist bewusst über die Festtage verlängert. Stellungnahmen können elektronisch oder per Post eingereicht werden; massgebend ist der Poststempel, nicht die Uhrzeit des Einwurfs. Eine Stellungnahme, die am 31. Januar 2027 um 23:59:59 Uhr eintrifft, gilt als fristgerecht.",
+      "Die Unterlagen stehen in Deutsch, Französisch und Italienisch zur Verfügung. Die rätoromanische Fassung folgt nach Abschluss einer separaten Vernehmlassung zur Übersetzung, die ihrerseits nicht vernehmlassungspflichtig ist, sofern die vorliegende Vernehmlassung nichts anderes ergibt.",
+      "Hinweis für Vernehmlassungsteilnehmende: Bitte äussern Sie sich zur gestellten Frage und nicht zur Frage, ob die Frage hätte gestellt werden dürfen. Letzteres ist Gegenstand einer allfälligen späteren Vernehmlassung."
     ],
     "bild": "assets/img/ch/news/2026-09-vernehmlassung.jpg",
     "einheitId": "ref-22",
     "personIds": [
       "p-hess-matthias",
-      "p-rochat-christine"
+      "p-rochat-christine",
+      "p-steiner-verena"
     ],
     "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-vernehmlassung.html",
     "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-09-vernehmlassung.jpg",
@@ -105,6 +113,33 @@
         "abt-2"
       ],
       "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rochat-christine.json"
+    },
+    {
+      "id": "p-steiner-verena",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Verena",
+      "nachname": "Steiner",
+      "funktion": "Sektionschefin Grundsatzfragen der Besonderheit",
+      "einheitId": "ref-11",
+      "email": "verena.steiner@bba-bund.example",
+      "telefon": "+41 58 999 31 00",
+      "kurzvita": "Seit 1991 im Amt; kennt jeden Grundsatzentscheid seit dem Büro für Unzuordenbares.",
+      "name": "Dr. Verena Steiner",
+      "portrait": "assets/img/ch/personen/p-steiner-verena.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-steiner-verena.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-steiner-verena.html",
+      "einheit": {
+        "id": "ref-11",
+        "name": "Sektion G1: Grundsatzfragen der Besonderheit",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-11.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-11"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-steiner-verena.json"
     }
   ]
 }

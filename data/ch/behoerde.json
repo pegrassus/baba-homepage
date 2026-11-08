@@ -7,13 +7,29 @@
   "name": "Bundesamt für besondere Angelegenheiten",
   "kurzname": "BBA",
   "namenLandessprachen": [
-    { "sprache": "de", "name": "Bundesamt für besondere Angelegenheiten", "kurz": "BBA" },
-    { "sprache": "fr", "name": "Office fédéral des affaires particulières", "kurz": "OFAP" },
-    { "sprache": "it", "name": "Ufficio federale degli affari particolari", "kurz": "UFAP" },
-    { "sprache": "rm", "name": "Uffizi federal per fatgs particulars", "kurz": "UFFP" }
+    {
+      "sprache": "de",
+      "name": "Bundesamt für besondere Angelegenheiten",
+      "kurz": "BBA"
+    },
+    {
+      "sprache": "fr",
+      "name": "Office fédéral des affaires particulières",
+      "kurz": "OFAP"
+    },
+    {
+      "sprache": "it",
+      "name": "Ufficio federale degli affari particolari",
+      "kurz": "UFAP"
+    },
+    {
+      "sprache": "rm",
+      "name": "Uffizi federal per fatgs particulars",
+      "kurz": "UFFP"
+    }
   ],
   "markeZeile": "BBA",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "typ": "Bundesamt",
   "geschaeftsbereich": "Eidgenössisches Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
   "zuordnung": "Bundesamt im Eidgenössischen Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
@@ -23,19 +39,71 @@
     "titel": "Bundesgesetz über die besonderen Angelegenheiten (BABG)",
     "fundstelle": "SR 999.42 (fiktiv)"
   },
-  "claim": "Für alles, was zwischen Bund und Kantonen durchfällt. Pünktlich erledigt.",
-  "auftrag": "Das Bundesamt für besondere Angelegenheiten (BBA) ist das Kompetenzzentrum des Bundes für alles, was weder in eine Bundes- noch in eine Kantonszuständigkeit passt. Es klärt Sonderfälle zwischen den 26 Kantonen, führt Vernehmlassungen zu Unvorhergesehenem durch, entscheidet über alpine Sonderfälle und führt das Eidgenössische Register besonderer Angelegenheiten (ERbA). Selbstverständlich termingerecht.",
+  "claim": "Wo 26 Kantone nicht mehr weiterwissen, beginnt unsere Frist.",
+  "auftrag": "Das Bundesamt für besondere Angelegenheiten (BBA) ist zuständig für alles, wofür in der Schweiz sonst niemand zuständig ist – oder wofür sich mehrere gleichzeitig zuständig fühlen. Es stellt auf Gesuch hin fest, ob eine Angelegenheit besonders ist, erteilt Ausnahmebewilligungen, vermittelt bei kantonalen Sonderfällen und führt Vernehmlassungen zu Fragen durch, die sich bisher niemand gestellt hat. Zudem beobachtet es ausserordentliche Ereignisse von der Alp bis zur Bahnhofsuhr und führt das Eidgenössische Register besonderer Angelegenheiten (ERbA). Sämtliche Verfahren werden fristgerecht abgeschlossen; die amtliche Toleranz beträgt 59 Sekunden.",
+  "auftragSeite": {
+    "titel": "Wofür das BBA da ist",
+    "kurzfassung": "Das Bundesamt für besondere Angelegenheiten (BBA) ist die Auffangbehörde des Bundes: Es übernimmt Angelegenheiten, für die weder ein anderes Bundesamt noch ein Kanton zuständig ist oder für die sich mehrere gleichzeitig zuständig fühlen. Es entscheidet auf Gesuch hin mit Verfügung, vermittelt Kompromisse zwischen Kantonen und Gemeinden, führt Vernehmlassungen durch und trägt jeden abgeschlossenen Fall in das Eidgenössische Register besonderer Angelegenheiten (ERbA) ein.",
+    "einleitung": [
+      "Im föderalistischen System der Schweiz ist fast alles geregelt: Der Bund regelt, was ihm die Bundesverfassung zuweist, die 26 Kantone regeln den Rest, und die Gemeinden regeln, was die Kantone ihnen überlassen. Trotzdem bleiben Fälle übrig, die zwischen diesen Ebenen durchfallen. Eine Kuh weidet genau auf der Kantonsgrenze, ein Grenzstein gehört seit 1894 keiner Gemeinde, ein Echo antwortet im falschen Dialekt. Für solche Angelegenheiten hat der Bund 1953 eine Auffangstelle geschaffen, aus der das heutige BBA hervorgegangen ist. Rechtsgrundlage ist das Bundesgesetz über die besonderen Angelegenheiten (BABG).",
+      "Das BBA arbeitet als klassische Verwaltungsbehörde. Verfahren beginnen in der Regel mit einem Gesuch, einer Meldung eines Kantons oder einer Feststellung des Lagezentrums. Die Sektion Besondere Verfahren prüft zunächst anhand eines Kriterienkatalogs mit 14 Punkten, ob die Angelegenheit überhaupt besonders ist. Danach instruiert die zuständige Sektion den Fall, gewährt das rechtliche Gehör, holt Stellungnahmen der betroffenen Kantone ein und sucht – ganz in der Schweizer Konkordanztradition – einen Kompromiss. Am Ende steht eine Verfügung, eine Feststellung, eine Ausnahmebewilligung oder ein Registereintrag im ERbA.",
+      "Das Amt beschäftigt 412 Mitarbeitende an drei Standorten: am Hauptsitz in Bern, in Bellinzona und in Biel/Bienne. Es ist in vier Abteilungen mit je vier Sektionen gegliedert und wird von einer Direktorin geführt. Gegen Verfügungen kann Einsprache beim BBA erhoben werden; danach steht der Weg an das Bundesverwaltungsgericht offen. Oberstes Prinzip ist die Pünktlichkeit: Jede Frist wird eingehalten, und seit dem Grundsatzentscheid von 2026 gilt ein Ereignis erst ab der sechzigsten Sekunde als verspätet."
+    ],
+    "zustaendig": [
+      "Das BBA ist zuständig für Angelegenheiten, für die nach geltendem Recht weder eine andere Bundesbehörde noch ein Kanton noch eine Gemeinde zuständig ist (Art. 2 BABG).",
+      "Das BBA stellt auf Gesuch hin mit Verfügung fest, ob eine Angelegenheit besonders im Sinne des BABG ist (Art. 3 BABG).",
+      "Das BBA klärt Sachverhalte, die mehrere Kantone betreffen und zu denen die Kantone unterschiedliche, einander ausschliessende Auffassungen vertreten (Art. 4 BABG).",
+      "Das BBA erteilt Ausnahmebewilligungen für Fälle, die keine Verordnung vorhergesehen hat, etwa die Sömmerung eines Tiers in zwei Kantonen gleichzeitig (Art. 7 BABG).",
+      "Das BBA führt Vernehmlassungen bei Kantonen, Parteien und Verbänden zu Fragen durch, die sich bisher niemand gestellt hat (Art. 10 BABG).",
+      "Das BBA behandelt Einsprachen gegen seine eigenen Verfügungen und erteilt verbindliche Pünktlichkeitsauskünfte mit einer Toleranz von 59 Sekunden (Art. 15 und 16 BABG).",
+      "Das BBA beobachtet ausserordentliche Ereignisse rund um die Uhr, darunter Föhnlagen, Fondue-Engpässe und stehengebliebene Bahnhofsuhren (Art. 18 BABG).",
+      "Das BBA entscheidet über alpine Sonderfälle wie Kühe auf der falschen Alp, Murmeltiere mit Doppelwohnsitz und Echos, die nicht wie erwartet antworten (Art. 19 BABG).",
+      "Das BBA führt das Eidgenössische Register besonderer Angelegenheiten (ERbA) und das Kuriositätenarchiv und erteilt berechtigten Behörden Registerauszüge (Art. 20–25 BABG)."
+    ],
+    "nichtZustaendig": [
+      "Kühe, die auf der richtigen Alp stehen – dafür sind die kantonalen Landwirtschaftsämter und die Alpgenossenschaften zuständig.",
+      "Gewöhnliche Zugsverspätungen – dafür sind die Transportunternehmen zuständig; das BBA stellt lediglich fest, ob überhaupt eine Verspätung vorlag.",
+      "Das Wetter an sich – dafür sind die meteorologischen Fachstellen zuständig; der Föhn als mitwirkende Partei in einem Verfahren hingegen fällt in unsere Zuständigkeit.",
+      "Die richtige Käsemischung im Fondue – das ist Familiensache und bleibt im Zweifel der kantonalen Tradition überlassen.",
+      "Echos in privaten Badezimmern, Treppenhäusern und Tiefgaragen – diese gelten als Privatsache, solange sie nicht in einer fremden Sprache antworten.",
+      "Angelegenheiten, die bloss kompliziert, aber nicht besonders sind – dafür bleibt die ordentlich zuständige Behörde zuständig; wer unsicher ist, kann beim BBA eine Feststellung der Besonderheit beantragen."
+    ]
+  },
   "leitbild": [
-    { "titel": "Pünktlich", "text": "Auch das Unvorhersehbare erledigen wir fristgerecht – auf die Sekunde." },
-    { "titel": "Ausgewogen", "text": "Wir suchen den Kompromiss, bis alle gleich wenig zufrieden sind." },
-    { "titel": "Neutral", "text": "Wir nehmen zu jedem Sonderfall Stellung – aber nie Partei." },
-    { "titel": "Gründlich", "text": "Was wir nicht vernehmlasst haben, haben wir noch nicht entschieden." }
+    {
+      "titel": "Pünktlich",
+      "text": "Auch das Unvorhersehbare erledigen wir fristgerecht. Wer 59 Sekunden zu spät ist, gilt bei uns noch als pünktlich – ab der sechzigsten Sekunde wird es aktenkundig."
+    },
+    {
+      "titel": "Ausgewogen",
+      "text": "Wir suchen den Kompromiss, bis alle gleich wenig zufrieden sind. Erst dann ist er tragfähig."
+    },
+    {
+      "titel": "Neutral",
+      "text": "Wir nehmen zu jedem Sonderfall Stellung, aber nie Partei – auch nicht für Kühe, Murmeltiere oder Echos."
+    },
+    {
+      "titel": "Gründlich",
+      "text": "Was wir nicht vernehmlasst haben, haben wir noch nicht entschieden. Was wir vernehmlasst haben, manchmal auch nicht."
+    }
   ],
   "kennzahlen": [
-    { "label": "Mitarbeitende (318 Vollzeitstellen)", "wert": "412" },
-    { "label": "Behandelte Sonderfälle 2025", "wert": "9'874" },
-    { "label": "Einträge im ERbA", "wert": "61'205" },
-    { "label": "Vernehmlassungen 2025", "wert": "37" }
+    {
+      "label": "Mitarbeitende (318 Vollzeitstellen)",
+      "wert": "412"
+    },
+    {
+      "label": "Behandelte Sonderfälle 2025",
+      "wert": "9'874"
+    },
+    {
+      "label": "Einträge im ERbA",
+      "wert": "61'205"
+    },
+    {
+      "label": "Vernehmlassungen 2025 (davon 3 über Vernehmlassungen)",
+      "wert": "37"
+    }
   ],
   "leitungPersonId": "p-braendli-ursula",
   "pressePersonId": "p-cadonau-seraina",
@@ -53,7 +121,12 @@
     "negativ": "assets/img/ch/logo/bba-logo-negativ.svg",
     "png": "assets/img/ch/logo/bba-logo.png"
   },
-  "farben": { "anthrazit": "#2B2F33", "rot": "#B5121B", "hellgrau": "#F2F2F0", "sandstein": "#8C8A6E" },
+  "farben": {
+    "anthrazit": "#2B2F33",
+    "rot": "#B5121B",
+    "hellgrau": "#F2F2F0",
+    "sandstein": "#8C8A6E"
+  },
   "begriffe": {
     "leitung": "Direktion",
     "stab": "Stabsstelle",
@@ -70,11 +143,20 @@
     "antraegeButton": "Gesuche & Formulare",
     "beschaeftigte": "Mitarbeitende"
   },
-  "grusswort": { "titel": "Grusswort der Direktorin", "text": "Die Schweiz ist ein Land der Ordnung – und gerade darum ein Land der Ausnahmen. Wenn eine Kuh auf zwei Alpen gleichzeitig steht oder ein Echo die falsche Antwort gibt, sind wir zur Stelle. Gründlich, mehrsprachig und – wie es sich gehört – pünktlich." },
+  "grusswort": {
+    "titel": "Grusswort der Direktorin",
+    "text": "Die Schweiz ist ein Land der Ordnung – und gerade deshalb ein Land der Ausnahmen. Wo 26 Kantone, rund 2'100 Gemeinden und ein Bund sorgfältig regeln, wer wofür zuständig ist, bleibt zwangsläufig etwas übrig: eine Kuh auf der Kantonsgrenze, ein Echo mit eigener Meinung, ein Grenzstein, der seit 1894 niemandem gehören will. Dafür gibt es uns, und wir nehmen jede dieser Angelegenheiten so ernst, wie sie es verdient – meistens etwas ernster. Ich verspreche Ihnen keine schnellen Entscheide, aber pünktliche, und keine Lösung, die alle glücklich macht, aber einen Kompromiss, mit dem alle leben können. Mit freundlichen Grüssen – und selbstverständlich auch nach der Mittagspause für Sie da."
+  },
   "jahresberichtZitat": "Ordnung ist, wenn auch die Ausnahme ein Formular hat.",
-  "hero": { "bild": "assets/img/ch/hero/hero-gebaeude.jpg", "alt": "Hauptsitz des BBA in Bern mit Alpenpanorama" },
-  "heroInnen": { "bild": "assets/img/ch/hero/hero-atrium.jpg", "alt": "Holz-Atrium im Hauptsitz Bern" },
-  "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Keine Einrichtung der Schweizerischen Eidgenossenschaft.",
+  "hero": {
+    "bild": "assets/img/ch/hero/hero-gebaeude.jpg",
+    "alt": "Hauptsitz des BBA in Bern mit Alpenpanorama"
+  },
+  "heroInnen": {
+    "bild": "assets/img/ch/hero/hero-atrium.jpg",
+    "alt": "Holz-Atrium im Hauptsitz Bern"
+  },
+  "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt. Keine Einrichtung der Schweizerischen Eidgenossenschaft.",
   "leitfadenKriterien": [
     "Keine Bundes- und keine Kantonszuständigkeit",
     "Betroffenheit von mindestens zwei Kantonen mit unterschiedlicher Meinung",
@@ -92,11 +174,37 @@
     "Allgemeines Kopfschütteln in mindestens drei Landessprachen"
   ],
   "geschichte": [
-    { "jahr": "1953", "ereignis": "Gründung als «Eidgenössisches Büro für Unzuordenbares» mit sieben Mitarbeitenden in einem Nebenraum in Bern." },
-    { "jahr": "1971", "ereignis": "Erste Vernehmlassung zur Frage, wofür das Büro eigentlich zuständig ist. Die Auswertung dauert bis 1978." },
-    { "jahr": "1999", "ereignis": "Umbenennung in Bundesamt für besondere Angelegenheiten (BBA) und Erlass des BABG." },
-    { "jahr": "2008", "ereignis": "Eröffnung des Standorts Bellinzona für Verfahren mit Bezug zur italienischen Schweiz." },
-    { "jahr": "2016", "ereignis": "Bezug des zweisprachigen Standorts Biel/Bienne." },
-    { "jahr": "2026", "ereignis": "Inbetriebnahme des digitalen Eidgenössischen Registers besonderer Angelegenheiten (ERbA)." }
+    {
+      "jahr": "1953",
+      "ereignis": "Gründung als «Eidgenössisches Büro für Unzuordenbares» mit sieben Mitarbeitenden in einem fensterlosen Nebenraum in Bern. Der erste Fall betrifft einen einzelnen Skistock, den kein Fundbüro annehmen will."
+    },
+    {
+      "jahr": "1962",
+      "ereignis": "Ein Echo im Jura beginnt, ausschliesslich auf Französisch zu antworten. Das Büro eröffnet dafür ein Dossier, aus dem später das Kuriositätenarchiv hervorgeht."
+    },
+    {
+      "jahr": "1971",
+      "ereignis": "Erste Vernehmlassung zur Frage, wofür das Büro eigentlich zuständig ist. Die Auswertung dauert bis 1978 und ergibt einstimmig: «für das Übrige»."
+    },
+    {
+      "jahr": "1987",
+      "ereignis": "Erste Ausnahmebewilligung für ein Rind: Eine Simmentaler Kuh darf an der Landsgemeinde zusehen, ohne stimmberechtigt zu sein."
+    },
+    {
+      "jahr": "1999",
+      "ereignis": "Umbenennung in Bundesamt für besondere Angelegenheiten (BBA) und Erlass des BABG. Artikel 1 regelt, dass das BBA zuständig ist, wenn niemand sonst zuständig ist."
+    },
+    {
+      "jahr": "2008",
+      "ereignis": "Eröffnung des Standorts Bellinzona für die Abteilung Verfahren und Vernehmlassungen. Die Sektion Fristen und Pünktlichkeit stellt als Erstes alle Uhren im Gebäude nach."
+    },
+    {
+      "jahr": "2016",
+      "ereignis": "Bezug des Standorts Biel/Bienne für die Abteilung Digitales und Register. Die Liegenschaft liegt auf keiner Gemeindegrenze, was im Amt als Ausnahmefall gilt."
+    },
+    {
+      "jahr": "2026",
+      "ereignis": "Inbetriebnahme des digitalen Eidgenössischen Registers besonderer Angelegenheiten (ERbA) und Grundsatzentscheid zur 59-Sekunden-Toleranz. Beides erfolgte pünktlich."
+    }
   ]
 }

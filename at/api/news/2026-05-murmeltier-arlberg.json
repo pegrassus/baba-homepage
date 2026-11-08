@@ -4,17 +4,23 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "news": {
     "id": "2026-05-murmeltier-arlberg",
     "datum": "2026-05-04",
     "kategorie": "Meldung",
     "titel": "Grenzfall am Arlberg: Murmeltierbau liegt in zwei Bundesländern",
-    "teaser": "Der Eingang liegt in Tirol, der Ausgang in Vorarlberg. Das BBSA vermittelt zwischen den Ländern – das Murmeltier wurde nicht befragt.",
+    "teaser": "Der Eingang liegt in Tirol, der Ausgang in Vorarlberg, die Schlafkammer genau auf der Landesgrenze. Das BBSA vermittelt zwischen den Ländern – das Murmeltier wurde nicht befragt.",
     "text": [
-      "Ein Murmeltierbau am Arlberg hat einen Zuständigkeitsstreit zwischen Tirol und Vorarlberg ausgelöst.",
-      "„Die Frage ist, ob ein Bau dort liegt, wo man hineingeht, oder dort, wo man herauskommt“, erklärte Abteilungsleiterin Mag.a Lisa Hofer.",
-      "Bis zur Klärung gilt der Bau als sonstige Angelegenheit des Bundes. Abteilungsleiter Dr. Thomas Nachbaur gewährte vorsorglich eine Nachsicht für den Winterschlaf."
+      "Ein Murmeltierbau am Arlberg beschäftigt seit Anfang des Jahres die Abteilung II/3 „Föderale Grenzfälle (Bund – Länder)“. Der Bau hat seinen Haupteingang auf Tiroler Gebiet, seinen Notausgang auf Vorarlberger Gebiet und erstreckt sich nach aktuellem Stand über 38 Meter unter der Landesgrenze hindurch. Beide Länder hatten sich im Jänner für unzuständig erklärt, nachdem ein Wanderer eine Meldung über „erhebliche Grabtätigkeit im Grenzbereich“ eingebracht hatte.",
+      "## Wie es dazu kam",
+      "Die Landesverwaltungen beriefen sich jeweils darauf, dass sich der überwiegende Teil des Baus im anderen Bundesland befinde. Ein vom BBSA beauftragtes Vermessungsgutachten ergab schließlich, dass sich die Schlafkammer des Murmeltiers exakt auf der Landesgrenze befindet, und zwar „mit dem Kopf in Vorarlberg und dem Rest in Tirol“, wie es im Gutachten heißt. Der Akt wird unter der Geschäftszahl BBSA-2026-0.311.204 geführt.",
+      "„Die Frage ist, ob ein Bau dort liegt, wo man hineingeht, oder dort, wo man herauskommt“, erklärte Abteilungsleiterin Mag.a Lisa Hofer. „Das Bundesrecht beantwortet sie nicht, das Landesrecht beantwortet sie zweimal unterschiedlich. Genau dafür gibt es § 4 BBSAG.“ In einer ersten Vermittlungsrunde in einem Gasthaus am Pass, dessen Gaststube ebenfalls nicht eindeutig einem Bundesland zuzuordnen ist, wurden die Standpunkte ausgetauscht. Eine Einigung wurde nicht erzielt, wohl aber ein gemeinsames Mittagessen. Die Rechnung wurde nach einem eigens entwickelten Schlüssel geteilt: Kaspressknödel nach Tiroler, Käsknöpfle nach Vorarlberger Recht, der Kaffee als sonstige Angelegenheit vom Bund. Eine zweite Vermittlungsrunde ist für Juni angesetzt, sobald das Murmeltier wieder aktiv ist und die Lage vor Ort beobachtet werden kann.",
+      "## Vorläufige Regelung",
+      "Bis zur endgültigen Klärung gilt der Bau als sonstige Angelegenheit des Bundes. Damit ist das BBSA vorübergehend für alle Fragen zuständig, die den Bau betreffen, nicht jedoch für das Murmeltier selbst, das weiterhin dem Naturschutzrecht beider Länder unterliegt, je nachdem, wo es sich gerade aufhält.",
+      "Abteilungsleiter Dr. Thomas Nachbaur, gebürtiger Vorarlberger und zuständig für Nachsichten und Ausnahmen, gewährte vorsorglich eine Nachsicht für den Winterschlaf. Sie befreit das Murmeltier von der Verpflichtung, bei länger dauerndem Aufenthalt in einem Bundesland einen Hauptwohnsitz zu begründen. „Wir können von einem Tier, das sechs Monate schläft, nicht verlangen, dass es sich für ein Bundesland entscheidet“, so Nachbaur. „Das schaffen manche Menschen auch nicht.“",
+      "Die Nachsicht ist bis zum 30. April 2027 befristet und mit der Auflage verbunden, dass keine weiteren Ausgänge in einem dritten Bundesland gegraben werden. Die Abteilung II/3 rechnet nicht mit einem Verstoß, behält sich aber vor, im Fall eines Salzburger Ausgangs neu zu bewerten.",
+      "Hinweis für Wanderinnen und Wanderer: Der Bau darf weder betreten noch gestört werden. Hinweise auf weitere grenzüberschreitende Bauten nimmt die Abteilung II/3 gerne entgegen, möglichst mit Koordinaten und ohne Murmeltier."
     ],
     "bild": "assets/img/at/news/2026-05-murmeltier-arlberg.jpg",
     "einheitId": "ref-13",

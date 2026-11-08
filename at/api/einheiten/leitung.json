@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "leitung",
     "typ": "leitung",
@@ -346,7 +346,7 @@
   "news": [
     {
       "id": "2026-10-jahresbericht",
-      "titel": "Jahresbericht 2025: Rekord bei sonstigen Angelegenheiten",
+      "titel": "Jahresbericht 2025: Erstmals mehr Sonstiges als Besonderes",
       "datum": "2026-10-30",
       "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-10-jahresbericht.html"
     }

@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-31",
     "typ": "referat",
@@ -102,7 +102,21 @@
         "ref-31",
         "ref-34"
       ],
-      "rechtsgrundlage": "Art. 18 BABG"
+      "rechtsgrundlage": "Art. 18 BABG",
+      "details": [
+        "Das Lagezentrum Besonderheiten ist rund um die Uhr besetzt und nimmt Meldungen von Kantonen, Gemeinden, anderen Behörden und der Bevölkerung entgegen. Es bewertet jede Meldung, erstellt bei Bedarf ein konsolidiertes Lagebild und informiert die betroffenen Stellen. Ereignisse, die ein Verfahren erfordern, werden an die zuständige Sektion überwiesen.",
+        "Die Sektion Prävention des Unwahrscheinlichen entwickelt Szenarien für Ereignisse, die zwar unwahrscheinlich, aber nicht unmöglich sind, und erprobt sie in Stabsübungen mit den Kantonen. Bekannte Übungen sind «Käse alle» und «Bahnhofsuhr steht still». Aus jeder Übung entsteht ein Bericht mit Empfehlungen an Bund, Kantone und Gemeinden."
+      ],
+      "beispiele": [
+        "Ein Föhnsturm weht in einer Gemeinde sämtliche Abstimmungscouverts in die Nachbargemeinde.",
+        "In einem Bahnhof bleibt die Uhr stehen und mehrere Reisende erklären sich deshalb für pünktlich.",
+        "Am ersten Wintersonntag droht in einer Region der Fonduekäse auszugehen."
+      ],
+      "leistung": {
+        "antrag": "Meldung rund um die Uhr per Telefon oder E-Mail an das Lagezentrum",
+        "dauer": "Erstbewertung innert 30 Minuten",
+        "kosten": "Gebührenfrei"
+      }
     }
   ],
   "standort": {

@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-41",
     "typ": "referat",
@@ -102,7 +102,21 @@
         "ref-41",
         "ref-43"
       ],
-      "rechtsgrundlage": "Art. 22–25 BABG"
+      "rechtsgrundlage": "Art. 22–25 BABG",
+      "details": [
+        "Im ERbA wird jede rechtskräftig abgeschlossene besondere Angelegenheit seit 1953 eingetragen – zurzeit über 61'000 Einträge. Ein Eintrag enthält Aktenzeichen, Datum, Kurzbezeichnung, Beteiligte, erfüllte Kriterien und das Ergebnis. Das Register ist seit dem 1. Juli 2026 vollständig digital und mit dem GEVER-System des Amtes verbunden.",
+        "Berechtigte Behörden von Bund, Kantonen und Gemeinden können Registerauszüge beantragen oder über eine gesicherte Schnittstelle beziehen. Privatpersonen erhalten Auskunft über Einträge, die sie selbst betreffen. Unrichtige Einträge werden auf Gesuch oder von Amtes wegen berichtigt; die Berichtigung wird ihrerseits eingetragen. Die Sektion Daten und Schnittstellen stellt anonymisierte Auswertungen als Open Government Data zur Verfügung. Murmeltiere und andere Tiere werden darin nicht namentlich aufgeführt."
+      ],
+      "beispiele": [
+        "Eine Gemeinde verlangt einen Auszug über alle Grenzstein-Verfahren auf ihrem Gebiet seit 1953.",
+        "Ein Kanton bezieht über die Schnittstelle alle Ausnahmebewilligungen für Tiere auf seinem Gebiet.",
+        "Eine Alpgenossenschaft beantragt die Berichtigung des Namens einer Kuh, die im Register als «Bela» geführt wird."
+      ],
+      "leistung": {
+        "antrag": "Formular BBA-401 (Auszug) oder BBA-402 (Berichtigung); für Behörden auch über die Schnittstelle",
+        "dauer": "Auszug 3 Arbeitstage, Eintrag 5 Arbeitstage",
+        "kosten": "Auszug CHF 25, für Behörden gebührenfrei"
+      }
     }
   ],
   "standort": {
@@ -122,7 +136,7 @@
   "news": [
     {
       "id": "2026-07-erba-start",
-      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) in Betrieb",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) pünktlich in Betrieb",
       "datum": "2026-07-01",
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-07-erba-start.html"
     }

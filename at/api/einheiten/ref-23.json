@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-23",
     "typ": "referat",
@@ -100,7 +100,21 @@
       "einheitIds": [
         "ref-23"
       ],
-      "rechtsgrundlage": "§ 14 VwGVG"
+      "rechtsgrundlage": "§ 14 VwGVG",
+      "details": [
+        "Gegen Bescheide des BBSA kann binnen vier Wochen Beschwerde an das Bundesverwaltungsgericht erhoben werden. Die Beschwerde ist beim BBSA einzubringen, wo sie zunächst die Abteilung III/3 prüft. Sie muss den angefochtenen Bescheid bezeichnen, die Gründe für die Rechtswidrigkeit und ein Begehren enthalten. Ein bloßes „Na geh“ reicht dafür nicht aus, wird aber als Ausgangspunkt eines Verbesserungsauftrags gewertet.",
+        "Ist die Beschwerde berechtigt, kann das BBSA den Bescheid selbst mit Beschwerdevorentscheidung aufheben, abändern oder bestätigen. Andernfalls wird die Beschwerde samt Akt dem Bundesverwaltungsgericht vorgelegt; die Partei kann zudem binnen zwei Wochen nach einer Beschwerdevorentscheidung einen Vorlageantrag stellen. Die Abteilung achtet darauf, dass jede Vorlage vollständig, paginiert und frei von Kaffeeflecken ist."
+      ],
+      "beispiele": [
+        "Ein Antragsteller wehrt sich dagegen, dass sein Anliegen als „gewöhnlich“ festgestellt wurde.",
+        "Eine Gemeinde bekämpft die Ablehnung eines Zwickeltags, weil das Pfarrfest „sonst immer“ an einem Donnerstag sei.",
+        "Ein Bauwerber beschwert sich über einen föhnbedingten Bescheid und erhält statt eines Schwans ein Flachdach."
+      ],
+      "leistung": {
+        "antrag": "Schriftliche Beschwerde beim BBSA binnen 4 Wochen ab Zustellung",
+        "dauer": "Beschwerdevorentscheidung binnen 2 Monaten",
+        "kosten": "Eingabengebühr 30 Euro (fiktiv)"
+      }
     }
   ],
   "standort": {

@@ -7,7 +7,7 @@
   "name": "Bundesamt für besondere und sonstige Angelegenheiten",
   "kurzname": "BBSA",
   "markeZeile": "BBSA · gegr. 1873",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "typ": "Bundesamt",
   "geschaeftsbereich": "Bundesministerium für Allgemeines, Übriges und Sonstiges (BMAÜS, fiktiv)",
   "zuordnung": "Nachgeordnete Dienststelle des Bundesministeriums für Allgemeines, Übriges und Sonstiges (BMAÜS, fiktiv)",
@@ -17,19 +17,83 @@
     "titel": "Bundesgesetz über das Bundesamt für besondere und sonstige Angelegenheiten (BBSA-Gesetz – BBSAG)",
     "fundstelle": "BGBl. I Nr. 999/1955 (fiktiv), zuletzt geändert durch BGBl. I Nr. 42/2026 (fiktiv)"
   },
-  "claim": "Für alles Besondere. Und alles Sonstige.",
-  "auftrag": "Das Bundesamt für besondere und sonstige Angelegenheiten (BBSA) ist zuständig für alle Angelegenheiten des Bundes, die besonders sind, sowie für jene, die zwar nicht besonders, aber auch nirgends sonst unterzubringen sind („sonstige Angelegenheiten“). Es entscheidet mit Bescheid, stellt Fenstertage fest, führt das Kuriositätenkabinett und das Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA) – seit 1873, mit kurzer Unterbrechung für die Mittagspause.",
+  "claim": "Wenn sonst niemand zuständig ist: Wir san's. Seit 1873.",
+  "auftrag": "Das Bundesamt für besondere und sonstige Angelegenheiten (BBSA) ist die Auffangbehörde des Bundes für alles, was besonders ist oder sonst nirgends hingehört. Es stellt mit Bescheid fest, ob eine Angelegenheit besonders, sonstig oder bloß gewöhnlich ist, gewährt Nachsichten, vermittelt in Grenzfällen zwischen Bund und den neun Ländern und stellt jährlich die Fenster- und Zwickeltage fest. Daneben beobachtet es außergewöhnliche Ereignisse von der Föhnlage bis zur Krampusnacht, führt das Kuriositätenkabinett der österreichischen Verwaltung und das Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA). Das alles geschieht im Verfahren nach dem AVG, mit ordentlichem Akt und seit 1873 mit kurzer Unterbrechung für die Mittagspause.",
+  "auftragSeite": {
+    "titel": "Wofür das BBSA da ist",
+    "kurzfassung": "Das BBSA ist die Auffangbehörde des Bundes: Es ist für alle Angelegenheiten zuständig, die entweder besonders sind oder in keine andere Zuständigkeit passen. Es entscheidet über Ansuchen von Bürgerinnen, Bürgern, Unternehmen, Gemeinden und Behörden im Verwaltungsverfahren nach dem AVG – meist mit Bescheid, Feststellung oder Registereintrag.",
+    "einleitung": [
+      "Das Bundesamt für besondere und sonstige Angelegenheiten wurde 1873 als k.k. Hofamt gegründet und 1955 durch das BBSA-Gesetz (BBSAG) als Bundesamt neu errichtet. Es untersteht dem Bundesministerium für Allgemeines, Übriges und Sonstiges (BMAÜS). Sein gesetzlicher Auftrag ist ungewöhnlich und gerade deshalb klar: Was besonders ist oder sonst nirgends hingehört, landet beim BBSA. Das Amt hat seinen Hauptsitz in Wien und Außenstellen in Graz und Innsbruck. Rund 860 Bedienstete erledigen jährlich etwa 27.000 Akten.",
+      "Typische Vorgänge beginnen mit einem Ansuchen, einer Meldung oder einer Abtretung durch eine andere Behörde, die sich für unzuständig erklärt hat. Die Einlaufstelle protokolliert den Eingang im ELAK, vergibt eine Geschäftszahl und weist den Akt der zuständigen Abteilung zu. Im Ermittlungsverfahren werden Parteien gehört, Gutachten eingeholt – etwa zur Föhnlage oder zur Kurrentschrift – und gegebenenfalls die betroffenen Bundesländer beteiligt. Am Ende steht in der Regel ein Bescheid, eine Feststellung, eine Nachsicht oder ein Eintrag im Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA).",
+      "Organisatorisch gliedert sich das Amt in fünf Sektionen: die Präsidialsektion (I) mit dem Formular- und Stempelwesen, die Sektion Grundsatz, Sonderfälle und Sonstiges (II), die Sektion Besondere Verfahren (III) in Graz samt Fenstertagsfeststellung, die Sektion Außergewöhnliche Ereignisse (IV) mit Lagezentrum, Föhnabteilung und Kuriositätenkabinett sowie die Sektion Digitales und Register (V). Die Arbeit ist rechtlich ernsthaft, die Sachverhalte sind es nicht immer. Gerade diese Mischung aus korrektem Verfahren und skurrilem Gegenstand macht das BBSA aus."
+    ],
+    "zustaendig": [
+      "Das BBSA stellt auf Antrag mit Bescheid fest, ob eine Angelegenheit besonders, sonstig oder gewöhnlich ist (§ 3 BBSAG).",
+      "Das BBSA übernimmt als Auffangbehörde alle Angelegenheiten des Bundes, für die sich keine andere Behörde zuständig erklärt (§ 2 BBSAG).",
+      "Das BBSA gewährt Nachsichten von Vorschriften, die den konkreten Einzelfall erkennbar nicht vorhergesehen haben (§ 7 BBSAG).",
+      "Das BBSA vermittelt in föderalen Grenzfällen, wenn ein Sachverhalt in mehreren Bundesländern zugleich liegt oder sich kein Land zuständig fühlt (§ 4 BBSAG).",
+      "Das BBSA führt besondere Verwaltungsverfahren nach dem AVG durch und erlässt Bescheide besonderer Art, auch in ungewöhnlicher Form (§§ 9–14 BBSAG).",
+      "Das BBSA stellt jährlich durch Verordnung die Fenster- und Zwickeltage fest und entscheidet über Ansuchen auf Anerkennung weiterer Zwickeltage (§ 16 BBSAG).",
+      "Das BBSA beobachtet rund um die Uhr außergewöhnliche Ereignisse und erstellt Gutachten über föhnbedingte Bescheide und Ereignisse (§§ 18, 18a BBSAG).",
+      "Das BBSA sammelt kuriose Akten und Gegenstände der österreichischen Verwaltung im Kuriositätenkabinett und entscheidet über deren Aufnahme (§ 19 BBSAG).",
+      "Das BBSA führt das Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA) und erteilt daraus Auskünfte (§§ 22–25 BBSAG)."
+    ],
+    "nichtZustaendig": [
+      "Für gewöhnliche Angelegenheiten ist das BBSA nicht zuständig; diese werden an die zuständige Behörde abgetreten (§ 6 AVG), notfalls mit einem freundlichen Begleitschreiben.",
+      "Für die Wettervorhersage ist das BBSA nicht zuständig – die Abteilung IV/2 begutachtet nur, ob der Föhn schon da war, nicht, ob er kommt.",
+      "Für die Gewährung von Urlaub an Fenstertagen ist ausschließlich der jeweilige Dienstgeber zuständig; das BBSA stellt nur fest, dass der Tag ein Fenster hat.",
+      "Für Brauchtumsveranstaltungen selbst sind die Gemeinden und Länder zuständig; das BBSA kümmert sich nur um den Krampus, wenn er außergewöhnlich wird.",
+      "Für Murmeltiere als solche sind die Naturschutzbehörden der Länder zuständig; das BBSA klärt lediglich, in welchem Land sie gerade wohnen.",
+      "Für Beschwerden über den Kaffee beim Parteienverkehr ist die Abteilung I/3 (Inneres Service) zuständig, nicht das Bundesverwaltungsgericht."
+    ]
+  },
   "leitbild": [
-    { "titel": "Zuständig", "text": "Wenn sich niemand zuständig fühlt, fühlen wir uns zuständig. Notfalls auch sonstig." },
-    { "titel": "Gründlich", "text": "Ein Akt ist erst erledigt, wenn er dreimal gestempelt ist." },
-    { "titel": "Gemütlich", "text": "Wir lösen jedes Problem – nach dem Kaffee." },
-    { "titel": "Traditionsbewusst", "text": "Wir modernisieren behutsam. Seit 1873." }
+    {
+      "titel": "Zuständig",
+      "text": "Wenn sich niemand zuständig fühlt, fühlen wir uns zuständig. Notfalls auch sonstig – und dann erst recht."
+    },
+    {
+      "titel": "Gründlich",
+      "text": "Ein Akt ist erst erledigt, wenn er dreimal gestempelt, einmal paraphiert und zumindest kurz bewundert worden ist."
+    },
+    {
+      "titel": "Gemütlich",
+      "text": "Wir lösen jedes Problem. Nach dem Kaffee, aber verlässlich vor dem Fenstertag."
+    },
+    {
+      "titel": "Föderal",
+      "text": "Wir sprechen mit allen neun Ländern – auch wenn sie gerade nicht miteinander reden."
+    },
+    {
+      "titel": "Traditionsbewusst",
+      "text": "Wir modernisieren behutsam. Seit 1873, und zwar ohne Hast."
+    }
   ],
   "kennzahlen": [
-    { "label": "Bedienstete", "wert": "860" },
-    { "label": "Erledigte Akten 2025", "wert": "27.431" },
-    { "label": "Einträge im BRbsA seit 1873", "wert": "1.204.388" },
-    { "label": "Amtsstempel im Einsatz", "wert": "3.112" }
+    {
+      "label": "Bedienstete",
+      "wert": "860"
+    },
+    {
+      "label": "Erledigte Akten 2025",
+      "wert": "27.431"
+    },
+    {
+      "label": "Einträge im BRbsA seit 1873",
+      "wert": "1.204.388"
+    },
+    {
+      "label": "Amtsstempel im Einsatz",
+      "wert": "3.112"
+    },
+    {
+      "label": "Festgestellte Fenstertage 2027",
+      "wert": "7 + 1 Zwickeltag"
+    },
+    {
+      "label": "Tassen Melange je Bescheid (Ø)",
+      "wert": "2,4"
+    }
   ],
   "leitungPersonId": "p-hinterberger-elisabeth",
   "pressePersonId": "p-auer-florian",
@@ -48,7 +112,12 @@
     "negativ": "assets/img/at/logo/bbsa-logo-negativ.svg",
     "png": "assets/img/at/logo/bbsa-logo.png"
   },
-  "farben": { "mokka": "#2E2723", "schoenbrunnergelb": "#E3B21A", "creme": "#F7F2E6", "altrosa": "#B36A5E" },
+  "farben": {
+    "mokka": "#2E2723",
+    "schoenbrunnergelb": "#E3B21A",
+    "creme": "#F7F2E6",
+    "altrosa": "#B36A5E"
+  },
   "begriffe": {
     "leitung": "Amtsleitung",
     "stab": "Stabsstelle",
@@ -65,11 +134,20 @@
     "antraegeButton": "Anträge & Formulare",
     "beschaeftigte": "Bedienstete"
   },
-  "grusswort": { "titel": "Grußwort der Präsidentin", "text": "Seit 1873 kümmern wir uns um alles, was besonders ist – und seit 1972 auch um alles Sonstige. Wir verbinden die Gründlichkeit der k.k. Verwaltung mit den Möglichkeiten der Digitalisierung. Kommen Sie vorbei; den Kaffee gibt es beim Parteienverkehr gratis." },
+  "grusswort": {
+    "titel": "Grußwort der Präsidentin",
+    "text": "Seit 1873 kümmern wir uns um alles, was besonders ist – und seit 1972 auch um alles Sonstige, also um ziemlich viel. Als ich 2021 mein Amt antrat, fand ich im Schreibtisch der Präsidentin drei Stempel, eine Kaffeemühle und einen Akt mit der Aufschrift „Nicht vor 2030 öffnen“; ich habe mich bisher daran gehalten. Unser Haus verbindet die Gründlichkeit der k.k. Verwaltung mit dem ELAK, und beides funktioniert erstaunlich gut nebeneinander. Wenn Sie ein Anliegen haben, für das sich sonst niemand zuständig fühlt, dann sind Sie bei uns richtig – und meistens auch schon ein bisschen besonders. Kommen Sie vorbei: Den Kaffee gibt es beim Parteienverkehr gratis, die Geduld auch."
+  },
   "jahresberichtZitat": "Was besonders ist, entscheiden wir. Was sonstig ist, auch.",
-  "hero": { "bild": "assets/img/at/hero/hero-gebaeude.jpg", "alt": "Amtsgebäude des BBSA an einem Wiener Boulevard im Abendlicht" },
-  "heroInnen": { "bild": "assets/img/at/hero/hero-stiege.jpg", "alt": "Prunkstiege im Amtsgebäude Wien" },
-  "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Keine Einrichtung der Republik Österreich.",
+  "hero": {
+    "bild": "assets/img/at/hero/hero-gebaeude.jpg",
+    "alt": "Amtsgebäude des BBSA an einem Wiener Boulevard im Abendlicht"
+  },
+  "heroInnen": {
+    "bild": "assets/img/at/hero/hero-stiege.jpg",
+    "alt": "Prunkstiege im Amtsgebäude Wien"
+  },
+  "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt. Keine Einrichtung der Republik Österreich.",
   "leitfadenKriterien": [
     "Der Sachverhalt ist besonders (→ besondere Angelegenheit)",
     "Der Sachverhalt ist nicht besonders, aber auch nicht gewöhnlich (→ sonstige Angelegenheit)",
@@ -87,11 +165,41 @@
     "Nachweislich unwahrscheinliches Ereignis"
   ],
   "geschichte": [
-    { "jahr": "1873", "ereignis": "Errichtung als „k.k. Hofamt für besondere Angelegenheiten“ in Wien, untergebracht in drei Zimmern über einem Kaffeehaus." },
-    { "jahr": "1919", "ereignis": "Umbenennung in „Staatsamt für besondere Angelegenheiten“; die Stempel werden bis 1923 weiterverwendet." },
-    { "jahr": "1955", "ereignis": "Neuerrichtung als Bundesamt durch das BBSA-Gesetz." },
-    { "jahr": "1972", "ereignis": "Nach einem zehnjährigen Zuständigkeitsstreit Erweiterung um die „sonstigen Angelegenheiten“." },
-    { "jahr": "2004", "ereignis": "Eröffnung der Außenstelle Graz; 2011 folgt Innsbruck." },
-    { "jahr": "2026", "ereignis": "Das BRbsA geht online – inklusive 380.000 handschriftlicher Einträge in Kurrentschrift." }
+    {
+      "jahr": "1873",
+      "ereignis": "Errichtung als „k.k. Hofamt für besondere Angelegenheiten“ im Jahr der Wiener Weltausstellung, untergebracht in drei Zimmern über einem Kaffeehaus. Erster Akt: ein Elefant, der sich keinem Pavillon zuordnen ließ."
+    },
+    {
+      "jahr": "1898",
+      "ereignis": "Einführung des Amtsstempels „Besonders“ in drei Größen. Die mittlere Größe ist bis heute in Verwendung, weil sie nie kaputtgegangen ist."
+    },
+    {
+      "jahr": "1919",
+      "ereignis": "Umbenennung in „Staatsamt für besondere Angelegenheiten“. Die k.k.-Stempel werden aus Sparsamkeit bis 1923 weiterverwendet, das „k.k.“ wird händisch durchgestrichen."
+    },
+    {
+      "jahr": "1955",
+      "ereignis": "Neuerrichtung als Bundesamt durch das BBSA-Gesetz. § 2 erhält seine bis heute gültige Auffangklausel: „und sonst, was übrig bleibt“."
+    },
+    {
+      "jahr": "1972",
+      "ereignis": "Nach einem zehnjährigen Zuständigkeitsstreit darüber, wer für den Zuständigkeitsstreit zuständig ist, Erweiterung um die „sonstigen Angelegenheiten“."
+    },
+    {
+      "jahr": "1991",
+      "ereignis": "Eröffnung des Kuriositätenkabinetts mit 212 Exponaten, darunter ein Bescheid auf einer Semmelpapier-Rückseite aus 1931."
+    },
+    {
+      "jahr": "2004",
+      "ereignis": "Eröffnung der Außenstelle Graz für die besonderen Verfahren; 2011 folgt Innsbruck, nicht zuletzt wegen der Nähe zum Föhn."
+    },
+    {
+      "jahr": "2018",
+      "ereignis": "Umstellung auf den Elektronischen Akt (ELAK). Der Papierakt bleibt parallel bestehen, „bis sich der ELAK bewährt hat“."
+    },
+    {
+      "jahr": "2026",
+      "ereignis": "Das BRbsA geht online – inklusive 380.000 handschriftlicher Einträge in Kurrentschrift, entziffert mit Hilfe pensionierter Kolleginnen und Kollegen."
+    }
   ]
 }

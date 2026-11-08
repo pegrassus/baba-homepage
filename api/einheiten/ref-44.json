@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-44",
     "typ": "referat",
@@ -101,7 +101,21 @@
         "ref-42",
         "ref-44"
       ],
-      "rechtsgrundlage": "OZG (fiktiver Bezug)"
+      "rechtsgrundlage": "OZG (fiktiver Bezug)",
+      "details": [
+        "Alle Verfahren des BAbA können elektronisch beantragt und bearbeitet werden. Das Referat 42 „IT-Verfahren und E-Akte“ stellt Online-Formulare, die elektronische Akte und die Anbindung an die Verwaltungsportale von Bund und Ländern bereit. Eingereichte Anträge werden automatisch registriert, mit einem Aktenzeichen versehen und dem zuständigen Referat zugewiesen.",
+        "Das Referat 44 „Informationssicherheit“ sorgt dafür, dass Anträge und Akten vertraulich, vollständig und verfügbar bleiben. Für Angelegenheiten, die sich keinem Online-Formular zuordnen lassen, gibt es das Formular BA-0 „Sonstiges“, dessen Freitextfeld keine Zeichenbegrenzung kennt. Schriftliche Anträge werden in der Poststelle digitalisiert und ebenfalls in der E-Akte geführt."
+      ],
+      "beispiele": [
+        "Ein Antrag auf Feststellung der Besonderheit wird nachts um 3 Uhr online gestellt und morgens um 7 Uhr dem Referat 12 zugewiesen.",
+        "Das Formular BA-0 „Sonstiges“ erhält eine Einreichung mit 48.000 Zeichen und drei Skizzen.",
+        "Ein per Brieftaube eingegangener Antrag wird ordnungsgemäß gescannt; die Brieftaube nicht."
+      ],
+      "leistung": {
+        "antrag": "Online über das Antragsportal des BAbA mit einem Nutzerkonto von Bund oder Ländern",
+        "dauer": "Registrierung des Eingangs sofort",
+        "kosten": "keine zusätzlichen Kosten für den digitalen Weg"
+      }
     }
   ],
   "standort": {

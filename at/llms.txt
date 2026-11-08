@@ -1,7 +1,11 @@
 # Bundesamt für besondere und sonstige Angelegenheiten (BBSA) – Länderversion Österreich
 
-> Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.
-> Das Bundesamt für besondere und sonstige Angelegenheiten (BBSA) ist zuständig für alle Angelegenheiten des Bundes, die besonders sind, sowie für jene, die zwar nicht besonders, aber auch nirgends sonst unterzubringen sind („sonstige Angelegenheiten“). Es entscheidet mit Bescheid, stellt Fenstertage fest, führt das Kuriositätenkabinett und das Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA) – seit 1873, mit kurzer Unterbrechung für die Mittagspause.
+> Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.
+> Das Bundesamt für besondere und sonstige Angelegenheiten (BBSA) ist die Auffangbehörde des Bundes für alles, was besonders ist oder sonst nirgends hingehört. Es stellt mit Bescheid fest, ob eine Angelegenheit besonders, sonstig oder bloß gewöhnlich ist, gewährt Nachsichten, vermittelt in Grenzfällen zwischen Bund und den neun Ländern und stellt jährlich die Fenster- und Zwickeltage fest. Daneben beobachtet es außergewöhnliche Ereignisse von der Föhnlage bis zur Krampusnacht, führt das Kuriositätenkabinett der österreichischen Verwaltung und das Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA). Das alles geschieht im Verfahren nach dem AVG, mit ordentlichem Akt und seit 1873 mit kurzer Unterbrechung für die Mittagspause.
+
+## Auftrag
+Das BBSA ist die Auffangbehörde des Bundes: Es ist für alle Angelegenheiten zuständig, die entweder besonders sind oder in keine andere Zuständigkeit passen. Es entscheidet über Ansuchen von Bürgerinnen, Bürgern, Unternehmen, Gemeinden und Behörden im Verwaltungsverfahren nach dem AVG – meist mit Bescheid, Feststellung oder Registereintrag.
+Mehr: https://pegrassus.github.io/baba-homepage/at/auftrag.html
 
 Leitung: Mag.a Dr.in Elisabeth Hinterberger (Präsidentin). Hauptsitz: Ausnahmegasse 7, 1010 Wien. Kontakt: +43 1 4711-0, einlaufstelle@bbsa-bund.example.
 Begriffe in dieser Version: Sektion (abt-*), Abteilung (ref-*), Stabsstelle (stab-*).
@@ -10,7 +14,7 @@ Begriffe in dieser Version: Sektion (abt-*), Abteilung (ref-*), Stabsstelle (sta
 - [api/behoerde.json](https://pegrassus.github.io/baba-homepage/at/api/behoerde.json): Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte
 - [api/organisation.json](https://pegrassus.github.io/baba-homepage/at/api/organisation.json): Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)
 - [api/personen.json](https://pegrassus.github.io/baba-homepage/at/api/personen.json): Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL
-- [api/aufgaben.json](https://pegrassus.github.io/baba-homepage/at/api/aufgaben.json): Aufgaben und Leistungen mit zuständigen Einheiten
+- [api/aufgaben.json](https://pegrassus.github.io/baba-homepage/at/api/aufgaben.json): Aufgaben und Leistungen mit zuständigen Einheiten, Details und Beispielen
 - [api/news.json](https://pegrassus.github.io/baba-homepage/at/api/news.json): Meldungen und Mitteilungen, neueste zuerst
 - [api/standorte.json](https://pegrassus.github.io/baba-homepage/at/api/standorte.json): Standorte mit Adressen
 - [api/downloads.json](https://pegrassus.github.io/baba-homepage/at/api/downloads.json): Formulare und Publikationen
@@ -31,6 +35,7 @@ Begriffe in dieser Version: Sektion (abt-*), Abteilung (ref-*), Stabsstelle (sta
 ## Seiten
 - [Startseite](https://pegrassus.github.io/baba-homepage/at/index.html)
 - [Über uns](https://pegrassus.github.io/baba-homepage/at/ueber-uns.html)
+- [Auftrag](https://pegrassus.github.io/baba-homepage/at/auftrag.html)
 - [Organisation](https://pegrassus.github.io/baba-homepage/at/organisation.html)
 - [Personen](https://pegrassus.github.io/baba-homepage/at/personen.html)
 - [Aufgaben](https://pegrassus.github.io/baba-homepage/at/aufgaben.html)

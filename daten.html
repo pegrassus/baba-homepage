@@ -8,7 +8,7 @@
 <meta name="robots" content="noindex, follow">
 <meta name="generator" content="BAbA static build 2026-11-08">
 <meta name="baba:variante" content="de">
-<meta name="baba:hinweis" content="Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.">
+<meta name="baba:hinweis" content="Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.">
 <meta property="og:title" content="Offene Daten und Schnittstelle – BAbA">
 <meta property="og:description" content="Alle Inhalte des BAbA als maschinenlesbare JSON-Dateien.">
 <meta property="og:image" content="https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png">
@@ -27,7 +27,7 @@
 </head>
 <body>
 <a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
-<div class="demo-banner" role="note"><strong>Fiktive Behörde:</strong> Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.</div>
+<div class="demo-banner" role="note"><strong>Fiktive Behörde:</strong> Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.</div>
 <div class="topbar"><div class="container"><a href="barrierefreiheit.html">Barrierefreiheit</a><a href="daten.html">Offene Daten &amp; API</a><a href="kontakt.html">Kontakt</a><a href="suche.html">Suche</a><nav class="variant-switch" aria-label="Länderversion"><a href="daten.html" lang="de-DE" title="Deutschland: Bundesamt für besondere Angelegenheiten" aria-current="true" class="is-current">DE</a><a href="ch/daten.html" lang="de-CH" title="Schweiz: Bundesamt für besondere Angelegenheiten">CH</a><a href="at/daten.html" lang="de-AT" title="Österreich: Bundesamt für besondere und sonstige Angelegenheiten">AT</a></nav></div></div>
 <header class="site-header"><div class="container">
 <a class="brand" href="index.html" aria-label="Bundesamt für besondere Angelegenheiten – zur Startseite"><img src="assets/img/logo/baba-logo.svg" alt="" width="64" height="64"><span class="brand-text"><span class="brand-name">Bundesamt für<br>besondere Angelegenheiten</span><span class="brand-short">BAbA</span></span></a>
@@ -37,6 +37,7 @@
 <nav class="main-nav" id="hauptnavigation" aria-label="Hauptnavigation"><div class="container"><ul>
 <li><a href="index.html">Startseite</a></li>
 <li><a href="ueber-uns.html">Über uns</a></li>
+<li><a href="auftrag.html">Auftrag</a></li>
 <li><a href="organisation.html">Organisation</a></li>
 <li><a href="personen.html">Personen</a></li>
 <li><a href="aufgaben.html">Aufgaben</a></li>
@@ -47,7 +48,7 @@
 <nav class="breadcrumbs" aria-label="Brotkrumennavigation"><div class="container"><ol><li><a href="index.html">Startseite</a></li><li aria-current="page">Offene Daten &amp; API</li></ol></div></nav>
 <main id="inhalt">
 <section class="section"><div class="container article"><div class="eyebrow">Offene Daten</div><h1>Schnittstelle (JSON)</h1><p class="lead">Alle Inhalte dieser Website stehen als JSON zur Verfügung, etwa für KI-Assistenten, MCP-Server oder Fachverfahren. Einstiegspunkt ist <a href="api/index.json"><code>api/index.json</code></a>; eine Kurzbeschreibung für Sprachmodelle liegt unter <a href="llms.txt"><code>llms.txt</code></a>.</p>
-<div class="table-wrap"><table><thead><tr><th>Endpunkt</th><th>Inhalt</th></tr></thead><tbody><tr><td><a href="api/behoerde.json"><code>api/behoerde.json</code></a></td><td>Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte</td></tr><tr><td><a href="api/organisation.json"><code>api/organisation.json</code></a></td><td>Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)</td></tr><tr><td><a href="api/personen.json"><code>api/personen.json</code></a></td><td>Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL</td></tr><tr><td><a href="api/aufgaben.json"><code>api/aufgaben.json</code></a></td><td>Aufgaben und Leistungen mit zuständigen Einheiten</td></tr><tr><td><a href="api/news.json"><code>api/news.json</code></a></td><td>Meldungen und Mitteilungen, neueste zuerst</td></tr><tr><td><a href="api/standorte.json"><code>api/standorte.json</code></a></td><td>Standorte mit Adressen</td></tr><tr><td><a href="api/downloads.json"><code>api/downloads.json</code></a></td><td>Formulare und Publikationen</td></tr><tr><td><a href="api/alles.json"><code>api/alles.json</code></a></td><td>Gesamtexport aller Inhalte in einer Datei</td></tr><tr><td><code>api/personen/{id}.json</code></td><td>Einzelne Person inkl. Einheit und Erwähnungen</td></tr><tr><td><code>api/einheiten/{id}.json</code></td><td>Einzelne Organisationseinheit inkl. Leitung, Personen, Unter-Einheiten, Aufgaben</td></tr><tr><td><code>api/news/{id}.json</code></td><td>Einzelne Meldung inkl. beteiligter Personen</td></tr></tbody></table></div>
+<div class="table-wrap"><table><thead><tr><th>Endpunkt</th><th>Inhalt</th></tr></thead><tbody><tr><td><a href="api/behoerde.json"><code>api/behoerde.json</code></a></td><td>Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte</td></tr><tr><td><a href="api/organisation.json"><code>api/organisation.json</code></a></td><td>Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)</td></tr><tr><td><a href="api/personen.json"><code>api/personen.json</code></a></td><td>Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL</td></tr><tr><td><a href="api/aufgaben.json"><code>api/aufgaben.json</code></a></td><td>Aufgaben und Leistungen mit zuständigen Einheiten, Details und Beispielen</td></tr><tr><td><a href="api/news.json"><code>api/news.json</code></a></td><td>Meldungen und Mitteilungen, neueste zuerst</td></tr><tr><td><a href="api/standorte.json"><code>api/standorte.json</code></a></td><td>Standorte mit Adressen</td></tr><tr><td><a href="api/downloads.json"><code>api/downloads.json</code></a></td><td>Formulare und Publikationen</td></tr><tr><td><a href="api/alles.json"><code>api/alles.json</code></a></td><td>Gesamtexport aller Inhalte in einer Datei</td></tr><tr><td><code>api/personen/{id}.json</code></td><td>Einzelne Person inkl. Einheit und Erwähnungen</td></tr><tr><td><code>api/einheiten/{id}.json</code></td><td>Einzelne Organisationseinheit inkl. Leitung, Personen, Unter-Einheiten, Aufgaben</td></tr><tr><td><code>api/news/{id}.json</code></td><td>Einzelne Meldung inkl. beteiligter Personen</td></tr></tbody></table></div>
 <h2 style="margin-top:32px">Länderversionen</h2><div class="table-wrap"><table><thead><tr><th>Land</th><th>Behörde</th><th>API</th></tr></thead><tbody><tr><td>Deutschland</td><td><a href="index.html">Bundesamt für besondere Angelegenheiten (BAbA)</a></td><td><a href="api/index.json"><code>api/index.json</code></a></td></tr><tr><td>Schweiz</td><td><a href="ch/index.html">Bundesamt für besondere Angelegenheiten (BBA)</a></td><td><a href="ch/api/index.json"><code>ch/api/index.json</code></a></td></tr><tr><td>Österreich</td><td><a href="at/index.html">Bundesamt für besondere und sonstige Angelegenheiten (BBSA)</a></td><td><a href="at/api/index.json"><code>at/api/index.json</code></a></td></tr></tbody></table></div>
 <h2 style="margin-top:32px">IDs</h2><p>Personen: <code>p-nachname-vorname</code>, Einheiten: <code>leitung</code>, <code>stab-*</code>, <code>abt-*</code>, <code>ref-*</code> (in dieser Version: Abteilung = <code>abt-*</code>, Referat = <code>ref-*</code>), Meldungen: <code>JJJJ-MM-stichwort</code>. Jede HTML-Seite verweist per <code>&lt;link rel="alternate" type="application/json"&gt;</code> auf ihr JSON-Gegenstück.</p></div></section>
 </main>
@@ -56,13 +57,13 @@
 <div class="footer-grid">
 <div><div class="footer-brand"><img src="assets/img/logo/baba-logo-negativ.svg" alt="" width="44" height="44">Bundesamt für besondere Angelegenheiten</div>
 <p>Am Sonderweg 1<br>53113 Bonn<br>Telefon +49 228 4711-0<br><a href="mailto:poststelle@baba-bund.example">poststelle@baba-bund.example</a></p></div>
-<div><h2>Das Amt</h2><ul><li><a href="ueber-uns.html">Über uns</a></li><li><a href="organisation.html">Organigramm</a></li><li><a href="personen.html">Ansprechpersonen</a></li><li><a href="aufgaben.html">Aufgaben</a></li></ul></div>
+<div><h2>Das Amt</h2><ul><li><a href="ueber-uns.html">Über uns</a></li><li><a href="auftrag.html">Auftrag und Zuständigkeit</a></li><li><a href="organisation.html">Organigramm</a></li><li><a href="personen.html">Ansprechpersonen</a></li><li><a href="aufgaben.html">Aufgaben</a></li></ul></div>
 <div><h2>Service</h2><ul><li><a href="service.html">Formulare &amp; Downloads</a></li><li><a href="aktuelles.html">Aktuelles</a></li><li><a href="presse.html">Presse</a></li><li><a href="kontakt.html">Kontakt</a></li></ul></div>
 <div><h2>Rechtliches</h2><ul><li><a href="impressum.html">Impressum</a></li><li><a href="datenschutz.html">Datenschutz</a></li><li><a href="barrierefreiheit.html">Barrierefreiheit</a></li><li><a href="daten.html">Offene Daten &amp; API</a></li></ul></div>
 </div>
 <div class="footer-bottom"><span>© 2026 Bundesamt für besondere Angelegenheiten (fiktiv) · Länderversion Deutschland</span><span class="machine-hint">Maschinenlesbar: <a href="api/index.json"><code>api/index.json</code></a> · <a href="llms.txt"><code>llms.txt</code></a></span></div>
 </div>
-<div class="footer-fiction">Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Keine echte Einrichtung des Bundes.</div>
+<div class="footer-fiction">Fiktive Behörde – Demonstrationsinhalt. Keine echte Einrichtung des Bundes.</div>
 </footer>
 <script src="assets/js/app.js" defer></script>
 </body>

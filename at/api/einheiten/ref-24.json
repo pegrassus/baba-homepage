@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-24",
     "typ": "referat",
@@ -100,7 +100,23 @@
       "einheitIds": [
         "ref-24"
       ],
-      "rechtsgrundlage": "§ 16 BBSAG, Fenstertag-Feststellungsverordnung (fiktiv)"
+      "rechtsgrundlage": "§ 16 BBSAG, Fenstertag-Feststellungsverordnung (fiktiv)",
+      "details": [
+        "Die Abteilung III/4 stellt jedes Jahr durch Verordnung fest, welche Tage des Folgejahres Fenstertage sind. Ein Fenstertag liegt zwischen einem Feiertag und einem Wochenende; ein Zwickeltag zweiter Ordnung liegt zwischen zwei Urlaubswünschen. Grundlage ist eine Berechnungsformel aus 1958 mit 23 Variablen, die regionale Feiertage aller neun Bundesländer berücksichtigt.",
+        "Gemeinden, Interessenvertretungen und Betriebe können bis 30. September die Anerkennung zusätzlicher Zwickeltage beantragen. Über diese Ansuchen wird mit Feststellungsbescheid entschieden, positive Feststellungen fließen in die Kundmachung ein.",
+        "Die Feststellung begründet keinen Rechtsanspruch auf Urlaub. Sie dient als amtliche Orientierung für die Urlaubsplanung und als Gesprächsgrundlage mit Vorgesetzten. Die Kundmachung erscheint im Bundesgesetzblatt, auf der Website und am Schwarzen Brett aller drei Standorte."
+      ],
+      "beispiele": [
+        "Eine Gemeinde beantragt den Freitag nach ihrem Pfarrfest als Zwickeltag.",
+        "Ein Verein ersucht um Feststellung des 29. Februar 2027 als Fenstertag; der Antrag wird für 2028 vorgemerkt.",
+        "Ein Antragsteller möchte den Tag nach seinem Geburtstag anerkannt wissen – abgelehnt, mit Glückwünschen.",
+        "Eine Volksschulklasse aus dem Burgenland reicht einen gezeichneten Antrag ein, der als besonders protokolliert wird."
+      ],
+      "leistung": {
+        "antrag": "Formular BBSA-F16 bis 30. September des Vorjahres",
+        "dauer": "Entscheidung bis zur Kundmachung im Oktober",
+        "kosten": "gebührenfrei; Schulklassen erhalten ein Lesezeichen"
+      }
     }
   ],
   "standort": {
@@ -120,7 +136,7 @@
   "news": [
     {
       "id": "2026-10-fenstertage",
-      "titel": "Fenstertage 2027 kundgemacht: Sieben Fenstertage und ein Zwickeltag",
+      "titel": "Fenstertage 2027 kundgemacht: Sieben Fenstertage und ein Zwickeltag zweiter Ordnung",
       "datum": "2026-10-12",
       "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-10-fenstertage.html"
     }

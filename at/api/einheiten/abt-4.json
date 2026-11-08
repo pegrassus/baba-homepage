@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "abt-4",
     "typ": "abteilung",
@@ -209,7 +209,22 @@
         "ref-41",
         "ref-43"
       ],
-      "rechtsgrundlage": "§§ 22–25 BBSAG"
+      "rechtsgrundlage": "§§ 22–25 BBSAG",
+      "details": [
+        "Im BRbsA wird jede rechtskräftig erledigte besondere oder sonstige Angelegenheit eingetragen – mit Geschäftszahl, Einstufung, Ergebnis und zuständiger Abteilung. Das Register umfasst 1.204.388 Einträge seit 1873, davon 380.000 in Kurrentschrift, die seit 2026 vollständig digitalisiert und durchsuchbar sind.",
+        "Die Abteilung V/1 führt das Register und erteilt Auskünfte an Behörden sowie an Personen mit rechtlichem Interesse; auf Wunsch wird Einträgen in Kurrentschrift eine Transkription beigelegt. Die Abteilung V/3 entwickelt die Schnittstelle, über die Behörden ab 2027 automatisiert abfragen können, und prüft die Veröffentlichung ausgewählter Daten als Open Government Data."
+      ],
+      "beispiele": [
+        "Eine Behörde fragt an, ob eine Angelegenheit schon einmal als besonders eingestuft wurde (Treffer: 1931).",
+        "Eine Familienforscherin sucht den Eintrag ihres Urgroßvaters, der 1904 einen Dackel im Protokollbuch gezeichnet hat.",
+        "Eine Gemeinde beantragt einen Auszug über alle Zwickeltage, die je für sie festgestellt wurden.",
+        "Ein Unternehmen möchte wissen, ob seine Lieferdrohne mit Heimweh bereits eingetragen ist."
+      ],
+      "leistung": {
+        "antrag": "Formular BBSA-F22 oder Behördenschnittstelle (ab 2027)",
+        "dauer": "Auskunft binnen 10 Werktagen",
+        "kosten": "Registerauszug 9,60 Euro; Transkription Kurrentschrift 4,20 Euro je Seite; für Behörden gebührenfrei"
+      }
     }
   ],
   "standort": {

@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "person": {
     "id": "p-gisler-reto",
     "anrede": "Herr",
@@ -56,5 +56,12 @@
     "aufgabeIds": [],
     "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/stab-dir.json"
   },
-  "news": []
+  "news": [
+    {
+      "id": "2026-09-jahresbericht",
+      "titel": "Jahresbericht 2025: 9'874 Sonderfälle – Rekord bei Murmeltier-Eingaben",
+      "datum": "2026-09-08",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-jahresbericht.html"
+    }
+  ]
 }

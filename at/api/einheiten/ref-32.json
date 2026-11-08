@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-32",
     "typ": "referat",
@@ -100,7 +100,22 @@
       "einheitIds": [
         "ref-32"
       ],
-      "rechtsgrundlage": "§ 18a BBSAG"
+      "rechtsgrundlage": "§ 18a BBSAG",
+      "details": [
+        "Die Abteilung IV/2 in Innsbruck erstellt Föhngutachten für Parteien, Behörden und Gerichte. Ein Bescheid gilt nach der Richtlinie RL-IV/2-2026/1 als föhnbedingt, wenn am Erlassungstag am Behördenstandort Südwind über 60 km/h gemessen wurde und zusätzlich ein Indiz vorliegt, etwa auffällig gute Fernsicht oder ein Bescheidinhalt, der mit dem Antrag nur entfernt verwandt ist.",
+        "Liegt ein Bescheidföhn vor, wird der Bescheid auf Antrag in föhnfreier Lage neu erlassen. Der Antrag ist binnen vier Wochen ab Zustellung zu stellen; die Frist ist gehemmt, solange am Wohnort der Partei Föhn herrscht.",
+        "Daneben begutachtet die Abteilung auch sonstige wetterbedingte Sonderfälle und Fälle von Wetterfühligkeit, sofern sie verwaltungsrechtlich relevant sind. Grundlage sind Messdaten der Wetterstationen an allen Behördenstandorten sowie ein standardisiertes Indizienschema. Für Westwetterlagen und Hochnebel wird derzeit eine eigene Richtlinie („Grauschleier“) erarbeitet."
+      ],
+      "beispiele": [
+        "Eine Gartenhütte mit Flachdach wurde an einem Föhntag „in Form eines Schwans“ genehmigt.",
+        "Ein Bescheid enthält 14 Nebensätze in einem einzigen Spruchpunkt.",
+        "Eine Gemeinde möchte wissen, ob ihr Gemeinderatsbeschluss über einen Kreisverkehr bei Föhn gefasst wurde."
+      ],
+      "leistung": {
+        "antrag": "Formular BBSA-F18a binnen 4 Wochen ab Bescheidzustellung",
+        "dauer": "rund 8 Wochen, bei anhaltendem Föhn länger",
+        "kosten": "Gutachten 38 Euro; bei festgestelltem Bescheidföhn wird die Gebühr erstattet"
+      }
     }
   ],
   "standort": {

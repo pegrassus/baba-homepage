@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "person": {
     "id": "p-gerber-simon",
     "anrede": "Herr",
@@ -60,7 +60,7 @@
   "news": [
     {
       "id": "2026-07-erba-start",
-      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) in Betrieb",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) pünktlich in Betrieb",
       "datum": "2026-07-01",
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-07-erba-start.html"
     }

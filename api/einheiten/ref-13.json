@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-13",
     "typ": "referat",
@@ -103,7 +103,22 @@
         "ref-11",
         "ref-13"
       ],
-      "rechtsgrundlage": "§ 2 Abs. 1 BAbAG"
+      "rechtsgrundlage": "§ 2 Abs. 1 BAbAG",
+      "details": [
+        "Die Auffangzuständigkeit greift, wenn eine Angelegenheit in den Aufgabenbereich des Bundes fällt, sich aber keiner Bundesbehörde eindeutig zuordnen lässt. In der Praxis gelangen solche Vorgänge meist durch Abgabe einer anderen Behörde zum BAbA, seltener durch Bürgerinnen und Bürger, die bereits mehrere Stellen angeschrieben haben. Das Referat 11 prüft zunächst, ob tatsächlich keine andere Stelle zuständig ist, und hält das Ergebnis in einem Zuständigkeitsvermerk fest.",
+        "Ist das BAbA zuständig, wird der Vorgang einem Fachreferat zugewiesen und regulär bearbeitet. Ist eine andere Stelle zuständig, gibt das BAbA den Vorgang mit Begründung ab und informiert die antragstellende Person. Berührt die Angelegenheit zugleich Bundes- und Landesrecht, übernimmt das Referat 13 die Abstimmung mit den betroffenen Ländern.",
+        "Ergebnis ist in jedem Fall eine klare Zuordnung: Kein Vorgang verlässt das BAbA ohne Namen, Stelle und Aktenzeichen. Das Amt versteht sich ausdrücklich nicht als Ablage für Unerledigtes, sondern als letzte Station, an der eine Zuständigkeit festgestellt wird."
+      ],
+      "beispiele": [
+        "Ein Bundesministerium gibt eine Bürgeranfrage ab, die an „die zuständige Stelle für alles Übrige“ adressiert war.",
+        "Eine Anfrage zu einem Schild, das ausschließlich auf ein anderes Schild hinweist, wandert seit 2023 zwischen drei Stellen hin und her.",
+        "Ein Unternehmen fragt, wer für die Zulassung eines Produkts zuständig ist, das es nach eigenen Angaben „noch nicht gibt“."
+      ],
+      "leistung": {
+        "antrag": "Formloses Schreiben, Online-Formular „Zuständigkeitsanfrage“ oder Abgabe durch die bisher befasste Behörde",
+        "dauer": "6 Wochen",
+        "kosten": "gebührenfrei"
+      }
     },
     {
       "id": "auf-beratung",
@@ -114,7 +129,22 @@
         "ref-13",
         "ref-11"
       ],
-      "rechtsgrundlage": "§ 4 BAbAG"
+      "rechtsgrundlage": "§ 4 BAbAG",
+      "details": [
+        "Das BAbA berät Bundes-, Landes- und Kommunalbehörden, die bei einem Vorgang unsicher sind, ob sie zuständig sind oder wie ein ungewöhnlicher Sachverhalt einzuordnen ist. Die Beratung übernimmt in erster Linie das Referat 13 „Grenzfälle und Sonderkonstellationen“; Grundsatzfragen klärt das Referat 11. Die Beratung ist vertraulich und lässt die Zuständigkeit der anfragenden Behörde unberührt.",
+        "Besonderes Gewicht haben Fälle an der Schnittstelle zwischen Bundes- und Landesrecht. Hier moderiert das BAbA zwischen den Beteiligten, schlägt Zuordnungen vor und entwirft bei Bedarf Verwaltungsvereinbarungen. Im Bund-Länder-Arbeitskreis „Sonderfälle“ werden wiederkehrende Grenzfälle gesammelt und Empfehlungen abgestimmt.",
+        "Ergebnis ist eine schriftliche Stellungnahme oder eine Zuständigkeitsempfehlung. Sie bindet die anfragende Behörde nicht, wird aber nach Erfahrung des Amtes in rund neun von zehn Fällen befolgt – im zehnten meist deshalb nicht, weil die Empfehlung lautete, selbst zuständig zu sein."
+      ],
+      "beispiele": [
+        "Ein Haus auf der Landesgrenze, dessen Kachelofen in Hessen und dessen Schornstein in Thüringen steht.",
+        "Eine Kommune fragt, wer eine Parkbank betreut, die genau auf einer Gemarkungsgrenze steht.",
+        "Zwei Landesämter bitten um Klärung, welches von ihnen die Akte zu einem Fall führt, den beide bereits abgeschlossen haben."
+      ],
+      "leistung": {
+        "antrag": "Formlose Anfrage von Behörden per E-Mail oder über das Behördenportal",
+        "dauer": "4 Wochen",
+        "kosten": "für Behörden gebührenfrei"
+      }
     }
   ],
   "standort": {

@@ -4,23 +4,31 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "news": {
     "id": "2026-03-grenzstein",
     "datum": "2026-03-02",
     "kategorie": "Medienmitteilung",
-    "titel": "Kompromiss gefunden: Umstrittener Grenzstein wird halbiert",
-    "teaser": "Nach 132 Jahren Streit zwischen zwei Gemeinden hat die Sektion Konkordanz eine Lösung gefunden. Jede Gemeinde erhält eine Hälfte des Grenzsteins.",
+    "titel": "Kompromiss nach 132 Jahren: Umstrittener Grenzstein wird halbiert",
+    "teaser": "Nach 132 Jahren Streit zwischen zwei Mittelländer Gemeinden hat die Sektion Konkordanz eine Lösung gefunden: Jede Gemeinde erhält eine Hälfte des Grenzsteins. Für den Zentimeter dazwischen bleibt der Bund zuständig.",
     "text": [
-      "Der Grenzstein zwischen zwei Gemeinden im Mittelland war seit 1894 Gegenstand von Auseinandersetzungen.",
-      "«Am Ende waren alle gleich wenig zufrieden. Das ist ein gutschweizerischer Kompromiss», sagte Sektionschefin Stéphanie Roduit.",
-      "Die beiden Steinhälften werden mit einer Fuge von genau einem Zentimeter wieder aufgestellt. Für den Zentimeter bleibt das BBA zuständig."
+      "Nach 132 Jahren Auseinandersetzung haben zwei Gemeinden im Mittelland einen Kompromiss über einen umstrittenen Grenzstein gefunden. Auf Vorschlag der Sektion Konkordanz und Kompromissfindung des Bundesamts für besondere Angelegenheiten (BBA) wird der Stein fachgerecht halbiert; jede Gemeinde erhält eine Hälfte. Die Kompromissvereinbarung (Aktenzeichen BBA-G3-2024-01894) wurde am 27. Februar 2026 von beiden Gemeinderäten unterzeichnet, in derselben Minute und mit demselben Kugelschreiber.",
+      "## 132 Jahre Streit",
+      "Der Grenzstein ist seit 1894 Gegenstand von Auseinandersetzungen. Damals verschob ein Fuhrwerk den Stein um rund 80 Zentimeter, ohne dass es jemand bemerkte – oder ohne dass es jemand zugeben wollte. Seither beanspruchten beide Gemeinden den Stein und das Land darunter. Eine Güterzusammenlegung im Jahr 1958 verschärfte die Lage, weil der Stein danach rechtlich auf keiner Seite mehr lag. Der Kanton erklärte sich für befangen, das Grundbuchamt für unzuständig, weil ein Stein kein Grundstück sei.",
+      "Sektionschef Lukas Wyss erhob zunächst die Positionen der Beteiligten. «Wir haben 23 Stellungnahmen, sechs historische Pläne und einen Leserbrief von 1931 ausgewertet. Die Positionen waren klar: Jede Gemeinde wollte den ganzen Stein», sagte Wyss. Ein Vorschlag, den Stein einer dritten, unbeteiligten Gemeinde zu übergeben, scheiterte, weil sich keine Gemeinde fand, die nach Bekanntwerden des Vorschlags noch unbeteiligt sein wollte.",
+      "## Ein gutschweizerischer Kompromiss",
+      "Nach 14 Sitzungen schlug die Sektion Konkordanz und Kompromissfindung die Halbierung vor. «Am Ende waren alle gleich wenig zufrieden. Das ist ein gutschweizerischer Kompromiss», sagte Sektionschefin Stéphanie Roduit. Um die Gleichwertigkeit sicherzustellen, wurde der Stein vorgängig von einem Geometer vermessen und gewogen. Beide Hälften werden je 41,3 Kilogramm wiegen; die Inschrift wird so geteilt, dass jede Gemeinde ihren eigenen Anfangsbuchstaben erhält.",
+      "Abteilungsleiter Dr. Andrea Bernasconi würdigte das Verfahren als Musterbeispiel der Konkordanz. «In der Schweiz löst man Konflikte nicht, indem einer gewinnt, sondern indem niemand verliert – und notfalls, indem beide etwas weniger haben», sagte Bernasconi. Das Verfahren wird in der internen Ausbildung des Amtes künftig als Lehrbeispiel verwendet, mit dem Hinweis, dass nicht jeder Streitgegenstand teilbar ist.",
+      "Die beiden Steinhälften werden mit einer Fuge von genau einem Zentimeter wieder aufgestellt. Die Fuge selbst gehört keiner Gemeinde. Für den Zentimeter bleibt das BBA zuständig; er wurde als kleinstes vom Bund verwaltetes Gebiet im Eidgenössischen Register besonderer Angelegenheiten (ERbA) eingetragen. Die Sektion Logistik und Liegenschaften prüft derzeit, ob für die Fuge eine Unterhaltspflicht besteht und wer sie im Winter vom Schnee befreit.",
+      "Die Halbierung erfolgt am 14. April 2026 um 10.00 Uhr in Anwesenheit beider Gemeindepräsidien. Die Bevölkerung ist eingeladen; der anschliessende Apéro wird von beiden Gemeinden je hälftig ausgerichtet, die Weissweinfrage ist noch Gegenstand von Gesprächen.",
+      "Hinweis für Gemeinden: Wer einen Grenzstein besitzt, dessen Zugehörigkeit umstritten ist, kann beim BBA ein Kompromissverfahren beantragen. Die Halbierung ist nicht die einzige Lösung, aber die bewährteste."
     ],
     "bild": "assets/img/ch/news/2026-03-grenzstein.jpg",
     "einheitId": "ref-13",
     "personIds": [
       "p-roduit-stephanie",
-      "p-bernasconi-andrea"
+      "p-bernasconi-andrea",
+      "p-wyss-lukas"
     ],
     "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-03-grenzstein.html",
     "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-03-grenzstein.jpg",
@@ -105,6 +113,33 @@
         "abt-1"
       ],
       "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-bernasconi-andrea.json"
+    },
+    {
+      "id": "p-wyss-lukas",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Lukas",
+      "nachname": "Wyss",
+      "funktion": "Sektionschef Kantonale Sonderfälle",
+      "einheitId": "ref-12",
+      "email": "lukas.wyss@bba-bund.example",
+      "telefon": "+41 58 999 32 00",
+      "kurzvita": "Führt eine Liste aller 26 kantonalen Auffassungen zu jeder Frage.",
+      "name": "Lukas Wyss",
+      "portrait": "assets/img/ch/personen/p-wyss-lukas.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-wyss-lukas.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-wyss-lukas.html",
+      "einheit": {
+        "id": "ref-12",
+        "name": "Sektion G2: Kantonale Sonderfälle",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-12.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-12"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-wyss-lukas.json"
     }
   ]
 }

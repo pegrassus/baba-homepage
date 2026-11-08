@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "abt-1",
     "typ": "abteilung",
@@ -212,7 +212,21 @@
         "abt-1",
         "ref-11"
       ],
-      "rechtsgrundlage": "§ 2 BBSAG"
+      "rechtsgrundlage": "§ 2 BBSAG",
+      "details": [
+        "Nach § 2 BBSAG ist das BBSA für alle Angelegenheiten des Bundes zuständig, die keiner anderen Behörde zugewiesen sind – „und sonst, was übrig bleibt“. Das betrifft vor allem Sachen, die von anderen Bundesbehörden wegen Unzuständigkeit abgetreten werden, aber auch Ansuchen, die direkt beim BBSA einlangen. Die Abteilung II/1 prüft solche Eingänge grundsätzlich und weist sie der fachlich passenden Abteilung zu.",
+        "Darüber hinaus erarbeitet die Abteilung II/1 Erlässe und Grundsatzentscheidungen, die die Spruchpraxis aller Sektionen vereinheitlichen. Sie beantwortet Anfragen anderer Behörden, ob eine Sache beim BBSA richtig aufgehoben wäre, und führt die Liste der „Dauerzuständigkeiten“, die sich über die Jahre angesammelt haben. Das Ergebnis ist entweder eine Übernahme mit Zuweisung oder eine begründete Abtretung nach § 6 AVG."
+      ],
+      "beispiele": [
+        "Ein Ministerium tritt die Frage ab, wer für eine herrenlose Parkbank auf einer Bundesstraßenböschung zuständig ist.",
+        "Eine Gemeinde fragt an, wohin sie einen Fund von 400 Schreibmaschinenfarbbändern melden soll.",
+        "Ein Bürger ersucht um Klärung, welche Behörde für sein Anliegen zuständig ist, dessen Inhalt er „lieber persönlich erklären“ möchte."
+      ],
+      "leistung": {
+        "antrag": "Formloses Ansuchen oder Abtretung durch eine Behörde",
+        "dauer": "Zuweisung binnen 5 Werktagen",
+        "kosten": "gebührenfrei"
+      }
     }
   ],
   "standort": {

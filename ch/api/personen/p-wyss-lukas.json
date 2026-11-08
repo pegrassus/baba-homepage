@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "person": {
     "id": "p-wyss-lukas",
     "anrede": "Herr",
@@ -57,5 +57,18 @@
     ],
     "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-12.json"
   },
-  "news": []
+  "news": [
+    {
+      "id": "2026-10-kuh-bella",
+      "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Kantone gleichzeitig",
+      "datum": "2026-10-22",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-10-kuh-bella.html"
+    },
+    {
+      "id": "2026-03-grenzstein",
+      "titel": "Kompromiss nach 132 Jahren: Umstrittener Grenzstein wird halbiert",
+      "datum": "2026-03-02",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-03-grenzstein.html"
+    }
+  ]
 }

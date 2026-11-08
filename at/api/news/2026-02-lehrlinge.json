@@ -4,22 +4,29 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "news": {
     "id": "2026-02-lehrlinge",
     "datum": "2026-02-10",
     "kategorie": "Karriere",
     "titel": "18 Lehrlinge starten ihre Ausbildung im BBSA",
-    "teaser": "Verwaltungsassistentinnen und -assistenten sowie Applikationsentwicklerinnen und -entwickler beginnen in Wien, Graz und Innsbruck.",
+    "teaser": "Verwaltungsassistentinnen und -assistenten sowie Applikationsentwicklerinnen und -entwickler beginnen in Wien, Graz und Innsbruck. Erste Lektion: Wie man einen Akt wiederfindet, den man selbst abgelegt hat.",
     "text": [
-      "Das BBSA begrüßte 18 neue Lehrlinge an seinen drei Standorten.",
-      "„Bei uns lernt man alles über Akten – und wie man sie wiederfindet“, sagte Amtsdirektorin Renate Fuchs bei der Begrüßung.",
-      "Bewerbungen für den Lehrgang 2027 sind ab sofort möglich, vorzugsweise mit Formular."
+      "Das BBSA hat heuer 18 neue Lehrlinge an seinen drei Standorten begrüßt. Zwölf von ihnen absolvieren die Lehre zur Verwaltungsassistentin bzw. zum Verwaltungsassistenten, sechs die Lehre zur Applikationsentwicklerin bzw. zum Applikationsentwickler. Neun beginnen in Wien, fünf in Graz und vier in Innsbruck. Das Amt bildet damit so viele Lehrlinge aus wie zuletzt im Jahr 1978, als ein Großteil des Personals gleichzeitig auf die elektrische Schreibmaschine umgeschult werden musste.",
+      "## Der erste Tag",
+      "Der erste Ausbildungstag begann traditionell mit einer Führung durch das Amtsgebäude in Wien und das Kuriositätenkabinett, wo die Lehrlinge unter anderem die Melange-Tasse aus 1912 und den ältesten Amtsstempel des Hauses besichtigen konnten. Anschließend erhielten sie ihre Grundausstattung: einen Kugelschreiber mit Amtswappen, einen persönlichen Paraphenstempel, einen Zugang zum ELAK und ein Exemplar des Abgrenzungsleitfadens in sechster Auflage.",
+      "„Bei uns lernt man alles über Akten – und wie man sie wiederfindet“, sagte Amtsdirektorin Renate Fuchs, Leiterin der Abteilung I/1 „Personal und Lehrlingsausbildung“, bei der Begrüßung. „Das Ablegen lernt man in einer Woche. Das Wiederfinden dauert ein Berufsleben.“ Fuchs betreut die Lehrlingsausbildung seit über 30 Jahren und hat nach eigenen Angaben in dieser Zeit 247 Lehrlinge begleitet, von denen 61 heute noch im Amt tätig sind, drei davon als Abteilungsleitung. Sektionschef Mag. Gerhard Wallner, Leiter der Präsidialsektion, ergänzte: „Wer bei uns lernt, lernt, dass jede Angelegenheit ihren Platz hat. Und wenn sie keinen hat, dann hat sie ihn bei uns.“",
+      "## Was die Ausbildung umfasst",
+      "Die Ausbildung zur Verwaltungsassistenz dauert drei Jahre und führt durch alle fünf Sektionen. Auf dem Lehrplan stehen das AVG, die Kanzleiordnung, die Aktenführung im ELAK, das Formular- und Stempelwesen sowie ein Wahlmodul, das heuer erstmals „Kurrentschrift für Anfängerinnen und Anfänger“ umfasst. Im zweiten Lehrjahr verbringen die Lehrlinge zwei Wochen im Lagezentrum, wenn möglich rund um den 5. Dezember.",
+      "Die angehenden Applikationsentwicklerinnen und -entwickler werden in der Sektion V in Innsbruck ausgebildet. Sie arbeiten unter anderem an der künftigen Schnittstelle des BRbsA mit und sollen im dritten Lehrjahr eine eigene kleine Anwendung entwickeln. Im Vorjahr entstand auf diesem Weg ein Programm, das automatisch erkennt, ob ein Tag ein Fenstertag ist. Es wurde von der Abteilung III/4 geprüft und als „technisch korrekt, aber zu schnell“ eingestuft.",
+      "Alle Lehrlinge haben die Möglichkeit, die Lehre mit Matura zu absolvieren. Die Lehrlingsentschädigung richtet sich nach den Bestimmungen des Bundes; zusätzlich gibt es freien Kaffee und Zugang zur Amtsbibliothek mit 14.000 Bänden, davon 3.200 zum Thema Zuständigkeit.",
+      "Hinweis für Bewerberinnen und Bewerber: Bewerbungen für den Lehrgang 2027 sind ab sofort möglich, vorzugsweise mit Formular BBSA-F0, das wiederum das Bewerbungsformular BBSA-F112 enthält. Formlose Bewerbungen werden ebenso gerne entgegengenommen und als sonstig protokolliert."
     ],
     "bild": "assets/img/at/news/2026-02-lehrlinge.jpg",
     "einheitId": "ref-z1",
     "personIds": [
-      "p-fuchs-renate"
+      "p-fuchs-renate",
+      "p-wallner-gerhard"
     ],
     "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-02-lehrlinge.html",
     "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-02-lehrlinge.jpg",
@@ -75,6 +82,33 @@
         "ref-z1"
       ],
       "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-fuchs-renate.json"
+    },
+    {
+      "id": "p-wallner-gerhard",
+      "anrede": "Herr",
+      "titel": "Mag.",
+      "vorname": "Gerhard",
+      "nachname": "Wallner",
+      "funktion": "Sektionschef, Leiter der Präsidialsektion",
+      "einheitId": "abt-z",
+      "email": "gerhard.wallner@bbsa-bund.example",
+      "telefon": "+43 1 4711-2000",
+      "kurzvita": "Seit 2016 Leiter der Sektion I; zuständig für alles, was das Amt am Laufen hält.",
+      "name": "Mag. Gerhard Wallner",
+      "portrait": "assets/img/at/personen/p-wallner-gerhard.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/personen/p-wallner-gerhard.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/at/personen/p-wallner-gerhard.html",
+      "einheit": {
+        "id": "abt-z",
+        "name": "Sektion I: Präsidialsektion",
+        "url": "https://pegrassus.github.io/baba-homepage/at/organisation/abt-z.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-wien",
+      "leitetEinheitIds": [
+        "abt-z"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/at/api/personen/p-wallner-gerhard.json"
     }
   ]
 }

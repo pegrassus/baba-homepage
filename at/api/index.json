@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "name": "Bundesamt für besondere und sonstige Angelegenheiten",
   "kurzname": "BBSA",
   "beschreibung": "Maschinenlesbare Schnittstelle der (fiktiven) Behörde, Länderversion Österreich. Alle Inhalte der Website sind hier als JSON abrufbar. IDs sind stabil und dateiübergreifend referenzierbar.",
@@ -61,7 +61,7 @@
     {
       "pfad": "api/aufgaben.json",
       "url": "https://pegrassus.github.io/baba-homepage/at/api/aufgaben.json",
-      "beschreibung": "Aufgaben und Leistungen mit zuständigen Einheiten"
+      "beschreibung": "Aufgaben und Leistungen mit zuständigen Einheiten, Details und Beispielen"
     },
     {
       "pfad": "api/news.json",

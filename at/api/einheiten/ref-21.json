@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-21",
     "typ": "referat",
@@ -102,7 +102,22 @@
         "ref-21",
         "ref-22"
       ],
-      "rechtsgrundlage": "§§ 9–14 BBSAG i. V. m. AVG"
+      "rechtsgrundlage": "§§ 9–14 BBSAG i. V. m. AVG",
+      "details": [
+        "Die Sektion III in Graz führt Verwaltungsverfahren durch, die nach Inhalt oder Umständen nicht in ein Regelverfahren passen. Die Abteilung III/1 führt die Verfahren nach dem BBSAG in erster Instanz: von der Ermittlung des Sachverhalts über das Parteiengehör bis zur mündlichen Verhandlung, die nie an einem Fenstertag stattfindet.",
+        "Die Abteilung III/2 verantwortet Bescheide besonderer Art. Dazu gehören Bescheide mit ungewöhnlichem Spruch, Bescheide an mehrere Bundesländer zugleich und Bescheide in besonderer Form, etwa in Gedichtform, wenn die Partei dies beantragt und der Inhalt es zulässt. Jeder Bescheid enthält eine ordnungsgemäße Begründung und Rechtsmittelbelehrung, auch wenn er sich reimt.",
+        "Die Verfahren werden vollständig im ELAK geführt; der Papierakt wird parallel mitgeführt, „bis sich der ELAK bewährt hat“. Parteien können jederzeit Akteneinsicht nehmen, elektronisch oder in der Außenstelle Graz während der Amtsstunden. Die durchschnittliche Verfahrensdauer lag 2025 bei 31 Werktagen."
+      ],
+      "beispiele": [
+        "Ein Bescheid über die Genehmigung eines Maibaums, der höher ist als der Kirchturm, ergeht nach Parteiantrag in vierzeiligen Strophen.",
+        "Ein Verfahren über ein Hausboot, das je nach Pegelstand in zwei Gemeinden liegt.",
+        "Eine mündliche Verhandlung findet mangels geeigneter Räume im Speisewagen eines Regionalzugs statt."
+      ],
+      "leistung": {
+        "antrag": "Ansuchen nach § 13 AVG, schriftlich oder elektronisch",
+        "dauer": "durchschnittlich 31 Werktage, längstens 6 Monate",
+        "kosten": "nach Bundesverwaltungsabgabenverordnung; Gedichtform ohne Aufpreis"
+      }
     }
   ],
   "standort": {

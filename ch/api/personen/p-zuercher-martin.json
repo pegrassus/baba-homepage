@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "person": {
     "id": "p-zuercher-martin",
     "anrede": "Herr",
@@ -61,5 +61,12 @@
     "aufgabeIds": [],
     "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/abt-z.json"
   },
-  "news": []
+  "news": [
+    {
+      "id": "2025-11-lernende",
+      "titel": "14 Lernende starten ihre Ausbildung beim BBA",
+      "datum": "2025-11-26",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2025-11-lernende.html"
+    }
+  ]
 }

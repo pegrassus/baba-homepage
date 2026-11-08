@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "person": {
     "id": "p-weissenfels-nora",
     "anrede": "Frau",
@@ -58,5 +58,12 @@
     ],
     "json": "https://pegrassus.github.io/baba-homepage/api/einheiten/ref-13.json"
   },
-  "news": []
+  "news": [
+    {
+      "id": "2026-07-europaeisches-forum",
+      "titel": "Vizepräsident Oberreiter beim Europäischen Forum für Sonderfälle: Ein Glossar für das Unvergleichliche",
+      "datum": "2026-07-03",
+      "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-07-europaeisches-forum.html"
+    }
+  ]
 }

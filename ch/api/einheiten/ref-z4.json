@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-z4",
     "typ": "referat",
@@ -98,7 +98,21 @@
       "einheitIds": [
         "ref-z4"
       ],
-      "rechtsgrundlage": "Art. 6 BABG i. V. m. Sprachengesetz"
+      "rechtsgrundlage": "Art. 6 BABG i. V. m. Sprachengesetz",
+      "details": [
+        "Die Sektion Sprachdienste stellt sicher, dass Verfügungen, Bewilligungen und Berichte in der Amtssprache der betroffenen Personen vorliegen. Bei Verfahren mit Beteiligten aus mehreren Sprachregionen werden mehrere Fassungen erstellt; massgebend ist jeweils die im Entscheid bezeichnete Fassung. Die Sektion achtet darauf, dass Fachbegriffe wie «Sömmerung» oder «Suone» in allen Fassungen gleich verstanden werden.",
+        "Zusätzliche Fassungen, etwa in einem Dialekt, sind eine Ausnahme und bedürfen einer Ausnahmebewilligung. Sie sind rechtlich nicht verbindlich, erhöhen aber erfahrungsgemäss die Akzeptanz eines Entscheids. Die Sektion übersetzt zudem Medienmitteilungen, Formulare und den Jahresbericht."
+      ],
+      "beispiele": [
+        "Eine Verfügung zum Unterhalt einer Suone wird zusätzlich in Walliserdeutsch ausgefertigt.",
+        "Ein Registerauszug wird für eine Gemeinde im Engadin in das Idiom Vallader übersetzt.",
+        "Das Wort «Rechtsmittelbelehrung» wird nach zweiwöchiger Abklärung in drei Dialektvarianten wiedergegeben."
+      ],
+      "leistung": {
+        "antrag": "Angabe der gewünschten Amtssprache im Gesuch; Dialektfassungen mit Formular BBA-207d",
+        "dauer": "Im Verfahren inbegriffen; Dialektfassungen zusätzlich 2 bis 4 Wochen",
+        "kosten": "Amtssprachen gebührenfrei; Dialektfassungen nach Aufwand"
+      }
     }
   ],
   "standort": {
@@ -124,7 +138,7 @@
   "news": [
     {
       "id": "2026-06-fuenf-sprachen",
-      "titel": "Sprachdienst übersetzt Verfügung erstmals in vier Landessprachen und Walliserdeutsch",
+      "titel": "Einziger Konsens im Suonen-Streit: Die Verfügung gibt es auch auf Walliserdeutsch",
       "datum": "2026-06-03",
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-06-fuenf-sprachen.html"
     }

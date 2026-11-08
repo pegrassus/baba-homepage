@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-11",
     "typ": "referat",
@@ -102,7 +102,21 @@
         "abt-1",
         "ref-11"
       ],
-      "rechtsgrundlage": "Art. 2 BABG"
+      "rechtsgrundlage": "Art. 2 BABG",
+      "details": [
+        "Im föderalistischen System verteilen Bundesverfassung, Bundesgesetze und 26 Kantonsverfassungen die Zuständigkeiten sehr genau. Trotzdem bleiben Fälle übrig, die keiner Ebene zugeordnet sind, und solche, die gleich mehreren zugeordnet sind. Für beide Konstellationen ist nach Art. 2 BABG das BBA zuständig. Es übernimmt den Fall, klärt ihn und entscheidet ihn oder überweist ihn an die Stelle, die sich nach der Klärung doch als zuständig erweist.",
+        "Die Abteilung Grundsätze und Konkordanz entscheidet in Zweifelsfällen über die Übernahme. Die Sektion Grundsatzfragen der Besonderheit pflegt dazu eine Sammlung von Grundsatzentscheiden, die bis ins Gründungsjahr 1953 zurückreicht. Ein negativer Kompetenzkonflikt, also ein Fall, den alle ablehnen, wird innert 30 Tagen übernommen; ein positiver, den alle beanspruchen, innert 60 Tagen, weil zuerst alle angehört werden müssen."
+      ],
+      "beispiele": [
+        "Ein einzelner Handschuh, der an einem Skilift auf der Kantonsgrenze hängt und von keinem Fundbüro angenommen wird.",
+        "Ein Bach, der laut drei verschiedenen Plänen durch drei verschiedene Gemeinden fliesst und in keinem davon unterhalten wird.",
+        "Eine Anfrage, für die sich vier Bundesämter und zwei Kantone gleichzeitig zuständig erklären."
+      ],
+      "leistung": {
+        "antrag": "Formloses Schreiben oder Formular BBA-100 («Meldung einer unzuordenbaren Angelegenheit»)",
+        "dauer": "30 bis 60 Tage bis zum Übernahmeentscheid",
+        "kosten": "Gebührenfrei"
+      }
     },
     {
       "id": "auf-abgrenzung",
@@ -113,7 +127,21 @@
         "ref-11",
         "ref-21"
       ],
-      "rechtsgrundlage": "Art. 3 BABG"
+      "rechtsgrundlage": "Art. 3 BABG",
+      "details": [
+        "Wer wissen will, ob seine Angelegenheit in die Zuständigkeit des BBA fällt, kann ein Gesuch um Feststellung der Besonderheit stellen. Die Sektion Besondere Verfahren prüft den Sachverhalt anhand des Kriterienkatalogs mit 14 Punkten, etwa «Fehlender Präzedenzfall seit 1291» oder «Echo, Lawine oder Föhn als mitwirkende Partei». Sind mindestens drei Kriterien erfüllt, gilt die Angelegenheit als besonders. Grenzfälle werden der Sektion Grundsatzfragen der Besonderheit vorgelegt.",
+        "Das Ergebnis wird mit einer Feststellungsverfügung eröffnet und im ERbA eingetragen. Fällt die Prüfung negativ aus, wird das Gesuch von Amtes wegen an die ordentlich zuständige Behörde überwiesen, damit niemand ohne Ansprechstelle bleibt. Gegen die Verfügung kann innert 30 Tagen Einsprache erhoben werden. Rund 18 Prozent aller Feststellungsgesuche betreffen die Frage, ob das Gesuch selbst besonders ist. Diese Gesuche erfüllen in der Regel das Kriterium «Formale Selbstbezüglichkeit» und werden deshalb meist gutgeheissen."
+      ],
+      "beispiele": [
+        "Eine Gemeinde möchte wissen, ob ein Brunnen, aus dem abwechselnd warmes und kaltes Wasser fliesst, besonders ist.",
+        "Ein Verein lässt feststellen, ob seine Fahne, die auf beiden Seiten verschiedene Kantonswappen zeigt, besonders ist.",
+        "Eine Privatperson beantragt die Feststellung, ob ihr Gesuch um Feststellung besonders ist."
+      ],
+      "leistung": {
+        "antrag": "Formular BBA-101 mit Sachverhaltsbeschreibung und allfälligen Beweismitteln",
+        "dauer": "30 Tage",
+        "kosten": "CHF 120; bei positiver Feststellung CHF 0, weil das Besondere nicht bestraft werden soll"
+      }
     }
   ],
   "standort": {

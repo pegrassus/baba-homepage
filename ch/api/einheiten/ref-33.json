@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-33",
     "typ": "referat",
@@ -100,7 +100,22 @@
       "einheitIds": [
         "ref-33"
       ],
-      "rechtsgrundlage": "Art. 20 BABG"
+      "rechtsgrundlage": "Art. 20 BABG",
+      "details": [
+        "Das Kuriositätenarchiv sichert Vorgänge, Gegenstände und Tonaufnahmen, die für das Verständnis besonderer Angelegenheiten von bleibendem Wert sind. Dazu gehören abgeschlossene Dossiers, Beweisstücke wie der Skistock aus dem ersten Fall von 1953 und das Tonarchiv mit über 1'000 abweichenden Echos. Jedes Objekt erhält eine Signatur und wird im ERbA verknüpft.",
+        "Das Archiv steht Behörden, Forschenden und der interessierten Öffentlichkeit nach Voranmeldung offen. Am Tag der offenen Tür wird jeweils eine Auswahl gezeigt. Das Archiv berät zudem andere Sektionen bei der Frage, ob ein Fall archivwürdig ist."
+      ],
+      "beispiele": [
+        "Aufnahme eines Echos im Jura, das seit 1962 ausschliesslich auf Französisch antwortet.",
+        "Sammlung verlorener Fondue-Gabeln, deren Herkunft nicht geklärt werden konnte.",
+        "Ein Formular, das versehentlich zweimal gestempelt wurde, einmal davon mit dem falschen Datum.",
+        "Die 214 Karteikästen des ERbA in ihrem ursprünglichen Zustand."
+      ],
+      "leistung": {
+        "antrag": "Einsichtsgesuch per E-Mail oder Formular BBA-E3-10; Meldung abweichender Echos mit Formular BBA-E3-02",
+        "dauer": "Einsicht innert 14 Tagen",
+        "kosten": "Gebührenfrei; Kopien von Tonaufnahmen CHF 15"
+      }
     }
   ],
   "standort": {

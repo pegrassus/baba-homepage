@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "abt-2",
     "typ": "abteilung",
@@ -213,7 +213,22 @@
         "ref-21",
         "ref-22"
       ],
-      "rechtsgrundlage": "§§ 9–14 BAbAG"
+      "rechtsgrundlage": "§§ 9–14 BAbAG",
+      "details": [
+        "Besondere Verwaltungsverfahren werden durchgeführt, wenn eine Angelegenheit als besonders festgestellt ist und sich nicht im Regelverfahren einer Fachbehörde bearbeiten lässt. Das Referat 21 führt Verfahren erster Ordnung, bei denen eine einzelne Besonderheit vorliegt. Das Referat 22 übernimmt mehrfach besondere Verfahren, in denen mehrere Besonderheiten zusammentreffen oder sich gegenseitig verstärken.",
+        "Der Ablauf folgt dem Verwaltungsverfahrensgesetz, ergänzt um die Sonderregeln der §§ 9–14 BAbAG: Sachverhaltsermittlung, Anhörung, Beteiligung anderer Behörden und Entscheidung. In mehrfach besonderen Verfahren gilt das Sechs-Augen-Prinzip, und die Verfahrensdauer richtet sich nach § 12 BAbAG „nach den Umständen“. Alle Verfahren werden am Standort Berlin vollständig in der E-Akte geführt.",
+        "Am Ende steht ein Bescheid, der die Angelegenheit in der Sache regelt, etwa durch eine Erlaubnis, eine Feststellung oder eine Zuordnung. Bescheide werden mit Rechtsbehelfsbelehrung bekannt gegeben und im BRbA vermerkt."
+      ],
+      "beispiele": [
+        "Ein Grundstück liegt nach drei amtlichen Vermessungen jeweils in einem anderen Landkreis.",
+        "Eine Fußgängerbrücke gehört zwei Gemeinden, darf aber nach den Satzungen nur von einer Seite aus betreten werden.",
+        "Ein Antrag begehrt zugleich Feststellung, Ausnahme und Fristauskunft und ist auf einen 29. Februar in einem Nicht-Schaltjahr datiert."
+      ],
+      "leistung": {
+        "antrag": "Einleitung von Amts wegen nach positiver Feststellung oder auf Antrag in der Sache",
+        "dauer": "6 Monate; mehrfach besondere Verfahren nach den Umständen",
+        "kosten": "nach Gebührenverzeichnis zum BAbAG, Anlage 2"
+      }
     }
   ],
   "standort": {
@@ -233,7 +248,7 @@
   "news": [
     {
       "id": "2026-03-fristenregelung",
-      "titel": "Neue Fristenregelung für außergewöhnliche Verfahren in Kraft",
+      "titel": "Neue Fristenregelung für außergewöhnliche Verfahren: Künftig gilt die günstigere Stunde",
       "datum": "2026-03-18",
       "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-03-fristenregelung.html"
     }

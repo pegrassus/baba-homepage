@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "abt-1",
     "typ": "abteilung",
@@ -215,7 +215,22 @@
         "ref-11",
         "ref-13"
       ],
-      "rechtsgrundlage": "§ 2 Abs. 1 BAbAG"
+      "rechtsgrundlage": "§ 2 Abs. 1 BAbAG",
+      "details": [
+        "Die Auffangzuständigkeit greift, wenn eine Angelegenheit in den Aufgabenbereich des Bundes fällt, sich aber keiner Bundesbehörde eindeutig zuordnen lässt. In der Praxis gelangen solche Vorgänge meist durch Abgabe einer anderen Behörde zum BAbA, seltener durch Bürgerinnen und Bürger, die bereits mehrere Stellen angeschrieben haben. Das Referat 11 prüft zunächst, ob tatsächlich keine andere Stelle zuständig ist, und hält das Ergebnis in einem Zuständigkeitsvermerk fest.",
+        "Ist das BAbA zuständig, wird der Vorgang einem Fachreferat zugewiesen und regulär bearbeitet. Ist eine andere Stelle zuständig, gibt das BAbA den Vorgang mit Begründung ab und informiert die antragstellende Person. Berührt die Angelegenheit zugleich Bundes- und Landesrecht, übernimmt das Referat 13 die Abstimmung mit den betroffenen Ländern.",
+        "Ergebnis ist in jedem Fall eine klare Zuordnung: Kein Vorgang verlässt das BAbA ohne Namen, Stelle und Aktenzeichen. Das Amt versteht sich ausdrücklich nicht als Ablage für Unerledigtes, sondern als letzte Station, an der eine Zuständigkeit festgestellt wird."
+      ],
+      "beispiele": [
+        "Ein Bundesministerium gibt eine Bürgeranfrage ab, die an „die zuständige Stelle für alles Übrige“ adressiert war.",
+        "Eine Anfrage zu einem Schild, das ausschließlich auf ein anderes Schild hinweist, wandert seit 2023 zwischen drei Stellen hin und her.",
+        "Ein Unternehmen fragt, wer für die Zulassung eines Produkts zuständig ist, das es nach eigenen Angaben „noch nicht gibt“."
+      ],
+      "leistung": {
+        "antrag": "Formloses Schreiben, Online-Formular „Zuständigkeitsanfrage“ oder Abgabe durch die bisher befasste Behörde",
+        "dauer": "6 Wochen",
+        "kosten": "gebührenfrei"
+      }
     }
   ],
   "standort": {
@@ -241,7 +256,7 @@
   "news": [
     {
       "id": "2026-08-leitfaden",
-      "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“",
+      "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“ – 14 Kriterien und ein messbares Kopfschütteln",
       "datum": "2026-08-21",
       "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-08-leitfaden.html"
     }

@@ -4,23 +4,31 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "news": {
     "id": "2026-06-erfurt-neubau",
     "datum": "2026-06-12",
     "kategorie": "Meldung",
-    "titel": "Außenstelle Erfurt bezieht Neubau",
-    "teaser": "Die Abteilung Digitales und Register arbeitet ab sofort in einem energieeffizienten Neubau am Registerplatz.",
+    "titel": "Außenstelle Erfurt bezieht Neubau – planmäßig, was ausdrücklich erwähnt werden soll",
+    "teaser": "Die Abteilung Digitales und Register arbeitet ab sofort in einem energieeffizienten Neubau am Registerplatz 3. Der Umzug von 280 Beschäftigten, 1.900 Kartons und einem Gummibaum verlief ohne besondere Vorkommnisse – was im BAbA durchaus als Besonderheit gilt.",
     "text": [
-      "Nach zweijähriger Bauzeit ist die Außenstelle Erfurt in ihr neues Gebäude am Registerplatz 3 umgezogen. Rund 280 Beschäftigte arbeiten dort künftig in modernen Büro- und Teamflächen.",
-      "Der Neubau beherbergt auch das Rechenzentrum für das Bundesregister besonderer Angelegenheiten.",
-      "„Der Umzug verlief planmäßig – was bei uns durchaus erwähnenswert ist“, sagte Referatsleiterin Ayşe Demirtaş."
+      "Nach zweijähriger Bauzeit ist die Außenstelle Erfurt des Bundesamts für besondere Angelegenheiten in ihr neues Gebäude am Registerplatz 3 umgezogen. Rund 280 Beschäftigte der Abteilung 4 „Digitales und Register“ arbeiten dort künftig in modernen Büro- und Teamflächen. Der Neubau beherbergt auch das Rechenzentrum für das Bundesregister besonderer Angelegenheiten (BRbA).",
+      "## Ein Umzug ohne Vorkommnisse",
+      "Der Umzug erfolgte an drei Wochenenden im Mai und Juni. Bewegt wurden 1.900 Umzugskartons, 312 Schreibtische, 41 Serverschränke und ein Gummibaum, der seit 2019 in der Außenstelle steht und nach Auffassung des Personalrats „zum Bestand gehört“. Für den Gummibaum wurde eine eigene Inventarnummer vergeben, nachdem eine Prüfung ergeben hatte, dass er weder unter Mobiliar noch unter Verbrauchsmaterial fällt.",
+      "„Der Umzug verlief planmäßig – was bei uns durchaus erwähnenswert ist“, sagte Ayşe Demirtaş, Leiterin des Referats Organisation, Innerer Dienst und Liegenschaften. „Wir hatten für 23 Szenarien Notfallpläne vorbereitet, darunter Stromausfall, Starkregen und die Verwechslung zweier Kartons mit der Aufschrift ‚Wichtig‘. Eingetreten ist keines. Das Lagezentrum hat sich daraufhin bei uns erkundigt, ob alles in Ordnung ist.“",
+      "Abteilungsleiter Thomas Brandauer, verantwortlich für die Zentralen Dienste, hob die Einhaltung des Kostenrahmens hervor. „Das Bauvorhaben ist im vorgesehenen Budget geblieben. Wir haben das dreimal nachgerechnet, weil wir es selbst nicht glauben konnten, und dann ein viertes Mal, weil das Justiziariat fragte, ob dreimal genügt.“ Über die genaue Summe gibt der Haushaltsplan Auskunft.",
+      "## Was das Gebäude kann",
+      "Der Neubau erfüllt den Effizienzgebäude-Standard 40, verfügt über eine Photovoltaikanlage auf dem Dach und nutzt die Abwärme des Rechenzentrums zur Beheizung der Büros. In den Wintermonaten ist die Temperatur in den Räumen direkt über den Servern daher geringfügig höher; diese Büros wurden nach einem eigens entwickelten Punktesystem vergeben, das 14 Kriterien umfasst und in seiner Struktur nicht zufällig an den Leitfaden des Amtes erinnert.",
+      "„Für das BRbA bedeutet der Neubau vor allem Ausfallsicherheit“, erklärte CIO Daniel Okafor. „Das Register ist jetzt redundant ausgelegt. Selbst wenn ein ganzer Gebäudeteil ausfällt, bleibt jeder Eintrag abrufbar. Das ist uns wichtig, denn viele Angelegenheiten im BRbA gibt es genau einmal.“",
+      "Das bisherige Dienstgebäude in der Erfurter Innenstadt wird an den Eigentümer zurückgegeben. Beim Auszug wurde im Keller ein Aktenbestand aus dem Jahr 2020 entdeckt, der sich nach erster Sichtung keinem Referat zuordnen ließ. Er wurde ordnungsgemäß an die Abteilung 1 abgegeben, die nun seine Besonderheit prüft.",
+      "Hinweis für Besuchende: Die neue Anschrift lautet Registerplatz 3, 99084 Erfurt. Die Telefonnummern bleiben unverändert. Der Gummibaum steht im Foyer und kann während der Servicezeiten besichtigt werden."
     ],
     "bild": "assets/img/news/2026-06-erfurt-neubau.jpg",
     "einheitId": "ref-z3",
     "personIds": [
       "p-demirtas-ayse",
-      "p-brandauer-thomas"
+      "p-brandauer-thomas",
+      "p-okafor-daniel"
     ],
     "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-06-erfurt-neubau.html",
     "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-06-erfurt-neubau.jpg",
@@ -103,6 +111,33 @@
         "abt-z"
       ],
       "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-brandauer-thomas.json"
+    },
+    {
+      "id": "p-okafor-daniel",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Daniel",
+      "nachname": "Okafor",
+      "funktion": "Abteilungsleiter 4 (CIO)",
+      "einheitId": "abt-4",
+      "email": "daniel.okafor@baba-bund.example",
+      "telefon": "+49 361 4711-6000",
+      "kurzvita": "Wirtschaftsinformatiker; verantwortet die digitale Transformation des Amtes und das BRbA.",
+      "name": "Daniel Okafor",
+      "portrait": "assets/img/personen/p-okafor-daniel.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/personen/p-okafor-daniel.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/personen/p-okafor-daniel.html",
+      "einheit": {
+        "id": "abt-4",
+        "name": "Abteilung 4: Digitales und Register",
+        "url": "https://pegrassus.github.io/baba-homepage/organisation/abt-4.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-erfurt",
+      "leitetEinheitIds": [
+        "abt-4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/api/personen/p-okafor-daniel.json"
     }
   ]
 }

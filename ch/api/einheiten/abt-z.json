@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "abt-z",
     "typ": "abteilung",
@@ -218,7 +218,7 @@
   "news": [
     {
       "id": "2026-06-fuenf-sprachen",
-      "titel": "Sprachdienst übersetzt Verfügung erstmals in vier Landessprachen und Walliserdeutsch",
+      "titel": "Einziger Konsens im Suonen-Streit: Die Verfügung gibt es auch auf Walliserdeutsch",
       "datum": "2026-06-03",
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-06-fuenf-sprachen.html"
     },

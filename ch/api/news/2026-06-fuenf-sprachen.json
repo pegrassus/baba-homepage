@@ -4,22 +4,30 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "news": {
     "id": "2026-06-fuenf-sprachen",
     "datum": "2026-06-03",
     "kategorie": "Mitteilung",
-    "titel": "Sprachdienst übersetzt Verfügung erstmals in vier Landessprachen und Walliserdeutsch",
-    "teaser": "Eine Verfügung zu einem Grenzfall im Oberwallis wurde auf Wunsch aller Beteiligten auch in Walliserdeutsch ausgefertigt. Die Ausfertigung umfasst 47 Seiten.",
+    "titel": "Einziger Konsens im Suonen-Streit: Die Verfügung gibt es auch auf Walliserdeutsch",
+    "teaser": "Drei Oberwalliser Gemeinden waren sich über eine historische Wasserleitung in keinem Punkt einig – ausser darüber, in welcher Sprache sie den Entscheid lesen wollten. Die Ausfertigung umfasst 47 Seiten.",
     "text": [
-      "Die Sektion Sprachdienste hat eine Verfügung des BBA erstmals in fünf Sprachfassungen erstellt.",
-      "«Walliserdeutsch ist keine Amtssprache, aber für die Beteiligten war es die einzig verständliche», erklärte Sektionschefin Chiara Rossi.",
-      "Die Walliser Fassung ist rechtlich nicht verbindlich, wurde aber von allen Parteien als die schönste bezeichnet."
+      "Die Sektion Sprachdienste des Bundesamts für besondere Angelegenheiten (BBA) hat eine Verfügung erstmals in fünf Sprachfassungen ausgefertigt: in den vier Landessprachen und zusätzlich in Walliserdeutsch. Anlass war ein Grenzfall im Oberwallis (Aktenzeichen BBA-G2-2025-04471), bei dem sich die Beteiligten über fast nichts einigen konnten – ausser über die Sprache, in der sie den Entscheid lesen wollten. Die gesamte Ausfertigung umfasst 47 Seiten.",
+      "## Ein Fall mit einer Wasserleitung und drei Meinungen",
+      "Gegenstand des Verfahrens war eine historische Suone, eine Bewässerungsleitung, die über das Gebiet von drei Gemeinden führt und deren Unterhaltspflicht seit dem 18. Jahrhundert ungeklärt ist. Jede Gemeinde berief sich auf ein anderes Dokument, eines davon auf Latein, eines in ein Holzbrett geschnitzt. Die Sektion Kantonale Sonderfälle erhob im Laufe des Verfahrens insgesamt neun Positionen von drei Gemeinden, weil jede Gemeinde mindestens einmal ihre Meinung änderte und dabei die frühere nicht zurückzog.",
+      "Die Sektion Konkordanz und Kompromissfindung schlug nach elf Sitzungen eine Lösung vor: Jede Gemeinde unterhält ein Drittel der Leitung, und die Drittel werden jedes Jahr im Uhrzeigersinn neu verteilt. «Wir hatten Einigkeit darüber, dass niemand einverstanden ist. Das ist eine gute Grundlage», sagte Sektionschefin Stéphanie Roduit. Erst als es um die Sprache der Verfügung ging, waren sich plötzlich alle einig – zum ersten Mal seit 1741.",
+      "## Die einzig verständliche Fassung",
+      "«Walliserdeutsch ist keine Amtssprache, aber für die Beteiligten war es die einzig verständliche», erklärte Sektionschefin Chiara Rossi. Die Übersetzung übernahm eine Mitarbeiterin aus Visp, die nach eigenen Angaben zwei Wochen lang über das richtige Wort für «Rechtsmittelbelehrung» nachdachte. Eine Rückfrage ergab, dass in jeder der drei Gemeinden ein anderes Wort üblich ist. In der Fassung wurden deshalb alle drei verwendet, jeweils mit den beiden anderen in Klammern.",
+      "Die Fassung in Walliserdeutsch umfasst 13 Seiten und ist damit die längste. Die Sektion Sprachdienste erklärt dies mit der Präzision des Dialekts, der für eine Wasserleitung je nach Gefälle, Zustand und Besitzverhältnis verschiedene Ausdrücke kennt. Die kürzeste Fassung umfasst 7 Seiten; die Sektion legt Wert auf die Feststellung, dass dies an der Schriftgrösse liegt und keine Wertung darstellt.",
+      "Die Walliser Fassung ist rechtlich nicht verbindlich; massgebend ist die deutsche Fassung. Sie wurde aber von allen Parteien als die schönste bezeichnet und in zwei der drei Gemeinden an der Gemeindeversammlung vollständig verlesen. In der dritten wurde sie gesungen. Einsprache wurde keine erhoben, was im Amt auf die ungewöhnlich hohe Verständlichkeit zurückgeführt wird.",
+      "Das BBA weist darauf hin, dass aus diesem Einzelfall kein Anspruch auf Verfügungen in weiteren Dialekten abgeleitet werden kann. Gesuche um Fassungen in Baseldytsch, Bärndütsch und Appenzeller Dialekt sind bereits eingegangen und werden derzeit auf ihre Besonderheit geprüft. Ein Gesuch um eine Fassung in Gebärden eines Bergführers ist hängig.",
+      "Hinweis für Gesuchstellende: Verfügungen werden in der Amtssprache der gesuchstellenden Person ausgefertigt. Dialektfassungen sind eine Ausnahme und bedürfen einer Ausnahmebewilligung nach Art. 7 BABG, zu beantragen mit dem Formular BBA-207d."
     ],
     "bild": "assets/img/ch/news/2026-06-fuenf-sprachen.jpg",
     "einheitId": "ref-z4",
     "personIds": [
-      "p-rossi-chiara"
+      "p-rossi-chiara",
+      "p-roduit-stephanie"
     ],
     "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-06-fuenf-sprachen.html",
     "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-06-fuenf-sprachen.jpg",
@@ -77,6 +85,33 @@
         "ref-z4"
       ],
       "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-rossi-chiara.json"
+    },
+    {
+      "id": "p-roduit-stephanie",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Stéphanie",
+      "nachname": "Roduit",
+      "funktion": "Sektionschefin Konkordanz und Kompromissfindung",
+      "einheitId": "ref-13",
+      "email": "stephanie.roduit@bba-bund.example",
+      "telefon": "+41 58 999 33 00",
+      "kurzvita": "Mediatorin aus dem Wallis; hat bisher jeden Streit beigelegt, notfalls durch Halbierung.",
+      "name": "Stéphanie Roduit",
+      "portrait": "assets/img/ch/personen/p-roduit-stephanie.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-roduit-stephanie.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-roduit-stephanie.html",
+      "einheit": {
+        "id": "ref-13",
+        "name": "Sektion G3: Konkordanz und Kompromissfindung",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-13.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-13"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-roduit-stephanie.json"
     }
   ]
 }

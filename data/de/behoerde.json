@@ -6,7 +6,7 @@
   "pfad": "",
   "name": "Bundesamt für besondere Angelegenheiten",
   "kurzname": "BAbA",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "typ": "Bundesoberbehörde",
   "geschaeftsbereich": "Bundesministerium für Allgemeines und Übriges (fiktiv)",
   "zuordnung": "Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Allgemeines und Übriges (fiktiv)",
@@ -16,24 +16,52 @@
     "titel": "Gesetz über die Errichtung eines Bundesamtes für besondere Angelegenheiten (BAbA-Gesetz – BAbAG)",
     "fundstelle": "BGBl. (fiktiv) 1987 I S. 404"
   },
-  "claim": "Wir kümmern uns um das, was nirgendwo sonst hineinpasst.",
-  "auftrag": "Das Bundesamt für besondere Angelegenheiten (BAbA) ist zuständig für alle Angelegenheiten des Bundes, die keiner anderen Stelle eindeutig zugeordnet werden können, sowie für Verfahren, die aufgrund ihrer Besonderheit einer gesonderten Behandlung bedürfen. Es führt das Bundesregister besonderer Angelegenheiten (BRbA), berät Bundes- und Landesbehörden in Grenz- und Sonderfällen und dokumentiert außergewöhnliche Ereignisse von öffentlichem Interesse.",
+  "claim": "Wenn sich keiner zuständig fühlt, sind wir es – mit Aktenzeichen.",
+  "auftrag": "Das Bundesamt für besondere Angelegenheiten (BAbA) ist die Auffangbehörde des Bundes für alle Angelegenheiten, für die keine andere Stelle eindeutig zuständig ist oder die so ungewöhnlich sind, dass sie in kein Regelverfahren passen. Es stellt auf Antrag verbindlich fest, ob eine Angelegenheit besonders ist, erteilt Ausnahmegenehmigungen nach § 7 BAbAG und führt besondere Verwaltungsverfahren einschließlich der Widerspruchsverfahren durch. Daneben beobachtet es außergewöhnliche Ereignisse, berechnet Fristen außergewöhnlicher Art und führt das Bundesregister besonderer Angelegenheiten (BRbA) sowie das Kuriosa-Register. Bundes-, Landes- und Kommunalbehörden berät es in Zuständigkeits- und Grenzfragen – auch dann, wenn diese erst durch die Frage selbst entstanden sind.",
+  "auftragSeite": {
+    "titel": "Wofür das BAbA da ist",
+    "kurzfassung": "Das Bundesamt für besondere Angelegenheiten (BAbA) ist die Auffangbehörde des Bundes: Es bearbeitet alles, wofür keine andere Stelle eindeutig zuständig ist, und alles, was so ungewöhnlich ist, dass es in kein Regelverfahren passt. Typische Vorgänge sind Feststellungen der Besonderheit, Ausnahmegenehmigungen, besondere Verwaltungsverfahren, Widersprüche, Fristauskünfte, Ereignismeldungen und Auskünfte aus dem Bundesregister besonderer Angelegenheiten (BRbA).",
+    "einleitung": [
+      "Das Bundesamt für besondere Angelegenheiten (BAbA) ist eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Allgemeines und Übriges. Es wurde 1987 durch das BAbA-Gesetz (BAbAG) errichtet, weil sich in der Bundesverwaltung immer wieder Angelegenheiten fanden, für die schlicht niemand zuständig war. Seitdem gilt der Grundsatz des § 2 BAbAG: Was keiner anderen Stelle eindeutig zugeordnet werden kann, landet beim BAbA. Das Amt hat seinen Hauptsitz in Bonn, Außenstellen in Berlin und Erfurt und rund 1.240 Beschäftigte in vier Fachabteilungen und den Zentralen Diensten.",
+      "Die Arbeit des Amtes besteht im Kern aus Verwaltungsverfahren. Bürgerinnen und Bürger, Unternehmen, Vereine und vor allem andere Behörden reichen Anträge ein oder geben Vorgänge ab, die das BAbA prüft, in der elektronischen Akte bearbeitet und mit einem rechtsmittelfähigen Bescheid abschließt. Die wichtigsten Verfahren sind die Feststellung der Besonderheit (Formular BA-1), die Ausnahmegenehmigung (Formular BA-7), das besondere Verwaltungsverfahren und das Widerspruchsverfahren. Hinzu kommen verbindliche Fristauskünfte, Ereignismeldungen an das Lagezentrum und Registerauskünfte aus dem BRbA (Formular BR-22).",
+      "Weil Deutschland ein Bundesstaat ist, beginnt fast jeder Vorgang mit der Frage, ob der Bund, ein Land, eine Kommune oder – im ungünstigsten Fall – alle gleichzeitig zuständig sind. Das BAbA klärt diese Frage gründlich, dokumentiert sie in einem Zuständigkeitsvermerk und stimmt sich mit den Ländern ab, bevor es in der Sache entscheidet. Die Sachverhalte sind oft skurril, die Verfahren nie. Jeder wandernde Findling, jede doppelte Stunde und jedes nicht schimmelnde Brötchen erhält ein Aktenzeichen, eine Frist und eine ordnungsgemäße Entscheidung."
+    ],
+    "zustaendig": [
+      "Das BAbA übernimmt Angelegenheiten des Bundes, für die keine andere Behörde eindeutig zuständig ist (Auffangzuständigkeit nach § 2 BAbAG).",
+      "Es stellt auf Antrag verbindlich fest, ob eine Angelegenheit als besondere Angelegenheit im Sinne des BAbAG gilt (§ 3 BAbAG).",
+      "Es erteilt Ausnahmegenehmigungen für Vorhaben, die von bestehenden Regelungen nicht erfasst werden (§ 7 BAbAG).",
+      "Es führt besondere und mehrfach besondere Verwaltungsverfahren durch (§§ 9–14 BAbAG).",
+      "Es entscheidet über Widersprüche gegen seine eigenen Bescheide (§ 15 BAbAG).",
+      "Es erteilt verbindliche Auskünfte zu Fristen, die durch Schaltjahre, Zeitumstellungen und ähnliche Besonderheiten beeinflusst werden (§ 16 BAbAG).",
+      "Es beobachtet außergewöhnliche Ereignisse rund um die Uhr, bewertet sie und meldet sie an Bund und Länder (§ 18 BAbAG).",
+      "Es führt das Bundesregister besonderer Angelegenheiten (BRbA) und das Kuriosa-Register (§§ 19, 22–25 BAbAG).",
+      "Es berät Bundes-, Landes- und Kommunalbehörden in Zuständigkeits- und Grenzfragen (§ 4 BAbAG)."
+    ],
+    "nichtZustaendig": [
+      "Für Angelegenheiten, die zwar ungewöhnlich, aber eindeutig geregelt sind, ist das BAbA nicht zuständig – ein verlorener Personalausweis bleibt Sache des örtlichen Bürgeramts, auch wenn er im Gefrierfach wiedergefunden wurde.",
+      "Für Angelegenheiten, die eindeutig in die Zuständigkeit eines Landes fallen, ist das BAbA nicht zuständig; es berät die Länder nur, und zwar nur dann, wenn sie fragen.",
+      "Für Streitigkeiten zwischen Privatpersonen ist das BAbA nicht zuständig, auch dann nicht, wenn der Streit über die Hecke seit 1987 läuft und damit so alt ist wie das Amt; hierfür sind die Zivilgerichte da.",
+      "Für übernatürliche Erscheinungen ist das BAbA nur zuständig, soweit sie Verwaltungsvorgänge auslösen; die Erscheinung selbst wird nicht beschieden.",
+      "Für Wettervorhersagen und Beschwerden über das Wetter ist das BAbA nicht zuständig – dafür gibt es den Wetterdienst und den Smalltalk im Treppenhaus.",
+      "Für die Frage, ob das BAbA zuständig ist, ist das BAbA zuständig; über die Frage, ob diese Regel selbst besonders ist, entscheidet nach § 2 Abs. 4 BAbAG das Bundesministerium für Allgemeines und Übriges."
+    ]
+  },
   "leitbild": [
     {
       "titel": "Verlässlich",
-      "text": "Auch das Ungewöhnliche verdient ein ordentliches Verfahren."
+      "text": "Auch das Ungewöhnliche verdient ein ordentliches Verfahren – mit Eingangsstempel, Frist und Rechtsbehelfsbelehrung."
     },
     {
       "titel": "Zuständig",
-      "text": "Wenn sich niemand zuständig fühlt, sind wir es."
+      "text": "Wenn sich niemand zuständig fühlt, sind wir es. Wenn sich alle zuständig fühlen, klären wir, wer es wirklich ist."
     },
     {
       "titel": "Sorgfältig",
-      "text": "Jeder Sonderfall wird geprüft, dokumentiert und nachvollziehbar entschieden."
+      "text": "Jeder Sonderfall wird geprüft, dokumentiert und nachvollziehbar entschieden – auch der, bei dem wir zuerst den Kopf geschüttelt haben."
     },
     {
       "titel": "Offen",
-      "text": "Wir erklären unsere Entscheidungen verständlich – auch die besonderen."
+      "text": "Wir erklären unsere Entscheidungen verständlich – notfalls mit Schaubild, Ablaufdiagramm und einer zweiten Tasse Kaffee."
     }
   ],
   "kennzahlen": [
@@ -50,7 +78,7 @@
       "wert": "214.506"
     },
     {
-      "label": "Standorte",
+      "label": "Standorte (Bonn, Berlin, Erfurt)",
       "wert": "3"
     }
   ],
@@ -79,27 +107,35 @@
   "geschichte": [
     {
       "jahr": "1987",
-      "ereignis": "Errichtung des BAbA durch das BAbA-Gesetz mit 46 Beschäftigten in Bonn."
+      "ereignis": "Errichtung des BAbA durch das BAbA-Gesetz mit 46 Beschäftigten in Bonn. Der erste Vorgang betraf die Frage, wer für die Einrichtung des Amtes zuständig gewesen war."
+    },
+    {
+      "jahr": "1990",
+      "ereignis": "Mit der Wiedervereinigung erreichen das Amt Zuständigkeitsfragen ganz neuer Art. Der Aktenbestand verdreifacht sich innerhalb eines Jahres."
     },
     {
       "jahr": "1994",
-      "ereignis": "Einführung des ersten Karteikasten-Registers für besondere Angelegenheiten (rund 12.000 Karten)."
+      "ereignis": "Einführung des Karteikasten-Registers für besondere Angelegenheiten (rund 12.000 Karten) und Gründung des Kuriosa-Registers. Die erste Registerkategorie wird auf einem Bierdeckel skizziert, der heute selbst eingetragen ist."
     },
     {
       "jahr": "2001",
-      "ereignis": "Eröffnung der Außenstelle Berlin für Angelegenheiten mit Hauptstadtbezug."
+      "ereignis": "Eröffnung der Außenstelle Berlin für Angelegenheiten mit Hauptstadtbezug und als Verbindungsbüro zu den obersten Bundesbehörden."
+    },
+    {
+      "jahr": "2009",
+      "ereignis": "Erste Verwaltungsvorschrift zu Fristen, die über einen 29. Februar laufen. Sie trat – nach längerer Diskussion – an einem 1. März in Kraft."
     },
     {
       "jahr": "2013",
-      "ereignis": "Gründung des Lagezentrums Besonderheiten."
+      "ereignis": "Gründung des Lagezentrums Besonderheiten. Es ist seither rund um die Uhr besetzt, in Schaltjahren einen Tag länger."
     },
     {
       "jahr": "2019",
-      "ereignis": "Eröffnung der Außenstelle Erfurt."
+      "ereignis": "Eröffnung der Außenstelle Erfurt für die Abteilung Digitales und Register. Ein Gummibaum zieht mit ein und wird später inventarisiert."
     },
     {
       "jahr": "2026",
-      "ereignis": "Inbetriebnahme des digitalen Bundesregisters besonderer Angelegenheiten (BRbA)."
+      "ereignis": "Inbetriebnahme des digitalen Bundesregisters besonderer Angelegenheiten (BRbA) und Bezug des Neubaus in Erfurt. Die letzte Karteikarte wird feierlich im Kuriosa-Register abgeheftet."
     }
   ],
   "begriffe": {
@@ -120,7 +156,7 @@
   },
   "grusswort": {
     "titel": "Grußwort der Präsidentin",
-    "text": "Manche Angelegenheiten passen in kein Raster. Für genau diese Fälle gibt es uns – mit Sorgfalt, mit klaren Verfahren und manchmal auch mit einem Lächeln. Ich lade Sie herzlich ein, unser Amt kennenzulernen."
+    "text": "Wer sich an uns wendet, hat meist schon eine kleine Odyssee hinter sich: drei Behörden, zwei Weiterleitungen und ein freundliches „Da sind wir leider nicht zuständig“. Bei uns endet diese Reise – nicht immer mit dem Ergebnis, das Sie sich wünschen, aber immer mit einem Bescheid. In vielen Jahren Verwaltung habe ich gelernt, dass das Ungewöhnliche gar nicht so selten ist; es wird nur seltener ordentlich abgeheftet. Genau darum kümmern sich unsere 1.240 Beschäftigten in Bonn, Berlin und Erfurt, mit Gründlichkeit, mit Geduld und gelegentlich mit einem Lächeln, das wir im Bescheid selbstverständlich weglassen. Stöbern Sie gern auf unseren Seiten – und falls Sie dabei etwas Besonderes entdecken, wissen Sie ja jetzt, wo Sie es melden können."
   },
   "jahresberichtZitat": "Die Welt wird nicht gewöhnlicher – und das ist gut so.",
   "pressePersonId": "p-imhoff-clara",
@@ -133,7 +169,7 @@
     "bild": "assets/img/hero/hero-atrium.jpg",
     "alt": "Atrium des Hauptsitzes in Bonn"
   },
-  "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Keine echte Einrichtung des Bundes.",
+  "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt. Keine echte Einrichtung des Bundes.",
   "leitfadenKriterien": [
     "Einmaligkeit des Sachverhalts",
     "Fehlende Regelungszuständigkeit",

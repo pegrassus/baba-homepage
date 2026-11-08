@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "person": {
     "id": "p-baumann-urs",
     "anrede": "Herr",
@@ -60,7 +60,7 @@
   "news": [
     {
       "id": "2026-10-kuh-bella",
-      "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Alpen gleichzeitig",
+      "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Kantone gleichzeitig",
       "datum": "2026-10-22",
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-10-kuh-bella.html"
     }

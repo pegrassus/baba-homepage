@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-24",
     "typ": "referat",
@@ -100,7 +100,22 @@
       "einheitIds": [
         "ref-24"
       ],
-      "rechtsgrundlage": "§ 16 BAbAG"
+      "rechtsgrundlage": "§ 16 BAbAG",
+      "details": [
+        "Das Referat 24 erteilt verbindliche Auskünfte darüber, wann Fristen beginnen und enden, die durch kalendarische oder zeitliche Besonderheiten beeinflusst werden. Dazu gehören Fristen über einen 29. Februar oder über die Zeitumstellung, Fristen, die an Feiertagen enden, die nur in einzelnen Ländern gelten, sowie Fristen, deren Ende auf einen aus anderen Gründen umstrittenen Tag fällt. Grundlage ist die Verwaltungsvorschrift VV-AFrist 2026.",
+        "Die Auskunft können Bürgerinnen und Bürger, Unternehmen und Behörden beantragen; sie bindet das BAbA und wird von Bundesbehörden in aller Regel übernommen. Bei landesrechtlichen Fristen hat die Auskunft den Charakter einer Empfehlung, da die Länder eigene Regelungen treffen können. Ergebnis ist eine schriftliche Fristbescheinigung mit genauer Angabe von Datum, Uhrzeit und Zeitzone."
+      ],
+      "beispiele": [
+        "Wann endet eine Monatsfrist, die am 31. Januar eines Schaltjahres beginnt?",
+        "Zwei Faxe in der Nacht der Zeitumstellung, von denen das spätere nach der Uhr früher eingegangen ist.",
+        "Eine Frist endet an einem Feiertag, der im Land der Absenderin gilt, im Land des Empfängers aber nicht.",
+        "Eine Wiedervorlage im Jahr 2100, das entgegen verbreiteter Annahme kein Schaltjahr ist."
+      ],
+      "leistung": {
+        "antrag": "Online-Formular „Fristauskunft“ oder formloses Schreiben",
+        "dauer": "10 Arbeitstage",
+        "kosten": "25 Euro; für Behörden gebührenfrei"
+      }
     }
   ],
   "standort": {
@@ -120,7 +135,7 @@
   "news": [
     {
       "id": "2026-03-fristenregelung",
-      "titel": "Neue Fristenregelung für außergewöhnliche Verfahren in Kraft",
+      "titel": "Neue Fristenregelung für außergewöhnliche Verfahren: Künftig gilt die günstigere Stunde",
       "datum": "2026-03-18",
       "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-03-fristenregelung.html"
     }

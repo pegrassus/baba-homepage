@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-23",
     "typ": "referat",
@@ -100,7 +100,22 @@
       "einheitIds": [
         "ref-23"
       ],
-      "rechtsgrundlage": "§§ 68 ff. VwGO i. V. m. § 15 BAbAG"
+      "rechtsgrundlage": "§§ 68 ff. VwGO i. V. m. § 15 BAbAG",
+      "details": [
+        "Gegen Bescheide des BAbA kann innerhalb eines Monats nach Bekanntgabe Widerspruch eingelegt werden. Das Referat 23 prüft, ob der Widerspruch zulässig und begründet ist, und überprüft die angegriffene Entscheidung dabei vollständig in rechtlicher und tatsächlicher Hinsicht. Zunächst erhält die Ausgangsstelle Gelegenheit, dem Widerspruch selbst abzuhelfen.",
+        "Hilft die Ausgangsstelle nicht ab, entscheidet das Referat 23 durch Widerspruchsbescheid. Es kann den Bescheid bestätigen, ganz oder teilweise aufheben oder den Vorgang an ein anderes Referat abgeben, wenn sich im Widerspruchsverfahren eine neue Besonderheit zeigt. Gegen den Widerspruchsbescheid steht der Weg zu den Verwaltungsgerichten offen; die Prozessvertretung übernimmt das Justiziariat."
+      ],
+      "beispiele": [
+        "Widerspruch gegen die Feststellung, dass ein seit 1999 nicht schimmelndes Brötchen nicht besonders sei.",
+        "Ein Widerspruch in Reimform, dessen Begründung sich erst beim lauten Vorlesen erschließt.",
+        "Ein vorsorglicher Widerspruch gegen einen Bescheid, der noch gar nicht erlassen wurde.",
+        "Ein Widerspruch gegen den Widerspruchsbescheid, der als unzulässig verworfen und als Kuriosum eingetragen wurde."
+      ],
+      "leistung": {
+        "antrag": "Schriftlich, zur Niederschrift oder elektronisch beim BAbA innerhalb eines Monats",
+        "dauer": "3 Monate",
+        "kosten": "gebührenfrei bei Erfolg; sonst bis 250 Euro"
+      }
     }
   ],
   "standort": {

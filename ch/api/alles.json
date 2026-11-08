@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "behoerde": {
     "id": "bba",
     "variante": "ch",
@@ -36,7 +36,7 @@
       }
     ],
     "markeZeile": "BBA",
-    "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+    "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
     "typ": "Bundesamt",
     "geschaeftsbereich": "Eidgenössisches Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
     "zuordnung": "Bundesamt im Eidgenössischen Departement für Allgemeines und Übriges (EDAÜ, fiktiv)",
@@ -46,24 +46,52 @@
       "titel": "Bundesgesetz über die besonderen Angelegenheiten (BABG)",
       "fundstelle": "SR 999.42 (fiktiv)"
     },
-    "claim": "Für alles, was zwischen Bund und Kantonen durchfällt. Pünktlich erledigt.",
-    "auftrag": "Das Bundesamt für besondere Angelegenheiten (BBA) ist das Kompetenzzentrum des Bundes für alles, was weder in eine Bundes- noch in eine Kantonszuständigkeit passt. Es klärt Sonderfälle zwischen den 26 Kantonen, führt Vernehmlassungen zu Unvorhergesehenem durch, entscheidet über alpine Sonderfälle und führt das Eidgenössische Register besonderer Angelegenheiten (ERbA). Selbstverständlich termingerecht.",
+    "claim": "Wo 26 Kantone nicht mehr weiterwissen, beginnt unsere Frist.",
+    "auftrag": "Das Bundesamt für besondere Angelegenheiten (BBA) ist zuständig für alles, wofür in der Schweiz sonst niemand zuständig ist – oder wofür sich mehrere gleichzeitig zuständig fühlen. Es stellt auf Gesuch hin fest, ob eine Angelegenheit besonders ist, erteilt Ausnahmebewilligungen, vermittelt bei kantonalen Sonderfällen und führt Vernehmlassungen zu Fragen durch, die sich bisher niemand gestellt hat. Zudem beobachtet es ausserordentliche Ereignisse von der Alp bis zur Bahnhofsuhr und führt das Eidgenössische Register besonderer Angelegenheiten (ERbA). Sämtliche Verfahren werden fristgerecht abgeschlossen; die amtliche Toleranz beträgt 59 Sekunden.",
+    "auftragSeite": {
+      "titel": "Wofür das BBA da ist",
+      "kurzfassung": "Das Bundesamt für besondere Angelegenheiten (BBA) ist die Auffangbehörde des Bundes: Es übernimmt Angelegenheiten, für die weder ein anderes Bundesamt noch ein Kanton zuständig ist oder für die sich mehrere gleichzeitig zuständig fühlen. Es entscheidet auf Gesuch hin mit Verfügung, vermittelt Kompromisse zwischen Kantonen und Gemeinden, führt Vernehmlassungen durch und trägt jeden abgeschlossenen Fall in das Eidgenössische Register besonderer Angelegenheiten (ERbA) ein.",
+      "einleitung": [
+        "Im föderalistischen System der Schweiz ist fast alles geregelt: Der Bund regelt, was ihm die Bundesverfassung zuweist, die 26 Kantone regeln den Rest, und die Gemeinden regeln, was die Kantone ihnen überlassen. Trotzdem bleiben Fälle übrig, die zwischen diesen Ebenen durchfallen. Eine Kuh weidet genau auf der Kantonsgrenze, ein Grenzstein gehört seit 1894 keiner Gemeinde, ein Echo antwortet im falschen Dialekt. Für solche Angelegenheiten hat der Bund 1953 eine Auffangstelle geschaffen, aus der das heutige BBA hervorgegangen ist. Rechtsgrundlage ist das Bundesgesetz über die besonderen Angelegenheiten (BABG).",
+        "Das BBA arbeitet als klassische Verwaltungsbehörde. Verfahren beginnen in der Regel mit einem Gesuch, einer Meldung eines Kantons oder einer Feststellung des Lagezentrums. Die Sektion Besondere Verfahren prüft zunächst anhand eines Kriterienkatalogs mit 14 Punkten, ob die Angelegenheit überhaupt besonders ist. Danach instruiert die zuständige Sektion den Fall, gewährt das rechtliche Gehör, holt Stellungnahmen der betroffenen Kantone ein und sucht – ganz in der Schweizer Konkordanztradition – einen Kompromiss. Am Ende steht eine Verfügung, eine Feststellung, eine Ausnahmebewilligung oder ein Registereintrag im ERbA.",
+        "Das Amt beschäftigt 412 Mitarbeitende an drei Standorten: am Hauptsitz in Bern, in Bellinzona und in Biel/Bienne. Es ist in vier Abteilungen mit je vier Sektionen gegliedert und wird von einer Direktorin geführt. Gegen Verfügungen kann Einsprache beim BBA erhoben werden; danach steht der Weg an das Bundesverwaltungsgericht offen. Oberstes Prinzip ist die Pünktlichkeit: Jede Frist wird eingehalten, und seit dem Grundsatzentscheid von 2026 gilt ein Ereignis erst ab der sechzigsten Sekunde als verspätet."
+      ],
+      "zustaendig": [
+        "Das BBA ist zuständig für Angelegenheiten, für die nach geltendem Recht weder eine andere Bundesbehörde noch ein Kanton noch eine Gemeinde zuständig ist (Art. 2 BABG).",
+        "Das BBA stellt auf Gesuch hin mit Verfügung fest, ob eine Angelegenheit besonders im Sinne des BABG ist (Art. 3 BABG).",
+        "Das BBA klärt Sachverhalte, die mehrere Kantone betreffen und zu denen die Kantone unterschiedliche, einander ausschliessende Auffassungen vertreten (Art. 4 BABG).",
+        "Das BBA erteilt Ausnahmebewilligungen für Fälle, die keine Verordnung vorhergesehen hat, etwa die Sömmerung eines Tiers in zwei Kantonen gleichzeitig (Art. 7 BABG).",
+        "Das BBA führt Vernehmlassungen bei Kantonen, Parteien und Verbänden zu Fragen durch, die sich bisher niemand gestellt hat (Art. 10 BABG).",
+        "Das BBA behandelt Einsprachen gegen seine eigenen Verfügungen und erteilt verbindliche Pünktlichkeitsauskünfte mit einer Toleranz von 59 Sekunden (Art. 15 und 16 BABG).",
+        "Das BBA beobachtet ausserordentliche Ereignisse rund um die Uhr, darunter Föhnlagen, Fondue-Engpässe und stehengebliebene Bahnhofsuhren (Art. 18 BABG).",
+        "Das BBA entscheidet über alpine Sonderfälle wie Kühe auf der falschen Alp, Murmeltiere mit Doppelwohnsitz und Echos, die nicht wie erwartet antworten (Art. 19 BABG).",
+        "Das BBA führt das Eidgenössische Register besonderer Angelegenheiten (ERbA) und das Kuriositätenarchiv und erteilt berechtigten Behörden Registerauszüge (Art. 20–25 BABG)."
+      ],
+      "nichtZustaendig": [
+        "Kühe, die auf der richtigen Alp stehen – dafür sind die kantonalen Landwirtschaftsämter und die Alpgenossenschaften zuständig.",
+        "Gewöhnliche Zugsverspätungen – dafür sind die Transportunternehmen zuständig; das BBA stellt lediglich fest, ob überhaupt eine Verspätung vorlag.",
+        "Das Wetter an sich – dafür sind die meteorologischen Fachstellen zuständig; der Föhn als mitwirkende Partei in einem Verfahren hingegen fällt in unsere Zuständigkeit.",
+        "Die richtige Käsemischung im Fondue – das ist Familiensache und bleibt im Zweifel der kantonalen Tradition überlassen.",
+        "Echos in privaten Badezimmern, Treppenhäusern und Tiefgaragen – diese gelten als Privatsache, solange sie nicht in einer fremden Sprache antworten.",
+        "Angelegenheiten, die bloss kompliziert, aber nicht besonders sind – dafür bleibt die ordentlich zuständige Behörde zuständig; wer unsicher ist, kann beim BBA eine Feststellung der Besonderheit beantragen."
+      ]
+    },
     "leitbild": [
       {
         "titel": "Pünktlich",
-        "text": "Auch das Unvorhersehbare erledigen wir fristgerecht – auf die Sekunde."
+        "text": "Auch das Unvorhersehbare erledigen wir fristgerecht. Wer 59 Sekunden zu spät ist, gilt bei uns noch als pünktlich – ab der sechzigsten Sekunde wird es aktenkundig."
       },
       {
         "titel": "Ausgewogen",
-        "text": "Wir suchen den Kompromiss, bis alle gleich wenig zufrieden sind."
+        "text": "Wir suchen den Kompromiss, bis alle gleich wenig zufrieden sind. Erst dann ist er tragfähig."
       },
       {
         "titel": "Neutral",
-        "text": "Wir nehmen zu jedem Sonderfall Stellung – aber nie Partei."
+        "text": "Wir nehmen zu jedem Sonderfall Stellung, aber nie Partei – auch nicht für Kühe, Murmeltiere oder Echos."
       },
       {
         "titel": "Gründlich",
-        "text": "Was wir nicht vernehmlasst haben, haben wir noch nicht entschieden."
+        "text": "Was wir nicht vernehmlasst haben, haben wir noch nicht entschieden. Was wir vernehmlasst haben, manchmal auch nicht."
       }
     ],
     "kennzahlen": [
@@ -80,7 +108,7 @@
         "wert": "61'205"
       },
       {
-        "label": "Vernehmlassungen 2025",
+        "label": "Vernehmlassungen 2025 (davon 3 über Vernehmlassungen)",
         "wert": "37"
       }
     ],
@@ -124,7 +152,7 @@
     },
     "grusswort": {
       "titel": "Grusswort der Direktorin",
-      "text": "Die Schweiz ist ein Land der Ordnung – und gerade darum ein Land der Ausnahmen. Wenn eine Kuh auf zwei Alpen gleichzeitig steht oder ein Echo die falsche Antwort gibt, sind wir zur Stelle. Gründlich, mehrsprachig und – wie es sich gehört – pünktlich."
+      "text": "Die Schweiz ist ein Land der Ordnung – und gerade deshalb ein Land der Ausnahmen. Wo 26 Kantone, rund 2'100 Gemeinden und ein Bund sorgfältig regeln, wer wofür zuständig ist, bleibt zwangsläufig etwas übrig: eine Kuh auf der Kantonsgrenze, ein Echo mit eigener Meinung, ein Grenzstein, der seit 1894 niemandem gehören will. Dafür gibt es uns, und wir nehmen jede dieser Angelegenheiten so ernst, wie sie es verdient – meistens etwas ernster. Ich verspreche Ihnen keine schnellen Entscheide, aber pünktliche, und keine Lösung, die alle glücklich macht, aber einen Kompromiss, mit dem alle leben können. Mit freundlichen Grüssen – und selbstverständlich auch nach der Mittagspause für Sie da."
     },
     "jahresberichtZitat": "Ordnung ist, wenn auch die Ausnahme ein Formular hat.",
     "hero": {
@@ -135,7 +163,7 @@
       "bild": "assets/img/ch/hero/hero-atrium.jpg",
       "alt": "Holz-Atrium im Hauptsitz Bern"
     },
-    "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Keine Einrichtung der Schweizerischen Eidgenossenschaft.",
+    "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt. Keine Einrichtung der Schweizerischen Eidgenossenschaft.",
     "leitfadenKriterien": [
       "Keine Bundes- und keine Kantonszuständigkeit",
       "Betroffenheit von mindestens zwei Kantonen mit unterschiedlicher Meinung",
@@ -155,27 +183,35 @@
     "geschichte": [
       {
         "jahr": "1953",
-        "ereignis": "Gründung als «Eidgenössisches Büro für Unzuordenbares» mit sieben Mitarbeitenden in einem Nebenraum in Bern."
+        "ereignis": "Gründung als «Eidgenössisches Büro für Unzuordenbares» mit sieben Mitarbeitenden in einem fensterlosen Nebenraum in Bern. Der erste Fall betrifft einen einzelnen Skistock, den kein Fundbüro annehmen will."
+      },
+      {
+        "jahr": "1962",
+        "ereignis": "Ein Echo im Jura beginnt, ausschliesslich auf Französisch zu antworten. Das Büro eröffnet dafür ein Dossier, aus dem später das Kuriositätenarchiv hervorgeht."
       },
       {
         "jahr": "1971",
-        "ereignis": "Erste Vernehmlassung zur Frage, wofür das Büro eigentlich zuständig ist. Die Auswertung dauert bis 1978."
+        "ereignis": "Erste Vernehmlassung zur Frage, wofür das Büro eigentlich zuständig ist. Die Auswertung dauert bis 1978 und ergibt einstimmig: «für das Übrige»."
+      },
+      {
+        "jahr": "1987",
+        "ereignis": "Erste Ausnahmebewilligung für ein Rind: Eine Simmentaler Kuh darf an der Landsgemeinde zusehen, ohne stimmberechtigt zu sein."
       },
       {
         "jahr": "1999",
-        "ereignis": "Umbenennung in Bundesamt für besondere Angelegenheiten (BBA) und Erlass des BABG."
+        "ereignis": "Umbenennung in Bundesamt für besondere Angelegenheiten (BBA) und Erlass des BABG. Artikel 1 regelt, dass das BBA zuständig ist, wenn niemand sonst zuständig ist."
       },
       {
         "jahr": "2008",
-        "ereignis": "Eröffnung des Standorts Bellinzona für Verfahren mit Bezug zur italienischen Schweiz."
+        "ereignis": "Eröffnung des Standorts Bellinzona für die Abteilung Verfahren und Vernehmlassungen. Die Sektion Fristen und Pünktlichkeit stellt als Erstes alle Uhren im Gebäude nach."
       },
       {
         "jahr": "2016",
-        "ereignis": "Bezug des zweisprachigen Standorts Biel/Bienne."
+        "ereignis": "Bezug des Standorts Biel/Bienne für die Abteilung Digitales und Register. Die Liegenschaft liegt auf keiner Gemeindegrenze, was im Amt als Ausnahmefall gilt."
       },
       {
         "jahr": "2026",
-        "ereignis": "Inbetriebnahme des digitalen Eidgenössischen Registers besonderer Angelegenheiten (ERbA)."
+        "ereignis": "Inbetriebnahme des digitalen Eidgenössischen Registers besonderer Angelegenheiten (ERbA) und Grundsatzentscheid zur 59-Sekunden-Toleranz. Beides erfolgte pünktlich."
       }
     ]
   },
@@ -1800,7 +1836,21 @@
         "abt-1",
         "ref-11"
       ],
-      "rechtsgrundlage": "Art. 2 BABG"
+      "rechtsgrundlage": "Art. 2 BABG",
+      "details": [
+        "Im föderalistischen System verteilen Bundesverfassung, Bundesgesetze und 26 Kantonsverfassungen die Zuständigkeiten sehr genau. Trotzdem bleiben Fälle übrig, die keiner Ebene zugeordnet sind, und solche, die gleich mehreren zugeordnet sind. Für beide Konstellationen ist nach Art. 2 BABG das BBA zuständig. Es übernimmt den Fall, klärt ihn und entscheidet ihn oder überweist ihn an die Stelle, die sich nach der Klärung doch als zuständig erweist.",
+        "Die Abteilung Grundsätze und Konkordanz entscheidet in Zweifelsfällen über die Übernahme. Die Sektion Grundsatzfragen der Besonderheit pflegt dazu eine Sammlung von Grundsatzentscheiden, die bis ins Gründungsjahr 1953 zurückreicht. Ein negativer Kompetenzkonflikt, also ein Fall, den alle ablehnen, wird innert 30 Tagen übernommen; ein positiver, den alle beanspruchen, innert 60 Tagen, weil zuerst alle angehört werden müssen."
+      ],
+      "beispiele": [
+        "Ein einzelner Handschuh, der an einem Skilift auf der Kantonsgrenze hängt und von keinem Fundbüro angenommen wird.",
+        "Ein Bach, der laut drei verschiedenen Plänen durch drei verschiedene Gemeinden fliesst und in keinem davon unterhalten wird.",
+        "Eine Anfrage, für die sich vier Bundesämter und zwei Kantone gleichzeitig zuständig erklären."
+      ],
+      "leistung": {
+        "antrag": "Formloses Schreiben oder Formular BBA-100 («Meldung einer unzuordenbaren Angelegenheit»)",
+        "dauer": "30 bis 60 Tage bis zum Übernahmeentscheid",
+        "kosten": "Gebührenfrei"
+      }
     },
     {
       "id": "auf-abgrenzung",
@@ -1811,7 +1861,21 @@
         "ref-11",
         "ref-21"
       ],
-      "rechtsgrundlage": "Art. 3 BABG"
+      "rechtsgrundlage": "Art. 3 BABG",
+      "details": [
+        "Wer wissen will, ob seine Angelegenheit in die Zuständigkeit des BBA fällt, kann ein Gesuch um Feststellung der Besonderheit stellen. Die Sektion Besondere Verfahren prüft den Sachverhalt anhand des Kriterienkatalogs mit 14 Punkten, etwa «Fehlender Präzedenzfall seit 1291» oder «Echo, Lawine oder Föhn als mitwirkende Partei». Sind mindestens drei Kriterien erfüllt, gilt die Angelegenheit als besonders. Grenzfälle werden der Sektion Grundsatzfragen der Besonderheit vorgelegt.",
+        "Das Ergebnis wird mit einer Feststellungsverfügung eröffnet und im ERbA eingetragen. Fällt die Prüfung negativ aus, wird das Gesuch von Amtes wegen an die ordentlich zuständige Behörde überwiesen, damit niemand ohne Ansprechstelle bleibt. Gegen die Verfügung kann innert 30 Tagen Einsprache erhoben werden. Rund 18 Prozent aller Feststellungsgesuche betreffen die Frage, ob das Gesuch selbst besonders ist. Diese Gesuche erfüllen in der Regel das Kriterium «Formale Selbstbezüglichkeit» und werden deshalb meist gutgeheissen."
+      ],
+      "beispiele": [
+        "Eine Gemeinde möchte wissen, ob ein Brunnen, aus dem abwechselnd warmes und kaltes Wasser fliesst, besonders ist.",
+        "Ein Verein lässt feststellen, ob seine Fahne, die auf beiden Seiten verschiedene Kantonswappen zeigt, besonders ist.",
+        "Eine Privatperson beantragt die Feststellung, ob ihr Gesuch um Feststellung besonders ist."
+      ],
+      "leistung": {
+        "antrag": "Formular BBA-101 mit Sachverhaltsbeschreibung und allfälligen Beweismitteln",
+        "dauer": "30 Tage",
+        "kosten": "CHF 120; bei positiver Feststellung CHF 0, weil das Besondere nicht bestraft werden soll"
+      }
     },
     {
       "id": "auf-kantone",
@@ -1822,7 +1886,22 @@
         "ref-12",
         "ref-13"
       ],
-      "rechtsgrundlage": "Art. 4 BABG"
+      "rechtsgrundlage": "Art. 4 BABG",
+      "details": [
+        "Wenn mehrere Kantone oder Gemeinden einen Sachverhalt unterschiedlich beurteilen und keine andere Stelle zur Klärung berufen ist, führt das BBA ein Kompromissverfahren durch. Die Sektion Kantonale Sonderfälle erhebt zunächst alle Positionen, auch jene, die im Laufe des Verfahrens geändert werden. Sie führt dazu eine laufend nachgeführte Übersicht über die Auffassungen aller 26 Kantone zu jeder anhängigen Frage.",
+        "Anschliessend erarbeitet die Sektion Konkordanz und Kompromissfindung einen Lösungsvorschlag. Ziel ist eine Lösung, mit der alle Beteiligten gleich wenig zufrieden sind; Bewährtes wie Halbierung, Abwechslung und gemeinsame Nutzung wird bevorzugt. Kommt eine Einigung zustande, wird sie als Kompromissvereinbarung unterzeichnet. Scheitert sie, entscheidet das BBA mit Verfügung."
+      ],
+      "beispiele": [
+        "Zwei Gemeinden streiten seit 1894 um einen Grenzstein, der nach einer Güterzusammenlegung auf keiner Seite mehr liegt.",
+        "Drei Oberwalliser Gemeinden können sich nicht über den Unterhalt einer historischen Suone einigen.",
+        "Zwei Kantone beanspruchen denselben Aussichtspunkt für ihre Tourismuswerbung.",
+        "Ein Festumzug führt über drei Kantone, die je eine andere Startzeit für verbindlich halten."
+      ],
+      "leistung": {
+        "antrag": "Gemeinsame oder einseitige Eingabe der betroffenen Kantone oder Gemeinden",
+        "dauer": "Rund 6 Monate, bei mehr als 14 Sitzungen entsprechend länger",
+        "kosten": "Gebührenfrei für Kantone und Gemeinden; Apéro nach Vereinbarung hälftig"
+      }
     },
     {
       "id": "auf-ausnahme",
@@ -1832,7 +1911,22 @@
       "einheitIds": [
         "ref-14"
       ],
-      "rechtsgrundlage": "Art. 7 BABG"
+      "rechtsgrundlage": "Art. 7 BABG",
+      "details": [
+        "Manche Sachverhalte sind nicht verboten, aber auch nirgends vorgesehen. Für solche Fälle kann das BBA nach Art. 7 BABG eine Ausnahmebewilligung erteilen. Die Sektion Ausnahmebewilligungen prüft, ob ein schutzwürdiges Interesse besteht, ob Dritte beeinträchtigt werden und ob die betroffenen Kantone einverstanden sind oder zumindest nicht widersprechen.",
+        "Bewilligungen werden in der Regel befristet erteilt und können mit Auflagen verbunden werden. Typische Auflagen sind Meldepflichten, doppelte Kennzeichnungen oder die hälftige Teilung von Beiträgen. Die Bewilligung wird im ERbA eingetragen; Änderungen der Verhältnisse sind unaufgefordert zu melden. Ausnahmebewilligungen werden auch am Freitagnachmittag erteilt, was im Amt selbst als Ausnahme gilt."
+      ],
+      "beispiele": [
+        "Die Braunviehkuh «Bella» darf gleichzeitig in Uri und in Glarus gesömmert werden.",
+        "Ein Bergrestaurant, dessen Terrasse in zwei Gemeinden liegt, darf eine einheitliche Polizeistunde anwenden.",
+        "Eine Verfügung darf ausnahmsweise zusätzlich in Walliserdeutsch ausgefertigt werden.",
+        "Ein Murmeltier mit Doppelwohnsitz erhält einen bewilligten Wochenaufenthalt."
+      ],
+      "leistung": {
+        "antrag": "Formular BBA-207 mit Begründung, Plänen und Fotos; Varianten 207a–207d für Tiere, Grenzlagen, Fristen und Sprachfassungen",
+        "dauer": "2 Monate",
+        "kosten": "CHF 80 bis CHF 450 je nach Aufwand; für Tiere zahlt die Halterin oder der Halter"
+      }
     },
     {
       "id": "auf-vernehmlassung",
@@ -1842,7 +1936,21 @@
       "einheitIds": [
         "ref-22"
       ],
-      "rechtsgrundlage": "Art. 10 BABG"
+      "rechtsgrundlage": "Art. 10 BABG",
+      "details": [
+        "Bei Grundsatzfragen ohne Präzedenzfall eröffnet das BBA eine Vernehmlassung. Eingeladen werden die Kantone, die Parteien, die gesamtschweizerischen Dachverbände der Gemeinden, Städte und Berggebiete sowie weitere interessierte Kreise. Die Vernehmlassungsfrist beträgt in der Regel drei Monate und wird über Feiertage angemessen verlängert, damit auch Milizbehörden fristgerecht Stellung nehmen können.",
+        "Die Sektion Vernehmlassungen zu Unvernehmlassbarem erfasst jede Stellungnahme, ordnet sie den gestellten Fragen zu und fasst die Ergebnisse in einem Bericht zusammen. Auch Stellungnahmen, die sich zu einer anderen als der gestellten Frage äussern, werden ausgewertet und separat ausgewiesen. Der Ergebnisbericht ist öffentlich und dient der Direktion als Grundlage für einen Grundsatzentscheid."
+      ],
+      "beispiele": [
+        "Vernehmlassung zur Frage, ob Vernehmlassungen vernehmlassungspflichtig sind.",
+        "Vernehmlassung dazu, ob ein Feiertag, der auf einen Sonntag fällt, besonders ist.",
+        "Vernehmlassung zur Frage, ab welcher Steigung ein Weg als Bergweg gilt, wenn er abwärts begangen wird."
+      ],
+      "leistung": {
+        "antrag": "Keine Gesuche; Eröffnung durch Beschluss der Direktion. Anregungen für neue Fragen nimmt die Sektion gerne entgegen.",
+        "dauer": "Vernehmlassungsfrist 3 Monate, Auswertung 4 Monate",
+        "kosten": "Teilnahme gebührenfrei"
+      }
     },
     {
       "id": "auf-einsprache",
@@ -1852,7 +1960,21 @@
       "einheitIds": [
         "ref-23"
       ],
-      "rechtsgrundlage": "Art. 15 BABG"
+      "rechtsgrundlage": "Art. 15 BABG",
+      "details": [
+        "Gegen Verfügungen des BBA kann innert 30 Tagen seit Eröffnung schriftlich Einsprache erhoben werden. Die Sektion Einsprachen und Beschwerden überprüft den Entscheid in tatsächlicher und rechtlicher Hinsicht vollständig neu. Sie kann die Verfügung bestätigen, abändern oder aufheben und den Fall zur Neubeurteilung an die zuständige Sektion zurückweisen.",
+        "Der Einspracheentscheid enthält eine Begründung und eine Rechtsmittelbelehrung. Gegen ihn kann Beschwerde beim Bundesverwaltungsgericht erhoben werden. Die Sektion vertritt das BBA in diesen Verfahren und sorgt dafür, dass alle Akten vollständig und paginiert vorliegen."
+      ],
+      "beispiele": [
+        "Ein Arbeitgeber erhebt Einsprache gegen die Feststellung, dass 08:00:59 Uhr noch pünktlich ist.",
+        "Eine Alpgenossenschaft verlangt, dass die Glocke einer Kuh nur ein Wappen tragen muss.",
+        "Eine Gemeinde ficht die Halbierung eines Grenzsteins an, weil ihre Hälfte die schönere sein soll."
+      ],
+      "leistung": {
+        "antrag": "Schriftliche, begründete Einsprache mit Unterschrift und Kopie der angefochtenen Verfügung",
+        "dauer": "3 Monate",
+        "kosten": "Gebührenfrei bei Gutheissung; sonst CHF 200 bis CHF 1'000"
+      }
     },
     {
       "id": "auf-puenktlichkeit",
@@ -1862,7 +1984,21 @@
       "einheitIds": [
         "ref-24"
       ],
-      "rechtsgrundlage": "Art. 16 BABG"
+      "rechtsgrundlage": "Art. 16 BABG",
+      "details": [
+        "Die Sektion Fristen und Pünktlichkeit beurteilt auf Gesuch hin, ob ein Ereignis pünktlich war. Massgebend ist seit dem Grundsatzentscheid vom 15. April 2026 die volle Minute: Was bis und mit der neunundfünfzigsten Sekunde eintritt, ist pünktlich; ab der sechzigsten Sekunde gilt es als verspätet. Die Sektion unterscheidet zudem die Kategorien «pünktlich», «knapp pünktlich» und «verspätet».",
+        "Grundlage der Beurteilung sind Zeitstempel, Fahrpläne, Protokolle, Fotos mit Metadaten und Zeugenaussagen. Uhren, die als Beweismittel dienen, werden gegen die amtliche Referenzuhr der Sektion geprüft. Die Auskunft ist verbindlich und kann bei Bedarf als Feststellungsverfügung ausgefertigt werden. Die Sektion überwacht zudem die Einhaltung aller Fristen innerhalb des Amtes. Sie hat das Recht, an jeder Sitzung des BBA unangemeldet die Anfangszeit zu protokollieren."
+      ],
+      "beispiele": [
+        "Ein Pendler lässt bestätigen, dass er um 08:00:59 Uhr pünktlich war.",
+        "Ein Verein möchte wissen, ob eine Generalversammlung, die um 20.01 Uhr eröffnet wurde, gültig ist.",
+        "Eine Gemeinde fragt, ob das Mittagsläuten ihrer Kirche, das regelmässig 70 Sekunden zu spät erklingt, noch als Mittagsläuten gilt."
+      ],
+      "leistung": {
+        "antrag": "Formular BBA-316 mit sekundengenauer Zeitangabe und Belegen",
+        "dauer": "10 Arbeitstage, auf die Minute genau",
+        "kosten": "CHF 40; bei Verspätung des BBA entfällt die Gebühr (bisher nie vorgekommen)"
+      }
     },
     {
       "id": "auf-lage",
@@ -1874,7 +2010,21 @@
         "ref-31",
         "ref-34"
       ],
-      "rechtsgrundlage": "Art. 18 BABG"
+      "rechtsgrundlage": "Art. 18 BABG",
+      "details": [
+        "Das Lagezentrum Besonderheiten ist rund um die Uhr besetzt und nimmt Meldungen von Kantonen, Gemeinden, anderen Behörden und der Bevölkerung entgegen. Es bewertet jede Meldung, erstellt bei Bedarf ein konsolidiertes Lagebild und informiert die betroffenen Stellen. Ereignisse, die ein Verfahren erfordern, werden an die zuständige Sektion überwiesen.",
+        "Die Sektion Prävention des Unwahrscheinlichen entwickelt Szenarien für Ereignisse, die zwar unwahrscheinlich, aber nicht unmöglich sind, und erprobt sie in Stabsübungen mit den Kantonen. Bekannte Übungen sind «Käse alle» und «Bahnhofsuhr steht still». Aus jeder Übung entsteht ein Bericht mit Empfehlungen an Bund, Kantone und Gemeinden."
+      ],
+      "beispiele": [
+        "Ein Föhnsturm weht in einer Gemeinde sämtliche Abstimmungscouverts in die Nachbargemeinde.",
+        "In einem Bahnhof bleibt die Uhr stehen und mehrere Reisende erklären sich deshalb für pünktlich.",
+        "Am ersten Wintersonntag droht in einer Region der Fonduekäse auszugehen."
+      ],
+      "leistung": {
+        "antrag": "Meldung rund um die Uhr per Telefon oder E-Mail an das Lagezentrum",
+        "dauer": "Erstbewertung innert 30 Minuten",
+        "kosten": "Gebührenfrei"
+      }
     },
     {
       "id": "auf-alpin",
@@ -1884,7 +2034,22 @@
       "einheitIds": [
         "ref-32"
       ],
-      "rechtsgrundlage": "Art. 19 BABG"
+      "rechtsgrundlage": "Art. 19 BABG",
+      "details": [
+        "Die Sektion Alpine Sonderfälle befasst sich mit Ereignissen im Alpenraum, die keiner ordentlichen Zuständigkeit zugeordnet werden können. Häufig geht es um Tiere, deren Aufenthaltsort nicht mit Kantons- oder Gemeindegrenzen übereinstimmt, um Weiden auf Grenzlinien oder um Naturerscheinungen mit ungewöhnlichem Verhalten. Die Sektion arbeitet eng mit Alpgenossenschaften, Wildhut und Gemeinden zusammen.",
+        "Zentral ist der Augenschein vor Ort, oft gemeinsam mit Älplerinnen und Älplern, die den Fall seit Jahren beobachten. Die Sektion entscheidet mit Verfügung, beantragt bei der Sektion Ausnahmebewilligungen eine Bewilligung oder übergibt besonders kuriose Fälle dem Kuriositätenarchiv. Fälle sollen nach Möglichkeit vor dem Alpabzug abgeschlossen sein, damit die Beteiligten den Winter in Rechtssicherheit verbringen."
+      ],
+      "beispiele": [
+        "Eine Kuh steht seit drei Sommern ausschliesslich auf der Grenze zwischen zwei Kantonen.",
+        "Ein Murmeltier benutzt morgens den Ausgang in der einen und abends den in der anderen Gemeinde.",
+        "Eine Gämse hält sich seit Jahren ohne erkennbaren Hauptwohnsitz in drei Kantonen auf.",
+        "Ein Echo am Pilatus antwortet auf «Hallo» mit «Grüessech»."
+      ],
+      "leistung": {
+        "antrag": "Meldung durch Alpgenossenschaft, Gemeinde, Wildhut oder Privatperson; Formular BBA-E2-01",
+        "dauer": "Innerhalb der laufenden Alpsaison",
+        "kosten": "Gebührenfrei für Meldende; Augenschein mit Verpflegung aus eigenem Rucksack"
+      }
     },
     {
       "id": "auf-archiv",
@@ -1894,7 +2059,22 @@
       "einheitIds": [
         "ref-33"
       ],
-      "rechtsgrundlage": "Art. 20 BABG"
+      "rechtsgrundlage": "Art. 20 BABG",
+      "details": [
+        "Das Kuriositätenarchiv sichert Vorgänge, Gegenstände und Tonaufnahmen, die für das Verständnis besonderer Angelegenheiten von bleibendem Wert sind. Dazu gehören abgeschlossene Dossiers, Beweisstücke wie der Skistock aus dem ersten Fall von 1953 und das Tonarchiv mit über 1'000 abweichenden Echos. Jedes Objekt erhält eine Signatur und wird im ERbA verknüpft.",
+        "Das Archiv steht Behörden, Forschenden und der interessierten Öffentlichkeit nach Voranmeldung offen. Am Tag der offenen Tür wird jeweils eine Auswahl gezeigt. Das Archiv berät zudem andere Sektionen bei der Frage, ob ein Fall archivwürdig ist."
+      ],
+      "beispiele": [
+        "Aufnahme eines Echos im Jura, das seit 1962 ausschliesslich auf Französisch antwortet.",
+        "Sammlung verlorener Fondue-Gabeln, deren Herkunft nicht geklärt werden konnte.",
+        "Ein Formular, das versehentlich zweimal gestempelt wurde, einmal davon mit dem falschen Datum.",
+        "Die 214 Karteikästen des ERbA in ihrem ursprünglichen Zustand."
+      ],
+      "leistung": {
+        "antrag": "Einsichtsgesuch per E-Mail oder Formular BBA-E3-10; Meldung abweichender Echos mit Formular BBA-E3-02",
+        "dauer": "Einsicht innert 14 Tagen",
+        "kosten": "Gebührenfrei; Kopien von Tonaufnahmen CHF 15"
+      }
     },
     {
       "id": "auf-erba",
@@ -1906,7 +2086,21 @@
         "ref-41",
         "ref-43"
       ],
-      "rechtsgrundlage": "Art. 22–25 BABG"
+      "rechtsgrundlage": "Art. 22–25 BABG",
+      "details": [
+        "Im ERbA wird jede rechtskräftig abgeschlossene besondere Angelegenheit seit 1953 eingetragen – zurzeit über 61'000 Einträge. Ein Eintrag enthält Aktenzeichen, Datum, Kurzbezeichnung, Beteiligte, erfüllte Kriterien und das Ergebnis. Das Register ist seit dem 1. Juli 2026 vollständig digital und mit dem GEVER-System des Amtes verbunden.",
+        "Berechtigte Behörden von Bund, Kantonen und Gemeinden können Registerauszüge beantragen oder über eine gesicherte Schnittstelle beziehen. Privatpersonen erhalten Auskunft über Einträge, die sie selbst betreffen. Unrichtige Einträge werden auf Gesuch oder von Amtes wegen berichtigt; die Berichtigung wird ihrerseits eingetragen. Die Sektion Daten und Schnittstellen stellt anonymisierte Auswertungen als Open Government Data zur Verfügung. Murmeltiere und andere Tiere werden darin nicht namentlich aufgeführt."
+      ],
+      "beispiele": [
+        "Eine Gemeinde verlangt einen Auszug über alle Grenzstein-Verfahren auf ihrem Gebiet seit 1953.",
+        "Ein Kanton bezieht über die Schnittstelle alle Ausnahmebewilligungen für Tiere auf seinem Gebiet.",
+        "Eine Alpgenossenschaft beantragt die Berichtigung des Namens einer Kuh, die im Register als «Bela» geführt wird."
+      ],
+      "leistung": {
+        "antrag": "Formular BBA-401 (Auszug) oder BBA-402 (Berichtigung); für Behörden auch über die Schnittstelle",
+        "dauer": "Auszug 3 Arbeitstage, Eintrag 5 Arbeitstage",
+        "kosten": "Auszug CHF 25, für Behörden gebührenfrei"
+      }
     },
     {
       "id": "auf-sprachen",
@@ -1916,7 +2110,21 @@
       "einheitIds": [
         "ref-z4"
       ],
-      "rechtsgrundlage": "Art. 6 BABG i. V. m. Sprachengesetz"
+      "rechtsgrundlage": "Art. 6 BABG i. V. m. Sprachengesetz",
+      "details": [
+        "Die Sektion Sprachdienste stellt sicher, dass Verfügungen, Bewilligungen und Berichte in der Amtssprache der betroffenen Personen vorliegen. Bei Verfahren mit Beteiligten aus mehreren Sprachregionen werden mehrere Fassungen erstellt; massgebend ist jeweils die im Entscheid bezeichnete Fassung. Die Sektion achtet darauf, dass Fachbegriffe wie «Sömmerung» oder «Suone» in allen Fassungen gleich verstanden werden.",
+        "Zusätzliche Fassungen, etwa in einem Dialekt, sind eine Ausnahme und bedürfen einer Ausnahmebewilligung. Sie sind rechtlich nicht verbindlich, erhöhen aber erfahrungsgemäss die Akzeptanz eines Entscheids. Die Sektion übersetzt zudem Medienmitteilungen, Formulare und den Jahresbericht."
+      ],
+      "beispiele": [
+        "Eine Verfügung zum Unterhalt einer Suone wird zusätzlich in Walliserdeutsch ausgefertigt.",
+        "Ein Registerauszug wird für eine Gemeinde im Engadin in das Idiom Vallader übersetzt.",
+        "Das Wort «Rechtsmittelbelehrung» wird nach zweiwöchiger Abklärung in drei Dialektvarianten wiedergegeben."
+      ],
+      "leistung": {
+        "antrag": "Angabe der gewünschten Amtssprache im Gesuch; Dialektfassungen mit Formular BBA-207d",
+        "dauer": "Im Verfahren inbegriffen; Dialektfassungen zusätzlich 2 bis 4 Wochen",
+        "kosten": "Amtssprachen gebührenfrei; Dialektfassungen nach Aufwand"
+      }
     }
   ],
   "news": [
@@ -1924,18 +2132,26 @@
       "id": "2026-10-kuh-bella",
       "datum": "2026-10-22",
       "kategorie": "Medienmitteilung",
-      "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Alpen gleichzeitig",
-      "teaser": "Weil die Weide genau auf der Kantonsgrenze liegt, darf Bella künftig offiziell in Uri und in Glarus gesömmert werden. Die Verfügung ergeht in beiden Kantonen gleichzeitig.",
+      "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Kantone gleichzeitig",
+      "teaser": "Weil ihre Lieblingsweide exakt auf der Grenze zwischen Uri und Glarus liegt, darf die Braunviehkuh «Bella» künftig offiziell in beiden Kantonen gesömmert werden. Die Verfügung wurde beiden Kantonen in derselben Sekunde eröffnet.",
       "text": [
-        "Das Bundesamt für besondere Angelegenheiten hat der Braunviehkuh «Bella» eine Ausnahmebewilligung für die gleichzeitige Sömmerung in zwei Kantonen erteilt.",
-        "Die Weide, auf der Bella seit drei Sommern bevorzugt steht, wird von einem historischen Grenzstein exakt halbiert. «Bella hat sich nie für einen Kanton entschieden, und wir respektieren das», sagte Sektionschef Josef Zgraggen.",
-        "Die Glocke der Kuh muss künftig mit beiden Kantonswappen versehen werden – auf der linken und auf der rechten Seite. Sektionschef Urs Baumann bestätigte, dass es sich um die erste Ausnahmebewilligung für ein Rind seit 1987 handelt."
+        "Das Bundesamt für besondere Angelegenheiten (BBA) hat der Braunviehkuh «Bella» eine Ausnahmebewilligung für die gleichzeitige Sömmerung in zwei Kantonen erteilt. Mit der Verfügung vom 21. Oktober 2026 (Aktenzeichen BBA-E2-2026-00417) endet ein Verfahren, das im Juni mit einer Meldung der zuständigen Alpgenossenschaft begonnen hatte. Die Verfügung wurde den Kantonen Uri und Glarus gleichzeitig eröffnet – nach Angaben der Sektion Fristen und Pünktlichkeit mit einer Abweichung von weniger als einer Sekunde.",
+        "## Wie es dazu kam",
+        "Die Weide, auf der Bella seit drei Sommern bevorzugt steht, wird von einem historischen Grenzstein exakt halbiert. Nach den Beobachtungen der Älplerin frisst Bella morgens auf der Urner und nachmittags auf der Glarner Seite, liegt zum Wiederkäuen aber bevorzugt quer zur Grenze. Beide Kantone hatten die Kuh als bei sich gesömmert gemeldet und Sömmerungsbeiträge beansprucht. Da kein Kanton auf Bella verzichten wollte und keine Verordnung den Fall einer exakt halbierten Kuh vorsieht, ging die Akte mit dem Vermerk «besonders» nach Bern.",
+        "Sektionschef Josef Zgraggen nahm im August einen zweitägigen Augenschein vor. Dabei wurde Bellas Gewichtsverteilung mit zwei geeichten Viehwaagen gemessen, je eine pro Kanton. Das Ergebnis lautete 50,3 Prozent Uri und 49,7 Prozent Glarus, was innerhalb der amtlichen Messtoleranz liegt. «Bella hat sich nie für einen Kanton entschieden, und wir respektieren das», sagte Zgraggen. «Eine Kuh ist keine Stimmbürgerin. Sie muss sich nicht festlegen.»",
+        "Die beiden Kantone wurden im Verfahren angehört. Sektionschef Lukas Wyss, der die kantonalen Stellungnahmen einholte, sprach von einem «geordneten Verfahren mit vier Stellungnahmen, zwei Gegenstellungnahmen und einer gemeinsamen Erklärung, wonach beide Kantone Bella sehr schätzen». Ein Kanton hatte zwischenzeitlich angeregt, die Kantonsgrenze um 40 Zentimeter zu verschieben. Der Vorschlag wurde mit Hinweis auf die Folgen für alle übrigen Kühe der Alp verworfen.",
+        "## Was die Bewilligung regelt",
+        "Die Ausnahmebewilligung stützt sich auf Art. 7 BABG und ist bis zum Alpabzug 2031 befristet. Sie enthält drei Auflagen. Erstens muss die Glocke der Kuh künftig mit beiden Kantonswappen versehen werden, links mit jenem von Uri, rechts mit jenem von Glarus. Zweitens werden die Sömmerungsbeiträge hälftig geteilt; für den Rappen, der bei der Teilung übrig bleibt, führt das BBA ein Ausgleichskonto. Drittens hat die Alpgenossenschaft jeden einseitigen Aufenthalt von mehr als 24 Stunden mit dem Formular BBA-207a zu melden.",
+        "Sektionschef Urs Baumann bestätigte, dass es sich um die erste Ausnahmebewilligung für ein Rind seit 1987 handelt. «Damals ging es um eine Simmentalerin, die an einer Landsgemeinde zusehen durfte. Bellas Fall ist rechtlich anspruchsvoller, weil sie nicht nur zuschaut, sondern frisst», sagte Baumann. Die Prüfung dauerte insgesamt zwei Monate und schöpfte die gesetzliche Frist damit auf den Tag genau aus.",
+        "Nach Eintritt der Rechtskraft wird der Fall im Eidgenössischen Register besonderer Angelegenheiten (ERbA) eingetragen. Bella selbst hat sich zur Verfügung nicht geäussert. Nach Auskunft der Älplerin hat sie die Eröffnung «ruhig und wiederkäuend» zur Kenntnis genommen.",
+        "Hinweis für Gesuchstellende: Wer ein Tier hält, das sich regelmässig auf einer Kantons- oder Gemeindegrenze aufhält, kann eine Ausnahmebewilligung mit dem Formular BBA-207 beantragen. Fotos des Tiers auf der Grenze sind beizulegen, sofern das Tier dazu bereit ist."
       ],
       "bild": "assets/img/ch/news/2026-10-kuh-bella.jpg",
       "einheitId": "ref-32",
       "personIds": [
         "p-zgraggen-josef",
-        "p-baumann-urs"
+        "p-baumann-urs",
+        "p-wyss-lukas"
       ],
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-10-kuh-bella.html",
       "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-10-kuh-bella.jpg",
@@ -1946,17 +2162,25 @@
       "datum": "2026-09-30",
       "kategorie": "Vernehmlassung",
       "titel": "Vernehmlassung eröffnet: Sind Vernehmlassungen vernehmlassungspflichtig?",
-      "teaser": "Das BBA lädt Kantone, Parteien und Verbände ein, sich bis 31. Januar 2027 zur Frage zu äussern, ob zu dieser Frage eine Vernehmlassung hätte eröffnet werden müssen.",
+      "teaser": "Das BBA lädt Kantone, Parteien und Verbände ein, sich bis 31. Januar 2027 zur Frage zu äussern, ob zu dieser Frage eine Vernehmlassung hätte eröffnet werden müssen. Zur Auswahl stehen drei Varianten, von denen eine unendlich ist.",
       "text": [
-        "Mit der heute eröffneten Vernehmlassung möchte das BBA eine seit 1971 offene Grundsatzfrage klären.",
-        "«Sollte die Vernehmlassung ergeben, dass keine Vernehmlassung nötig gewesen wäre, werden wir die Ergebnisse selbstverständlich trotzdem auswerten», erklärte Sektionschef Matthias Hess.",
-        "Die Unterlagen stehen in Deutsch, Französisch und Italienisch zur Verfügung. Die rätoromanische Fassung folgt nach Abschluss einer separaten Vernehmlassung zur Übersetzung."
+        "Das Bundesamt für besondere Angelegenheiten (BBA) hat am 30. September 2026 eine Vernehmlassung zur Frage eröffnet, ob Vernehmlassungen ihrerseits vernehmlassungspflichtig sind. Eingeladen sind die 26 Kantone, die in der Bundesversammlung vertretenen Parteien, die gesamtschweizerischen Dachverbände der Gemeinden, Städte und Berggebiete sowie 41 weitere Organisationen. Die Frist läuft bis zum 31. Januar 2027. Das Geschäft wird unter dem Aktenzeichen BBA-V2-2026-00010 geführt.",
+        "## Eine Frage seit 1971",
+        "Die Frage ist beinahe so alt wie das Amt selbst. Bereits 1971 hatte das damalige Büro für Unzuordenbares eine Vernehmlassung zu seiner eigenen Zuständigkeit durchgeführt. Ein Kanton merkte in seiner Stellungnahme an, man hätte vorgängig fragen sollen, ob man fragen dürfe. Die Bemerkung wurde ordnungsgemäss protokolliert, abgelegt und 55 Jahre lang nicht beantwortet. «Wir haben den Hinweis nie vergessen. Wir haben ihn nur noch nicht entschieden», sagte Dr. Verena Steiner, Sektionschefin Grundsatzfragen der Besonderheit.",
+        "«Sollte die Vernehmlassung ergeben, dass keine Vernehmlassung nötig gewesen wäre, werden wir die Ergebnisse selbstverständlich trotzdem auswerten», erklärte Sektionschef Matthias Hess. «Und sollte sie ergeben, dass eine nötig gewesen wäre, haben wir sie ja durchgeführt.» Die Sektion rechnet mit rund 180 Stellungnahmen. Für die Auswertung sind vier Monate vorgesehen; der Ergebnisbericht soll im Juni 2027 vorliegen.",
+        "## Drei Varianten zur Auswahl",
+        "Der Vernehmlassungsentwurf legt drei Varianten vor. Variante A sieht vor, dass jede Vernehmlassung einer vorgängigen Vernehmlassung bedarf. Variante B verzichtet darauf, sieht aber eine nachträgliche Vernehmlassung darüber vor, ob man darauf hätte verzichten dürfen. Variante C, die von der Direktion bevorzugt wird, belässt alles beim Alten und hält dies ausdrücklich in einem neuen Artikel fest.",
+        "Prof. Dr. Christine Rochat, Leiterin der Abteilung Verfahren und Vernehmlassungen, hält die drohende Endlosschleife für beherrschbar. «Rechnerisch ergibt Variante A eine unendliche Kette. In der Praxis endet sie aber spätestens dann, wenn ein Kanton nicht fristgerecht antwortet», sagte Rochat. Das BBA hat zudem vorsorglich festgelegt, dass die vorliegende Vernehmlassung nicht ihrerseits einer Vernehmlassung unterliegt. Gegen diese Festlegung sind bisher zwei Einwände eingegangen; sie werden im Rahmen der Vernehmlassung behandelt.",
+        "Bei der Fristsetzung hat das BBA auf das Milizsystem Rücksicht genommen. Da viele Stellungnahmen von Gemeinderätinnen und Gemeinderäten nach Feierabend verfasst werden, wurde die Frist bewusst über die Festtage verlängert. Stellungnahmen können elektronisch oder per Post eingereicht werden; massgebend ist der Poststempel, nicht die Uhrzeit des Einwurfs. Eine Stellungnahme, die am 31. Januar 2027 um 23:59:59 Uhr eintrifft, gilt als fristgerecht.",
+        "Die Unterlagen stehen in Deutsch, Französisch und Italienisch zur Verfügung. Die rätoromanische Fassung folgt nach Abschluss einer separaten Vernehmlassung zur Übersetzung, die ihrerseits nicht vernehmlassungspflichtig ist, sofern die vorliegende Vernehmlassung nichts anderes ergibt.",
+        "Hinweis für Vernehmlassungsteilnehmende: Bitte äussern Sie sich zur gestellten Frage und nicht zur Frage, ob die Frage hätte gestellt werden dürfen. Letzteres ist Gegenstand einer allfälligen späteren Vernehmlassung."
       ],
       "bild": "assets/img/ch/news/2026-09-vernehmlassung.jpg",
       "einheitId": "ref-22",
       "personIds": [
         "p-hess-matthias",
-        "p-rochat-christine"
+        "p-rochat-christine",
+        "p-steiner-verena"
       ],
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-vernehmlassung.html",
       "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-09-vernehmlassung.jpg",
@@ -1967,17 +2191,26 @@
       "datum": "2026-09-08",
       "kategorie": "Medienmitteilung",
       "titel": "Jahresbericht 2025: 9'874 Sonderfälle – Rekord bei Murmeltier-Eingaben",
-      "teaser": "Das BBA verzeichnet einen Anstieg um 7 Prozent. Erstmals betraf jeder zehnte Fall ein Wildtier mit unklarem Wohnsitz.",
+      "teaser": "Das BBA verzeichnet einen Anstieg um 7 Prozent und behandelt erstmals mehr Murmeltiere als Grenzsteine. Keine einzige Frist ist abgelaufen, zwei wurden allerdings nervös.",
       "text": [
-        "Direktorin Dr. Ursula Brändli hat in Bern den Jahresbericht 2025 vorgestellt. Mit 9'874 behandelten Sonderfällen hat das Amt einen neuen Höchstwert erreicht.",
-        "«Ordnung ist, wenn auch die Ausnahme ein Formular hat», sagte Brändli. Besonders zugenommen haben alpine Sonderfälle (+23 %) und Gesuche um amtliche Pünktlichkeitsauskunft (+11 %).",
-        "Die durchschnittliche Behandlungsdauer betrug 21 Arbeitstage, 3 Stunden und 12 Minuten."
+        "Direktorin Dr. Ursula Brändli hat am 8. September 2026 in Bern den Jahresbericht 2025 des Bundesamts für besondere Angelegenheiten (BBA) vorgestellt. Mit 9'874 behandelten Sonderfällen hat das Amt einen neuen Höchstwert erreicht; das entspricht einer Zunahme von 7 Prozent gegenüber dem Vorjahr. Erstmals betraf jeder zehnte Fall ein Wildtier mit unklarem Wohnsitz. Die Medienkonferenz begann um 10.00 Uhr und endete, wie angekündigt, um 10.45 Uhr.",
+        "## Die Zahlen im Überblick",
+        "Besonders zugenommen haben alpine Sonderfälle (+23 Prozent) und Gesuche um amtliche Pünktlichkeitsauskunft (+11 Prozent). Bei den Murmeltier-Eingaben verzeichnete das Amt mit 612 Fällen einen Rekord; im Vorjahr waren es 431. Rückläufig waren hingegen Gesuche um Feststellung, ob ein Gesuch besonders ist (−4 Prozent), was die Direktion als Zeichen wachsender Rechtssicherheit wertet. Insgesamt wurden 3'118 Verfügungen und 1'204 Ausnahmebewilligungen erlassen sowie 37 Vernehmlassungen abgeschlossen.",
+        "«Ordnung ist, wenn auch die Ausnahme ein Formular hat», sagte Brändli. «Dass wir noch nie so viele Ausnahmen hatten, zeigt nicht, dass die Ordnung nachlässt, sondern dass sie immer genauer wird. Je feiner das Raster, desto mehr fällt hindurch.» Die Direktorin dankte den Kantonen für die Zusammenarbeit und hob hervor, dass 2025 alle 26 Kantone mindestens einen Sonderfall gemeldet hätten – ein Novum seit 1953.",
+        "## Warum gerade Murmeltiere",
+        "Den Anstieg bei den Murmeltieren erklärt Sektionschef Josef Zgraggen mit mehreren Gemeindefusionen in Berggebieten. «Wenn zwei Gemeinden zusammengehen, entstehen neue Grenzen zu den Nachbarn. Murmeltiere graben aber nicht nach Grundbuch», sagte Zgraggen. In 74 Fällen musste das BBA klären, in welcher Gemeinde ein Bau liegt, dessen Ausgänge in verschiedenen Gemeinden enden. In drei Fällen lag der Bau zudem unter einer Kantonsgrenze, was eine zusätzliche Anhörung erforderte.",
+        "Die durchschnittliche Behandlungsdauer betrug 21 Arbeitstage, 3 Stunden und 12 Minuten. Reto Gisler, Leiter des Direktionsstabs, führt die Geschäftskontrolle mit derzeit über 1'400 offenen Pendenzen. «Keine einzige Frist ist abgelaufen. Zwei Fristen sind allerdings sehr nervös geworden», sagte Gisler. Sämtliche Pendenzen werden wöchentlich überprüft, jeweils am Dienstag um 07.30 Uhr, in der Sitzung mit dem Traktandum «Fristen, die bald Fristen sind».",
+        "Der Personalbestand blieb mit 412 Mitarbeitenden stabil. Der Aufwand belief sich auf 61,8 Millionen Franken und lag damit 0,4 Prozent unter Budget. Der Minderaufwand ist vor allem auf eine Vernehmlassung zurückzuführen, die sich als unnötig erwies, aber trotzdem ausgewertet wurde. Ein Budgetposten sorgte im Departement für Rückfragen: 1'150 Franken für Kuhglocken mit zwei Kantonswappen.",
+        "Mediensprecherin Seraina Cadonau wies darauf hin, dass der Jahresbericht erstmals ausschliesslich digital erscheint. «Wer ihn trotzdem gedruckt möchte, kann ein Gesuch stellen. Wir prüfen dann, ob das besonders ist», sagte Cadonau. Der Bericht umfasst 148 Seiten, davon 12 Seiten Kennzahlen, 3 Seiten Glossar und eine Seite, die absichtlich leer gelassen wurde und dies auch vermerkt.",
+        "Hinweis für Medienschaffende: Der Jahresbericht 2025 ist im Bereich Publikationen abrufbar. Das Datenset aller 9'874 Fälle steht anonymisiert als Open Government Data zur Verfügung; Murmeltiere sind darin nicht namentlich aufgeführt."
       ],
       "bild": "assets/img/ch/news/2026-09-jahresbericht.jpg",
       "einheitId": "stab-kom",
       "personIds": [
         "p-braendli-ursula",
-        "p-cadonau-seraina"
+        "p-cadonau-seraina",
+        "p-gisler-reto",
+        "p-zgraggen-josef"
       ],
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-09-jahresbericht.html",
       "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-09-jahresbericht.jpg",
@@ -1988,11 +2221,18 @@
       "datum": "2026-08-14",
       "kategorie": "Medienmitteilung",
       "titel": "Übung «Käse alle»: Lagezentrum probt den nationalen Fondue-Engpass",
-      "teaser": "In einer 24-stündigen Stabsübung testeten Bund und Kantone die Abläufe für den Fall, dass am ersten Wintersonntag landesweit der Fonduekäse ausgeht.",
+      "teaser": "In einer 24-stündigen Stabsrahmenübung testeten Bund und 19 Kantone die Abläufe für den Fall, dass am ersten Wintersonntag landesweit der Fonduekäse ausgeht. Die Meldewege funktionierten, die Frage des Abwaschs bleibt offen.",
       "text": [
-        "Das Lagezentrum Besonderheiten hat zusammen mit 19 Kantonen die Übung «Käse alle» durchgeführt.",
-        "Geprüft wurden unter anderem Meldewege, die Priorisierung von Berghütten und ein Notfallplan für Raclette als Ersatzmittel. «Der Ersatz von Fondue durch Raclette ist rechtlich heikel und muss gut begründet sein», sagte Sektionschefin Mai Nguyen.",
-        "Sektionschefin Fabienne Schmid zog eine positive Bilanz. Einzig die Frage, wer die Caquelons abwäscht, konnte nicht abschliessend geklärt werden."
+        "Das Lagezentrum Besonderheiten des Bundesamts für besondere Angelegenheiten (BBA) hat am 12. und 13. August 2026 zusammen mit 19 Kantonen die Stabsrahmenübung «Käse alle» durchgeführt. Angenommen wurde, dass am ersten Wintersonntag landesweit der Fonduekäse ausgeht, und zwar um 18.45 Uhr, also zur Hauptessenszeit. Die Übung dauerte exakt 24 Stunden und ist unter dem Aktenzeichen BBA-E1-2026-00808 dokumentiert. Echter Käse kam nicht zu Schaden.",
+        "## Das Szenario",
+        "Das Übungsszenario entwickelte die Sektion Prävention des Unwahrscheinlichen. Ausgangslage war eine Kombination aus drei Ereignissen: ein ungewöhnlich früher Kälteeinbruch, ein gleichzeitiger Feiertag in sieben Kantonen und eine weit verbreitete Empfehlung, Fondue sei gesund. Daraus ergab sich eine rechnerische Nachfrage von 4,2 Millionen Portionen innerhalb von drei Stunden. «Das Szenario ist unwahrscheinlich. Genau deshalb sind wir zuständig», sagte Sektionschefin Mai Nguyen.",
+        "Geprüft wurden die Meldewege zwischen Gemeinden, Kantonen und Bund, die Priorisierung von Berghütten sowie ein Notfallplan für Raclette als Ersatzmittel. Die Berghütten wurden nach Höhe über Meer priorisiert: Wer höher wohnt, erhält früher Käse. Gegen diesen Grundsatz meldete ein Kanton ohne Berghütten über 1'500 Metern einen Vorbehalt an, der im Übungsprotokoll festgehalten und mit dem Vermerk «nachvollziehbar, aber topografisch bedingt» versehen wurde.",
+        "## Raclette als heikler Ersatz",
+        "«Der Ersatz von Fondue durch Raclette ist rechtlich heikel und muss gut begründet sein», sagte Nguyen. Raclette setze ein anderes Gerät, eine andere Sitzordnung und eine andere Erwartung an die Beilagen voraus. Die Übungsleitung hatte deshalb das Formular BBA-E1-14 («Gesuch um Umstellung auf Raclette im Notfall») vorbereitet, das während der Übung 212-mal ausgefüllt wurde. In 17 Fällen wurde die Umstellung abgelehnt, weil kein Raclette-Ofen vorhanden war; in einem Fall, weil der Gesuchsteller ausdrücklich keine Kartoffeln wollte.",
+        "Sektionschefin Fabienne Schmid zog eine positive Bilanz. «Die Meldewege haben funktioniert. Die erste Lagemeldung aus einem Kanton erreichte uns 38 Sekunden nach Übungsbeginn, und sie enthielt bereits ein Rezept», sagte Schmid. Das Lagezentrum führte während der gesamten Übung ein konsolidiertes Lagebild, das alle zwei Stunden an die Kantone versandt wurde. Um 03.00 Uhr nachts meldete ein Kanton, er habe noch Käse gefunden, was die Übung kurzzeitig gefährdete.",
+        "Abteilungsleiter Thomas Rüegg betonte den föderalen Charakter der Übung. «Jeder Kanton hat seine eigene Mischung, seine eigene Tradition und seine eigene Meinung darüber, was als Fondue gilt. Unser Auftrag war nicht, das zu vereinheitlichen, sondern das zu koordinieren», sagte Rüegg. Ein Antrag, für den Notfall eine nationale Einheitsmischung festzulegen, wurde von allen 19 Kantonen gleichzeitig und in seltener Einmütigkeit abgelehnt.",
+        "Einzig die Frage, wer die Caquelons abwäscht, konnte nicht abschliessend geklärt werden. Sie wurde zur weiteren Bearbeitung an die Sektion Konkordanz und Kompromissfindung überwiesen. Der Übungsbericht mit 23 Empfehlungen erscheint im ersten Quartal 2027.",
+        "Hinweis für die Bevölkerung: Es besteht derzeit kein Fondue-Engpass. Eine private Vorratshaltung von Fonduekäse ist nicht erforderlich, wird vom BBA aber auch nicht beanstandet."
       ],
       "bild": "assets/img/ch/news/2026-08-fondue-uebung.jpg",
       "einheitId": "ref-31",
@@ -2009,18 +2249,27 @@
       "id": "2026-07-erba-start",
       "datum": "2026-07-01",
       "kategorie": "Mitteilung",
-      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) in Betrieb",
-      "teaser": "Nach vier Jahren Entwicklung in Biel/Bienne ist das ERbA online. Alle 61'205 Einträge seit 1953 sind digital verfügbar – zweisprachig.",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) pünktlich in Betrieb",
+      "teaser": "Nach vier Jahren Entwicklung in Biel/Bienne ist das ERbA online. Alle 61'205 Einträge seit 1953 sind digital verfügbar – vom einzelnen Skistock bis zur halbierten Kuh.",
       "text": [
-        "Mit dem ERbA ersetzt das BBA seine Karteikästen aus dem Büro für Unzuordenbares.",
-        "«Jeder Eintrag ist nun in Deutsch und Französisch abrufbar, auf Wunsch auch in Italienisch», sagte Abteilungsleiterin Nadia Kälin.",
-        "Registerführer Dr. Simon Gerber betont: «Die Migration war pünktlich. Wir haben das von der Sektion Fristen und Pünktlichkeit bestätigen lassen.»"
+        "Seit dem 1. Juli 2026, 00:00:00 Uhr, ist das Eidgenössische Register besonderer Angelegenheiten (ERbA) in Betrieb. Mit dem neuen Register ersetzt das Bundesamt für besondere Angelegenheiten (BBA) seine Karteikästen aus der Zeit des Büros für Unzuordenbares. Alle 61'205 Einträge seit 1953 sind nun digital erfasst, durchsuchbar und für berechtigte Behörden von Bund, Kantonen und Gemeinden abrufbar.",
+        "## Vom Karteikasten zur Datenbank",
+        "Bis Ende Juni lagerten die Registereinträge in 214 Karteikästen aus Eichenholz im Untergeschoss des Hauptsitzes in Bern. Jede Karte enthielt Aktenzeichen, Datum, Kurzbezeichnung und einen Vermerk über das Ergebnis. Der älteste Eintrag (ERbA-1953-00001) betrifft einen einzelnen Skistock, den kein Fundbüro annehmen wollte und der bis heute im Kuriositätenarchiv aufbewahrt wird. Der jüngste Eintrag vor der Migration betraf eine Hecke, die nachweislich von zwei Gemeinden gleichzeitig geschnitten werden musste.",
+        "Die Migration erfolgte in vier Etappen. Die Karten wurden gescannt, mit Texterkennung erfasst und anschliessend von Mitarbeitenden der Abteilung Digitales und Register einzeln geprüft. Dabei wurden 312 Karten entdeckt, deren Handschrift niemand mehr lesen konnte; sie wurden mit dem Vermerk «besonders unleserlich» erfasst. Elf Karten erwiesen sich als Einkaufszettel und wurden nach Rücksprache mit der Datenschutzberaterin ordnungsgemäss vernichtet.",
+        "«Das ERbA ist das Gedächtnis des Amtes. Wer wissen will, ob ein Sonderfall schon einmal entschieden wurde, findet jetzt in Sekunden, wofür man früher einen Nachmittag und eine Leiter brauchte», sagte Abteilungsleiterin Nadia Kälin. Die Suchfunktion erlaubt unter anderem Abfragen nach Kanton, Gemeinde, Tierart, Echoart und erfülltem Kriterium des Kriterienkatalogs. Die häufigste Suchanfrage in der ersten Woche lautete «Kuh».",
+        "## Pünktlich auf die Sekunde",
+        "Registerführer Dr. Simon Gerber betont: «Die Migration war pünktlich. Wir haben das von der Sektion Fristen und Pünktlichkeit bestätigen lassen.» Tatsächlich ging das Register am 1. Juli um 00:00:00 Uhr online. Sektionschef Kurt Imboden, der den Start vor Ort in Biel/Bienne überwachte, bestätigte eine Abweichung von 0,4 Sekunden, die innerhalb der Toleranz liegt. Seine Bestätigung wurde als Eintrag Nr. 61'206 ins ERbA aufgenommen und ist damit der erste rein digitale Eintrag.",
+        "Das ERbA ist an das GEVER-System des Amtes angebunden. «Sobald ein Verfahren rechtskräftig abgeschlossen ist, wird der Registereintrag automatisch vorbereitet. Ein Mensch prüft ihn anschliessend, weil wir bei besonderen Angelegenheiten auch der Automatik nicht vollständig trauen», sagte Elena Moser, Sektionschefin Fachanwendungen und GEVER. Registerauszüge können berechtigte Behörden über eine gesicherte Schnittstelle beziehen.",
+        "Die Karteikästen bleiben erhalten. Sie werden nicht entsorgt, sondern im Kuriositätenarchiv als «Register in seinem Urzustand» ausgestellt. Ein Gesuch eines Brockenhauses um Überlassung der Kästen wurde abgewiesen, ein Gesuch um Überlassung des Staubs ebenfalls.",
+        "Hinweis für Behörden: Registerauszüge können mit dem Formular BBA-401 beantragt werden. Privatpersonen erhalten Auskunft über Einträge, die sie selbst betreffen; Kühe werden durch ihre Halterinnen und Halter vertreten."
       ],
       "bild": "assets/img/ch/news/2026-07-erba-start.jpg",
       "einheitId": "ref-41",
       "personIds": [
         "p-kaelin-nadia",
-        "p-gerber-simon"
+        "p-gerber-simon",
+        "p-imboden-kurt",
+        "p-moser-elena"
       ],
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-07-erba-start.html",
       "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-07-erba-start.jpg",
@@ -2030,17 +2279,25 @@
       "id": "2026-06-fuenf-sprachen",
       "datum": "2026-06-03",
       "kategorie": "Mitteilung",
-      "titel": "Sprachdienst übersetzt Verfügung erstmals in vier Landessprachen und Walliserdeutsch",
-      "teaser": "Eine Verfügung zu einem Grenzfall im Oberwallis wurde auf Wunsch aller Beteiligten auch in Walliserdeutsch ausgefertigt. Die Ausfertigung umfasst 47 Seiten.",
+      "titel": "Einziger Konsens im Suonen-Streit: Die Verfügung gibt es auch auf Walliserdeutsch",
+      "teaser": "Drei Oberwalliser Gemeinden waren sich über eine historische Wasserleitung in keinem Punkt einig – ausser darüber, in welcher Sprache sie den Entscheid lesen wollten. Die Ausfertigung umfasst 47 Seiten.",
       "text": [
-        "Die Sektion Sprachdienste hat eine Verfügung des BBA erstmals in fünf Sprachfassungen erstellt.",
-        "«Walliserdeutsch ist keine Amtssprache, aber für die Beteiligten war es die einzig verständliche», erklärte Sektionschefin Chiara Rossi.",
-        "Die Walliser Fassung ist rechtlich nicht verbindlich, wurde aber von allen Parteien als die schönste bezeichnet."
+        "Die Sektion Sprachdienste des Bundesamts für besondere Angelegenheiten (BBA) hat eine Verfügung erstmals in fünf Sprachfassungen ausgefertigt: in den vier Landessprachen und zusätzlich in Walliserdeutsch. Anlass war ein Grenzfall im Oberwallis (Aktenzeichen BBA-G2-2025-04471), bei dem sich die Beteiligten über fast nichts einigen konnten – ausser über die Sprache, in der sie den Entscheid lesen wollten. Die gesamte Ausfertigung umfasst 47 Seiten.",
+        "## Ein Fall mit einer Wasserleitung und drei Meinungen",
+        "Gegenstand des Verfahrens war eine historische Suone, eine Bewässerungsleitung, die über das Gebiet von drei Gemeinden führt und deren Unterhaltspflicht seit dem 18. Jahrhundert ungeklärt ist. Jede Gemeinde berief sich auf ein anderes Dokument, eines davon auf Latein, eines in ein Holzbrett geschnitzt. Die Sektion Kantonale Sonderfälle erhob im Laufe des Verfahrens insgesamt neun Positionen von drei Gemeinden, weil jede Gemeinde mindestens einmal ihre Meinung änderte und dabei die frühere nicht zurückzog.",
+        "Die Sektion Konkordanz und Kompromissfindung schlug nach elf Sitzungen eine Lösung vor: Jede Gemeinde unterhält ein Drittel der Leitung, und die Drittel werden jedes Jahr im Uhrzeigersinn neu verteilt. «Wir hatten Einigkeit darüber, dass niemand einverstanden ist. Das ist eine gute Grundlage», sagte Sektionschefin Stéphanie Roduit. Erst als es um die Sprache der Verfügung ging, waren sich plötzlich alle einig – zum ersten Mal seit 1741.",
+        "## Die einzig verständliche Fassung",
+        "«Walliserdeutsch ist keine Amtssprache, aber für die Beteiligten war es die einzig verständliche», erklärte Sektionschefin Chiara Rossi. Die Übersetzung übernahm eine Mitarbeiterin aus Visp, die nach eigenen Angaben zwei Wochen lang über das richtige Wort für «Rechtsmittelbelehrung» nachdachte. Eine Rückfrage ergab, dass in jeder der drei Gemeinden ein anderes Wort üblich ist. In der Fassung wurden deshalb alle drei verwendet, jeweils mit den beiden anderen in Klammern.",
+        "Die Fassung in Walliserdeutsch umfasst 13 Seiten und ist damit die längste. Die Sektion Sprachdienste erklärt dies mit der Präzision des Dialekts, der für eine Wasserleitung je nach Gefälle, Zustand und Besitzverhältnis verschiedene Ausdrücke kennt. Die kürzeste Fassung umfasst 7 Seiten; die Sektion legt Wert auf die Feststellung, dass dies an der Schriftgrösse liegt und keine Wertung darstellt.",
+        "Die Walliser Fassung ist rechtlich nicht verbindlich; massgebend ist die deutsche Fassung. Sie wurde aber von allen Parteien als die schönste bezeichnet und in zwei der drei Gemeinden an der Gemeindeversammlung vollständig verlesen. In der dritten wurde sie gesungen. Einsprache wurde keine erhoben, was im Amt auf die ungewöhnlich hohe Verständlichkeit zurückgeführt wird.",
+        "Das BBA weist darauf hin, dass aus diesem Einzelfall kein Anspruch auf Verfügungen in weiteren Dialekten abgeleitet werden kann. Gesuche um Fassungen in Baseldytsch, Bärndütsch und Appenzeller Dialekt sind bereits eingegangen und werden derzeit auf ihre Besonderheit geprüft. Ein Gesuch um eine Fassung in Gebärden eines Bergführers ist hängig.",
+        "Hinweis für Gesuchstellende: Verfügungen werden in der Amtssprache der gesuchstellenden Person ausgefertigt. Dialektfassungen sind eine Ausnahme und bedürfen einer Ausnahmebewilligung nach Art. 7 BABG, zu beantragen mit dem Formular BBA-207d."
       ],
       "bild": "assets/img/ch/news/2026-06-fuenf-sprachen.jpg",
       "einheitId": "ref-z4",
       "personIds": [
-        "p-rossi-chiara"
+        "p-rossi-chiara",
+        "p-roduit-stephanie"
       ],
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-06-fuenf-sprachen.html",
       "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-06-fuenf-sprachen.jpg",
@@ -2051,11 +2308,18 @@
       "datum": "2026-04-15",
       "kategorie": "Medienmitteilung",
       "titel": "Grundsatzentscheid: 08:00:59 Uhr gilt noch als pünktlich",
-      "teaser": "Das BBA hat nach einer Einsprache verbindlich festgelegt, ab wann ein Ereignis als verspätet gilt. Die Toleranz beträgt 59 Sekunden – keine Sekunde mehr.",
+      "teaser": "Das BBA hat nach einer Einsprache verbindlich festgelegt, ab wann ein Ereignis als verspätet gilt. Die Toleranz beträgt 59 Sekunden – keine Sekunde mehr und, wie ausdrücklich festgehalten wird, auch keine weniger.",
       "text": [
-        "Ausgangspunkt war die Einsprache eines Pendlers, der wegen einer Ankunft um 08:00:59 Uhr als verspätet galt.",
-        "«Eine Minute ist eine Minute. Was innerhalb dieser Minute geschieht, ist pünktlich», begründete Sektionschef Kurt Imboden den Entscheid. Ab 08:01:00 Uhr gilt ein Ereignis als verspätet.",
-        "Abteilungsleiterin Prof. Dr. Christine Rochat bezeichnete den Entscheid als «Meilenstein der Rechtssicherheit»."
+        "Das Bundesamt für besondere Angelegenheiten (BBA) hat mit einem Grundsatzentscheid verbindlich festgelegt, ab wann ein Ereignis als verspätet gilt. Massgebend ist künftig die volle Minute: Ein Ereignis, das bis und mit 08:00:59 Uhr eintritt, gilt als pünktlich; ab 08:01:00 Uhr gilt es als verspätet. Der Entscheid (Aktenzeichen BBA-V4-2026-00059) wurde am 15. April 2026 um 08:00:00 Uhr eröffnet.",
+        "## Wie es dazu kam",
+        "Ausgangspunkt war das Gesuch eines Pendlers aus Thun. Er war am 9. Januar um 08:00:59 Uhr an seinem Arbeitsplatz eingetroffen und hatte dafür von seinem Arbeitgeber eine schriftliche Verwarnung wegen Verspätung erhalten. Der Pendler ersuchte das BBA um eine amtliche Pünktlichkeitsauskunft nach Art. 16 BABG. Er legte Fahrplanauszüge, einen Ausdruck der Stempeluhr und die Aussage einer Arbeitskollegin bei, die ihn nach eigenen Angaben «genau gesehen» hatte.",
+        "Die Sektion Fristen und Pünktlichkeit kam zum Schluss, dass der Pendler pünktlich war. «Eine Minute ist eine Minute. Was innerhalb dieser Minute geschieht, ist pünktlich», begründete Sektionschef Kurt Imboden den Entscheid. Imboden, der in 34 Dienstjahren nie zu spät, aber einmal 40 Sekunden zu früh zur Arbeit erschienen ist, betonte, dass die Toleranz nicht als Einladung zu verstehen sei. «Wer regelmässig um 08:00:59 Uhr eintrifft, ist pünktlich, aber nicht vorbildlich.»",
+        "Gegen die Auskunft erhob der Arbeitgeber Einsprache. Er machte geltend, in seinem Betrieb gelte eine Toleranz von null Sekunden, und die Stempeluhr gehe zudem eine Sekunde vor. Sektionschefin Corinne Tanner wies die Einsprache ab. «Eine vorgehende Stempeluhr ist kein Argument gegen den Pendler, sondern eines für eine neue Batterie», hielt Tanner im Einspracheentscheid fest. Der Entscheid ist inzwischen rechtskräftig.",
+        "## Ein Meilenstein der Rechtssicherheit",
+        "Abteilungsleiterin Prof. Dr. Christine Rochat bezeichnete den Entscheid als «Meilenstein der Rechtssicherheit». Bisher hätten Arbeitgeber, Vereine und Schulen unterschiedliche Massstäbe angewendet, teils mit Toleranzen von bis zu drei Minuten, teils mit gar keiner. «Ein föderales Land braucht in vielen Fragen 26 Lösungen. In der Frage, wann acht Uhr ist, braucht es genau eine», sagte Rochat.",
+        "Der Entscheid hat bereits Folgen. Seit der Publikation sind bei der Sektion Fristen und Pünktlichkeit 1'306 Gesuche um Pünktlichkeitsauskunft eingegangen, darunter eines zur Frage, ob ein Geburtstagsfest, das um 23:59:30 Uhr begann, noch am Geburtstag stattfand. Auf ein Gesuch, das einen nach Ansicht des Gesuchstellers zu spät erfolgten Sonnenaufgang betraf, trat das BBA nicht ein, da der Sonnenaufgang keiner Behörde untersteht.",
+        "Der Grundsatzentscheid wurde im Eidgenössischen Register besonderer Angelegenheiten (ERbA) eingetragen und gilt ab sofort für alle Verfahren des BBA. Die Sektion Fristen und Pünktlichkeit hat ihre eigenen Uhren nach dem Entscheid vorsorglich erneut überprüft. Sie gingen richtig.",
+        "Hinweis für Gesuchstellende: Gesuche um Pünktlichkeitsauskunft sind mit dem Formular BBA-316 einzureichen. Bitte geben Sie Uhrzeiten sekundengenau an. Angaben wie «kurz nach acht» oder «so gegen halb» können nicht bearbeitet werden."
       ],
       "bild": "assets/img/ch/news/2026-04-puenktlichkeit.jpg",
       "einheitId": "ref-24",
@@ -2072,18 +2336,26 @@
       "id": "2026-03-grenzstein",
       "datum": "2026-03-02",
       "kategorie": "Medienmitteilung",
-      "titel": "Kompromiss gefunden: Umstrittener Grenzstein wird halbiert",
-      "teaser": "Nach 132 Jahren Streit zwischen zwei Gemeinden hat die Sektion Konkordanz eine Lösung gefunden. Jede Gemeinde erhält eine Hälfte des Grenzsteins.",
+      "titel": "Kompromiss nach 132 Jahren: Umstrittener Grenzstein wird halbiert",
+      "teaser": "Nach 132 Jahren Streit zwischen zwei Mittelländer Gemeinden hat die Sektion Konkordanz eine Lösung gefunden: Jede Gemeinde erhält eine Hälfte des Grenzsteins. Für den Zentimeter dazwischen bleibt der Bund zuständig.",
       "text": [
-        "Der Grenzstein zwischen zwei Gemeinden im Mittelland war seit 1894 Gegenstand von Auseinandersetzungen.",
-        "«Am Ende waren alle gleich wenig zufrieden. Das ist ein gutschweizerischer Kompromiss», sagte Sektionschefin Stéphanie Roduit.",
-        "Die beiden Steinhälften werden mit einer Fuge von genau einem Zentimeter wieder aufgestellt. Für den Zentimeter bleibt das BBA zuständig."
+        "Nach 132 Jahren Auseinandersetzung haben zwei Gemeinden im Mittelland einen Kompromiss über einen umstrittenen Grenzstein gefunden. Auf Vorschlag der Sektion Konkordanz und Kompromissfindung des Bundesamts für besondere Angelegenheiten (BBA) wird der Stein fachgerecht halbiert; jede Gemeinde erhält eine Hälfte. Die Kompromissvereinbarung (Aktenzeichen BBA-G3-2024-01894) wurde am 27. Februar 2026 von beiden Gemeinderäten unterzeichnet, in derselben Minute und mit demselben Kugelschreiber.",
+        "## 132 Jahre Streit",
+        "Der Grenzstein ist seit 1894 Gegenstand von Auseinandersetzungen. Damals verschob ein Fuhrwerk den Stein um rund 80 Zentimeter, ohne dass es jemand bemerkte – oder ohne dass es jemand zugeben wollte. Seither beanspruchten beide Gemeinden den Stein und das Land darunter. Eine Güterzusammenlegung im Jahr 1958 verschärfte die Lage, weil der Stein danach rechtlich auf keiner Seite mehr lag. Der Kanton erklärte sich für befangen, das Grundbuchamt für unzuständig, weil ein Stein kein Grundstück sei.",
+        "Sektionschef Lukas Wyss erhob zunächst die Positionen der Beteiligten. «Wir haben 23 Stellungnahmen, sechs historische Pläne und einen Leserbrief von 1931 ausgewertet. Die Positionen waren klar: Jede Gemeinde wollte den ganzen Stein», sagte Wyss. Ein Vorschlag, den Stein einer dritten, unbeteiligten Gemeinde zu übergeben, scheiterte, weil sich keine Gemeinde fand, die nach Bekanntwerden des Vorschlags noch unbeteiligt sein wollte.",
+        "## Ein gutschweizerischer Kompromiss",
+        "Nach 14 Sitzungen schlug die Sektion Konkordanz und Kompromissfindung die Halbierung vor. «Am Ende waren alle gleich wenig zufrieden. Das ist ein gutschweizerischer Kompromiss», sagte Sektionschefin Stéphanie Roduit. Um die Gleichwertigkeit sicherzustellen, wurde der Stein vorgängig von einem Geometer vermessen und gewogen. Beide Hälften werden je 41,3 Kilogramm wiegen; die Inschrift wird so geteilt, dass jede Gemeinde ihren eigenen Anfangsbuchstaben erhält.",
+        "Abteilungsleiter Dr. Andrea Bernasconi würdigte das Verfahren als Musterbeispiel der Konkordanz. «In der Schweiz löst man Konflikte nicht, indem einer gewinnt, sondern indem niemand verliert – und notfalls, indem beide etwas weniger haben», sagte Bernasconi. Das Verfahren wird in der internen Ausbildung des Amtes künftig als Lehrbeispiel verwendet, mit dem Hinweis, dass nicht jeder Streitgegenstand teilbar ist.",
+        "Die beiden Steinhälften werden mit einer Fuge von genau einem Zentimeter wieder aufgestellt. Die Fuge selbst gehört keiner Gemeinde. Für den Zentimeter bleibt das BBA zuständig; er wurde als kleinstes vom Bund verwaltetes Gebiet im Eidgenössischen Register besonderer Angelegenheiten (ERbA) eingetragen. Die Sektion Logistik und Liegenschaften prüft derzeit, ob für die Fuge eine Unterhaltspflicht besteht und wer sie im Winter vom Schnee befreit.",
+        "Die Halbierung erfolgt am 14. April 2026 um 10.00 Uhr in Anwesenheit beider Gemeindepräsidien. Die Bevölkerung ist eingeladen; der anschliessende Apéro wird von beiden Gemeinden je hälftig ausgerichtet, die Weissweinfrage ist noch Gegenstand von Gesprächen.",
+        "Hinweis für Gemeinden: Wer einen Grenzstein besitzt, dessen Zugehörigkeit umstritten ist, kann beim BBA ein Kompromissverfahren beantragen. Die Halbierung ist nicht die einzige Lösung, aber die bewährteste."
       ],
       "bild": "assets/img/ch/news/2026-03-grenzstein.jpg",
       "einheitId": "ref-13",
       "personIds": [
         "p-roduit-stephanie",
-        "p-bernasconi-andrea"
+        "p-bernasconi-andrea",
+        "p-wyss-lukas"
       ],
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-03-grenzstein.html",
       "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-03-grenzstein.jpg",
@@ -2094,16 +2366,24 @@
       "datum": "2026-01-20",
       "kategorie": "Mitteilung",
       "titel": "Kuriositätenarchiv katalogisiert das 1'000. ungeklärte Echo",
-      "teaser": "Das Echo, aufgenommen am Pilatus, antwortete auf «Hallo» mit «Grüessech». Es ist das tausendste Echo mit Abweichung vom Ausgangsruf.",
+      "teaser": "Das Echo, aufgenommen am Pilatus, antwortete auf «Hallo» mit «Grüessech» – und auf «Grüessech» mit «Hallo». Es ist das tausendste Echo im Tonarchiv, das sich nicht an den Ausgangsruf hält.",
       "text": [
-        "Das Tonarchiv der Sektion Kuriositätenarchiv umfasst nun 1'000 Echos, die nicht so antworten, wie man es erwarten würde.",
-        "«Besonders häufig sind Echos, die in einen anderen Dialekt wechseln», erklärt Sektionschef Dr. Hans-Peter Pestalozzi. Ein Echo im Jura antwortet seit 1962 ausschliesslich auf Französisch.",
-        "Eine Auswahl der Aufnahmen ist am Tag der offenen Tür im Hauptsitz Bern zu hören."
+        "Das Kuriositätenarchiv des Bundesamts für besondere Angelegenheiten (BBA) hat sein 1'000. ungeklärtes Echo katalogisiert. Die Aufnahme stammt vom Pilatus: Auf den Ruf «Hallo» antwortete das Echo deutlich hörbar mit «Grüessech». Es ist das tausendste Echo im Tonarchiv, dessen Antwort vom Ausgangsruf abweicht. Erfasst wurde es unter der Signatur KA-ECHO-1000.",
+        "## Wie ein Echo ins Archiv kommt",
+        "Abweichende Echos werden dem BBA in der Regel von Wandernden, Berggängerinnen oder Bergführern gemeldet. Das Formular BBA-E3-02 («Meldung eines abweichenden Echos») verlangt Angaben zu Ort, Höhe über Meer, Witterung, Ausgangsruf und Antwort. Die Sektion Alpine Sonderfälle prüft jede Meldung vor Ort; nur wenn die Abweichung bei mindestens drei Versuchen reproduzierbar ist, wird das Echo ins Archiv aufgenommen. Rund ein Drittel der Meldungen erweist sich als gewöhnliche Wandergruppe auf der anderen Talseite.",
+        "Sektionschef Josef Zgraggen hat das Pilatus-Echo persönlich überprüft. «Wir haben elfmal ‹Hallo› gerufen. Elfmal kam ‹Grüessech› zurück. Beim zwölften Mal haben wir ‹Grüessech› gerufen, und es kam ‹Hallo›», sagte Zgraggen. Damit erfülle das Echo die Kriterien der Reproduzierbarkeit und der Umkehrbarkeit. Eine Erklärung dafür gebe es bisher nicht, eine Meinung schon.",
+        "## Echos mit eigener Meinung",
+        "«Besonders häufig sind Echos, die in einen anderen Dialekt wechseln», erklärt Sektionschef Dr. Hans-Peter Pestalozzi, der das Tonarchiv seit 1988 betreut. Rund 41 Prozent der Echos antworten im Dialekt einer anderen Region, 23 Prozent antworten verzögert, 12 Prozent antworten gar nicht und 9 Prozent antworten, bevor gerufen wurde. Letztere werden in einer eigenen Kategorie «vorauseilende Echos» geführt und von der Sektion Prävention des Unwahrscheinlichen mit Interesse beobachtet.",
+        "Ein Echo im Jura antwortet seit 1962 ausschliesslich auf Französisch; es war damals der Anlass für die Einrichtung des Archivs. Ein Echo im Toggenburg wiederholt jeden Ruf zweimal und hängt ein «gell» an. Ein Echo im Tessin antwortet zwischen 12.00 und 13.30 Uhr nicht, was nach Einschätzung des Archivs der ortsüblichen Mittagsruhe entspricht. Das stillste Echo der Sammlung, Signatur KA-ECHO-0444, hat seit seiner Erfassung 1979 nie geantwortet und wird dennoch jährlich überprüft.",
+        "Rechtlich sind Echos im Kriterienkatalog des BBA ausdrücklich erwähnt: Eine Angelegenheit gilt unter anderem dann als besonders, wenn ein Echo als mitwirkende Partei beteiligt ist. Dies war bisher in 14 Verfahren der Fall, etwa bei einem Streit zwischen zwei Alphütten, in dem ein Echo die einzige Zeugin war. Seine Aussage wurde im Verfahren verwertet, aber als «wenig eigenständig» gewürdigt.",
+        "Eine Auswahl der Aufnahmen ist am Tag der offenen Tür im Hauptsitz Bern zu hören. Besucherinnen und Besucher werden gebeten, im Tonarchiv nicht zu rufen, da sonst neue Echos entstehen, die erfasst werden müssten.",
+        "Hinweis für Wandernde: Abweichende Echos können online oder an jedem Standort des BBA gemeldet werden. Bitte rufen Sie nur einfache Wörter. Fragen an das Echo werden nicht bearbeitet."
       ],
       "bild": "assets/img/ch/news/2026-01-echo-archiv.jpg",
       "einheitId": "ref-33",
       "personIds": [
-        "p-pestalozzi-hans-peter"
+        "p-pestalozzi-hans-peter",
+        "p-zgraggen-josef"
       ],
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-01-echo-archiv.html",
       "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-01-echo-archiv.jpg",
@@ -2114,16 +2394,24 @@
       "datum": "2025-11-26",
       "kategorie": "Karriere",
       "titel": "14 Lernende starten ihre Ausbildung beim BBA",
-      "teaser": "Kaufleute EFZ, Informatikerinnen und Informatiker EFZ sowie Fachleute Information und Dokumentation beginnen ihre Lehre in Bern, Biel und Bellinzona.",
+      "teaser": "Kaufleute EFZ, Informatikerinnen und Informatiker EFZ sowie Fachleute Information und Dokumentation lernen in Bern, Biel/Bienne und Bellinzona, wie man eine Kuh auf der Kantonsgrenze korrekt aktenkundig macht. Der Begrüssungsapéro begann pünktlich.",
       "text": [
-        "Das BBA begrüsste 14 neue Lernende an seinen drei Standorten.",
-        "«Bei uns lernt man, dass es für jede Ausnahme eine Regel gibt – und für jede Regel eine Ausnahme», sagte Sektionschefin Sandra Meier.",
-        "Bewerbungen für Lehrstellen ab August 2027 sind ab sofort möglich."
+        "Das Bundesamt für besondere Angelegenheiten (BBA) hat am 26. November 2025 an einem Begrüssungsanlass 14 Lernende willkommen geheissen, die im August ihre Ausbildung an den Standorten Bern, Biel/Bienne und Bellinzona begonnen haben. Sie absolvieren eine Lehre als Kauffrau oder Kaufmann EFZ, als Informatikerin oder Informatiker EFZ oder als Fachfrau oder Fachmann Information und Dokumentation EFZ. Mit insgesamt 38 Lernenden in allen Lehrjahren gehört das BBA zu den grösseren Ausbildungsbetrieben seines Departements.",
+        "## Was man beim BBA lernt",
+        "Die Ausbildung beim BBA unterscheidet sich in einigen Punkten von jener in anderen Verwaltungen. Kaufmännische Lernende durchlaufen im ersten Lehrjahr alle vier Abteilungen, darunter ein dreiwöchiges Praktikum in der Sektion Fristen und Pünktlichkeit, das mit einer Prüfung im sekundengenauen Datieren abschliesst. Im zweiten Lehrjahr führen sie unter Anleitung ein eigenes Dossier, in der Regel einen einfacheren Fall wie eine Hecke auf der Gemeindegrenze oder ein Echo mit leichtem Akzent.",
+        "«Bei uns lernt man, dass es für jede Ausnahme eine Regel gibt – und für jede Regel eine Ausnahme», sagte Sektionschefin Sandra Meier. Wichtig sei vor allem die Haltung. «Wer bei uns arbeitet, muss eine Kuh auf der Kantonsgrenze mit der gleichen Sorgfalt behandeln wie eine Grundsatzfrage des Föderalismus. Oft ist es ja dasselbe.»",
+        "Die Lernenden Informatik werden am Standort Biel/Bienne ausgebildet und arbeiten im zweiten Lehrjahr am Eidgenössischen Register besonderer Angelegenheiten (ERbA) mit. Ein Lernender des vergangenen Jahrgangs entwickelte eine Sortierfunktion, die Einträge nach dem «Ausmass der Besonderheit» ordnet; sie ist seither produktiv im Einsatz. Die Lernenden Information und Dokumentation verbringen einen Teil ihrer Ausbildung im Kuriositätenarchiv, wo sie unter anderem lernen, Echos fachgerecht zu verschlagworten.",
+        "## Ein Ausbildungsbetrieb im Milizgeist",
+        "Abteilungsleiter Martin Zürcher betonte die Bedeutung der Berufslehre für das Amt. «Viele unserer Sektionschefinnen und Sektionschefs haben selbst beim BBA eine Lehre gemacht. Unser dienstältester Mitarbeiter hat seine Lehrabschlussprüfung 1974 mit einem Dossier über einen Skistock bestanden», sagte Zürcher. Mehrere Berufsbildnerinnen und Berufsbildner seien zudem nebenamtlich in Gemeinderäten, Schulkommissionen und der Feuerwehr tätig. «Das Milizsystem ist bei uns nicht Theorie, sondern Dienstplan.»",
+        "Der Begrüssungsanlass fand im Atrium des Hauptsitzes in Bern statt. Die Lernenden erhielten ihren Badge, ein Exemplar des BABG und eine Armbanduhr, die von der Sektion Fristen und Pünktlichkeit vorgängig geprüft und für amtstauglich befunden wurde. Zum Abschluss lösten sie gemeinsam ihren ersten Fall: Sie stellten fest, dass der Apéro um 17.00 Uhr und null Sekunden und damit pünktlich begann.",
+        "Die Lehrabschlussquote beim BBA lag in den letzten fünf Jahren bei 100 Prozent. Eine Lernende schloss 2024 mit einer vielbeachteten Abschlussarbeit zur Frage ab, ob ein Feiertag, der auf einen Sonntag fällt, besonders ist. Die Frage ist seither Gegenstand eines hängigen Grundsatzverfahrens.",
+        "Hinweis für Bewerbende: Bewerbungen für Lehrstellen ab August 2027 sind ab sofort möglich. Bitte reichen Sie Ihre Unterlagen vollständig und fristgerecht ein. Schnupperlehren sind an allen drei Standorten möglich, ausdrücklich auch für Unentschlossene."
       ],
       "bild": "assets/img/ch/news/2025-11-lernende.jpg",
       "einheitId": "ref-z1",
       "personIds": [
-        "p-meier-sandra"
+        "p-meier-sandra",
+        "p-zuercher-martin"
       ],
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2025-11-lernende.html",
       "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2025-11-lernende.jpg",

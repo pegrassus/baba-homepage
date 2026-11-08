@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "person": {
     "id": "p-schnitzler-ferdinand",
     "anrede": "Herr",
@@ -60,7 +60,7 @@
   "news": [
     {
       "id": "2026-09-melange-tasse",
-      "titel": "Kuriositätenkabinett: Melange-Tasse aus 1912 mit ungeklärtem Aktenzeichen ausgestellt",
+      "titel": "Kuriositätenkabinett: Melange-Tasse aus 1912 mit rätselhaftem Aktenzeichen ausgestellt",
       "datum": "2026-09-21",
       "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-09-melange-tasse.html"
     }

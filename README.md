@@ -1,6 +1,6 @@
 # Bundesamt für besondere Angelegenheiten – fiktive Behörden-Homepages (DE · CH · AT)
 
-Statische Demo-Websites als Datenquelle für **Acta Nova Studio** (Abruf per MCP). Alle Personen, Adressen und Vorgänge sind erfunden; alle Bilder wurden mit Higgsfield erzeugt.
+Statische Demo-Websites einer **fiktiven** Bundesbehörde in drei Länderversionen. Alle Personen, Adressen und Vorgänge sind erfunden; alle Bilder wurden mit Higgsfield erzeugt.
 
 | Variante | Behörde | Live | Daten |
 |---|---|---|---|
@@ -20,8 +20,11 @@ Die Begriffe stehen je Variante in `behoerde.json` → `begriffe`. Für CH erset
 
 1. Nur die Dateien in `data/<variante>/` bearbeiten (oder Claude darum bitten):
    - `behoerde.json`: Stammdaten, Begriffe, Grußwort, Leitbild, Kennzahlen, Geschichte, Logos, Kriterienkatalog
+     und `auftragSeite` (Seite `auftrag.html`: Kurzfassung, Einleitung, Zuständigkeiten)
    - `organisation.json`: Organisationseinheiten mit `parentId` und `leitungPersonId`
    - `personen.json` (`titel` vor, `titelNach` nach dem Namen), `aufgaben.json`, `news.json`, `standorte.json`, `downloads.json`
+   - `news.json`: `text` ist ein Array von Absätzen; ein Eintrag mit `## ` am Anfang wird Zwischenüberschrift.
+   - `aufgaben.json`: `beschreibung` (kurz, für Karten), dazu optional `details`, `beispiele` und `leistung` (`antrag`, `dauer`, `kosten`).
 2. Danach neu bauen:
    ```
    node tools/build.mjs
@@ -32,7 +35,7 @@ Bilder: DE unter `assets/img/…`, CH unter `assets/img/ch/…`, AT unter `asset
 Herkunft der Higgsfield-Bilder: `tools/assets-manifest.json` (erneut laden: `python -I tools/fetch-assets.py`).
 Logos CH/AT neu erzeugen: `python -I tools/make-logos.py`.
 
-## Für Acta Nova / MCP
+## Maschinenlesbare Daten
 
 Jede Variante hat dieselbe API unter ihrem Pfad (`api/…`, `ch/api/…`, `at/api/…`). Übersicht aller Varianten: `api/varianten.json`.
 

@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-z4",
     "typ": "referat",
@@ -98,7 +98,21 @@
       "einheitIds": [
         "ref-z4"
       ],
-      "rechtsgrundlage": "§ 6 BBSAG"
+      "rechtsgrundlage": "§ 6 BBSAG",
+      "details": [
+        "Die Abteilung I/4 gibt alle derzeit 418 Formulare des BBSA heraus, hält sie aktuell und legt bei Bedarf neue auf. Mit dem Formular BBSA-F0 können sämtliche Formulare in einem einzigen Ansuchen angefordert werden; fehlt ein passendes Formular, kann dies im Feld 14 vermerkt werden.",
+        "Außerdem verwaltet die Abteilung die 3.112 Amtsstempel des Hauses, vom Eingangsstempel bis zum historischen Stempel „Besonders (mittel)“ aus 1898. Sie sorgt für Stempelkissen, Tinte und die jährliche Stempelinventur, verleiht Eingangsstempel beim Parteienverkehr und entscheidet über die Ausmusterung von Stempeln an das Kuriositätenkabinett."
+      ],
+      "beispiele": [
+        "Ein Bürger fordert mit dem F0 elf Formulare an und erhält zusätzlich das F407 für den Fall, dass er eines verliert.",
+        "Ein Verein beantragt ein eigenes Formular für die Anmeldung von Haustieren zu Führungen – es wird aufgelegt.",
+        "Eine Besucherin gibt einen versehentlich mitgenommenen Eingangsstempel nach drei Jahren mit einer Packung Haselnussschnitten zurück."
+      ],
+      "leistung": {
+        "antrag": "Formular BBSA-F0 oder formlos beim Parteienverkehr",
+        "dauer": "5 Werktage; neue Formulare rund 3 Monate",
+        "kosten": "gebührenfrei"
+      }
     }
   ],
   "standort": {

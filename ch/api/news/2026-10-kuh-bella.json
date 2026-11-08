@@ -4,23 +4,31 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "news": {
     "id": "2026-10-kuh-bella",
     "datum": "2026-10-22",
     "kategorie": "Medienmitteilung",
-    "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Alpen gleichzeitig",
-    "teaser": "Weil die Weide genau auf der Kantonsgrenze liegt, darf Bella künftig offiziell in Uri und in Glarus gesömmert werden. Die Verfügung ergeht in beiden Kantonen gleichzeitig.",
+    "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Kantone gleichzeitig",
+    "teaser": "Weil ihre Lieblingsweide exakt auf der Grenze zwischen Uri und Glarus liegt, darf die Braunviehkuh «Bella» künftig offiziell in beiden Kantonen gesömmert werden. Die Verfügung wurde beiden Kantonen in derselben Sekunde eröffnet.",
     "text": [
-      "Das Bundesamt für besondere Angelegenheiten hat der Braunviehkuh «Bella» eine Ausnahmebewilligung für die gleichzeitige Sömmerung in zwei Kantonen erteilt.",
-      "Die Weide, auf der Bella seit drei Sommern bevorzugt steht, wird von einem historischen Grenzstein exakt halbiert. «Bella hat sich nie für einen Kanton entschieden, und wir respektieren das», sagte Sektionschef Josef Zgraggen.",
-      "Die Glocke der Kuh muss künftig mit beiden Kantonswappen versehen werden – auf der linken und auf der rechten Seite. Sektionschef Urs Baumann bestätigte, dass es sich um die erste Ausnahmebewilligung für ein Rind seit 1987 handelt."
+      "Das Bundesamt für besondere Angelegenheiten (BBA) hat der Braunviehkuh «Bella» eine Ausnahmebewilligung für die gleichzeitige Sömmerung in zwei Kantonen erteilt. Mit der Verfügung vom 21. Oktober 2026 (Aktenzeichen BBA-E2-2026-00417) endet ein Verfahren, das im Juni mit einer Meldung der zuständigen Alpgenossenschaft begonnen hatte. Die Verfügung wurde den Kantonen Uri und Glarus gleichzeitig eröffnet – nach Angaben der Sektion Fristen und Pünktlichkeit mit einer Abweichung von weniger als einer Sekunde.",
+      "## Wie es dazu kam",
+      "Die Weide, auf der Bella seit drei Sommern bevorzugt steht, wird von einem historischen Grenzstein exakt halbiert. Nach den Beobachtungen der Älplerin frisst Bella morgens auf der Urner und nachmittags auf der Glarner Seite, liegt zum Wiederkäuen aber bevorzugt quer zur Grenze. Beide Kantone hatten die Kuh als bei sich gesömmert gemeldet und Sömmerungsbeiträge beansprucht. Da kein Kanton auf Bella verzichten wollte und keine Verordnung den Fall einer exakt halbierten Kuh vorsieht, ging die Akte mit dem Vermerk «besonders» nach Bern.",
+      "Sektionschef Josef Zgraggen nahm im August einen zweitägigen Augenschein vor. Dabei wurde Bellas Gewichtsverteilung mit zwei geeichten Viehwaagen gemessen, je eine pro Kanton. Das Ergebnis lautete 50,3 Prozent Uri und 49,7 Prozent Glarus, was innerhalb der amtlichen Messtoleranz liegt. «Bella hat sich nie für einen Kanton entschieden, und wir respektieren das», sagte Zgraggen. «Eine Kuh ist keine Stimmbürgerin. Sie muss sich nicht festlegen.»",
+      "Die beiden Kantone wurden im Verfahren angehört. Sektionschef Lukas Wyss, der die kantonalen Stellungnahmen einholte, sprach von einem «geordneten Verfahren mit vier Stellungnahmen, zwei Gegenstellungnahmen und einer gemeinsamen Erklärung, wonach beide Kantone Bella sehr schätzen». Ein Kanton hatte zwischenzeitlich angeregt, die Kantonsgrenze um 40 Zentimeter zu verschieben. Der Vorschlag wurde mit Hinweis auf die Folgen für alle übrigen Kühe der Alp verworfen.",
+      "## Was die Bewilligung regelt",
+      "Die Ausnahmebewilligung stützt sich auf Art. 7 BABG und ist bis zum Alpabzug 2031 befristet. Sie enthält drei Auflagen. Erstens muss die Glocke der Kuh künftig mit beiden Kantonswappen versehen werden, links mit jenem von Uri, rechts mit jenem von Glarus. Zweitens werden die Sömmerungsbeiträge hälftig geteilt; für den Rappen, der bei der Teilung übrig bleibt, führt das BBA ein Ausgleichskonto. Drittens hat die Alpgenossenschaft jeden einseitigen Aufenthalt von mehr als 24 Stunden mit dem Formular BBA-207a zu melden.",
+      "Sektionschef Urs Baumann bestätigte, dass es sich um die erste Ausnahmebewilligung für ein Rind seit 1987 handelt. «Damals ging es um eine Simmentalerin, die an einer Landsgemeinde zusehen durfte. Bellas Fall ist rechtlich anspruchsvoller, weil sie nicht nur zuschaut, sondern frisst», sagte Baumann. Die Prüfung dauerte insgesamt zwei Monate und schöpfte die gesetzliche Frist damit auf den Tag genau aus.",
+      "Nach Eintritt der Rechtskraft wird der Fall im Eidgenössischen Register besonderer Angelegenheiten (ERbA) eingetragen. Bella selbst hat sich zur Verfügung nicht geäussert. Nach Auskunft der Älplerin hat sie die Eröffnung «ruhig und wiederkäuend» zur Kenntnis genommen.",
+      "Hinweis für Gesuchstellende: Wer ein Tier hält, das sich regelmässig auf einer Kantons- oder Gemeindegrenze aufhält, kann eine Ausnahmebewilligung mit dem Formular BBA-207 beantragen. Fotos des Tiers auf der Grenze sind beizulegen, sofern das Tier dazu bereit ist."
     ],
     "bild": "assets/img/ch/news/2026-10-kuh-bella.jpg",
     "einheitId": "ref-32",
     "personIds": [
       "p-zgraggen-josef",
-      "p-baumann-urs"
+      "p-baumann-urs",
+      "p-wyss-lukas"
     ],
     "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-10-kuh-bella.html",
     "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-10-kuh-bella.jpg",
@@ -105,6 +113,33 @@
         "ref-14"
       ],
       "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-baumann-urs.json"
+    },
+    {
+      "id": "p-wyss-lukas",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Lukas",
+      "nachname": "Wyss",
+      "funktion": "Sektionschef Kantonale Sonderfälle",
+      "einheitId": "ref-12",
+      "email": "lukas.wyss@bba-bund.example",
+      "telefon": "+41 58 999 32 00",
+      "kurzvita": "Führt eine Liste aller 26 kantonalen Auffassungen zu jeder Frage.",
+      "name": "Lukas Wyss",
+      "portrait": "assets/img/ch/personen/p-wyss-lukas.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-wyss-lukas.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-wyss-lukas.html",
+      "einheit": {
+        "id": "ref-12",
+        "name": "Sektion G2: Kantonale Sonderfälle",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-12.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-12"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-wyss-lukas.json"
     }
   ]
 }

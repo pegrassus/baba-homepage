@@ -4,23 +4,32 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "news": {
     "id": "2026-07-erba-start",
     "datum": "2026-07-01",
     "kategorie": "Mitteilung",
-    "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) in Betrieb",
-    "teaser": "Nach vier Jahren Entwicklung in Biel/Bienne ist das ERbA online. Alle 61'205 Einträge seit 1953 sind digital verfügbar – zweisprachig.",
+    "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) pünktlich in Betrieb",
+    "teaser": "Nach vier Jahren Entwicklung in Biel/Bienne ist das ERbA online. Alle 61'205 Einträge seit 1953 sind digital verfügbar – vom einzelnen Skistock bis zur halbierten Kuh.",
     "text": [
-      "Mit dem ERbA ersetzt das BBA seine Karteikästen aus dem Büro für Unzuordenbares.",
-      "«Jeder Eintrag ist nun in Deutsch und Französisch abrufbar, auf Wunsch auch in Italienisch», sagte Abteilungsleiterin Nadia Kälin.",
-      "Registerführer Dr. Simon Gerber betont: «Die Migration war pünktlich. Wir haben das von der Sektion Fristen und Pünktlichkeit bestätigen lassen.»"
+      "Seit dem 1. Juli 2026, 00:00:00 Uhr, ist das Eidgenössische Register besonderer Angelegenheiten (ERbA) in Betrieb. Mit dem neuen Register ersetzt das Bundesamt für besondere Angelegenheiten (BBA) seine Karteikästen aus der Zeit des Büros für Unzuordenbares. Alle 61'205 Einträge seit 1953 sind nun digital erfasst, durchsuchbar und für berechtigte Behörden von Bund, Kantonen und Gemeinden abrufbar.",
+      "## Vom Karteikasten zur Datenbank",
+      "Bis Ende Juni lagerten die Registereinträge in 214 Karteikästen aus Eichenholz im Untergeschoss des Hauptsitzes in Bern. Jede Karte enthielt Aktenzeichen, Datum, Kurzbezeichnung und einen Vermerk über das Ergebnis. Der älteste Eintrag (ERbA-1953-00001) betrifft einen einzelnen Skistock, den kein Fundbüro annehmen wollte und der bis heute im Kuriositätenarchiv aufbewahrt wird. Der jüngste Eintrag vor der Migration betraf eine Hecke, die nachweislich von zwei Gemeinden gleichzeitig geschnitten werden musste.",
+      "Die Migration erfolgte in vier Etappen. Die Karten wurden gescannt, mit Texterkennung erfasst und anschliessend von Mitarbeitenden der Abteilung Digitales und Register einzeln geprüft. Dabei wurden 312 Karten entdeckt, deren Handschrift niemand mehr lesen konnte; sie wurden mit dem Vermerk «besonders unleserlich» erfasst. Elf Karten erwiesen sich als Einkaufszettel und wurden nach Rücksprache mit der Datenschutzberaterin ordnungsgemäss vernichtet.",
+      "«Das ERbA ist das Gedächtnis des Amtes. Wer wissen will, ob ein Sonderfall schon einmal entschieden wurde, findet jetzt in Sekunden, wofür man früher einen Nachmittag und eine Leiter brauchte», sagte Abteilungsleiterin Nadia Kälin. Die Suchfunktion erlaubt unter anderem Abfragen nach Kanton, Gemeinde, Tierart, Echoart und erfülltem Kriterium des Kriterienkatalogs. Die häufigste Suchanfrage in der ersten Woche lautete «Kuh».",
+      "## Pünktlich auf die Sekunde",
+      "Registerführer Dr. Simon Gerber betont: «Die Migration war pünktlich. Wir haben das von der Sektion Fristen und Pünktlichkeit bestätigen lassen.» Tatsächlich ging das Register am 1. Juli um 00:00:00 Uhr online. Sektionschef Kurt Imboden, der den Start vor Ort in Biel/Bienne überwachte, bestätigte eine Abweichung von 0,4 Sekunden, die innerhalb der Toleranz liegt. Seine Bestätigung wurde als Eintrag Nr. 61'206 ins ERbA aufgenommen und ist damit der erste rein digitale Eintrag.",
+      "Das ERbA ist an das GEVER-System des Amtes angebunden. «Sobald ein Verfahren rechtskräftig abgeschlossen ist, wird der Registereintrag automatisch vorbereitet. Ein Mensch prüft ihn anschliessend, weil wir bei besonderen Angelegenheiten auch der Automatik nicht vollständig trauen», sagte Elena Moser, Sektionschefin Fachanwendungen und GEVER. Registerauszüge können berechtigte Behörden über eine gesicherte Schnittstelle beziehen.",
+      "Die Karteikästen bleiben erhalten. Sie werden nicht entsorgt, sondern im Kuriositätenarchiv als «Register in seinem Urzustand» ausgestellt. Ein Gesuch eines Brockenhauses um Überlassung der Kästen wurde abgewiesen, ein Gesuch um Überlassung des Staubs ebenfalls.",
+      "Hinweis für Behörden: Registerauszüge können mit dem Formular BBA-401 beantragt werden. Privatpersonen erhalten Auskunft über Einträge, die sie selbst betreffen; Kühe werden durch ihre Halterinnen und Halter vertreten."
     ],
     "bild": "assets/img/ch/news/2026-07-erba-start.jpg",
     "einheitId": "ref-41",
     "personIds": [
       "p-kaelin-nadia",
-      "p-gerber-simon"
+      "p-gerber-simon",
+      "p-imboden-kurt",
+      "p-moser-elena"
     ],
     "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-07-erba-start.html",
     "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-07-erba-start.jpg",
@@ -105,6 +114,60 @@
         "ref-41"
       ],
       "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-gerber-simon.json"
+    },
+    {
+      "id": "p-imboden-kurt",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Kurt",
+      "nachname": "Imboden",
+      "funktion": "Sektionschef Fristen und Pünktlichkeit",
+      "einheitId": "ref-24",
+      "email": "kurt.imboden@bba-bund.example",
+      "telefon": "+41 58 999 44 00",
+      "kurzvita": "Amtlicher Pünktlichkeitsexperte; ist in 34 Dienstjahren nie zu spät gekommen, einmal aber 40 Sekunden zu früh.",
+      "name": "Kurt Imboden",
+      "portrait": "assets/img/ch/personen/p-imboden-kurt.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-imboden-kurt.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-imboden-kurt.html",
+      "einheit": {
+        "id": "ref-24",
+        "name": "Sektion V4: Fristen und Pünktlichkeit",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-24.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-bellinzona",
+      "leitetEinheitIds": [
+        "ref-24"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-imboden-kurt.json"
+    },
+    {
+      "id": "p-moser-elena",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Elena",
+      "nachname": "Moser",
+      "funktion": "Sektionschefin Fachanwendungen und GEVER",
+      "einheitId": "ref-42",
+      "email": "elena.moser@bba-bund.example",
+      "telefon": "+41 58 999 62 00",
+      "kurzvita": "Verantwortet die Fachanwendungen und die elektronische Geschäftsverwaltung.",
+      "name": "Elena Moser",
+      "portrait": "assets/img/ch/personen/p-moser-elena.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-moser-elena.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-moser-elena.html",
+      "einheit": {
+        "id": "ref-42",
+        "name": "Sektion D2: Fachanwendungen und GEVER",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-42.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-biel",
+      "leitetEinheitIds": [
+        "ref-42"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-moser-elena.json"
     }
   ]
 }

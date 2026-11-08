@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-14",
     "typ": "referat",
@@ -100,7 +100,22 @@
       "einheitIds": [
         "ref-14"
       ],
-      "rechtsgrundlage": "Art. 7 BABG"
+      "rechtsgrundlage": "Art. 7 BABG",
+      "details": [
+        "Manche Sachverhalte sind nicht verboten, aber auch nirgends vorgesehen. Für solche Fälle kann das BBA nach Art. 7 BABG eine Ausnahmebewilligung erteilen. Die Sektion Ausnahmebewilligungen prüft, ob ein schutzwürdiges Interesse besteht, ob Dritte beeinträchtigt werden und ob die betroffenen Kantone einverstanden sind oder zumindest nicht widersprechen.",
+        "Bewilligungen werden in der Regel befristet erteilt und können mit Auflagen verbunden werden. Typische Auflagen sind Meldepflichten, doppelte Kennzeichnungen oder die hälftige Teilung von Beiträgen. Die Bewilligung wird im ERbA eingetragen; Änderungen der Verhältnisse sind unaufgefordert zu melden. Ausnahmebewilligungen werden auch am Freitagnachmittag erteilt, was im Amt selbst als Ausnahme gilt."
+      ],
+      "beispiele": [
+        "Die Braunviehkuh «Bella» darf gleichzeitig in Uri und in Glarus gesömmert werden.",
+        "Ein Bergrestaurant, dessen Terrasse in zwei Gemeinden liegt, darf eine einheitliche Polizeistunde anwenden.",
+        "Eine Verfügung darf ausnahmsweise zusätzlich in Walliserdeutsch ausgefertigt werden.",
+        "Ein Murmeltier mit Doppelwohnsitz erhält einen bewilligten Wochenaufenthalt."
+      ],
+      "leistung": {
+        "antrag": "Formular BBA-207 mit Begründung, Plänen und Fotos; Varianten 207a–207d für Tiere, Grenzlagen, Fristen und Sprachfassungen",
+        "dauer": "2 Monate",
+        "kosten": "CHF 80 bis CHF 450 je nach Aufwand; für Tiere zahlt die Halterin oder der Halter"
+      }
     }
   ],
   "standort": {

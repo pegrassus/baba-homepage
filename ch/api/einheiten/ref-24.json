@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-24",
     "typ": "referat",
@@ -98,7 +98,21 @@
       "einheitIds": [
         "ref-24"
       ],
-      "rechtsgrundlage": "Art. 16 BABG"
+      "rechtsgrundlage": "Art. 16 BABG",
+      "details": [
+        "Die Sektion Fristen und Pünktlichkeit beurteilt auf Gesuch hin, ob ein Ereignis pünktlich war. Massgebend ist seit dem Grundsatzentscheid vom 15. April 2026 die volle Minute: Was bis und mit der neunundfünfzigsten Sekunde eintritt, ist pünktlich; ab der sechzigsten Sekunde gilt es als verspätet. Die Sektion unterscheidet zudem die Kategorien «pünktlich», «knapp pünktlich» und «verspätet».",
+        "Grundlage der Beurteilung sind Zeitstempel, Fahrpläne, Protokolle, Fotos mit Metadaten und Zeugenaussagen. Uhren, die als Beweismittel dienen, werden gegen die amtliche Referenzuhr der Sektion geprüft. Die Auskunft ist verbindlich und kann bei Bedarf als Feststellungsverfügung ausgefertigt werden. Die Sektion überwacht zudem die Einhaltung aller Fristen innerhalb des Amtes. Sie hat das Recht, an jeder Sitzung des BBA unangemeldet die Anfangszeit zu protokollieren."
+      ],
+      "beispiele": [
+        "Ein Pendler lässt bestätigen, dass er um 08:00:59 Uhr pünktlich war.",
+        "Ein Verein möchte wissen, ob eine Generalversammlung, die um 20.01 Uhr eröffnet wurde, gültig ist.",
+        "Eine Gemeinde fragt, ob das Mittagsläuten ihrer Kirche, das regelmässig 70 Sekunden zu spät erklingt, noch als Mittagsläuten gilt."
+      ],
+      "leistung": {
+        "antrag": "Formular BBA-316 mit sekundengenauer Zeitangabe und Belegen",
+        "dauer": "10 Arbeitstage, auf die Minute genau",
+        "kosten": "CHF 40; bei Verspätung des BBA entfällt die Gebühr (bisher nie vorgekommen)"
+      }
     }
   ],
   "standort": {

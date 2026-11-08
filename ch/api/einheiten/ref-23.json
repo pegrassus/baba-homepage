@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-23",
     "typ": "referat",
@@ -98,7 +98,21 @@
       "einheitIds": [
         "ref-23"
       ],
-      "rechtsgrundlage": "Art. 15 BABG"
+      "rechtsgrundlage": "Art. 15 BABG",
+      "details": [
+        "Gegen Verfügungen des BBA kann innert 30 Tagen seit Eröffnung schriftlich Einsprache erhoben werden. Die Sektion Einsprachen und Beschwerden überprüft den Entscheid in tatsächlicher und rechtlicher Hinsicht vollständig neu. Sie kann die Verfügung bestätigen, abändern oder aufheben und den Fall zur Neubeurteilung an die zuständige Sektion zurückweisen.",
+        "Der Einspracheentscheid enthält eine Begründung und eine Rechtsmittelbelehrung. Gegen ihn kann Beschwerde beim Bundesverwaltungsgericht erhoben werden. Die Sektion vertritt das BBA in diesen Verfahren und sorgt dafür, dass alle Akten vollständig und paginiert vorliegen."
+      ],
+      "beispiele": [
+        "Ein Arbeitgeber erhebt Einsprache gegen die Feststellung, dass 08:00:59 Uhr noch pünktlich ist.",
+        "Eine Alpgenossenschaft verlangt, dass die Glocke einer Kuh nur ein Wappen tragen muss.",
+        "Eine Gemeinde ficht die Halbierung eines Grenzsteins an, weil ihre Hälfte die schönere sein soll."
+      ],
+      "leistung": {
+        "antrag": "Schriftliche, begründete Einsprache mit Unterschrift und Kopie der angefochtenen Verfügung",
+        "dauer": "3 Monate",
+        "kosten": "Gebührenfrei bei Gutheissung; sonst CHF 200 bis CHF 1'000"
+      }
     }
   ],
   "standort": {

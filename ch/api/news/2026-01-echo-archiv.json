@@ -4,22 +4,30 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "news": {
     "id": "2026-01-echo-archiv",
     "datum": "2026-01-20",
     "kategorie": "Mitteilung",
     "titel": "Kuriositätenarchiv katalogisiert das 1'000. ungeklärte Echo",
-    "teaser": "Das Echo, aufgenommen am Pilatus, antwortete auf «Hallo» mit «Grüessech». Es ist das tausendste Echo mit Abweichung vom Ausgangsruf.",
+    "teaser": "Das Echo, aufgenommen am Pilatus, antwortete auf «Hallo» mit «Grüessech» – und auf «Grüessech» mit «Hallo». Es ist das tausendste Echo im Tonarchiv, das sich nicht an den Ausgangsruf hält.",
     "text": [
-      "Das Tonarchiv der Sektion Kuriositätenarchiv umfasst nun 1'000 Echos, die nicht so antworten, wie man es erwarten würde.",
-      "«Besonders häufig sind Echos, die in einen anderen Dialekt wechseln», erklärt Sektionschef Dr. Hans-Peter Pestalozzi. Ein Echo im Jura antwortet seit 1962 ausschliesslich auf Französisch.",
-      "Eine Auswahl der Aufnahmen ist am Tag der offenen Tür im Hauptsitz Bern zu hören."
+      "Das Kuriositätenarchiv des Bundesamts für besondere Angelegenheiten (BBA) hat sein 1'000. ungeklärtes Echo katalogisiert. Die Aufnahme stammt vom Pilatus: Auf den Ruf «Hallo» antwortete das Echo deutlich hörbar mit «Grüessech». Es ist das tausendste Echo im Tonarchiv, dessen Antwort vom Ausgangsruf abweicht. Erfasst wurde es unter der Signatur KA-ECHO-1000.",
+      "## Wie ein Echo ins Archiv kommt",
+      "Abweichende Echos werden dem BBA in der Regel von Wandernden, Berggängerinnen oder Bergführern gemeldet. Das Formular BBA-E3-02 («Meldung eines abweichenden Echos») verlangt Angaben zu Ort, Höhe über Meer, Witterung, Ausgangsruf und Antwort. Die Sektion Alpine Sonderfälle prüft jede Meldung vor Ort; nur wenn die Abweichung bei mindestens drei Versuchen reproduzierbar ist, wird das Echo ins Archiv aufgenommen. Rund ein Drittel der Meldungen erweist sich als gewöhnliche Wandergruppe auf der anderen Talseite.",
+      "Sektionschef Josef Zgraggen hat das Pilatus-Echo persönlich überprüft. «Wir haben elfmal ‹Hallo› gerufen. Elfmal kam ‹Grüessech› zurück. Beim zwölften Mal haben wir ‹Grüessech› gerufen, und es kam ‹Hallo›», sagte Zgraggen. Damit erfülle das Echo die Kriterien der Reproduzierbarkeit und der Umkehrbarkeit. Eine Erklärung dafür gebe es bisher nicht, eine Meinung schon.",
+      "## Echos mit eigener Meinung",
+      "«Besonders häufig sind Echos, die in einen anderen Dialekt wechseln», erklärt Sektionschef Dr. Hans-Peter Pestalozzi, der das Tonarchiv seit 1988 betreut. Rund 41 Prozent der Echos antworten im Dialekt einer anderen Region, 23 Prozent antworten verzögert, 12 Prozent antworten gar nicht und 9 Prozent antworten, bevor gerufen wurde. Letztere werden in einer eigenen Kategorie «vorauseilende Echos» geführt und von der Sektion Prävention des Unwahrscheinlichen mit Interesse beobachtet.",
+      "Ein Echo im Jura antwortet seit 1962 ausschliesslich auf Französisch; es war damals der Anlass für die Einrichtung des Archivs. Ein Echo im Toggenburg wiederholt jeden Ruf zweimal und hängt ein «gell» an. Ein Echo im Tessin antwortet zwischen 12.00 und 13.30 Uhr nicht, was nach Einschätzung des Archivs der ortsüblichen Mittagsruhe entspricht. Das stillste Echo der Sammlung, Signatur KA-ECHO-0444, hat seit seiner Erfassung 1979 nie geantwortet und wird dennoch jährlich überprüft.",
+      "Rechtlich sind Echos im Kriterienkatalog des BBA ausdrücklich erwähnt: Eine Angelegenheit gilt unter anderem dann als besonders, wenn ein Echo als mitwirkende Partei beteiligt ist. Dies war bisher in 14 Verfahren der Fall, etwa bei einem Streit zwischen zwei Alphütten, in dem ein Echo die einzige Zeugin war. Seine Aussage wurde im Verfahren verwertet, aber als «wenig eigenständig» gewürdigt.",
+      "Eine Auswahl der Aufnahmen ist am Tag der offenen Tür im Hauptsitz Bern zu hören. Besucherinnen und Besucher werden gebeten, im Tonarchiv nicht zu rufen, da sonst neue Echos entstehen, die erfasst werden müssten.",
+      "Hinweis für Wandernde: Abweichende Echos können online oder an jedem Standort des BBA gemeldet werden. Bitte rufen Sie nur einfache Wörter. Fragen an das Echo werden nicht bearbeitet."
     ],
     "bild": "assets/img/ch/news/2026-01-echo-archiv.jpg",
     "einheitId": "ref-33",
     "personIds": [
-      "p-pestalozzi-hans-peter"
+      "p-pestalozzi-hans-peter",
+      "p-zgraggen-josef"
     ],
     "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-01-echo-archiv.html",
     "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/news/2026-01-echo-archiv.jpg",
@@ -77,6 +85,33 @@
         "ref-33"
       ],
       "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-pestalozzi-hans-peter.json"
+    },
+    {
+      "id": "p-zgraggen-josef",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Josef",
+      "nachname": "Zgraggen",
+      "funktion": "Sektionschef Alpine Sonderfälle",
+      "einheitId": "ref-32",
+      "email": "josef.zgraggen@bba-bund.example",
+      "telefon": "+41 58 999 52 00",
+      "kurzvita": "Älpler aus dem Kanton Uri; zuständig für Kühe auf falschen Alpen, Murmeltiere mit Doppelwohnsitz und widerspenstige Echos.",
+      "name": "Josef Zgraggen",
+      "portrait": "assets/img/ch/personen/p-zgraggen-josef.jpg",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/ch/personen/p-zgraggen-josef.jpg",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/personen/p-zgraggen-josef.html",
+      "einheit": {
+        "id": "ref-32",
+        "name": "Sektion E2: Alpine Sonderfälle",
+        "url": "https://pegrassus.github.io/baba-homepage/ch/organisation/ref-32.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bern",
+      "leitetEinheitIds": [
+        "ref-32"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/ch/api/personen/p-zgraggen-josef.json"
     }
   ]
 }

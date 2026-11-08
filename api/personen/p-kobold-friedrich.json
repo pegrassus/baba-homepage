@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "person": {
     "id": "p-kobold-friedrich",
     "anrede": "Herr",
@@ -60,13 +60,13 @@
   "news": [
     {
       "id": "2026-09-tag-der-offenen-tuer",
-      "titel": "Tag der offenen Tür: 4.200 Gäste am Hauptsitz Bonn",
+      "titel": "Tag der offenen Tür: 4.200 Gäste, 611 Prüfaufträge und ein Hund, der nur dienstags bellt",
       "datum": "2026-09-15",
       "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-09-tag-der-offenen-tuer.html"
     },
     {
       "id": "2026-05-kuriosa-10000",
-      "titel": "Kuriosa-Register erreicht 10.000. Eintrag",
+      "titel": "Kuriosa-Register erreicht 10.000. Eintrag: ein Antrag auf Genehmigung eines Antrags",
       "datum": "2026-05-05",
       "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-05-kuriosa-10000.html"
     }

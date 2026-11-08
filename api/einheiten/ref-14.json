@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-14",
     "typ": "referat",
@@ -100,7 +100,22 @@
       "einheitIds": [
         "ref-14"
       ],
-      "rechtsgrundlage": "§ 7 BAbAG"
+      "rechtsgrundlage": "§ 7 BAbAG",
+      "details": [
+        "Eine Ausnahmegenehmigung nach § 7 BAbAG kommt in Betracht, wenn ein Vorhaben von bestehenden Regelungen nicht erfasst wird oder deren Anwendung im Einzelfall zu einem offensichtlich nicht beabsichtigten Ergebnis führen würde. Sie ist nachrangig: Bevor das BAbA entscheidet, muss geklärt sein, dass keine Fachbehörde eine eigene Ausnahme erteilen kann. Antragsberechtigt sind Bürgerinnen und Bürger, Unternehmen, Vereine und Behörden.",
+        "Das Referat 14 prüft, von welcher Regelung abgewichen werden soll, ob die Ausnahme sachlich begründet ist und ob Rechte Dritter berührt werden. Häufig wird die Genehmigung mit Nebenbestimmungen versehen, etwa einer Befristung, einer Auflage oder einem Widerrufsvorbehalt. Bei Vorhaben mit Landesbezug wird das betroffene Land angehört.",
+        "Ergebnis ist ein Genehmigungsbescheid oder ein begründeter Ablehnungsbescheid. Erteilte Ausnahmegenehmigungen werden im BRbA eingetragen, damit gleichgelagerte Fälle künftig einheitlich entschieden werden können."
+      ],
+      "beispiele": [
+        "Ein Leuchtturm in einem Rübenfeld in Sachsen-Anhalt darf mit Auflagen weiterleuchten, obwohl weit und breit kein Gewässer ist.",
+        "Ein Gemeindearchiv darf einen Aktenbestand behalten, dessen Aussonderungsfrist wegen eines Druckfehlers erst im Jahr 3019 abläuft.",
+        "Eine Behörde erhält die Genehmigung, ein Formular weiterzuverwenden, das sich auf ein inzwischen aufgehobenes Formular bezieht."
+      ],
+      "leistung": {
+        "antrag": "Formular BA-7 mit Begründung und gewünschtem Geltungszeitraum",
+        "dauer": "2 Monate",
+        "kosten": "100 bis 1.500 Euro; Verlängerung 50 Euro"
+      }
     }
   ],
   "standort": {

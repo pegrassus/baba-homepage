@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-33",
     "typ": "referat",
@@ -100,7 +100,22 @@
       "einheitIds": [
         "ref-33"
       ],
-      "rechtsgrundlage": "§ 19 BAbAG"
+      "rechtsgrundlage": "§ 19 BAbAG",
+      "details": [
+        "Das Kuriosa-Register dokumentiert seit 1994 Verwaltungsvorgänge, die sich durch ihre Eigenart auszeichnen und von bleibendem öffentlichem Interesse sind. Aufgenommen werden nur abgeschlossene Vorgänge, die eine Besonderheit nach dem Leitfaden aufweisen und von mindestens zwei Referaten unabhängig voneinander vorgeschlagen werden. Personenbezogene Daten werden vor der Eintragung entfernt.",
+        "Das Referat 33 erschließt die Einträge, verschlagwortet sie und wertet sie aus, um wiederkehrende Muster zu erkennen. Aus mehreren Einträgen sind neue Verfahren hervorgegangen, weil ein kurioser Fall ein zweites Mal auftrat. Mit über 10.000 Einträgen ist das Register zugleich eine Quelle für Forschung, Ausbildung und Öffentlichkeitsarbeit."
+      ],
+      "beispiele": [
+        "Ein formgerechter Antrag auf Genehmigung der Stellung eines Antrags (Eintrag Nr. 10.000).",
+        "Die Prüfung, ob ein Jubiläumseintrag eintragungswürdig ist (Eintrag Nr. 10.001).",
+        "Ein Anwohnerparkausweis, der sich nach vollständiger Prüfung als gewöhnlich erwies.",
+        "Ein Bierdeckel mit der Skizze der ersten Registerkategorie von 1994."
+      ],
+      "leistung": {
+        "antrag": "Kein Antragsverfahren; Hinweise auf kuriose Vorgänge nimmt Referat 33 formlos entgegen",
+        "dauer": "Prüfung nach Abschluss des Ausgangsvorgangs",
+        "kosten": "gebührenfrei"
+      }
     }
   ],
   "standort": {
@@ -126,7 +141,7 @@
   "news": [
     {
       "id": "2026-05-kuriosa-10000",
-      "titel": "Kuriosa-Register erreicht 10.000. Eintrag",
+      "titel": "Kuriosa-Register erreicht 10.000. Eintrag: ein Antrag auf Genehmigung eines Antrags",
       "datum": "2026-05-05",
       "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-05-kuriosa-10000.html"
     }

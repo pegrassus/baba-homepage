@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-12",
     "typ": "referat",
@@ -100,7 +100,22 @@
       "einheitIds": [
         "ref-12"
       ],
-      "rechtsgrundlage": "§ 3 BAbAG"
+      "rechtsgrundlage": "§ 3 BAbAG",
+      "details": [
+        "Mit der Feststellung der Besonderheit entscheidet das BAbA verbindlich, ob eine Angelegenheit als besondere Angelegenheit im Sinne des BAbAG gilt. Den Antrag können natürliche und juristische Personen sowie Behörden stellen, die ein berechtigtes Interesse an der Einordnung haben. Grundlage der Prüfung ist der Leitfaden „Wann ist eine Angelegenheit besonders?“ mit seinen 14 Kriterien.",
+        "Das Referat 12 prüft den Sachverhalt anhand der Antragsunterlagen, holt bei Bedarf Stellungnahmen anderer Behörden ein und hört die antragstellende Person an. In der Regel gilt eine Angelegenheit als besonders, wenn mindestens drei Kriterien erfüllt sind oder eines in außergewöhnlich hohem Maße. Für das Kopfschüttel-Kriterium ist die übereinstimmende Einschätzung zweier unabhängiger Bediensteter erforderlich.",
+        "Das Verfahren endet mit einem Feststellungsbescheid. Eine positive Feststellung wird im BRbA eingetragen und eröffnet den Zugang zu den besonderen Verfahren des Amtes; eine negative Feststellung verweist auf die zuständige Regelbehörde."
+      ],
+      "beispiele": [
+        "Ein Bürger beantragt die Feststellung, dass sein Anliegen gewöhnlich ist, damit endlich seine Gemeinde zuständig wird.",
+        "Ein Verein lässt klären, ob sein am 29. Februar gegründetes Jubiläum alle vier Jahre oder jährlich zu feiern ist.",
+        "Eine Landesbehörde bittet um Feststellung, ob ein Dorfbrunnen, der nur bei Vollmond Wasser führt, besonders ist."
+      ],
+      "leistung": {
+        "antrag": "Formular BA-1, online oder schriftlich",
+        "dauer": "3 Monate",
+        "kosten": "50 bis 400 Euro nach Aufwand; für Behörden gebührenfrei"
+      }
     }
   ],
   "standort": {
@@ -126,7 +141,7 @@
   "news": [
     {
       "id": "2026-08-leitfaden",
-      "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“",
+      "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“ – 14 Kriterien und ein messbares Kopfschütteln",
       "datum": "2026-08-21",
       "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-08-leitfaden.html"
     }

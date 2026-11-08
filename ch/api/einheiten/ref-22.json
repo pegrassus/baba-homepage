@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-22",
     "typ": "referat",
@@ -98,7 +98,21 @@
       "einheitIds": [
         "ref-22"
       ],
-      "rechtsgrundlage": "Art. 10 BABG"
+      "rechtsgrundlage": "Art. 10 BABG",
+      "details": [
+        "Bei Grundsatzfragen ohne Präzedenzfall eröffnet das BBA eine Vernehmlassung. Eingeladen werden die Kantone, die Parteien, die gesamtschweizerischen Dachverbände der Gemeinden, Städte und Berggebiete sowie weitere interessierte Kreise. Die Vernehmlassungsfrist beträgt in der Regel drei Monate und wird über Feiertage angemessen verlängert, damit auch Milizbehörden fristgerecht Stellung nehmen können.",
+        "Die Sektion Vernehmlassungen zu Unvernehmlassbarem erfasst jede Stellungnahme, ordnet sie den gestellten Fragen zu und fasst die Ergebnisse in einem Bericht zusammen. Auch Stellungnahmen, die sich zu einer anderen als der gestellten Frage äussern, werden ausgewertet und separat ausgewiesen. Der Ergebnisbericht ist öffentlich und dient der Direktion als Grundlage für einen Grundsatzentscheid."
+      ],
+      "beispiele": [
+        "Vernehmlassung zur Frage, ob Vernehmlassungen vernehmlassungspflichtig sind.",
+        "Vernehmlassung dazu, ob ein Feiertag, der auf einen Sonntag fällt, besonders ist.",
+        "Vernehmlassung zur Frage, ab welcher Steigung ein Weg als Bergweg gilt, wenn er abwärts begangen wird."
+      ],
+      "leistung": {
+        "antrag": "Keine Gesuche; Eröffnung durch Beschluss der Direktion. Anregungen für neue Fragen nimmt die Sektion gerne entgegen.",
+        "dauer": "Vernehmlassungsfrist 3 Monate, Auswertung 4 Monate",
+        "kosten": "Teilnahme gebührenfrei"
+      }
     }
   ],
   "standort": {

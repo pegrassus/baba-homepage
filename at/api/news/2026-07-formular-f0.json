@@ -4,17 +4,23 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "news": {
     "id": "2026-07-formular-f0",
     "datum": "2026-07-15",
     "kategorie": "Meldung",
     "titel": "Neu: Das Formular zur Beantragung von Formularen (BBSA-F0)",
-    "teaser": "Ab sofort können alle Formulare des Amtes mit einem einzigen Formular beantragt werden. Das Formular F0 selbst ist formlos erhältlich.",
+    "teaser": "Ab sofort können alle 418 Formulare des Amtes mit einem einzigen Formular beantragt werden. Das Formular F0 selbst ist formlos erhältlich – vorerst.",
     "text": [
-      "Die Abteilung I/4 hat mit dem Formular BBSA-F0 eine Vereinfachung eingeführt: Statt jedes Formular einzeln anzufordern, genügt nun ein Antrag auf Formulare.",
-      "„Wir haben lange überlegt, ob man für das Formular F0 ein eigenes Formular braucht. Wir haben uns dagegen entschieden – vorerst“, sagt Oberamtsrat Alois Stempfl.",
-      "Das Formular ist dreifach auszufüllen und mit dem Eingangsstempel zu versehen, den man beim Parteienverkehr ausleihen kann."
+      "Die Abteilung I/4 „Formular- und Stempelwesen“ hat mit dem Formular BBSA-F0 eine bedeutende Verwaltungsvereinfachung eingeführt. Statt jedes der derzeit 418 Formulare des Amtes einzeln anzufordern, genügt nun ein einziges Ansuchen auf Ausfolgung von Formularen. Das neue Formular umfasst vier Seiten und eine Ankreuzliste, in der sämtliche Formulare nach Nummer, Titel und Farbe des Durchschlagpapiers aufgeführt sind.",
+      "## Wie es dazu kam",
+      "Auslöser war eine Auswertung des Parteienverkehrs aus dem Vorjahr. Demnach verbrachten Antragstellende im Durchschnitt 17 Minuten damit, das richtige Formular zu finden, und weitere 9 Minuten damit, das Formular für den Fall zu suchen, dass sie das richtige Formular nicht finden. In 312 Fällen wurde ausdrücklich nach „dem Formular, mit dem man ein Formular bekommt“ gefragt. Ein solches gab es bis dahin nicht.",
+      "„Wir haben lange überlegt, ob man für das Formular F0 ein eigenes Formular braucht. Wir haben uns dagegen entschieden – vorerst“, sagt Oberamtsrat Alois Stempfl, Leiter der Abteilung I/4 und Hüter von 3.112 Amtsstempeln. Ein entsprechender Entwurf mit der vorläufigen Bezeichnung BBSA-F(-1) liege allerdings „in der zweiten Lade von oben“ bereit, falls die Nachfrage es erfordere.",
+      "## Wie das Formular funktioniert",
+      "Das Formular BBSA-F0 ist dreifach auszufüllen: ein Exemplar für die Partei, eines für den Akt und eines für die Formularstatistik. Es ist mit dem Eingangsstempel zu versehen, den man beim Parteienverkehr ausleihen kann; ein Pfand ist nicht erforderlich, die Rückgabe wird aber freundlich erwartet. Die angeforderten Formulare werden binnen fünf Werktagen per Post übermittelt oder können persönlich abgeholt werden.",
+      "Wer ein Formular benötigt, das es noch nicht gibt, kann dies im Feld 14 („Sonstiges Formular“) vermerken. Die Abteilung I/4 prüft dann, ob ein neues Formular aufzulegen ist. Seit Einführung des F0 sind auf diesem Weg bereits drei neue Formulare entstanden, darunter das Formular BBSA-F407 zur Meldung eines verlorenen Formulars. Die beiden anderen betreffen die Anmeldung eines Haustiers zur Führung durch das Kuriositätenkabinett und die Rückgabe eines versehentlich mitgenommenen Eingangsstempels, die bisher nur „mit schlechtem Gewissen und ohne Vordruck“ möglich war. Alle drei Formulare sind über das F0 erhältlich, das F407 außerdem über sich selbst.",
+      "Sektionschef Mag. Gerhard Wallner, Leiter der Präsidialsektion, zeigte sich zufrieden: „Das F0 ist der Beweis, dass Entbürokratisierung auch mit Formularen gelingt. Man muss sie nur richtig stapeln.“ Er kündigte an, das Formular im kommenden Jahr auch im Bürgerportal als ausfüllbares PDF anzubieten, das allerdings weiterhin auszudrucken und zu stempeln sein wird.",
+      "Hinweis für Antragstellende: Das Formular BBSA-F0 ist formlos erhältlich – telefonisch, per E-Mail oder durch freundliches Fragen beim Parteienverkehr. Ein Ansuchen auf Ausfolgung des F0 mit dem F0 selbst ist zulässig, wird aber als sonstige Angelegenheit protokolliert."
     ],
     "bild": "assets/img/at/news/2026-07-formular-f0.jpg",
     "einheitId": "ref-z4",

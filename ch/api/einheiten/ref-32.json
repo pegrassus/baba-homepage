@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-32",
     "typ": "referat",
@@ -100,7 +100,22 @@
       "einheitIds": [
         "ref-32"
       ],
-      "rechtsgrundlage": "Art. 19 BABG"
+      "rechtsgrundlage": "Art. 19 BABG",
+      "details": [
+        "Die Sektion Alpine Sonderfälle befasst sich mit Ereignissen im Alpenraum, die keiner ordentlichen Zuständigkeit zugeordnet werden können. Häufig geht es um Tiere, deren Aufenthaltsort nicht mit Kantons- oder Gemeindegrenzen übereinstimmt, um Weiden auf Grenzlinien oder um Naturerscheinungen mit ungewöhnlichem Verhalten. Die Sektion arbeitet eng mit Alpgenossenschaften, Wildhut und Gemeinden zusammen.",
+        "Zentral ist der Augenschein vor Ort, oft gemeinsam mit Älplerinnen und Älplern, die den Fall seit Jahren beobachten. Die Sektion entscheidet mit Verfügung, beantragt bei der Sektion Ausnahmebewilligungen eine Bewilligung oder übergibt besonders kuriose Fälle dem Kuriositätenarchiv. Fälle sollen nach Möglichkeit vor dem Alpabzug abgeschlossen sein, damit die Beteiligten den Winter in Rechtssicherheit verbringen."
+      ],
+      "beispiele": [
+        "Eine Kuh steht seit drei Sommern ausschliesslich auf der Grenze zwischen zwei Kantonen.",
+        "Ein Murmeltier benutzt morgens den Ausgang in der einen und abends den in der anderen Gemeinde.",
+        "Eine Gämse hält sich seit Jahren ohne erkennbaren Hauptwohnsitz in drei Kantonen auf.",
+        "Ein Echo am Pilatus antwortet auf «Hallo» mit «Grüessech»."
+      ],
+      "leistung": {
+        "antrag": "Meldung durch Alpgenossenschaft, Gemeinde, Wildhut oder Privatperson; Formular BBA-E2-01",
+        "dauer": "Innerhalb der laufenden Alpsaison",
+        "kosten": "Gebührenfrei für Meldende; Augenschein mit Verpflegung aus eigenem Rucksack"
+      }
     }
   ],
   "standort": {
@@ -126,7 +141,7 @@
   "news": [
     {
       "id": "2026-10-kuh-bella",
-      "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Alpen gleichzeitig",
+      "titel": "Kuh «Bella» erhält Ausnahmebewilligung für zwei Kantone gleichzeitig",
       "datum": "2026-10-22",
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-10-kuh-bella.html"
     }

@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-33",
     "typ": "referat",
@@ -100,7 +100,22 @@
       "einheitIds": [
         "ref-33"
       ],
-      "rechtsgrundlage": "§ 19 BBSAG"
+      "rechtsgrundlage": "§ 19 BBSAG",
+      "details": [
+        "Das Kuriositätenkabinett im Amtsgebäude Wien bewahrt Akten und Gegenstände, die die Eigenart der österreichischen Verwaltung dokumentieren. Seit der Eröffnung 1991 ist der Bestand von 212 auf über 1.200 Exponate gewachsen, darunter ein Bescheid auf Semmelpapier aus 1931 und eine Melange-Tasse mit ungeklärtem Aktenzeichen aus 1912.",
+        "Behörden und Privatpersonen können kuriose Stücke zur Aufnahme anbieten. Der Kustos prüft Herkunft, Kuriosität und Erhaltungszustand und verfügt die Aufnahme mit Inventarnummer oder die Rückstellung mit Dank. Gemeinsam mit dem Amtsarchiv werden außerdem historische Akten erschlossen und gegebenenfalls weiterermittelt.",
+        "Das Kabinett ist im Rahmen von Führungen jeden ersten Donnerstag im Monat öffentlich zugänglich. Schulklassen und Behördendelegationen können Sondertermine vereinbaren. Das Berühren der Exponate ist nicht gestattet, das Staunen ausdrücklich erwünscht."
+      ],
+      "beispiele": [
+        "Eine Melange-Tasse aus 1912 mit dem Aktenzeichen 1912/sonst./47 wird in einer Zwischendecke gefunden.",
+        "Eine Bezirkshauptmannschaft bietet einen Stempel mit der Aufschrift „Erledigt – vielleicht“ an.",
+        "Ein pensionierter Beamter überlässt dem Kabinett seine Sammlung von 840 Büroklammern aus allen Bundesländern."
+      ],
+      "leistung": {
+        "antrag": "Angebot oder Fundmeldung formlos an den Kustos; Führungen mit Anmeldung erwünscht",
+        "dauer": "Aufnahmeentscheidung binnen 2 Monaten",
+        "kosten": "Führung gratis; Kaffee aus der Ausstellung ausgeschlossen"
+      }
     }
   ],
   "standort": {
@@ -126,7 +141,7 @@
   "news": [
     {
       "id": "2026-09-melange-tasse",
-      "titel": "Kuriositätenkabinett: Melange-Tasse aus 1912 mit ungeklärtem Aktenzeichen ausgestellt",
+      "titel": "Kuriositätenkabinett: Melange-Tasse aus 1912 mit rätselhaftem Aktenzeichen ausgestellt",
       "datum": "2026-09-21",
       "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-09-melange-tasse.html"
     }

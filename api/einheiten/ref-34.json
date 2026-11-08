@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-34",
     "typ": "referat",
@@ -101,7 +101,22 @@
         "ref-34",
         "ref-31"
       ],
-      "rechtsgrundlage": "§ 20 BAbAG"
+      "rechtsgrundlage": "§ 20 BAbAG",
+      "details": [
+        "Das Referat 34 „Prävention des Unwahrscheinlichen“ entwickelt Vorsorgekonzepte für Ereignisse, deren Eintrittswahrscheinlichkeit gering, deren Folgen für die Verwaltung aber erheblich wären. Dazu werden Szenarien beschrieben, Zuständigkeiten vorab geklärt und Musterverfahren entworfen. Adressaten sind Bundes- und Landesbehörden sowie Kommunen.",
+        "Gemeinsam mit dem Lagezentrum führt das Referat regelmäßig Stabsrahmenübungen durch, an denen Bund und Länder teilnehmen. Jede Übung wird ausgewertet; die Ergebnisse fließen in Handlungsempfehlungen und gegebenenfalls in Vorschläge für Bund-Länder-Vereinbarungen ein. Die Szenarien werden bewusst so gewählt, dass sie unwahrscheinlich, aber nicht unmöglich sind.",
+        "Ergebnis sind Vorsorgekonzepte, Übungsberichte und Checklisten, die Behörden im Ernstfall die erste Stunde ersparen sollen. In dieser Stunde wird erfahrungsgemäß vor allem geklärt, wer wen anruft."
+      ],
+      "beispiele": [
+        "Stabsrahmenübung „Schaltjahr 2028“ zu einem unerwartet verlängerten Februar.",
+        "Vorsorgekonzept für den Fall, dass alle Bundesbehörden gleichzeitig ihre Zuständigkeit verneinen.",
+        "Checkliste für eine Gemeinde, die auf keiner amtlichen Karte verzeichnet ist."
+      ],
+      "leistung": {
+        "antrag": "Beratungsanfrage von Behörden formlos an Referat 34",
+        "dauer": "in der Regel 2 bis 4 Monate",
+        "kosten": "für Behörden gebührenfrei"
+      }
     }
   ],
   "standort": {

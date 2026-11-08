@@ -4,7 +4,7 @@
   "land": "Deutschland",
   "sprache": "de-DE",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "person": {
     "id": "p-achenbach-miriam",
     "anrede": "Frau",
@@ -66,7 +66,7 @@
   "news": [
     {
       "id": "2026-08-leitfaden",
-      "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“",
+      "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“ – 14 Kriterien und ein messbares Kopfschütteln",
       "datum": "2026-08-21",
       "url": "https://pegrassus.github.io/baba-homepage/aktuelles/2026-08-leitfaden.html"
     }

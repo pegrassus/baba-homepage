@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "person": {
     "id": "p-imboden-kurt",
     "anrede": "Herr",
@@ -58,6 +58,12 @@
     "json": "https://pegrassus.github.io/baba-homepage/ch/api/einheiten/ref-24.json"
   },
   "news": [
+    {
+      "id": "2026-07-erba-start",
+      "titel": "Eidgenössisches Register besonderer Angelegenheiten (ERbA) pünktlich in Betrieb",
+      "datum": "2026-07-01",
+      "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-07-erba-start.html"
+    },
     {
       "id": "2026-04-puenktlichkeit",
       "titel": "Grundsatzentscheid: 08:00:59 Uhr gilt noch als pünktlich",

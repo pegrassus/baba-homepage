@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-12",
     "typ": "referat",
@@ -101,7 +101,22 @@
         "ref-12",
         "ref-13"
       ],
-      "rechtsgrundlage": "Art. 4 BABG"
+      "rechtsgrundlage": "Art. 4 BABG",
+      "details": [
+        "Wenn mehrere Kantone oder Gemeinden einen Sachverhalt unterschiedlich beurteilen und keine andere Stelle zur Klärung berufen ist, führt das BBA ein Kompromissverfahren durch. Die Sektion Kantonale Sonderfälle erhebt zunächst alle Positionen, auch jene, die im Laufe des Verfahrens geändert werden. Sie führt dazu eine laufend nachgeführte Übersicht über die Auffassungen aller 26 Kantone zu jeder anhängigen Frage.",
+        "Anschliessend erarbeitet die Sektion Konkordanz und Kompromissfindung einen Lösungsvorschlag. Ziel ist eine Lösung, mit der alle Beteiligten gleich wenig zufrieden sind; Bewährtes wie Halbierung, Abwechslung und gemeinsame Nutzung wird bevorzugt. Kommt eine Einigung zustande, wird sie als Kompromissvereinbarung unterzeichnet. Scheitert sie, entscheidet das BBA mit Verfügung."
+      ],
+      "beispiele": [
+        "Zwei Gemeinden streiten seit 1894 um einen Grenzstein, der nach einer Güterzusammenlegung auf keiner Seite mehr liegt.",
+        "Drei Oberwalliser Gemeinden können sich nicht über den Unterhalt einer historischen Suone einigen.",
+        "Zwei Kantone beanspruchen denselben Aussichtspunkt für ihre Tourismuswerbung.",
+        "Ein Festumzug führt über drei Kantone, die je eine andere Startzeit für verbindlich halten."
+      ],
+      "leistung": {
+        "antrag": "Gemeinsame oder einseitige Eingabe der betroffenen Kantone oder Gemeinden",
+        "dauer": "Rund 6 Monate, bei mehr als 14 Sitzungen entsprechend länger",
+        "kosten": "Gebührenfrei für Kantone und Gemeinden; Apéro nach Vereinbarung hälftig"
+      }
     }
   ],
   "standort": {

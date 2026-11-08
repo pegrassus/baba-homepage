@@ -8,7 +8,7 @@
 <meta name="robots" content="noindex, follow">
 <meta name="generator" content="BAbA static build 2026-11-08">
 <meta name="baba:variante" content="at">
-<meta name="baba:hinweis" content="Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.">
+<meta name="baba:hinweis" content="Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.">
 <meta property="og:title" content="Offene Daten und Schnittstelle – BBSA">
 <meta property="og:description" content="Alle Inhalte des BBSA als maschinenlesbare JSON-Dateien.">
 <meta property="og:image" content="https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-logo.png">
@@ -27,7 +27,7 @@
 </head>
 <body>
 <a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
-<div class="demo-banner" role="note"><strong>Fiktive Behörde:</strong> Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.</div>
+<div class="demo-banner" role="note"><strong>Fiktive Behörde:</strong> Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.</div>
 <div class="topbar"><div class="container"><a href="../at/barrierefreiheit.html">Barrierefreiheit</a><a href="../at/daten.html">Offene Daten &amp; API</a><a href="../at/kontakt.html">Kontakt</a><a href="../at/suche.html">Suche</a><nav class="variant-switch" aria-label="Länderversion"><a href="../daten.html" lang="de-DE" title="Deutschland: Bundesamt für besondere Angelegenheiten">DE</a><a href="../ch/daten.html" lang="de-CH" title="Schweiz: Bundesamt für besondere Angelegenheiten">CH</a><a href="../at/daten.html" lang="de-AT" title="Österreich: Bundesamt für besondere und sonstige Angelegenheiten" aria-current="true" class="is-current">AT</a></nav></div></div>
 <header class="site-header"><div class="container">
 <a class="brand" href="../at/index.html" aria-label="Bundesamt für besondere und sonstige Angelegenheiten – zur Startseite"><img src="../assets/img/at/logo/bbsa-logo.svg" alt="" width="64" height="64"><span class="brand-text"><span class="brand-name">Bundesamt für<br>besondere und sonstige Angelegenheiten</span><span class="brand-short">BBSA · gegr. 1873</span></span></a>
@@ -37,6 +37,7 @@
 <nav class="main-nav" id="hauptnavigation" aria-label="Hauptnavigation"><div class="container"><ul>
 <li><a href="../at/index.html">Startseite</a></li>
 <li><a href="../at/ueber-uns.html">Über uns</a></li>
+<li><a href="../at/auftrag.html">Auftrag</a></li>
 <li><a href="../at/organisation.html">Organisation</a></li>
 <li><a href="../at/personen.html">Personen</a></li>
 <li><a href="../at/aufgaben.html">Aufgaben</a></li>
@@ -47,7 +48,7 @@
 <nav class="breadcrumbs" aria-label="Brotkrumennavigation"><div class="container"><ol><li><a href="../at/index.html">Startseite</a></li><li aria-current="page">Offene Daten &amp; API</li></ol></div></nav>
 <main id="inhalt">
 <section class="section"><div class="container article"><div class="eyebrow">Offene Daten</div><h1>Schnittstelle (JSON)</h1><p class="lead">Alle Inhalte dieser Website stehen als JSON zur Verfügung, etwa für KI-Assistenten, MCP-Server oder Fachverfahren. Einstiegspunkt ist <a href="../at/api/index.json"><code>api/index.json</code></a>; eine Kurzbeschreibung für Sprachmodelle liegt unter <a href="../at/llms.txt"><code>llms.txt</code></a>.</p>
-<div class="table-wrap"><table><thead><tr><th>Endpunkt</th><th>Inhalt</th></tr></thead><tbody><tr><td><a href="../at/api/behoerde.json"><code>api/behoerde.json</code></a></td><td>Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte</td></tr><tr><td><a href="../at/api/organisation.json"><code>api/organisation.json</code></a></td><td>Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)</td></tr><tr><td><a href="../at/api/personen.json"><code>api/personen.json</code></a></td><td>Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL</td></tr><tr><td><a href="../at/api/aufgaben.json"><code>api/aufgaben.json</code></a></td><td>Aufgaben und Leistungen mit zuständigen Einheiten</td></tr><tr><td><a href="../at/api/news.json"><code>api/news.json</code></a></td><td>Meldungen und Mitteilungen, neueste zuerst</td></tr><tr><td><a href="../at/api/standorte.json"><code>api/standorte.json</code></a></td><td>Standorte mit Adressen</td></tr><tr><td><a href="../at/api/downloads.json"><code>api/downloads.json</code></a></td><td>Formulare und Publikationen</td></tr><tr><td><a href="../at/api/alles.json"><code>api/alles.json</code></a></td><td>Gesamtexport aller Inhalte in einer Datei</td></tr><tr><td><code>api/personen/{id}.json</code></td><td>Einzelne Person inkl. Einheit und Erwähnungen</td></tr><tr><td><code>api/einheiten/{id}.json</code></td><td>Einzelne Organisationseinheit inkl. Leitung, Personen, Unter-Einheiten, Aufgaben</td></tr><tr><td><code>api/news/{id}.json</code></td><td>Einzelne Meldung inkl. beteiligter Personen</td></tr></tbody></table></div>
+<div class="table-wrap"><table><thead><tr><th>Endpunkt</th><th>Inhalt</th></tr></thead><tbody><tr><td><a href="../at/api/behoerde.json"><code>api/behoerde.json</code></a></td><td>Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte</td></tr><tr><td><a href="../at/api/organisation.json"><code>api/organisation.json</code></a></td><td>Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)</td></tr><tr><td><a href="../at/api/personen.json"><code>api/personen.json</code></a></td><td>Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL</td></tr><tr><td><a href="../at/api/aufgaben.json"><code>api/aufgaben.json</code></a></td><td>Aufgaben und Leistungen mit zuständigen Einheiten, Details und Beispielen</td></tr><tr><td><a href="../at/api/news.json"><code>api/news.json</code></a></td><td>Meldungen und Mitteilungen, neueste zuerst</td></tr><tr><td><a href="../at/api/standorte.json"><code>api/standorte.json</code></a></td><td>Standorte mit Adressen</td></tr><tr><td><a href="../at/api/downloads.json"><code>api/downloads.json</code></a></td><td>Formulare und Publikationen</td></tr><tr><td><a href="../at/api/alles.json"><code>api/alles.json</code></a></td><td>Gesamtexport aller Inhalte in einer Datei</td></tr><tr><td><code>api/personen/{id}.json</code></td><td>Einzelne Person inkl. Einheit und Erwähnungen</td></tr><tr><td><code>api/einheiten/{id}.json</code></td><td>Einzelne Organisationseinheit inkl. Leitung, Personen, Unter-Einheiten, Aufgaben</td></tr><tr><td><code>api/news/{id}.json</code></td><td>Einzelne Meldung inkl. beteiligter Personen</td></tr></tbody></table></div>
 <h2 style="margin-top:32px">Länderversionen</h2><div class="table-wrap"><table><thead><tr><th>Land</th><th>Behörde</th><th>API</th></tr></thead><tbody><tr><td>Deutschland</td><td><a href="../index.html">Bundesamt für besondere Angelegenheiten (BAbA)</a></td><td><a href="../api/index.json"><code>api/index.json</code></a></td></tr><tr><td>Schweiz</td><td><a href="../ch/index.html">Bundesamt für besondere Angelegenheiten (BBA)</a></td><td><a href="../ch/api/index.json"><code>ch/api/index.json</code></a></td></tr><tr><td>Österreich</td><td><a href="../at/index.html">Bundesamt für besondere und sonstige Angelegenheiten (BBSA)</a></td><td><a href="../at/api/index.json"><code>at/api/index.json</code></a></td></tr></tbody></table></div>
 <h2 style="margin-top:32px">IDs</h2><p>Personen: <code>p-nachname-vorname</code>, Einheiten: <code>leitung</code>, <code>stab-*</code>, <code>abt-*</code>, <code>ref-*</code> (in dieser Version: Sektion = <code>abt-*</code>, Abteilung = <code>ref-*</code>), Meldungen: <code>JJJJ-MM-stichwort</code>. Jede HTML-Seite verweist per <code>&lt;link rel="alternate" type="application/json"&gt;</code> auf ihr JSON-Gegenstück.</p></div></section>
 </main>
@@ -56,13 +57,13 @@
 <div class="footer-grid">
 <div><div class="footer-brand"><img src="../assets/img/at/logo/bbsa-logo-negativ.svg" alt="" width="44" height="44">Bundesamt für besondere und sonstige Angelegenheiten</div>
 <p>Ausnahmegasse 7<br>1010 Wien<br>Telefon +43 1 4711-0<br><a href="mailto:einlaufstelle@bbsa-bund.example">einlaufstelle@bbsa-bund.example</a></p></div>
-<div><h2>Das Amt</h2><ul><li><a href="../at/ueber-uns.html">Über uns</a></li><li><a href="../at/organisation.html">Organigramm</a></li><li><a href="../at/personen.html">Ansprechpersonen</a></li><li><a href="../at/aufgaben.html">Aufgaben</a></li></ul></div>
+<div><h2>Das Amt</h2><ul><li><a href="../at/ueber-uns.html">Über uns</a></li><li><a href="../at/auftrag.html">Auftrag und Zuständigkeit</a></li><li><a href="../at/organisation.html">Organigramm</a></li><li><a href="../at/personen.html">Ansprechpersonen</a></li><li><a href="../at/aufgaben.html">Aufgaben</a></li></ul></div>
 <div><h2>Service</h2><ul><li><a href="../at/service.html">Formulare &amp; Downloads</a></li><li><a href="../at/aktuelles.html">Aktuelles</a></li><li><a href="../at/presse.html">Presse</a></li><li><a href="../at/kontakt.html">Kontakt</a></li></ul></div>
 <div><h2>Rechtliches</h2><ul><li><a href="../at/impressum.html">Impressum</a></li><li><a href="../at/datenschutz.html">Datenschutz</a></li><li><a href="../at/barrierefreiheit.html">Barrierefreiheit</a></li><li><a href="../at/daten.html">Offene Daten &amp; API</a></li></ul></div>
 </div>
 <div class="footer-bottom"><span>© 2026 Bundesamt für besondere und sonstige Angelegenheiten (fiktiv) · Länderversion Österreich</span><span class="machine-hint">Maschinenlesbar: <a href="../at/api/index.json"><code>api/index.json</code></a> · <a href="../at/llms.txt"><code>llms.txt</code></a></span></div>
 </div>
-<div class="footer-fiction">Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Keine Einrichtung der Republik Österreich.</div>
+<div class="footer-fiction">Fiktive Behörde – Demonstrationsinhalt. Keine Einrichtung der Republik Österreich.</div>
 </footer>
 <script src="../assets/js/app.js" defer></script>
 </body>

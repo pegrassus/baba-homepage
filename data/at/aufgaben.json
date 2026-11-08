@@ -1,16 +1,193 @@
 {
   "aufgaben": [
-    { "id": "auf-zustaendigkeit", "titel": "Auffangzuständigkeit des Bundes", "kategorie": "Kernaufgabe", "beschreibung": "Das BBSA übernimmt alle Angelegenheiten des Bundes, die besonders sind oder sonst nirgends hingehören.", "einheitIds": ["abt-1", "ref-11"], "rechtsgrundlage": "§ 2 BBSAG" },
-    { "id": "auf-abgrenzung", "titel": "Feststellung der Besonderheit oder Sonstigkeit", "kategorie": "Kernaufgabe", "beschreibung": "Auf Antrag wird mit Bescheid festgestellt, ob eine Angelegenheit besonders, sonstig oder ganz gewöhnlich ist. Gegen die Feststellung „gewöhnlich“ ist Beschwerde zulässig.", "einheitIds": ["ref-12"], "rechtsgrundlage": "§ 3 BBSAG" },
-    { "id": "auf-nachsicht", "titel": "Nachsichten und Ausnahmen", "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen", "beschreibung": "Gewährung von Nachsichten von Vorschriften, die den Einzelfall nicht vorhergesehen haben.", "einheitIds": ["ref-14"], "rechtsgrundlage": "§ 7 BBSAG" },
-    { "id": "auf-laender", "titel": "Föderale Grenzfälle", "kategorie": "Beratung", "beschreibung": "Vermittlung zwischen Bund und Ländern, wenn ein Sachverhalt in mehreren Bundesländern zugleich liegt – etwa ein Murmeltierbau am Arlberg.", "einheitIds": ["ref-13"], "rechtsgrundlage": "§ 4 BBSAG" },
-    { "id": "auf-verfahren", "titel": "Besondere Verwaltungsverfahren", "kategorie": "Kernaufgabe", "beschreibung": "Durchführung von Verfahren nach dem AVG, die wegen ihrer Besonderheit nicht im Regelverfahren erledigt werden können.", "einheitIds": ["abt-2", "ref-21", "ref-22"], "rechtsgrundlage": "§§ 9–14 BBSAG i. V. m. AVG" },
-    { "id": "auf-beschwerde", "titel": "Beschwerdevorentscheidungen", "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen", "beschreibung": "Prüfung von Beschwerden gegen Bescheide des BBSA und Erlassung von Beschwerdevorentscheidungen; ansonsten Vorlage an das Bundesverwaltungsgericht.", "einheitIds": ["ref-23"], "rechtsgrundlage": "§ 14 VwGVG" },
-    { "id": "auf-fenstertage", "titel": "Feststellung der Fenster- und Zwickeltage", "kategorie": "Kernaufgabe", "beschreibung": "Jährliche Kundmachung aller Fenstertage samt Empfehlung, ob sie „eh schon frei“ sind. Die Kundmachung erfolgt traditionell am letzten Arbeitstag vor einem Fenstertag.", "einheitIds": ["ref-24"], "rechtsgrundlage": "§ 16 BBSAG, Fenstertag-Feststellungsverordnung (fiktiv)" },
-    { "id": "auf-lage", "titel": "Lagebeobachtung", "kategorie": "Kernaufgabe", "beschreibung": "Rund-um-die-Uhr-Beobachtung außergewöhnlicher Ereignisse, einschließlich Krampusläufen und Föhnstürmen.", "einheitIds": ["abt-3", "ref-31"], "rechtsgrundlage": "§ 18 BBSAG" },
-    { "id": "auf-foehn", "titel": "Föhnbedingte Sonderfälle", "kategorie": "Beratung", "beschreibung": "Gutachten darüber, ob ein Ereignis oder ein Bescheid unter Föhneinfluss zustande kam. Föhnbedingte Bescheide können auf Antrag neu erlassen werden.", "einheitIds": ["ref-32"], "rechtsgrundlage": "§ 18a BBSAG" },
-    { "id": "auf-kabinett", "titel": "Kuriositätenkabinett", "kategorie": "Dokumentation", "beschreibung": "Sammlung und Ausstellung kurioser Akten und Gegenstände der österreichischen Verwaltung seit 1873. Führungen jeden ersten Donnerstag im Monat.", "einheitIds": ["ref-33"], "rechtsgrundlage": "§ 19 BBSAG" },
-    { "id": "auf-brbsa", "titel": "Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)", "kategorie": "Register", "beschreibung": "Führung des Registers mit über 1,2 Millionen Einträgen seit 1873; Auskünfte an berechtigte Behörden.", "einheitIds": ["abt-4", "ref-41", "ref-43"], "rechtsgrundlage": "§§ 22–25 BBSAG" },
-    { "id": "auf-formulare", "titel": "Formular- und Stempelwesen", "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen", "beschreibung": "Herausgabe aller Formulare des Amtes, einschließlich des Formulars zur Beantragung von Formularen (BBSA-F0), sowie Verwaltung der Amtsstempel.", "einheitIds": ["ref-z4"], "rechtsgrundlage": "§ 6 BBSAG" }
+    {
+      "id": "auf-zustaendigkeit", "titel": "Auffangzuständigkeit des Bundes", "kategorie": "Kernaufgabe",
+      "beschreibung": "Das BBSA übernimmt alle Angelegenheiten des Bundes, die besonders sind oder sonst nirgends hingehören.",
+      "einheitIds": ["abt-1", "ref-11"], "rechtsgrundlage": "§ 2 BBSAG",
+      "details": [
+        "Nach § 2 BBSAG ist das BBSA für alle Angelegenheiten des Bundes zuständig, die keiner anderen Behörde zugewiesen sind – „und sonst, was übrig bleibt“. Das betrifft vor allem Sachen, die von anderen Bundesbehörden wegen Unzuständigkeit abgetreten werden, aber auch Ansuchen, die direkt beim BBSA einlangen. Die Abteilung II/1 prüft solche Eingänge grundsätzlich und weist sie der fachlich passenden Abteilung zu.",
+        "Darüber hinaus erarbeitet die Abteilung II/1 Erlässe und Grundsatzentscheidungen, die die Spruchpraxis aller Sektionen vereinheitlichen. Sie beantwortet Anfragen anderer Behörden, ob eine Sache beim BBSA richtig aufgehoben wäre, und führt die Liste der „Dauerzuständigkeiten“, die sich über die Jahre angesammelt haben. Das Ergebnis ist entweder eine Übernahme mit Zuweisung oder eine begründete Abtretung nach § 6 AVG."
+      ],
+      "beispiele": [
+        "Ein Ministerium tritt die Frage ab, wer für eine herrenlose Parkbank auf einer Bundesstraßenböschung zuständig ist.",
+        "Eine Gemeinde fragt an, wohin sie einen Fund von 400 Schreibmaschinenfarbbändern melden soll.",
+        "Ein Bürger ersucht um Klärung, welche Behörde für sein Anliegen zuständig ist, dessen Inhalt er „lieber persönlich erklären“ möchte."
+      ],
+      "leistung": { "antrag": "Formloses Ansuchen oder Abtretung durch eine Behörde", "dauer": "Zuweisung binnen 5 Werktagen", "kosten": "gebührenfrei" }
+    },
+    {
+      "id": "auf-abgrenzung", "titel": "Feststellung der Besonderheit oder Sonstigkeit", "kategorie": "Kernaufgabe",
+      "beschreibung": "Auf Antrag wird mit Bescheid festgestellt, ob eine Angelegenheit besonders, sonstig oder ganz gewöhnlich ist. Gegen die Feststellung „gewöhnlich“ ist Beschwerde zulässig.",
+      "einheitIds": ["ref-12"], "rechtsgrundlage": "§ 3 BBSAG",
+      "details": [
+        "Die Abteilung II/2 entscheidet auf Antrag, ob ein Sachverhalt besonders, sonstig oder gewöhnlich ist. Antragsberechtigt sind alle Personen mit rechtlichem Interesse sowie Behörden, die für ihre eigene Zuständigkeit eine Vorfrage klären müssen. Grundlage der Prüfung ist der Abgrenzungsleitfaden mit 14 Kriterien, darunter das „Na-geh-Kriterium“.",
+        "Im Ermittlungsverfahren werden Unterlagen gesichtet, Parteien gehört und erforderlichenfalls Amtssachverständige beigezogen. Das Verfahren endet mit einem Feststellungsbescheid, der andere Bundesbehörden bindet. Im Zweifel lautet die Feststellung „sonstig“, weil sich das Besondere begründen lassen muss.",
+        "Wird eine Angelegenheit als gewöhnlich festgestellt, ist das BBSA nicht zuständig und tritt die Sache ab. Weil diese Feststellung erfahrungsgemäß als kränkend empfunden wird, ist dagegen ausdrücklich Beschwerde zulässig."
+      ],
+      "beispiele": [
+        "Ein Verein lässt feststellen, ob ein Kegelturnier auf einer Almhütte in 2.100 Meter Seehöhe eine besondere Angelegenheit ist.",
+        "Eine GesbR beantragt die Feststellung, ob sie einen Antrag stellen darf – und hat ihn damit gestellt.",
+        "Ein Unternehmen möchte wissen, ob ein Firmenjubiläum am 29. Februar besonders oder bloß selten ist.",
+        "Ein Bürger erhebt Beschwerde, weil sein Gartenzwerg-Ensemble als „gewöhnlich“ eingestuft wurde."
+      ],
+      "leistung": { "antrag": "Formular BBSA-F3 samt Sachverhaltsdarstellung", "dauer": "rund 3 Monate", "kosten": "Bundesverwaltungsabgabe 14,30 Euro; bei Feststellung „gewöhnlich“ halbiert" }
+    },
+    {
+      "id": "auf-nachsicht", "titel": "Nachsichten und Ausnahmen", "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Gewährung von Nachsichten von Vorschriften, die den Einzelfall nicht vorhergesehen haben.",
+      "einheitIds": ["ref-14"], "rechtsgrundlage": "§ 7 BBSAG",
+      "details": [
+        "Vorschriften werden für den Regelfall geschrieben, das Leben hält sich nicht immer daran. Nach § 7 BBSAG kann die Abteilung II/4 auf Antrag Nachsicht von einer Bundesvorschrift gewähren, wenn diese den konkreten Einzelfall erkennbar nicht vorhergesehen hat und ihre Anwendung zu einer unbilligen Härte führen würde.",
+        "Geprüft werden die Unvorhersehbarkeit des Falls, die Härte für die Partei und ob öffentliche Interessen entgegenstehen. Die Nachsicht ergeht mit Bescheid und kann befristet, mit Auflagen versehen oder auf bestimmte Personen, Tiere oder Gegenstände beschränkt werden. Sie wird im BRbsA eingetragen, damit sich niemand später auf eine Nachsicht beruft, die er gar nicht hat."
+      ],
+      "beispiele": [
+        "Ein Murmeltier erhält Nachsicht von der Pflicht, für die Dauer des Winterschlafs einen Hauptwohnsitz in einem Bundesland zu begründen.",
+        "Eine Blasmusikkapelle bekommt Nachsicht von einer Ruhezeitregelung für das Einspielen am Morgen des Bezirksmusikfests.",
+        "Ein Pensionist darf ein Formular ausnahmsweise mit Füllfeder statt mit Kugelschreiber ausfüllen."
+      ],
+      "leistung": { "antrag": "Schriftliches Ansuchen mit Begründung des unvorhergesehenen Einzelfalls", "dauer": "rund 6 Wochen", "kosten": "Bundesverwaltungsabgabe 21,80 Euro" }
+    },
+    {
+      "id": "auf-laender", "titel": "Föderale Grenzfälle", "kategorie": "Beratung",
+      "beschreibung": "Vermittlung zwischen Bund und Ländern, wenn ein Sachverhalt in mehreren Bundesländern zugleich liegt – etwa ein Murmeltierbau am Arlberg.",
+      "einheitIds": ["ref-13"], "rechtsgrundlage": "§ 4 BBSAG",
+      "details": [
+        "Österreich hat neun Bundesländer und mindestens ebenso viele Auffassungen darüber, wo eines aufhört und das andere anfängt. Die Abteilung II/3 vermittelt, wenn ein Sachverhalt in mehreren Ländern zugleich liegt, wenn sich kein Land für zuständig hält oder wenn sich mehrere Länder gleichzeitig für zuständig halten.",
+        "Das Verfahren beginnt auf Ersuchen eines Landes, einer Gemeinde oder einer Partei, in dringenden Fällen auch von Amts wegen. Die betroffenen Länder werden zur Stellungnahme eingeladen, erforderlichenfalls werden Vermessungs- oder Sachverständigengutachten eingeholt und Vermittlungsgespräche geführt, bevorzugt an neutralen Orten. Bis zu einer Einigung kann das BBSA die Sache vorläufig als sonstige Angelegenheit des Bundes übernehmen.",
+        "Ergebnis ist ein Vermittlungsprotokoll, eine einvernehmliche Zuständigkeitsfeststellung oder, wenn alle Stricke reißen, eine Empfehlung an die Landeshauptleutekonferenz. Alle Ergebnisse werden im BRbsA eingetragen, damit der nächste vergleichbare Fall nicht wieder bei null beginnt. Erfahrungsgemäß kehren manche Grenzfälle, etwa wandernde Murmeltiere, regelmäßig wieder."
+      ],
+      "beispiele": [
+        "Ein Murmeltierbau am Arlberg hat den Eingang in Tirol und den Ausgang in Vorarlberg.",
+        "Ein Heuriger liegt mit der Schank in Wien und den Tischen in Niederösterreich.",
+        "Ein Skilift beginnt in Salzburg, endet in der Steiermark und bleibt bei Föhn genau auf der Grenze stehen."
+      ],
+      "leistung": { "antrag": "Ersuchen eines Landes oder einer Gemeinde; Parteien formlos", "dauer": "rund 3 Monate, je beteiligtem Land plus 2 Wochen", "kosten": "für Gebietskörperschaften gebührenfrei" }
+    },
+    {
+      "id": "auf-verfahren", "titel": "Besondere Verwaltungsverfahren", "kategorie": "Kernaufgabe",
+      "beschreibung": "Durchführung von Verfahren nach dem AVG, die wegen ihrer Besonderheit nicht im Regelverfahren erledigt werden können.",
+      "einheitIds": ["abt-2", "ref-21", "ref-22"], "rechtsgrundlage": "§§ 9–14 BBSAG i. V. m. AVG",
+      "details": [
+        "Die Sektion III in Graz führt Verwaltungsverfahren durch, die nach Inhalt oder Umständen nicht in ein Regelverfahren passen. Die Abteilung III/1 führt die Verfahren nach dem BBSAG in erster Instanz: von der Ermittlung des Sachverhalts über das Parteiengehör bis zur mündlichen Verhandlung, die nie an einem Fenstertag stattfindet.",
+        "Die Abteilung III/2 verantwortet Bescheide besonderer Art. Dazu gehören Bescheide mit ungewöhnlichem Spruch, Bescheide an mehrere Bundesländer zugleich und Bescheide in besonderer Form, etwa in Gedichtform, wenn die Partei dies beantragt und der Inhalt es zulässt. Jeder Bescheid enthält eine ordnungsgemäße Begründung und Rechtsmittelbelehrung, auch wenn er sich reimt.",
+        "Die Verfahren werden vollständig im ELAK geführt; der Papierakt wird parallel mitgeführt, „bis sich der ELAK bewährt hat“. Parteien können jederzeit Akteneinsicht nehmen, elektronisch oder in der Außenstelle Graz während der Amtsstunden. Die durchschnittliche Verfahrensdauer lag 2025 bei 31 Werktagen."
+      ],
+      "beispiele": [
+        "Ein Bescheid über die Genehmigung eines Maibaums, der höher ist als der Kirchturm, ergeht nach Parteiantrag in vierzeiligen Strophen.",
+        "Ein Verfahren über ein Hausboot, das je nach Pegelstand in zwei Gemeinden liegt.",
+        "Eine mündliche Verhandlung findet mangels geeigneter Räume im Speisewagen eines Regionalzugs statt."
+      ],
+      "leistung": { "antrag": "Ansuchen nach § 13 AVG, schriftlich oder elektronisch", "dauer": "durchschnittlich 31 Werktage, längstens 6 Monate", "kosten": "nach Bundesverwaltungsabgabenverordnung; Gedichtform ohne Aufpreis" }
+    },
+    {
+      "id": "auf-beschwerde", "titel": "Beschwerdevorentscheidungen", "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Prüfung von Beschwerden gegen Bescheide des BBSA und Erlassung von Beschwerdevorentscheidungen; ansonsten Vorlage an das Bundesverwaltungsgericht.",
+      "einheitIds": ["ref-23"], "rechtsgrundlage": "§ 14 VwGVG",
+      "details": [
+        "Gegen Bescheide des BBSA kann binnen vier Wochen Beschwerde an das Bundesverwaltungsgericht erhoben werden. Die Beschwerde ist beim BBSA einzubringen, wo sie zunächst die Abteilung III/3 prüft. Sie muss den angefochtenen Bescheid bezeichnen, die Gründe für die Rechtswidrigkeit und ein Begehren enthalten. Ein bloßes „Na geh“ reicht dafür nicht aus, wird aber als Ausgangspunkt eines Verbesserungsauftrags gewertet.",
+        "Ist die Beschwerde berechtigt, kann das BBSA den Bescheid selbst mit Beschwerdevorentscheidung aufheben, abändern oder bestätigen. Andernfalls wird die Beschwerde samt Akt dem Bundesverwaltungsgericht vorgelegt; die Partei kann zudem binnen zwei Wochen nach einer Beschwerdevorentscheidung einen Vorlageantrag stellen. Die Abteilung achtet darauf, dass jede Vorlage vollständig, paginiert und frei von Kaffeeflecken ist."
+      ],
+      "beispiele": [
+        "Ein Antragsteller wehrt sich dagegen, dass sein Anliegen als „gewöhnlich“ festgestellt wurde.",
+        "Eine Gemeinde bekämpft die Ablehnung eines Zwickeltags, weil das Pfarrfest „sonst immer“ an einem Donnerstag sei.",
+        "Ein Bauwerber beschwert sich über einen föhnbedingten Bescheid und erhält statt eines Schwans ein Flachdach."
+      ],
+      "leistung": { "antrag": "Schriftliche Beschwerde beim BBSA binnen 4 Wochen ab Zustellung", "dauer": "Beschwerdevorentscheidung binnen 2 Monaten", "kosten": "Eingabengebühr 30 Euro (fiktiv)" }
+    },
+    {
+      "id": "auf-fenstertage", "titel": "Feststellung der Fenster- und Zwickeltage", "kategorie": "Kernaufgabe",
+      "beschreibung": "Jährliche Kundmachung aller Fenstertage samt Empfehlung, ob sie „eh schon frei“ sind. Die Kundmachung erfolgt traditionell am letzten Arbeitstag vor einem Fenstertag.",
+      "einheitIds": ["ref-24"], "rechtsgrundlage": "§ 16 BBSAG, Fenstertag-Feststellungsverordnung (fiktiv)",
+      "details": [
+        "Die Abteilung III/4 stellt jedes Jahr durch Verordnung fest, welche Tage des Folgejahres Fenstertage sind. Ein Fenstertag liegt zwischen einem Feiertag und einem Wochenende; ein Zwickeltag zweiter Ordnung liegt zwischen zwei Urlaubswünschen. Grundlage ist eine Berechnungsformel aus 1958 mit 23 Variablen, die regionale Feiertage aller neun Bundesländer berücksichtigt.",
+        "Gemeinden, Interessenvertretungen und Betriebe können bis 30. September die Anerkennung zusätzlicher Zwickeltage beantragen. Über diese Ansuchen wird mit Feststellungsbescheid entschieden, positive Feststellungen fließen in die Kundmachung ein.",
+        "Die Feststellung begründet keinen Rechtsanspruch auf Urlaub. Sie dient als amtliche Orientierung für die Urlaubsplanung und als Gesprächsgrundlage mit Vorgesetzten. Die Kundmachung erscheint im Bundesgesetzblatt, auf der Website und am Schwarzen Brett aller drei Standorte."
+      ],
+      "beispiele": [
+        "Eine Gemeinde beantragt den Freitag nach ihrem Pfarrfest als Zwickeltag.",
+        "Ein Verein ersucht um Feststellung des 29. Februar 2027 als Fenstertag; der Antrag wird für 2028 vorgemerkt.",
+        "Ein Antragsteller möchte den Tag nach seinem Geburtstag anerkannt wissen – abgelehnt, mit Glückwünschen.",
+        "Eine Volksschulklasse aus dem Burgenland reicht einen gezeichneten Antrag ein, der als besonders protokolliert wird."
+      ],
+      "leistung": { "antrag": "Formular BBSA-F16 bis 30. September des Vorjahres", "dauer": "Entscheidung bis zur Kundmachung im Oktober", "kosten": "gebührenfrei; Schulklassen erhalten ein Lesezeichen" }
+    },
+    {
+      "id": "auf-lage", "titel": "Lagebeobachtung", "kategorie": "Kernaufgabe",
+      "beschreibung": "Rund-um-die-Uhr-Beobachtung außergewöhnlicher Ereignisse, einschließlich Krampusläufen und Föhnstürmen.",
+      "einheitIds": ["abt-3", "ref-31"], "rechtsgrundlage": "§ 18 BBSAG",
+      "details": [
+        "Das Lagezentrum Besonderheiten in Wien ist an 365 Tagen rund um die Uhr besetzt. Es nimmt Meldungen über Ereignisse entgegen, die nicht gefährlich, aber auch nicht gewöhnlich sind, bewertet sie und informiert die zuständigen Stellen in Bund, Ländern und Gemeinden.",
+        "Jede Meldung wird im ELAK als Lagemeldung erfasst und nach einem vierstufigen Schema eingestuft: gewöhnlich, sonstig, besonders, besonders und bemerkenswert. Gemeinsam mit der Abteilung IV/4 erarbeitet das Lagezentrum Szenarien für unwahrscheinliche Ereignisse und führt regelmäßig Stabsübungen durch, zuletzt die Übung „Krampusnacht“. Relevante Fälle werden als Präzedenzfall im BRbsA eingetragen."
+      ],
+      "beispiele": [
+        "Ein Krampus zieht ohne Nikolaus durch einen Pongauer Ort.",
+        "Eine Kuhherde blockiert bei einem Almabtrieb die Zufahrt zu einer Landesgrenze in beide Richtungen.",
+        "In einem Weinviertler Keller wird ein Fass gefunden, das älter ist als die Republik und noch voll."
+      ],
+      "leistung": { "antrag": "Meldung rund um die Uhr telefonisch oder per E-Mail an das Lagezentrum", "dauer": "Erstbewertung binnen 15 Minuten", "kosten": "gebührenfrei" }
+    },
+    {
+      "id": "auf-foehn", "titel": "Föhnbedingte Sonderfälle", "kategorie": "Beratung",
+      "beschreibung": "Gutachten darüber, ob ein Ereignis oder ein Bescheid unter Föhneinfluss zustande kam. Föhnbedingte Bescheide können auf Antrag neu erlassen werden.",
+      "einheitIds": ["ref-32"], "rechtsgrundlage": "§ 18a BBSAG",
+      "details": [
+        "Die Abteilung IV/2 in Innsbruck erstellt Föhngutachten für Parteien, Behörden und Gerichte. Ein Bescheid gilt nach der Richtlinie RL-IV/2-2026/1 als föhnbedingt, wenn am Erlassungstag am Behördenstandort Südwind über 60 km/h gemessen wurde und zusätzlich ein Indiz vorliegt, etwa auffällig gute Fernsicht oder ein Bescheidinhalt, der mit dem Antrag nur entfernt verwandt ist.",
+        "Liegt ein Bescheidföhn vor, wird der Bescheid auf Antrag in föhnfreier Lage neu erlassen. Der Antrag ist binnen vier Wochen ab Zustellung zu stellen; die Frist ist gehemmt, solange am Wohnort der Partei Föhn herrscht.",
+        "Daneben begutachtet die Abteilung auch sonstige wetterbedingte Sonderfälle und Fälle von Wetterfühligkeit, sofern sie verwaltungsrechtlich relevant sind. Grundlage sind Messdaten der Wetterstationen an allen Behördenstandorten sowie ein standardisiertes Indizienschema. Für Westwetterlagen und Hochnebel wird derzeit eine eigene Richtlinie („Grauschleier“) erarbeitet."
+      ],
+      "beispiele": [
+        "Eine Gartenhütte mit Flachdach wurde an einem Föhntag „in Form eines Schwans“ genehmigt.",
+        "Ein Bescheid enthält 14 Nebensätze in einem einzigen Spruchpunkt.",
+        "Eine Gemeinde möchte wissen, ob ihr Gemeinderatsbeschluss über einen Kreisverkehr bei Föhn gefasst wurde."
+      ],
+      "leistung": { "antrag": "Formular BBSA-F18a binnen 4 Wochen ab Bescheidzustellung", "dauer": "rund 8 Wochen, bei anhaltendem Föhn länger", "kosten": "Gutachten 38 Euro; bei festgestelltem Bescheidföhn wird die Gebühr erstattet" }
+    },
+    {
+      "id": "auf-kabinett", "titel": "Kuriositätenkabinett", "kategorie": "Dokumentation",
+      "beschreibung": "Sammlung und Ausstellung kurioser Akten und Gegenstände der österreichischen Verwaltung seit 1873. Führungen jeden ersten Donnerstag im Monat.",
+      "einheitIds": ["ref-33"], "rechtsgrundlage": "§ 19 BBSAG",
+      "details": [
+        "Das Kuriositätenkabinett im Amtsgebäude Wien bewahrt Akten und Gegenstände, die die Eigenart der österreichischen Verwaltung dokumentieren. Seit der Eröffnung 1991 ist der Bestand von 212 auf über 1.200 Exponate gewachsen, darunter ein Bescheid auf Semmelpapier aus 1931 und eine Melange-Tasse mit ungeklärtem Aktenzeichen aus 1912.",
+        "Behörden und Privatpersonen können kuriose Stücke zur Aufnahme anbieten. Der Kustos prüft Herkunft, Kuriosität und Erhaltungszustand und verfügt die Aufnahme mit Inventarnummer oder die Rückstellung mit Dank. Gemeinsam mit dem Amtsarchiv werden außerdem historische Akten erschlossen und gegebenenfalls weiterermittelt.",
+        "Das Kabinett ist im Rahmen von Führungen jeden ersten Donnerstag im Monat öffentlich zugänglich. Schulklassen und Behördendelegationen können Sondertermine vereinbaren. Das Berühren der Exponate ist nicht gestattet, das Staunen ausdrücklich erwünscht."
+      ],
+      "beispiele": [
+        "Eine Melange-Tasse aus 1912 mit dem Aktenzeichen 1912/sonst./47 wird in einer Zwischendecke gefunden.",
+        "Eine Bezirkshauptmannschaft bietet einen Stempel mit der Aufschrift „Erledigt – vielleicht“ an.",
+        "Ein pensionierter Beamter überlässt dem Kabinett seine Sammlung von 840 Büroklammern aus allen Bundesländern."
+      ],
+      "leistung": { "antrag": "Angebot oder Fundmeldung formlos an den Kustos; Führungen mit Anmeldung erwünscht", "dauer": "Aufnahmeentscheidung binnen 2 Monaten", "kosten": "Führung gratis; Kaffee aus der Ausstellung ausgeschlossen" }
+    },
+    {
+      "id": "auf-brbsa", "titel": "Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA)", "kategorie": "Register",
+      "beschreibung": "Führung des Registers mit über 1,2 Millionen Einträgen seit 1873; Auskünfte an berechtigte Behörden.",
+      "einheitIds": ["abt-4", "ref-41", "ref-43"], "rechtsgrundlage": "§§ 22–25 BBSAG",
+      "details": [
+        "Im BRbsA wird jede rechtskräftig erledigte besondere oder sonstige Angelegenheit eingetragen – mit Geschäftszahl, Einstufung, Ergebnis und zuständiger Abteilung. Das Register umfasst 1.204.388 Einträge seit 1873, davon 380.000 in Kurrentschrift, die seit 2026 vollständig digitalisiert und durchsuchbar sind.",
+        "Die Abteilung V/1 führt das Register und erteilt Auskünfte an Behörden sowie an Personen mit rechtlichem Interesse; auf Wunsch wird Einträgen in Kurrentschrift eine Transkription beigelegt. Die Abteilung V/3 entwickelt die Schnittstelle, über die Behörden ab 2027 automatisiert abfragen können, und prüft die Veröffentlichung ausgewählter Daten als Open Government Data."
+      ],
+      "beispiele": [
+        "Eine Behörde fragt an, ob eine Angelegenheit schon einmal als besonders eingestuft wurde (Treffer: 1931).",
+        "Eine Familienforscherin sucht den Eintrag ihres Urgroßvaters, der 1904 einen Dackel im Protokollbuch gezeichnet hat.",
+        "Eine Gemeinde beantragt einen Auszug über alle Zwickeltage, die je für sie festgestellt wurden.",
+        "Ein Unternehmen möchte wissen, ob seine Lieferdrohne mit Heimweh bereits eingetragen ist."
+      ],
+      "leistung": { "antrag": "Formular BBSA-F22 oder Behördenschnittstelle (ab 2027)", "dauer": "Auskunft binnen 10 Werktagen", "kosten": "Registerauszug 9,60 Euro; Transkription Kurrentschrift 4,20 Euro je Seite; für Behörden gebührenfrei" }
+    },
+    {
+      "id": "auf-formulare", "titel": "Formular- und Stempelwesen", "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Herausgabe aller Formulare des Amtes, einschließlich des Formulars zur Beantragung von Formularen (BBSA-F0), sowie Verwaltung der Amtsstempel.",
+      "einheitIds": ["ref-z4"], "rechtsgrundlage": "§ 6 BBSAG",
+      "details": [
+        "Die Abteilung I/4 gibt alle derzeit 418 Formulare des BBSA heraus, hält sie aktuell und legt bei Bedarf neue auf. Mit dem Formular BBSA-F0 können sämtliche Formulare in einem einzigen Ansuchen angefordert werden; fehlt ein passendes Formular, kann dies im Feld 14 vermerkt werden.",
+        "Außerdem verwaltet die Abteilung die 3.112 Amtsstempel des Hauses, vom Eingangsstempel bis zum historischen Stempel „Besonders (mittel)“ aus 1898. Sie sorgt für Stempelkissen, Tinte und die jährliche Stempelinventur, verleiht Eingangsstempel beim Parteienverkehr und entscheidet über die Ausmusterung von Stempeln an das Kuriositätenkabinett."
+      ],
+      "beispiele": [
+        "Ein Bürger fordert mit dem F0 elf Formulare an und erhält zusätzlich das F407 für den Fall, dass er eines verliert.",
+        "Ein Verein beantragt ein eigenes Formular für die Anmeldung von Haustieren zu Führungen – es wird aufgelegt.",
+        "Eine Besucherin gibt einen versehentlich mitgenommenen Eingangsstempel nach drei Jahren mit einer Packung Haselnussschnitten zurück."
+      ],
+      "leistung": { "antrag": "Formular BBSA-F0 oder formlos beim Parteienverkehr", "dauer": "5 Werktage; neue Formulare rund 3 Monate", "kosten": "gebührenfrei" }
+    }
   ]
 }

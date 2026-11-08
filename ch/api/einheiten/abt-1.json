@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "abt-1",
     "typ": "abteilung",
@@ -213,7 +213,21 @@
         "abt-1",
         "ref-11"
       ],
-      "rechtsgrundlage": "Art. 2 BABG"
+      "rechtsgrundlage": "Art. 2 BABG",
+      "details": [
+        "Im föderalistischen System verteilen Bundesverfassung, Bundesgesetze und 26 Kantonsverfassungen die Zuständigkeiten sehr genau. Trotzdem bleiben Fälle übrig, die keiner Ebene zugeordnet sind, und solche, die gleich mehreren zugeordnet sind. Für beide Konstellationen ist nach Art. 2 BABG das BBA zuständig. Es übernimmt den Fall, klärt ihn und entscheidet ihn oder überweist ihn an die Stelle, die sich nach der Klärung doch als zuständig erweist.",
+        "Die Abteilung Grundsätze und Konkordanz entscheidet in Zweifelsfällen über die Übernahme. Die Sektion Grundsatzfragen der Besonderheit pflegt dazu eine Sammlung von Grundsatzentscheiden, die bis ins Gründungsjahr 1953 zurückreicht. Ein negativer Kompetenzkonflikt, also ein Fall, den alle ablehnen, wird innert 30 Tagen übernommen; ein positiver, den alle beanspruchen, innert 60 Tagen, weil zuerst alle angehört werden müssen."
+      ],
+      "beispiele": [
+        "Ein einzelner Handschuh, der an einem Skilift auf der Kantonsgrenze hängt und von keinem Fundbüro angenommen wird.",
+        "Ein Bach, der laut drei verschiedenen Plänen durch drei verschiedene Gemeinden fliesst und in keinem davon unterhalten wird.",
+        "Eine Anfrage, für die sich vier Bundesämter und zwei Kantone gleichzeitig zuständig erklären."
+      ],
+      "leistung": {
+        "antrag": "Formloses Schreiben oder Formular BBA-100 («Meldung einer unzuordenbaren Angelegenheit»)",
+        "dauer": "30 bis 60 Tage bis zum Übernahmeentscheid",
+        "kosten": "Gebührenfrei"
+      }
     }
   ],
   "standort": {
@@ -239,7 +253,7 @@
   "news": [
     {
       "id": "2026-03-grenzstein",
-      "titel": "Kompromiss gefunden: Umstrittener Grenzstein wird halbiert",
+      "titel": "Kompromiss nach 132 Jahren: Umstrittener Grenzstein wird halbiert",
       "datum": "2026-03-02",
       "url": "https://pegrassus.github.io/baba-homepage/ch/aktuelles/2026-03-grenzstein.html"
     }

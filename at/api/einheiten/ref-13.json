@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "einheit": {
     "id": "ref-13",
     "typ": "referat",
@@ -100,7 +100,22 @@
       "einheitIds": [
         "ref-13"
       ],
-      "rechtsgrundlage": "§ 4 BBSAG"
+      "rechtsgrundlage": "§ 4 BBSAG",
+      "details": [
+        "Österreich hat neun Bundesländer und mindestens ebenso viele Auffassungen darüber, wo eines aufhört und das andere anfängt. Die Abteilung II/3 vermittelt, wenn ein Sachverhalt in mehreren Ländern zugleich liegt, wenn sich kein Land für zuständig hält oder wenn sich mehrere Länder gleichzeitig für zuständig halten.",
+        "Das Verfahren beginnt auf Ersuchen eines Landes, einer Gemeinde oder einer Partei, in dringenden Fällen auch von Amts wegen. Die betroffenen Länder werden zur Stellungnahme eingeladen, erforderlichenfalls werden Vermessungs- oder Sachverständigengutachten eingeholt und Vermittlungsgespräche geführt, bevorzugt an neutralen Orten. Bis zu einer Einigung kann das BBSA die Sache vorläufig als sonstige Angelegenheit des Bundes übernehmen.",
+        "Ergebnis ist ein Vermittlungsprotokoll, eine einvernehmliche Zuständigkeitsfeststellung oder, wenn alle Stricke reißen, eine Empfehlung an die Landeshauptleutekonferenz. Alle Ergebnisse werden im BRbsA eingetragen, damit der nächste vergleichbare Fall nicht wieder bei null beginnt. Erfahrungsgemäß kehren manche Grenzfälle, etwa wandernde Murmeltiere, regelmäßig wieder."
+      ],
+      "beispiele": [
+        "Ein Murmeltierbau am Arlberg hat den Eingang in Tirol und den Ausgang in Vorarlberg.",
+        "Ein Heuriger liegt mit der Schank in Wien und den Tischen in Niederösterreich.",
+        "Ein Skilift beginnt in Salzburg, endet in der Steiermark und bleibt bei Föhn genau auf der Grenze stehen."
+      ],
+      "leistung": {
+        "antrag": "Ersuchen eines Landes oder einer Gemeinde; Parteien formlos",
+        "dauer": "rund 3 Monate, je beteiligtem Land plus 2 Wochen",
+        "kosten": "für Gebietskörperschaften gebührenfrei"
+      }
     }
   ],
   "standort": {

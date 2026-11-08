@@ -4,7 +4,7 @@
   "land": "Österreich",
   "sprache": "de-AT",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "behoerde": {
     "id": "bbsa",
     "variante": "at",
@@ -14,7 +14,7 @@
     "name": "Bundesamt für besondere und sonstige Angelegenheiten",
     "kurzname": "BBSA",
     "markeZeile": "BBSA · gegr. 1873",
-    "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+    "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
     "typ": "Bundesamt",
     "geschaeftsbereich": "Bundesministerium für Allgemeines, Übriges und Sonstiges (BMAÜS, fiktiv)",
     "zuordnung": "Nachgeordnete Dienststelle des Bundesministeriums für Allgemeines, Übriges und Sonstiges (BMAÜS, fiktiv)",
@@ -24,24 +24,56 @@
       "titel": "Bundesgesetz über das Bundesamt für besondere und sonstige Angelegenheiten (BBSA-Gesetz – BBSAG)",
       "fundstelle": "BGBl. I Nr. 999/1955 (fiktiv), zuletzt geändert durch BGBl. I Nr. 42/2026 (fiktiv)"
     },
-    "claim": "Für alles Besondere. Und alles Sonstige.",
-    "auftrag": "Das Bundesamt für besondere und sonstige Angelegenheiten (BBSA) ist zuständig für alle Angelegenheiten des Bundes, die besonders sind, sowie für jene, die zwar nicht besonders, aber auch nirgends sonst unterzubringen sind („sonstige Angelegenheiten“). Es entscheidet mit Bescheid, stellt Fenstertage fest, führt das Kuriositätenkabinett und das Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA) – seit 1873, mit kurzer Unterbrechung für die Mittagspause.",
+    "claim": "Wenn sonst niemand zuständig ist: Wir san's. Seit 1873.",
+    "auftrag": "Das Bundesamt für besondere und sonstige Angelegenheiten (BBSA) ist die Auffangbehörde des Bundes für alles, was besonders ist oder sonst nirgends hingehört. Es stellt mit Bescheid fest, ob eine Angelegenheit besonders, sonstig oder bloß gewöhnlich ist, gewährt Nachsichten, vermittelt in Grenzfällen zwischen Bund und den neun Ländern und stellt jährlich die Fenster- und Zwickeltage fest. Daneben beobachtet es außergewöhnliche Ereignisse von der Föhnlage bis zur Krampusnacht, führt das Kuriositätenkabinett der österreichischen Verwaltung und das Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA). Das alles geschieht im Verfahren nach dem AVG, mit ordentlichem Akt und seit 1873 mit kurzer Unterbrechung für die Mittagspause.",
+    "auftragSeite": {
+      "titel": "Wofür das BBSA da ist",
+      "kurzfassung": "Das BBSA ist die Auffangbehörde des Bundes: Es ist für alle Angelegenheiten zuständig, die entweder besonders sind oder in keine andere Zuständigkeit passen. Es entscheidet über Ansuchen von Bürgerinnen, Bürgern, Unternehmen, Gemeinden und Behörden im Verwaltungsverfahren nach dem AVG – meist mit Bescheid, Feststellung oder Registereintrag.",
+      "einleitung": [
+        "Das Bundesamt für besondere und sonstige Angelegenheiten wurde 1873 als k.k. Hofamt gegründet und 1955 durch das BBSA-Gesetz (BBSAG) als Bundesamt neu errichtet. Es untersteht dem Bundesministerium für Allgemeines, Übriges und Sonstiges (BMAÜS). Sein gesetzlicher Auftrag ist ungewöhnlich und gerade deshalb klar: Was besonders ist oder sonst nirgends hingehört, landet beim BBSA. Das Amt hat seinen Hauptsitz in Wien und Außenstellen in Graz und Innsbruck. Rund 860 Bedienstete erledigen jährlich etwa 27.000 Akten.",
+        "Typische Vorgänge beginnen mit einem Ansuchen, einer Meldung oder einer Abtretung durch eine andere Behörde, die sich für unzuständig erklärt hat. Die Einlaufstelle protokolliert den Eingang im ELAK, vergibt eine Geschäftszahl und weist den Akt der zuständigen Abteilung zu. Im Ermittlungsverfahren werden Parteien gehört, Gutachten eingeholt – etwa zur Föhnlage oder zur Kurrentschrift – und gegebenenfalls die betroffenen Bundesländer beteiligt. Am Ende steht in der Regel ein Bescheid, eine Feststellung, eine Nachsicht oder ein Eintrag im Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA).",
+        "Organisatorisch gliedert sich das Amt in fünf Sektionen: die Präsidialsektion (I) mit dem Formular- und Stempelwesen, die Sektion Grundsatz, Sonderfälle und Sonstiges (II), die Sektion Besondere Verfahren (III) in Graz samt Fenstertagsfeststellung, die Sektion Außergewöhnliche Ereignisse (IV) mit Lagezentrum, Föhnabteilung und Kuriositätenkabinett sowie die Sektion Digitales und Register (V). Die Arbeit ist rechtlich ernsthaft, die Sachverhalte sind es nicht immer. Gerade diese Mischung aus korrektem Verfahren und skurrilem Gegenstand macht das BBSA aus."
+      ],
+      "zustaendig": [
+        "Das BBSA stellt auf Antrag mit Bescheid fest, ob eine Angelegenheit besonders, sonstig oder gewöhnlich ist (§ 3 BBSAG).",
+        "Das BBSA übernimmt als Auffangbehörde alle Angelegenheiten des Bundes, für die sich keine andere Behörde zuständig erklärt (§ 2 BBSAG).",
+        "Das BBSA gewährt Nachsichten von Vorschriften, die den konkreten Einzelfall erkennbar nicht vorhergesehen haben (§ 7 BBSAG).",
+        "Das BBSA vermittelt in föderalen Grenzfällen, wenn ein Sachverhalt in mehreren Bundesländern zugleich liegt oder sich kein Land zuständig fühlt (§ 4 BBSAG).",
+        "Das BBSA führt besondere Verwaltungsverfahren nach dem AVG durch und erlässt Bescheide besonderer Art, auch in ungewöhnlicher Form (§§ 9–14 BBSAG).",
+        "Das BBSA stellt jährlich durch Verordnung die Fenster- und Zwickeltage fest und entscheidet über Ansuchen auf Anerkennung weiterer Zwickeltage (§ 16 BBSAG).",
+        "Das BBSA beobachtet rund um die Uhr außergewöhnliche Ereignisse und erstellt Gutachten über föhnbedingte Bescheide und Ereignisse (§§ 18, 18a BBSAG).",
+        "Das BBSA sammelt kuriose Akten und Gegenstände der österreichischen Verwaltung im Kuriositätenkabinett und entscheidet über deren Aufnahme (§ 19 BBSAG).",
+        "Das BBSA führt das Bundesregister besonderer und sonstiger Angelegenheiten (BRbsA) und erteilt daraus Auskünfte (§§ 22–25 BBSAG)."
+      ],
+      "nichtZustaendig": [
+        "Für gewöhnliche Angelegenheiten ist das BBSA nicht zuständig; diese werden an die zuständige Behörde abgetreten (§ 6 AVG), notfalls mit einem freundlichen Begleitschreiben.",
+        "Für die Wettervorhersage ist das BBSA nicht zuständig – die Abteilung IV/2 begutachtet nur, ob der Föhn schon da war, nicht, ob er kommt.",
+        "Für die Gewährung von Urlaub an Fenstertagen ist ausschließlich der jeweilige Dienstgeber zuständig; das BBSA stellt nur fest, dass der Tag ein Fenster hat.",
+        "Für Brauchtumsveranstaltungen selbst sind die Gemeinden und Länder zuständig; das BBSA kümmert sich nur um den Krampus, wenn er außergewöhnlich wird.",
+        "Für Murmeltiere als solche sind die Naturschutzbehörden der Länder zuständig; das BBSA klärt lediglich, in welchem Land sie gerade wohnen.",
+        "Für Beschwerden über den Kaffee beim Parteienverkehr ist die Abteilung I/3 (Inneres Service) zuständig, nicht das Bundesverwaltungsgericht."
+      ]
+    },
     "leitbild": [
       {
         "titel": "Zuständig",
-        "text": "Wenn sich niemand zuständig fühlt, fühlen wir uns zuständig. Notfalls auch sonstig."
+        "text": "Wenn sich niemand zuständig fühlt, fühlen wir uns zuständig. Notfalls auch sonstig – und dann erst recht."
       },
       {
         "titel": "Gründlich",
-        "text": "Ein Akt ist erst erledigt, wenn er dreimal gestempelt ist."
+        "text": "Ein Akt ist erst erledigt, wenn er dreimal gestempelt, einmal paraphiert und zumindest kurz bewundert worden ist."
       },
       {
         "titel": "Gemütlich",
-        "text": "Wir lösen jedes Problem – nach dem Kaffee."
+        "text": "Wir lösen jedes Problem. Nach dem Kaffee, aber verlässlich vor dem Fenstertag."
+      },
+      {
+        "titel": "Föderal",
+        "text": "Wir sprechen mit allen neun Ländern – auch wenn sie gerade nicht miteinander reden."
       },
       {
         "titel": "Traditionsbewusst",
-        "text": "Wir modernisieren behutsam. Seit 1873."
+        "text": "Wir modernisieren behutsam. Seit 1873, und zwar ohne Hast."
       }
     ],
     "kennzahlen": [
@@ -60,6 +92,14 @@
       {
         "label": "Amtsstempel im Einsatz",
         "wert": "3.112"
+      },
+      {
+        "label": "Festgestellte Fenstertage 2027",
+        "wert": "7 + 1 Zwickeltag"
+      },
+      {
+        "label": "Tassen Melange je Bescheid (Ø)",
+        "wert": "2,4"
       }
     ],
     "leitungPersonId": "p-hinterberger-elisabeth",
@@ -103,7 +143,7 @@
     },
     "grusswort": {
       "titel": "Grußwort der Präsidentin",
-      "text": "Seit 1873 kümmern wir uns um alles, was besonders ist – und seit 1972 auch um alles Sonstige. Wir verbinden die Gründlichkeit der k.k. Verwaltung mit den Möglichkeiten der Digitalisierung. Kommen Sie vorbei; den Kaffee gibt es beim Parteienverkehr gratis."
+      "text": "Seit 1873 kümmern wir uns um alles, was besonders ist – und seit 1972 auch um alles Sonstige, also um ziemlich viel. Als ich 2021 mein Amt antrat, fand ich im Schreibtisch der Präsidentin drei Stempel, eine Kaffeemühle und einen Akt mit der Aufschrift „Nicht vor 2030 öffnen“; ich habe mich bisher daran gehalten. Unser Haus verbindet die Gründlichkeit der k.k. Verwaltung mit dem ELAK, und beides funktioniert erstaunlich gut nebeneinander. Wenn Sie ein Anliegen haben, für das sich sonst niemand zuständig fühlt, dann sind Sie bei uns richtig – und meistens auch schon ein bisschen besonders. Kommen Sie vorbei: Den Kaffee gibt es beim Parteienverkehr gratis, die Geduld auch."
     },
     "jahresberichtZitat": "Was besonders ist, entscheiden wir. Was sonstig ist, auch.",
     "hero": {
@@ -114,7 +154,7 @@
       "bild": "assets/img/at/hero/hero-stiege.jpg",
       "alt": "Prunkstiege im Amtsgebäude Wien"
     },
-    "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Keine Einrichtung der Republik Österreich.",
+    "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt. Keine Einrichtung der Republik Österreich.",
     "leitfadenKriterien": [
       "Der Sachverhalt ist besonders (→ besondere Angelegenheit)",
       "Der Sachverhalt ist nicht besonders, aber auch nicht gewöhnlich (→ sonstige Angelegenheit)",
@@ -134,27 +174,39 @@
     "geschichte": [
       {
         "jahr": "1873",
-        "ereignis": "Errichtung als „k.k. Hofamt für besondere Angelegenheiten“ in Wien, untergebracht in drei Zimmern über einem Kaffeehaus."
+        "ereignis": "Errichtung als „k.k. Hofamt für besondere Angelegenheiten“ im Jahr der Wiener Weltausstellung, untergebracht in drei Zimmern über einem Kaffeehaus. Erster Akt: ein Elefant, der sich keinem Pavillon zuordnen ließ."
+      },
+      {
+        "jahr": "1898",
+        "ereignis": "Einführung des Amtsstempels „Besonders“ in drei Größen. Die mittlere Größe ist bis heute in Verwendung, weil sie nie kaputtgegangen ist."
       },
       {
         "jahr": "1919",
-        "ereignis": "Umbenennung in „Staatsamt für besondere Angelegenheiten“; die Stempel werden bis 1923 weiterverwendet."
+        "ereignis": "Umbenennung in „Staatsamt für besondere Angelegenheiten“. Die k.k.-Stempel werden aus Sparsamkeit bis 1923 weiterverwendet, das „k.k.“ wird händisch durchgestrichen."
       },
       {
         "jahr": "1955",
-        "ereignis": "Neuerrichtung als Bundesamt durch das BBSA-Gesetz."
+        "ereignis": "Neuerrichtung als Bundesamt durch das BBSA-Gesetz. § 2 erhält seine bis heute gültige Auffangklausel: „und sonst, was übrig bleibt“."
       },
       {
         "jahr": "1972",
-        "ereignis": "Nach einem zehnjährigen Zuständigkeitsstreit Erweiterung um die „sonstigen Angelegenheiten“."
+        "ereignis": "Nach einem zehnjährigen Zuständigkeitsstreit darüber, wer für den Zuständigkeitsstreit zuständig ist, Erweiterung um die „sonstigen Angelegenheiten“."
+      },
+      {
+        "jahr": "1991",
+        "ereignis": "Eröffnung des Kuriositätenkabinetts mit 212 Exponaten, darunter ein Bescheid auf einer Semmelpapier-Rückseite aus 1931."
       },
       {
         "jahr": "2004",
-        "ereignis": "Eröffnung der Außenstelle Graz; 2011 folgt Innsbruck."
+        "ereignis": "Eröffnung der Außenstelle Graz für die besonderen Verfahren; 2011 folgt Innsbruck, nicht zuletzt wegen der Nähe zum Föhn."
+      },
+      {
+        "jahr": "2018",
+        "ereignis": "Umstellung auf den Elektronischen Akt (ELAK). Der Papierakt bleibt parallel bestehen, „bis sich der ELAK bewährt hat“."
       },
       {
         "jahr": "2026",
-        "ereignis": "Das BRbsA geht online – inklusive 380.000 handschriftlicher Einträge in Kurrentschrift."
+        "ereignis": "Das BRbsA geht online – inklusive 380.000 handschriftlicher Einträge in Kurrentschrift, entziffert mit Hilfe pensionierter Kolleginnen und Kollegen."
       }
     ]
   },
@@ -1782,7 +1834,21 @@
         "abt-1",
         "ref-11"
       ],
-      "rechtsgrundlage": "§ 2 BBSAG"
+      "rechtsgrundlage": "§ 2 BBSAG",
+      "details": [
+        "Nach § 2 BBSAG ist das BBSA für alle Angelegenheiten des Bundes zuständig, die keiner anderen Behörde zugewiesen sind – „und sonst, was übrig bleibt“. Das betrifft vor allem Sachen, die von anderen Bundesbehörden wegen Unzuständigkeit abgetreten werden, aber auch Ansuchen, die direkt beim BBSA einlangen. Die Abteilung II/1 prüft solche Eingänge grundsätzlich und weist sie der fachlich passenden Abteilung zu.",
+        "Darüber hinaus erarbeitet die Abteilung II/1 Erlässe und Grundsatzentscheidungen, die die Spruchpraxis aller Sektionen vereinheitlichen. Sie beantwortet Anfragen anderer Behörden, ob eine Sache beim BBSA richtig aufgehoben wäre, und führt die Liste der „Dauerzuständigkeiten“, die sich über die Jahre angesammelt haben. Das Ergebnis ist entweder eine Übernahme mit Zuweisung oder eine begründete Abtretung nach § 6 AVG."
+      ],
+      "beispiele": [
+        "Ein Ministerium tritt die Frage ab, wer für eine herrenlose Parkbank auf einer Bundesstraßenböschung zuständig ist.",
+        "Eine Gemeinde fragt an, wohin sie einen Fund von 400 Schreibmaschinenfarbbändern melden soll.",
+        "Ein Bürger ersucht um Klärung, welche Behörde für sein Anliegen zuständig ist, dessen Inhalt er „lieber persönlich erklären“ möchte."
+      ],
+      "leistung": {
+        "antrag": "Formloses Ansuchen oder Abtretung durch eine Behörde",
+        "dauer": "Zuweisung binnen 5 Werktagen",
+        "kosten": "gebührenfrei"
+      }
     },
     {
       "id": "auf-abgrenzung",
@@ -1792,7 +1858,23 @@
       "einheitIds": [
         "ref-12"
       ],
-      "rechtsgrundlage": "§ 3 BBSAG"
+      "rechtsgrundlage": "§ 3 BBSAG",
+      "details": [
+        "Die Abteilung II/2 entscheidet auf Antrag, ob ein Sachverhalt besonders, sonstig oder gewöhnlich ist. Antragsberechtigt sind alle Personen mit rechtlichem Interesse sowie Behörden, die für ihre eigene Zuständigkeit eine Vorfrage klären müssen. Grundlage der Prüfung ist der Abgrenzungsleitfaden mit 14 Kriterien, darunter das „Na-geh-Kriterium“.",
+        "Im Ermittlungsverfahren werden Unterlagen gesichtet, Parteien gehört und erforderlichenfalls Amtssachverständige beigezogen. Das Verfahren endet mit einem Feststellungsbescheid, der andere Bundesbehörden bindet. Im Zweifel lautet die Feststellung „sonstig“, weil sich das Besondere begründen lassen muss.",
+        "Wird eine Angelegenheit als gewöhnlich festgestellt, ist das BBSA nicht zuständig und tritt die Sache ab. Weil diese Feststellung erfahrungsgemäß als kränkend empfunden wird, ist dagegen ausdrücklich Beschwerde zulässig."
+      ],
+      "beispiele": [
+        "Ein Verein lässt feststellen, ob ein Kegelturnier auf einer Almhütte in 2.100 Meter Seehöhe eine besondere Angelegenheit ist.",
+        "Eine GesbR beantragt die Feststellung, ob sie einen Antrag stellen darf – und hat ihn damit gestellt.",
+        "Ein Unternehmen möchte wissen, ob ein Firmenjubiläum am 29. Februar besonders oder bloß selten ist.",
+        "Ein Bürger erhebt Beschwerde, weil sein Gartenzwerg-Ensemble als „gewöhnlich“ eingestuft wurde."
+      ],
+      "leistung": {
+        "antrag": "Formular BBSA-F3 samt Sachverhaltsdarstellung",
+        "dauer": "rund 3 Monate",
+        "kosten": "Bundesverwaltungsabgabe 14,30 Euro; bei Feststellung „gewöhnlich“ halbiert"
+      }
     },
     {
       "id": "auf-nachsicht",
@@ -1802,7 +1884,21 @@
       "einheitIds": [
         "ref-14"
       ],
-      "rechtsgrundlage": "§ 7 BBSAG"
+      "rechtsgrundlage": "§ 7 BBSAG",
+      "details": [
+        "Vorschriften werden für den Regelfall geschrieben, das Leben hält sich nicht immer daran. Nach § 7 BBSAG kann die Abteilung II/4 auf Antrag Nachsicht von einer Bundesvorschrift gewähren, wenn diese den konkreten Einzelfall erkennbar nicht vorhergesehen hat und ihre Anwendung zu einer unbilligen Härte führen würde.",
+        "Geprüft werden die Unvorhersehbarkeit des Falls, die Härte für die Partei und ob öffentliche Interessen entgegenstehen. Die Nachsicht ergeht mit Bescheid und kann befristet, mit Auflagen versehen oder auf bestimmte Personen, Tiere oder Gegenstände beschränkt werden. Sie wird im BRbsA eingetragen, damit sich niemand später auf eine Nachsicht beruft, die er gar nicht hat."
+      ],
+      "beispiele": [
+        "Ein Murmeltier erhält Nachsicht von der Pflicht, für die Dauer des Winterschlafs einen Hauptwohnsitz in einem Bundesland zu begründen.",
+        "Eine Blasmusikkapelle bekommt Nachsicht von einer Ruhezeitregelung für das Einspielen am Morgen des Bezirksmusikfests.",
+        "Ein Pensionist darf ein Formular ausnahmsweise mit Füllfeder statt mit Kugelschreiber ausfüllen."
+      ],
+      "leistung": {
+        "antrag": "Schriftliches Ansuchen mit Begründung des unvorhergesehenen Einzelfalls",
+        "dauer": "rund 6 Wochen",
+        "kosten": "Bundesverwaltungsabgabe 21,80 Euro"
+      }
     },
     {
       "id": "auf-laender",
@@ -1812,7 +1908,22 @@
       "einheitIds": [
         "ref-13"
       ],
-      "rechtsgrundlage": "§ 4 BBSAG"
+      "rechtsgrundlage": "§ 4 BBSAG",
+      "details": [
+        "Österreich hat neun Bundesländer und mindestens ebenso viele Auffassungen darüber, wo eines aufhört und das andere anfängt. Die Abteilung II/3 vermittelt, wenn ein Sachverhalt in mehreren Ländern zugleich liegt, wenn sich kein Land für zuständig hält oder wenn sich mehrere Länder gleichzeitig für zuständig halten.",
+        "Das Verfahren beginnt auf Ersuchen eines Landes, einer Gemeinde oder einer Partei, in dringenden Fällen auch von Amts wegen. Die betroffenen Länder werden zur Stellungnahme eingeladen, erforderlichenfalls werden Vermessungs- oder Sachverständigengutachten eingeholt und Vermittlungsgespräche geführt, bevorzugt an neutralen Orten. Bis zu einer Einigung kann das BBSA die Sache vorläufig als sonstige Angelegenheit des Bundes übernehmen.",
+        "Ergebnis ist ein Vermittlungsprotokoll, eine einvernehmliche Zuständigkeitsfeststellung oder, wenn alle Stricke reißen, eine Empfehlung an die Landeshauptleutekonferenz. Alle Ergebnisse werden im BRbsA eingetragen, damit der nächste vergleichbare Fall nicht wieder bei null beginnt. Erfahrungsgemäß kehren manche Grenzfälle, etwa wandernde Murmeltiere, regelmäßig wieder."
+      ],
+      "beispiele": [
+        "Ein Murmeltierbau am Arlberg hat den Eingang in Tirol und den Ausgang in Vorarlberg.",
+        "Ein Heuriger liegt mit der Schank in Wien und den Tischen in Niederösterreich.",
+        "Ein Skilift beginnt in Salzburg, endet in der Steiermark und bleibt bei Föhn genau auf der Grenze stehen."
+      ],
+      "leistung": {
+        "antrag": "Ersuchen eines Landes oder einer Gemeinde; Parteien formlos",
+        "dauer": "rund 3 Monate, je beteiligtem Land plus 2 Wochen",
+        "kosten": "für Gebietskörperschaften gebührenfrei"
+      }
     },
     {
       "id": "auf-verfahren",
@@ -1824,7 +1935,22 @@
         "ref-21",
         "ref-22"
       ],
-      "rechtsgrundlage": "§§ 9–14 BBSAG i. V. m. AVG"
+      "rechtsgrundlage": "§§ 9–14 BBSAG i. V. m. AVG",
+      "details": [
+        "Die Sektion III in Graz führt Verwaltungsverfahren durch, die nach Inhalt oder Umständen nicht in ein Regelverfahren passen. Die Abteilung III/1 führt die Verfahren nach dem BBSAG in erster Instanz: von der Ermittlung des Sachverhalts über das Parteiengehör bis zur mündlichen Verhandlung, die nie an einem Fenstertag stattfindet.",
+        "Die Abteilung III/2 verantwortet Bescheide besonderer Art. Dazu gehören Bescheide mit ungewöhnlichem Spruch, Bescheide an mehrere Bundesländer zugleich und Bescheide in besonderer Form, etwa in Gedichtform, wenn die Partei dies beantragt und der Inhalt es zulässt. Jeder Bescheid enthält eine ordnungsgemäße Begründung und Rechtsmittelbelehrung, auch wenn er sich reimt.",
+        "Die Verfahren werden vollständig im ELAK geführt; der Papierakt wird parallel mitgeführt, „bis sich der ELAK bewährt hat“. Parteien können jederzeit Akteneinsicht nehmen, elektronisch oder in der Außenstelle Graz während der Amtsstunden. Die durchschnittliche Verfahrensdauer lag 2025 bei 31 Werktagen."
+      ],
+      "beispiele": [
+        "Ein Bescheid über die Genehmigung eines Maibaums, der höher ist als der Kirchturm, ergeht nach Parteiantrag in vierzeiligen Strophen.",
+        "Ein Verfahren über ein Hausboot, das je nach Pegelstand in zwei Gemeinden liegt.",
+        "Eine mündliche Verhandlung findet mangels geeigneter Räume im Speisewagen eines Regionalzugs statt."
+      ],
+      "leistung": {
+        "antrag": "Ansuchen nach § 13 AVG, schriftlich oder elektronisch",
+        "dauer": "durchschnittlich 31 Werktage, längstens 6 Monate",
+        "kosten": "nach Bundesverwaltungsabgabenverordnung; Gedichtform ohne Aufpreis"
+      }
     },
     {
       "id": "auf-beschwerde",
@@ -1834,7 +1960,21 @@
       "einheitIds": [
         "ref-23"
       ],
-      "rechtsgrundlage": "§ 14 VwGVG"
+      "rechtsgrundlage": "§ 14 VwGVG",
+      "details": [
+        "Gegen Bescheide des BBSA kann binnen vier Wochen Beschwerde an das Bundesverwaltungsgericht erhoben werden. Die Beschwerde ist beim BBSA einzubringen, wo sie zunächst die Abteilung III/3 prüft. Sie muss den angefochtenen Bescheid bezeichnen, die Gründe für die Rechtswidrigkeit und ein Begehren enthalten. Ein bloßes „Na geh“ reicht dafür nicht aus, wird aber als Ausgangspunkt eines Verbesserungsauftrags gewertet.",
+        "Ist die Beschwerde berechtigt, kann das BBSA den Bescheid selbst mit Beschwerdevorentscheidung aufheben, abändern oder bestätigen. Andernfalls wird die Beschwerde samt Akt dem Bundesverwaltungsgericht vorgelegt; die Partei kann zudem binnen zwei Wochen nach einer Beschwerdevorentscheidung einen Vorlageantrag stellen. Die Abteilung achtet darauf, dass jede Vorlage vollständig, paginiert und frei von Kaffeeflecken ist."
+      ],
+      "beispiele": [
+        "Ein Antragsteller wehrt sich dagegen, dass sein Anliegen als „gewöhnlich“ festgestellt wurde.",
+        "Eine Gemeinde bekämpft die Ablehnung eines Zwickeltags, weil das Pfarrfest „sonst immer“ an einem Donnerstag sei.",
+        "Ein Bauwerber beschwert sich über einen föhnbedingten Bescheid und erhält statt eines Schwans ein Flachdach."
+      ],
+      "leistung": {
+        "antrag": "Schriftliche Beschwerde beim BBSA binnen 4 Wochen ab Zustellung",
+        "dauer": "Beschwerdevorentscheidung binnen 2 Monaten",
+        "kosten": "Eingabengebühr 30 Euro (fiktiv)"
+      }
     },
     {
       "id": "auf-fenstertage",
@@ -1844,7 +1984,23 @@
       "einheitIds": [
         "ref-24"
       ],
-      "rechtsgrundlage": "§ 16 BBSAG, Fenstertag-Feststellungsverordnung (fiktiv)"
+      "rechtsgrundlage": "§ 16 BBSAG, Fenstertag-Feststellungsverordnung (fiktiv)",
+      "details": [
+        "Die Abteilung III/4 stellt jedes Jahr durch Verordnung fest, welche Tage des Folgejahres Fenstertage sind. Ein Fenstertag liegt zwischen einem Feiertag und einem Wochenende; ein Zwickeltag zweiter Ordnung liegt zwischen zwei Urlaubswünschen. Grundlage ist eine Berechnungsformel aus 1958 mit 23 Variablen, die regionale Feiertage aller neun Bundesländer berücksichtigt.",
+        "Gemeinden, Interessenvertretungen und Betriebe können bis 30. September die Anerkennung zusätzlicher Zwickeltage beantragen. Über diese Ansuchen wird mit Feststellungsbescheid entschieden, positive Feststellungen fließen in die Kundmachung ein.",
+        "Die Feststellung begründet keinen Rechtsanspruch auf Urlaub. Sie dient als amtliche Orientierung für die Urlaubsplanung und als Gesprächsgrundlage mit Vorgesetzten. Die Kundmachung erscheint im Bundesgesetzblatt, auf der Website und am Schwarzen Brett aller drei Standorte."
+      ],
+      "beispiele": [
+        "Eine Gemeinde beantragt den Freitag nach ihrem Pfarrfest als Zwickeltag.",
+        "Ein Verein ersucht um Feststellung des 29. Februar 2027 als Fenstertag; der Antrag wird für 2028 vorgemerkt.",
+        "Ein Antragsteller möchte den Tag nach seinem Geburtstag anerkannt wissen – abgelehnt, mit Glückwünschen.",
+        "Eine Volksschulklasse aus dem Burgenland reicht einen gezeichneten Antrag ein, der als besonders protokolliert wird."
+      ],
+      "leistung": {
+        "antrag": "Formular BBSA-F16 bis 30. September des Vorjahres",
+        "dauer": "Entscheidung bis zur Kundmachung im Oktober",
+        "kosten": "gebührenfrei; Schulklassen erhalten ein Lesezeichen"
+      }
     },
     {
       "id": "auf-lage",
@@ -1855,7 +2011,21 @@
         "abt-3",
         "ref-31"
       ],
-      "rechtsgrundlage": "§ 18 BBSAG"
+      "rechtsgrundlage": "§ 18 BBSAG",
+      "details": [
+        "Das Lagezentrum Besonderheiten in Wien ist an 365 Tagen rund um die Uhr besetzt. Es nimmt Meldungen über Ereignisse entgegen, die nicht gefährlich, aber auch nicht gewöhnlich sind, bewertet sie und informiert die zuständigen Stellen in Bund, Ländern und Gemeinden.",
+        "Jede Meldung wird im ELAK als Lagemeldung erfasst und nach einem vierstufigen Schema eingestuft: gewöhnlich, sonstig, besonders, besonders und bemerkenswert. Gemeinsam mit der Abteilung IV/4 erarbeitet das Lagezentrum Szenarien für unwahrscheinliche Ereignisse und führt regelmäßig Stabsübungen durch, zuletzt die Übung „Krampusnacht“. Relevante Fälle werden als Präzedenzfall im BRbsA eingetragen."
+      ],
+      "beispiele": [
+        "Ein Krampus zieht ohne Nikolaus durch einen Pongauer Ort.",
+        "Eine Kuhherde blockiert bei einem Almabtrieb die Zufahrt zu einer Landesgrenze in beide Richtungen.",
+        "In einem Weinviertler Keller wird ein Fass gefunden, das älter ist als die Republik und noch voll."
+      ],
+      "leistung": {
+        "antrag": "Meldung rund um die Uhr telefonisch oder per E-Mail an das Lagezentrum",
+        "dauer": "Erstbewertung binnen 15 Minuten",
+        "kosten": "gebührenfrei"
+      }
     },
     {
       "id": "auf-foehn",
@@ -1865,7 +2035,22 @@
       "einheitIds": [
         "ref-32"
       ],
-      "rechtsgrundlage": "§ 18a BBSAG"
+      "rechtsgrundlage": "§ 18a BBSAG",
+      "details": [
+        "Die Abteilung IV/2 in Innsbruck erstellt Föhngutachten für Parteien, Behörden und Gerichte. Ein Bescheid gilt nach der Richtlinie RL-IV/2-2026/1 als föhnbedingt, wenn am Erlassungstag am Behördenstandort Südwind über 60 km/h gemessen wurde und zusätzlich ein Indiz vorliegt, etwa auffällig gute Fernsicht oder ein Bescheidinhalt, der mit dem Antrag nur entfernt verwandt ist.",
+        "Liegt ein Bescheidföhn vor, wird der Bescheid auf Antrag in föhnfreier Lage neu erlassen. Der Antrag ist binnen vier Wochen ab Zustellung zu stellen; die Frist ist gehemmt, solange am Wohnort der Partei Föhn herrscht.",
+        "Daneben begutachtet die Abteilung auch sonstige wetterbedingte Sonderfälle und Fälle von Wetterfühligkeit, sofern sie verwaltungsrechtlich relevant sind. Grundlage sind Messdaten der Wetterstationen an allen Behördenstandorten sowie ein standardisiertes Indizienschema. Für Westwetterlagen und Hochnebel wird derzeit eine eigene Richtlinie („Grauschleier“) erarbeitet."
+      ],
+      "beispiele": [
+        "Eine Gartenhütte mit Flachdach wurde an einem Föhntag „in Form eines Schwans“ genehmigt.",
+        "Ein Bescheid enthält 14 Nebensätze in einem einzigen Spruchpunkt.",
+        "Eine Gemeinde möchte wissen, ob ihr Gemeinderatsbeschluss über einen Kreisverkehr bei Föhn gefasst wurde."
+      ],
+      "leistung": {
+        "antrag": "Formular BBSA-F18a binnen 4 Wochen ab Bescheidzustellung",
+        "dauer": "rund 8 Wochen, bei anhaltendem Föhn länger",
+        "kosten": "Gutachten 38 Euro; bei festgestelltem Bescheidföhn wird die Gebühr erstattet"
+      }
     },
     {
       "id": "auf-kabinett",
@@ -1875,7 +2060,22 @@
       "einheitIds": [
         "ref-33"
       ],
-      "rechtsgrundlage": "§ 19 BBSAG"
+      "rechtsgrundlage": "§ 19 BBSAG",
+      "details": [
+        "Das Kuriositätenkabinett im Amtsgebäude Wien bewahrt Akten und Gegenstände, die die Eigenart der österreichischen Verwaltung dokumentieren. Seit der Eröffnung 1991 ist der Bestand von 212 auf über 1.200 Exponate gewachsen, darunter ein Bescheid auf Semmelpapier aus 1931 und eine Melange-Tasse mit ungeklärtem Aktenzeichen aus 1912.",
+        "Behörden und Privatpersonen können kuriose Stücke zur Aufnahme anbieten. Der Kustos prüft Herkunft, Kuriosität und Erhaltungszustand und verfügt die Aufnahme mit Inventarnummer oder die Rückstellung mit Dank. Gemeinsam mit dem Amtsarchiv werden außerdem historische Akten erschlossen und gegebenenfalls weiterermittelt.",
+        "Das Kabinett ist im Rahmen von Führungen jeden ersten Donnerstag im Monat öffentlich zugänglich. Schulklassen und Behördendelegationen können Sondertermine vereinbaren. Das Berühren der Exponate ist nicht gestattet, das Staunen ausdrücklich erwünscht."
+      ],
+      "beispiele": [
+        "Eine Melange-Tasse aus 1912 mit dem Aktenzeichen 1912/sonst./47 wird in einer Zwischendecke gefunden.",
+        "Eine Bezirkshauptmannschaft bietet einen Stempel mit der Aufschrift „Erledigt – vielleicht“ an.",
+        "Ein pensionierter Beamter überlässt dem Kabinett seine Sammlung von 840 Büroklammern aus allen Bundesländern."
+      ],
+      "leistung": {
+        "antrag": "Angebot oder Fundmeldung formlos an den Kustos; Führungen mit Anmeldung erwünscht",
+        "dauer": "Aufnahmeentscheidung binnen 2 Monaten",
+        "kosten": "Führung gratis; Kaffee aus der Ausstellung ausgeschlossen"
+      }
     },
     {
       "id": "auf-brbsa",
@@ -1887,7 +2087,22 @@
         "ref-41",
         "ref-43"
       ],
-      "rechtsgrundlage": "§§ 22–25 BBSAG"
+      "rechtsgrundlage": "§§ 22–25 BBSAG",
+      "details": [
+        "Im BRbsA wird jede rechtskräftig erledigte besondere oder sonstige Angelegenheit eingetragen – mit Geschäftszahl, Einstufung, Ergebnis und zuständiger Abteilung. Das Register umfasst 1.204.388 Einträge seit 1873, davon 380.000 in Kurrentschrift, die seit 2026 vollständig digitalisiert und durchsuchbar sind.",
+        "Die Abteilung V/1 führt das Register und erteilt Auskünfte an Behörden sowie an Personen mit rechtlichem Interesse; auf Wunsch wird Einträgen in Kurrentschrift eine Transkription beigelegt. Die Abteilung V/3 entwickelt die Schnittstelle, über die Behörden ab 2027 automatisiert abfragen können, und prüft die Veröffentlichung ausgewählter Daten als Open Government Data."
+      ],
+      "beispiele": [
+        "Eine Behörde fragt an, ob eine Angelegenheit schon einmal als besonders eingestuft wurde (Treffer: 1931).",
+        "Eine Familienforscherin sucht den Eintrag ihres Urgroßvaters, der 1904 einen Dackel im Protokollbuch gezeichnet hat.",
+        "Eine Gemeinde beantragt einen Auszug über alle Zwickeltage, die je für sie festgestellt wurden.",
+        "Ein Unternehmen möchte wissen, ob seine Lieferdrohne mit Heimweh bereits eingetragen ist."
+      ],
+      "leistung": {
+        "antrag": "Formular BBSA-F22 oder Behördenschnittstelle (ab 2027)",
+        "dauer": "Auskunft binnen 10 Werktagen",
+        "kosten": "Registerauszug 9,60 Euro; Transkription Kurrentschrift 4,20 Euro je Seite; für Behörden gebührenfrei"
+      }
     },
     {
       "id": "auf-formulare",
@@ -1897,7 +2112,21 @@
       "einheitIds": [
         "ref-z4"
       ],
-      "rechtsgrundlage": "§ 6 BBSAG"
+      "rechtsgrundlage": "§ 6 BBSAG",
+      "details": [
+        "Die Abteilung I/4 gibt alle derzeit 418 Formulare des BBSA heraus, hält sie aktuell und legt bei Bedarf neue auf. Mit dem Formular BBSA-F0 können sämtliche Formulare in einem einzigen Ansuchen angefordert werden; fehlt ein passendes Formular, kann dies im Feld 14 vermerkt werden.",
+        "Außerdem verwaltet die Abteilung die 3.112 Amtsstempel des Hauses, vom Eingangsstempel bis zum historischen Stempel „Besonders (mittel)“ aus 1898. Sie sorgt für Stempelkissen, Tinte und die jährliche Stempelinventur, verleiht Eingangsstempel beim Parteienverkehr und entscheidet über die Ausmusterung von Stempeln an das Kuriositätenkabinett."
+      ],
+      "beispiele": [
+        "Ein Bürger fordert mit dem F0 elf Formulare an und erhält zusätzlich das F407 für den Fall, dass er eines verliert.",
+        "Ein Verein beantragt ein eigenes Formular für die Anmeldung von Haustieren zu Führungen – es wird aufgelegt.",
+        "Eine Besucherin gibt einen versehentlich mitgenommenen Eingangsstempel nach drei Jahren mit einer Packung Haselnussschnitten zurück."
+      ],
+      "leistung": {
+        "antrag": "Formular BBSA-F0 oder formlos beim Parteienverkehr",
+        "dauer": "5 Werktage; neue Formulare rund 3 Monate",
+        "kosten": "gebührenfrei"
+      }
     }
   ],
   "news": [
@@ -1905,12 +2134,19 @@
       "id": "2026-10-jahresbericht",
       "datum": "2026-10-30",
       "kategorie": "Presseaussendung",
-      "titel": "Jahresbericht 2025: Rekord bei sonstigen Angelegenheiten",
-      "teaser": "Erstmals seit 1972 übersteigt die Zahl der sonstigen Angelegenheiten jene der besonderen. Präsidentin Hinterberger: „Ein Zeichen der Zeit.“",
+      "titel": "Jahresbericht 2025: Erstmals mehr Sonstiges als Besonderes",
+      "teaser": "Von 27.431 erledigten Akten betrafen 14.012 sonstige Angelegenheiten – erstmals seit 1972 mehr als besondere. Präsidentin Hinterberger spricht von einem „Zeichen der Zeit“, der Pressesprecher von einem „Zeichen der Zeit, aber sonstig“.",
       "text": [
-        "Das BBSA hat heute in Wien seinen Jahresbericht 2025 präsentiert. Von 27.431 erledigten Akten betrafen 14.012 sonstige und 13.419 besondere Angelegenheiten.",
-        "„Was besonders ist, entscheiden wir. Was sonstig ist, auch“, sagte Präsidentin Mag.a Dr.in Elisabeth Hinterberger.",
-        "Die durchschnittliche Verfahrensdauer sank auf 31 Werktage. Nicht eingerechnet sind Fenstertage, deren Status gesondert festgestellt wird."
+        "Das Bundesamt für besondere und sonstige Angelegenheiten (BBSA) hat heute im Festsaal des Amtsgebäudes in Wien seinen Jahresbericht 2025 präsentiert. Der Bericht umfasst 212 Seiten, drei Beilagen und ein Lesezeichen mit dem Aufdruck „Im Zweifel sonstig“. Er liegt ab sofort in der Einlaufstelle auf und kann während der Amtsstunden kostenlos mitgenommen werden, solange der Vorrat reicht.",
+        "## Die Zahlen im Überblick",
+        "Im Berichtsjahr wurden 27.431 Akten erledigt. Davon betrafen 14.012 sonstige und 13.419 besondere Angelegenheiten. Damit übersteigt die Zahl der sonstigen Angelegenheiten erstmals seit ihrer Einführung im Jahr 1972 jene der besonderen. Weitere 2.807 Ansuchen wurden als gewöhnlich eingestuft und nach § 6 AVG an die zuständigen Behörden abgetreten, in 41 Fällen mit dem ausdrücklichen Vermerk „mit besten Grüßen und Bedauern“. Die durchschnittliche Verfahrensdauer sank von 34 auf 31 Werktage. Nicht eingerechnet sind Fenstertage, deren Status gesondert durch die Abteilung III/4 festgestellt wird, sowie ein Akt aus der Sektion IV, der nach eigener Auskunft „noch reift“.",
+        "„Was besonders ist, entscheiden wir. Was sonstig ist, auch“, sagte Präsidentin Mag.a Dr.in Elisabeth Hinterberger bei der Präsentation. „Dass das Sonstige heuer vorne liegt, ist ein Zeichen der Zeit. Die Welt wird nicht unbedingt besonderer, aber sie passt immer seltener in eine bestehende Zuständigkeit. Dafür gibt es uns.“",
+        "## Was besonders auffiel",
+        "Unter den bemerkenswerten Verfahren des Jahres nennt der Bericht unter anderem 318 Ansuchen auf Feststellung eines Zwickeltags, 96 Föhngutachten, 14 Murmeltier-Grenzfälle sowie einen Antrag auf Feststellung, ob der Jahresbericht selbst eine besondere oder sonstige Angelegenheit sei. Letzterer wurde von der Abteilung II/2 als sonstig eingestuft, da der Bericht „zwar jährlich, aber nie gleich“ erscheine. Die Zahl der Amtsstempel stieg auf 3.112, jene der Stempelkissen nach einer Beschaffungsoffensive auf 1.208. Der Kaffeeverbrauch beim Parteienverkehr lag bei 41.300 Tassen, davon 62 Prozent Melange und 1 Prozent Tee, der laut Bericht „ebenfalls ausgegeben wurde, wenn auch mit leiser Verwunderung“.",
+        "Der Pressesprecher des Amtes, Florian Auer, MA, wies darauf hin, dass der Bericht erstmals auch in barrierefreier digitaler Form und im ELAK verfügbar ist. „Wir haben ihn außerdem in Kurrentschrift gesetzt, für unsere treuesten Leserinnen und Leser im Ruhestand“, so Auer. „Die Rückmeldungen waren ausgezeichnet, wenn auch langsam.“",
+        "## Ausblick auf 2026",
+        "Für das laufende Jahr erwartet das Amt eine weitere Zunahme sonstiger Angelegenheiten, insbesondere durch neue Technologien, für die es noch keine Zuständigkeit gibt. Die Präsidentin kündigte an, die Abgrenzung zwischen Besonderem und Sonstigem im nächsten Jahr wissenschaftlich begleiten zu lassen. Ein entsprechender Forschungsauftrag wurde bereits erteilt, die Zuständigkeit dafür wird derzeit noch festgestellt.",
+        "Hinweis für Antragstellende: Wer mit seiner Angelegenheit nicht im Jahresbericht vorkommt, war deshalb nicht weniger besonders. Eine statistische Nichterwähnung stellt keinen Bescheid dar und ist nicht beschwerdefähig."
       ],
       "bild": "assets/img/at/news/2026-10-jahresbericht.jpg",
       "einheitId": "stab-pk",
@@ -1926,12 +2162,18 @@
       "id": "2026-10-fenstertage",
       "datum": "2026-10-12",
       "kategorie": "Kundmachung",
-      "titel": "Fenstertage 2027 kundgemacht: Sieben Fenstertage und ein Zwickeltag",
-      "teaser": "Die Abteilung III/4 hat die Fenstertage für 2027 festgestellt. Erstmals wurde auch ein „Zwickeltag zweiter Ordnung“ anerkannt.",
+      "titel": "Fenstertage 2027 kundgemacht: Sieben Fenstertage und ein Zwickeltag zweiter Ordnung",
+      "teaser": "Die Abteilung III/4 hat die Fenstertage für 2027 festgestellt. Erstmals wird ein „Zwickeltag zweiter Ordnung“ anerkannt – ein Tag, der nicht zwischen Feiertag und Wochenende, sondern zwischen zwei Urlaubswünschen liegt.",
       "text": [
-        "Mit der heutigen Kundmachung stehen die Fenstertage 2027 fest. Neben sieben klassischen Fenstertagen wurde der Montag nach dem Pfingstmontag als Zwickeltag zweiter Ordnung eingestuft.",
-        "„Ein Zwickeltag zweiter Ordnung liegt vor, wenn er nicht zwischen Feiertag und Wochenende, aber zwischen zwei Urlaubswünschen liegt“, erläuterte Regierungsrat Herbert Brückl.",
-        "Sektionschef Univ.-Prof. Dr. Klaus Moosbrugger betonte, dass die Kundmachung keinen Rechtsanspruch auf Urlaub begründe, „aber doch einen gewissen moralischen“."
+        "Mit der heutigen Kundmachung der Fenstertag-Feststellungsverordnung 2027 (BGBl. II Nr. 317/2026, fiktiv) stehen die Fenstertage des kommenden Jahres fest. Die Abteilung III/4 „Fristen, Feiertage und Fenstertage“ in der Außenstelle Graz hat dazu insgesamt 318 Ansuchen von Gemeinden, Interessenvertretungen, Betrieben und einer Volksschulklasse aus dem Burgenland geprüft. Festgestellt wurden sieben klassische Fenstertage und – erstmals in der Geschichte des Amtes – ein Zwickeltag zweiter Ordnung.",
+        "## Was ein Zwickeltag zweiter Ordnung ist",
+        "Als Zwickeltag zweiter Ordnung wurde der Montag nach dem Pfingstmontag eingestuft. „Ein Fenstertag liegt zwischen einem Feiertag und einem Wochenende. Ein Zwickeltag zweiter Ordnung liegt vor, wenn er nicht zwischen Feiertag und Wochenende, aber zwischen zwei Urlaubswünschen liegt“, erläuterte Abteilungsleiter Regierungsrat Herbert Brückl. Maßgeblich sei die sogenannte Brückenwirkung, die das Amt anhand einer Formel aus dem Jahr 1958 berechnet. Die Formel ist im Anhang der Verordnung abgedruckt und umfasst 23 Variablen, darunter die „Schulferiennähe“ und den „Wetterbericht der Vorwoche“.",
+        "Regierungsrat Brückl selbst nimmt Fenstertage aus Prinzip nicht in Anspruch. „Jemand muss ja da sein, wenn jemand anruft, um zu fragen, ob heute ein Fenstertag ist“, sagte er. Im vergangenen Jahr seien an Fenstertagen durchschnittlich 4,7 solcher Anrufe pro Stunde eingegangen. Die meisten davon kamen von Personen, die sich gerade im Urlaub befanden und sich vergewissern wollten, dass sie diesen zu Recht genießen. Brückl beantwortet solche Anrufe nach eigener Aussage „wahrheitsgemäß, aber schonend“.",
+        "## Rechtliche Einordnung",
+        "Sektionschef Univ.-Prof. Dr. Klaus Moosbrugger betonte, dass die Kundmachung keinen Rechtsanspruch auf Urlaub begründe, „aber doch einen gewissen moralischen“. Die Feststellung eines Fenstertags bindet weder Dienstgeber noch Schulen, sie dient jedoch als amtliche Orientierung für die Urlaubsplanung in allen neun Bundesländern. „Wir stellen fest, dass ein Tag ein Fenster hat. Ob man hinausschaut, entscheidet jeder selbst“, so Moosbrugger.",
+        "Abgelehnt wurden unter anderem ein Ansuchen auf Anerkennung des Tages nach dem Geburtstag des Antragstellers als Zwickeltag sowie der Antrag eines Vereins, den 29. Februar 2027 als Fenstertag festzustellen. Letzterer scheiterte daran, dass es diesen Tag 2027 nicht gibt. Die Abteilung III/4 hat den Antrag dennoch nicht zurückgewiesen, sondern zur Wiedervorlage im Jahr 2028 vorgemerkt.",
+        "Wie jedes Jahr erfolgte die Kundmachung traditionell am letzten Arbeitstag vor einem Fenstertag. Die vollständige Liste ist auf der Website, im Amtsblatt und in Papierform am Schwarzen Brett aller drei Standorte einsehbar. Für Gemeinden mit eigenen Landesfeiertagen enthält sie eine Beilage mit neun Spalten, eine pro Bundesland, die nach Auskunft der Abteilung „im Querformat am besten zur Geltung kommt“.",
+        "Hinweis für Antragstellende: Ansuchen auf Anerkennung weiterer Zwickeltage für 2028 können ab 1. Jänner mit dem Formular BBSA-F16 eingebracht werden. Die Frist endet am 30. September – auch dann, wenn dieser selbst ein Fenstertag sein sollte."
       ],
       "bild": "assets/img/at/news/2026-10-fenstertage.jpg",
       "einheitId": "ref-24",
@@ -1947,12 +2189,20 @@
       "id": "2026-09-melange-tasse",
       "datum": "2026-09-21",
       "kategorie": "Meldung",
-      "titel": "Kuriositätenkabinett: Melange-Tasse aus 1912 mit ungeklärtem Aktenzeichen ausgestellt",
-      "teaser": "Die Tasse wurde bei Renovierungsarbeiten in einer Zwischendecke gefunden – mit einem Aktenzeichen, das keinem bekannten Akt zuzuordnen ist.",
+      "titel": "Kuriositätenkabinett: Melange-Tasse aus 1912 mit rätselhaftem Aktenzeichen ausgestellt",
+      "teaser": "Bei Renovierungsarbeiten wurde in einer Zwischendecke eine Porzellantasse aus 1912 gefunden – mit einem Aktenzeichen der Kategorie „sonstig“, die es damals noch gar nicht gab. Der Kustos spricht von einem Irrtum oder einer Prophezeiung.",
       "text": [
-        "Das Kuriositätenkabinett des BBSA zeigt ab sofort eine Porzellantasse aus dem Jahr 1912, an der ein Aktenvermerk mit Bindfaden befestigt ist.",
-        "„Das Aktenzeichen lautet 1912/sonst./47. Die Kategorie ‚sonstig‘ gab es damals aber noch gar nicht“, sagt Kustos Hofrat Dr. Ferdinand Schnitzler. „Das ist entweder ein Irrtum oder eine Prophezeiung.“",
-        "Die Tasse ist jeden ersten Donnerstag im Monat bei den Führungen zu besichtigen. Kaffee darf daraus nicht getrunken werden."
+        "Das Kuriositätenkabinett des BBSA zeigt ab sofort ein neues Exponat: eine Porzellantasse aus dem Jahr 1912, an deren Henkel ein Aktenvermerk mit Bindfaden befestigt ist. Die Tasse wurde im Frühjahr bei Renovierungsarbeiten im zweiten Stock des Amtsgebäudes in Wien entdeckt, eingeklemmt zwischen zwei Deckenbalken und einer Ausgabe des „Fremden-Blatts“ vom 14. März 1912.",
+        "## Der Fund",
+        "Die Arbeiter der beauftragten Baufirma meldeten den Fund ordnungsgemäß der Abteilung I/3 „Amtsgebäude und Inneres Service“, die ihn wiederum an das Kuriositätenkabinett weiterleitete. Die Tasse ist bis auf einen kleinen Sprung am Rand unbeschädigt. Am Boden befindet sich ein angetrockneter Rest, den ein Gutachten der Abteilung IV/2 als „mit hoher Wahrscheinlichkeit Melange, mittlere Schaumdichte“ identifizierte. Ein Löffel wurde trotz gründlicher Suche nicht gefunden, was der Kustos als „aktenkundigen Schwund“ vermerkte.",
+        "Rätselhaft ist der befestigte Aktenvermerk. „Das Aktenzeichen lautet 1912/sonst./47. Die Kategorie ‚sonstig‘ gab es damals aber noch gar nicht – sie wurde erst 1972 eingeführt“, sagt Kustos Hofrat Dr. Ferdinand Schnitzler. „Das ist entweder ein Irrtum oder eine Prophezeiung. Ich tendiere aus wissenschaftlicher Vorsicht zu beidem.“",
+        "## Die Ermittlungen",
+        "Das Amtsarchiv hat sämtliche Protokollbücher des Jahres 1912 durchsucht. Gefunden wurden die Akten 1912/bes./46 (eine besondere Angelegenheit betreffend einen Hofkutscher mit zwei Dienstpferden derselben Farbe) und 1912/bes./48 (eine Beschwerde über zu laute Taubenfütterung am Ballhausplatz). Der Akt Nummer 47 fehlt. Im Protokollbuch findet sich an seiner Stelle nur eine Bleistiftnotiz: „Nach dem Kaffee“.",
+        "Die Registerführung des BRbsA hat den Akt daraufhin als „offen seit 1912“ eingetragen. Er ist damit der älteste offene Akt des Amtes und löst einen Akt über einen Hofhund ohne Zuständigkeit aus 1874 ab, der im Vorjahr endgültig erledigt werden konnte. Die Tasse erhielt mit Aufnahmeverfügung des Kustos die Inventarnummer KK-1.204 und wird nach den Grundsätzen des § 19 BBSAG verwahrt.",
+        "„Wir werden den Akt weiter ermitteln, aber ohne Eile“, so Schnitzler. „Wer 114 Jahre gewartet hat, wartet auch noch bis nach der Mittagspause.“ Als nächsten Schritt will das Amtsarchiv die Dienstpläne des Jahres 1912 auswerten, um festzustellen, wer am fraglichen Tag Kaffeedienst hatte. Erste Spuren führen zu einem Kanzleioffizial namens Wenzel Hrdlička, über den bisher nur bekannt ist, dass er „sehr ordentlich“ war.",
+        "## Besichtigung",
+        "Die Tasse ist in einer klimatisierten Vitrine im Raum 3 des Kuriositätenkabinetts ausgestellt, zwischen dem Bescheid auf Semmelpapier aus 1931 und dem ältesten noch funktionsfähigen Amtsstempel „Besonders (mittel)“ aus 1898. Sie kann jeden ersten Donnerstag im Monat im Rahmen der Führungen besichtigt werden. Eine Anmeldung ist erwünscht, aber nicht erforderlich.",
+        "Hinweis für Besucherinnen und Besucher: Aus der Tasse darf kein Kaffee getrunken werden. Für Hinweise zum Verbleib des Akts 1912/sonst./47 ist das Kuriositätenkabinett dankbar; Kurrentschrift wird gerne entgegengenommen."
       ],
       "bild": "assets/img/at/news/2026-09-melange-tasse.jpg",
       "einheitId": "ref-33",
@@ -1968,11 +2218,19 @@
       "datum": "2026-08-28",
       "kategorie": "Presseaussendung",
       "titel": "Neue Richtlinie: Föhnbedingte Bescheide können neu erlassen werden",
-      "teaser": "Wer glaubt, dass sein Bescheid unter Föhneinfluss zustande gekommen ist, kann ab 1. September ein Gutachten beantragen.",
+      "teaser": "Wer vermutet, dass sein Bescheid unter Föhneinfluss zustande gekommen ist, kann ab 1. September ein Föhngutachten beantragen. Liegt ein „Bescheidföhn“ vor, wird in föhnfreier Lage neu entschieden.",
       "text": [
-        "Die Abteilung IV/2 in Innsbruck hat eine Richtlinie zur Behandlung föhnbedingter Bescheide erlassen.",
-        "„Föhn beeinflusst nachweislich Stimmung und Konzentration. Das darf sich nicht auf die Qualität von Bescheiden auswirken“, erklärt Abteilungsleiterin Dr.in Veronika Lechner.",
-        "Als föhnbedingt gilt ein Bescheid, wenn am Tag seiner Erlassung am Standort der Behörde Windgeschwindigkeiten über 60 km/h aus südlicher Richtung gemessen wurden."
+        "Die Abteilung IV/2 „Föhn, Wetterfühligkeit und Unvorhergesehenes“ in der Außenstelle Innsbruck hat eine Richtlinie zur Behandlung föhnbedingter Bescheide erlassen (Richtlinie RL-IV/2-2026/1). Sie tritt mit 1. September in Kraft und regelt erstmals bundeseinheitlich, wann ein Bescheid als föhnbedingt gilt und wie Betroffene eine Neuerlassung erwirken können.",
+        "## Warum es die Richtlinie braucht",
+        "„Föhn beeinflusst nachweislich Stimmung und Konzentration. Das darf sich nicht auf die Qualität von Bescheiden auswirken“, erklärt Abteilungsleiterin Dr.in Veronika Lechner, Meteorologin und seit Jahren mit der Erforschung des sogenannten Bescheidföhns befasst. Eine interne Auswertung von 4.218 Bescheiden aus den Jahren 2015 bis 2025 hatte ergeben, dass an Föhntagen der Anteil an Nebensätzen um 23 Prozent steigt und die Zahl der Beistriche „auffällig kreativ“ verteilt wird.",
+        "Als Anlassfall gilt ein Bescheid aus dem Frühjahr, mit dem einem Innsbrucker Bauwerber die Errichtung einer Gartenhütte „in Form eines Schwans“ genehmigt wurde. Beantragt hatte er ein Flachdach. Das Föhngutachten stellte für den Erlassungstag Südwind mit 74 km/h am Standort der Behörde fest.",
+        "## Die Kriterien",
+        "Als föhnbedingt gilt ein Bescheid nach der Richtlinie, wenn am Tag seiner Erlassung am Standort der erlassenden Behörde Windgeschwindigkeiten über 60 km/h aus südlicher Richtung gemessen wurden und zusätzlich mindestens eines von drei Indizien vorliegt: eine erhöhte Zahl an Kopfschmerzmeldungen in der Dienststelle, eine auffallend gute Fernsicht auf die Nordkette oder ein Bescheidinhalt, der „mit dem Antrag nur noch entfernt verwandt“ ist. Die Abteilung IV/2 bewertet diese Indizien in einem standardisierten Föhngutachten (Formular BBSA-F18a).",
+        "Der Antrag ist binnen vier Wochen ab Zustellung des Bescheids einzubringen. Die Frist ist gehemmt, solange am Wohnort der Partei selbst Föhn herrscht. Liegt ein Bescheidföhn vor, wird der Bescheid an einem föhnfreien Tag neu erlassen; die Partei kann dabei auf Wunsch den alten Bescheid behalten, etwa als Erinnerungsstück.",
+        "Sektionschefin Mag.a Brigitte Leitner sieht in der Richtlinie einen Beitrag zur Rechtssicherheit, insbesondere in den westlichen Bundesländern. „Wir werfen niemandem vor, wetterfühlig zu sein. Aber ein Bescheid sollte sich nicht danach richten, aus welcher Richtung der Wind weht“, so Leitner. Die Richtlinie gilt für alle Bundesbehörden, die sich ihr freiwillig unterwerfen. Zwei Landesverwaltungen haben bereits Interesse bekundet, eine davon an einem Föhntag.",
+        "## Was nicht erfasst ist",
+        "Nicht erfasst sind Bescheide, die bei Westwetterlage, Inversion oder Hochnebel ergangen sind. Für diese Fälle prüft die Abteilung IV/2 derzeit eine eigene Richtlinie mit dem Arbeitstitel „Grauschleier“. Ebenfalls ausgenommen sind Bescheide, die bei Föhn in Wien erlassen wurden, weil es dort nach Auskunft der Abteilung „keinen echten Föhn gibt, nur Leute, die davon gehört haben“.",
+        "Hinweis für Antragstellende: Ein Föhngutachten ersetzt keine Beschwerde. Wer mit dem Inhalt seines Bescheids auch bei Windstille nicht einverstanden ist, muss die Beschwerdefrist gesondert wahren."
       ],
       "bild": "assets/img/at/news/2026-08-foehn-richtlinie.jpg",
       "einheitId": "ref-32",
@@ -1989,11 +2247,17 @@
       "datum": "2026-07-15",
       "kategorie": "Meldung",
       "titel": "Neu: Das Formular zur Beantragung von Formularen (BBSA-F0)",
-      "teaser": "Ab sofort können alle Formulare des Amtes mit einem einzigen Formular beantragt werden. Das Formular F0 selbst ist formlos erhältlich.",
+      "teaser": "Ab sofort können alle 418 Formulare des Amtes mit einem einzigen Formular beantragt werden. Das Formular F0 selbst ist formlos erhältlich – vorerst.",
       "text": [
-        "Die Abteilung I/4 hat mit dem Formular BBSA-F0 eine Vereinfachung eingeführt: Statt jedes Formular einzeln anzufordern, genügt nun ein Antrag auf Formulare.",
-        "„Wir haben lange überlegt, ob man für das Formular F0 ein eigenes Formular braucht. Wir haben uns dagegen entschieden – vorerst“, sagt Oberamtsrat Alois Stempfl.",
-        "Das Formular ist dreifach auszufüllen und mit dem Eingangsstempel zu versehen, den man beim Parteienverkehr ausleihen kann."
+        "Die Abteilung I/4 „Formular- und Stempelwesen“ hat mit dem Formular BBSA-F0 eine bedeutende Verwaltungsvereinfachung eingeführt. Statt jedes der derzeit 418 Formulare des Amtes einzeln anzufordern, genügt nun ein einziges Ansuchen auf Ausfolgung von Formularen. Das neue Formular umfasst vier Seiten und eine Ankreuzliste, in der sämtliche Formulare nach Nummer, Titel und Farbe des Durchschlagpapiers aufgeführt sind.",
+        "## Wie es dazu kam",
+        "Auslöser war eine Auswertung des Parteienverkehrs aus dem Vorjahr. Demnach verbrachten Antragstellende im Durchschnitt 17 Minuten damit, das richtige Formular zu finden, und weitere 9 Minuten damit, das Formular für den Fall zu suchen, dass sie das richtige Formular nicht finden. In 312 Fällen wurde ausdrücklich nach „dem Formular, mit dem man ein Formular bekommt“ gefragt. Ein solches gab es bis dahin nicht.",
+        "„Wir haben lange überlegt, ob man für das Formular F0 ein eigenes Formular braucht. Wir haben uns dagegen entschieden – vorerst“, sagt Oberamtsrat Alois Stempfl, Leiter der Abteilung I/4 und Hüter von 3.112 Amtsstempeln. Ein entsprechender Entwurf mit der vorläufigen Bezeichnung BBSA-F(-1) liege allerdings „in der zweiten Lade von oben“ bereit, falls die Nachfrage es erfordere.",
+        "## Wie das Formular funktioniert",
+        "Das Formular BBSA-F0 ist dreifach auszufüllen: ein Exemplar für die Partei, eines für den Akt und eines für die Formularstatistik. Es ist mit dem Eingangsstempel zu versehen, den man beim Parteienverkehr ausleihen kann; ein Pfand ist nicht erforderlich, die Rückgabe wird aber freundlich erwartet. Die angeforderten Formulare werden binnen fünf Werktagen per Post übermittelt oder können persönlich abgeholt werden.",
+        "Wer ein Formular benötigt, das es noch nicht gibt, kann dies im Feld 14 („Sonstiges Formular“) vermerken. Die Abteilung I/4 prüft dann, ob ein neues Formular aufzulegen ist. Seit Einführung des F0 sind auf diesem Weg bereits drei neue Formulare entstanden, darunter das Formular BBSA-F407 zur Meldung eines verlorenen Formulars. Die beiden anderen betreffen die Anmeldung eines Haustiers zur Führung durch das Kuriositätenkabinett und die Rückgabe eines versehentlich mitgenommenen Eingangsstempels, die bisher nur „mit schlechtem Gewissen und ohne Vordruck“ möglich war. Alle drei Formulare sind über das F0 erhältlich, das F407 außerdem über sich selbst.",
+        "Sektionschef Mag. Gerhard Wallner, Leiter der Präsidialsektion, zeigte sich zufrieden: „Das F0 ist der Beweis, dass Entbürokratisierung auch mit Formularen gelingt. Man muss sie nur richtig stapeln.“ Er kündigte an, das Formular im kommenden Jahr auch im Bürgerportal als ausfüllbares PDF anzubieten, das allerdings weiterhin auszudrucken und zu stempeln sein wird.",
+        "Hinweis für Antragstellende: Das Formular BBSA-F0 ist formlos erhältlich – telefonisch, per E-Mail oder durch freundliches Fragen beim Parteienverkehr. Ein Ansuchen auf Ausfolgung des F0 mit dem F0 selbst ist zulässig, wird aber als sonstige Angelegenheit protokolliert."
       ],
       "bild": "assets/img/at/news/2026-07-formular-f0.jpg",
       "einheitId": "ref-z4",
@@ -2010,11 +2274,18 @@
       "datum": "2026-06-09",
       "kategorie": "Presseaussendung",
       "titel": "BRbsA online: 1,2 Millionen Einträge seit 1873 digitalisiert",
-      "teaser": "Auch 380.000 handschriftliche Einträge in Kurrentschrift sind nun durchsuchbar. Die älteste Eintragung betrifft einen Hofhund ohne Zuständigkeit.",
+      "teaser": "Auch 380.000 handschriftliche Einträge in Kurrentschrift sind nun durchsuchbar. Die älteste Eintragung betrifft einen Hofhund ohne Zuständigkeit, die jüngste eine Drohne mit Heimweh.",
       "text": [
-        "Mit dem Start des digitalen Bundesregisters besonderer und sonstiger Angelegenheiten (BRbsA) ist die Digitalisierung des Amtes einen großen Schritt weiter.",
-        "„Die Texterkennung für Kurrentschrift haben wir gemeinsam mit unseren pensionierten Kolleginnen und Kollegen trainiert“, erklärt Registerführer Mag. Karl Pospischil.",
-        "Sektionschef DI Stefan Gruber kündigte an, dass Behörden ab 2027 über eine Schnittstelle Auskünfte abrufen können."
+        "Mit dem Start des digitalen Bundesregisters besonderer und sonstiger Angelegenheiten (BRbsA) ist die Digitalisierung des BBSA einen großen Schritt weiter. Seit heute sind alle 1.204.388 Einträge seit 1873 elektronisch erfasst und für berechtigte Behörden durchsuchbar – darunter 380.000 handschriftliche Einträge in Kurrentschrift, 12.000 in Gabelsberger Kurzschrift und 47 Einträge, die nach Auskunft der Registerführung „in einer Handschrift verfasst sind, die man nur als entschlossen bezeichnen kann“.",
+        "## Wie die Kurrentschrift ins Register kam",
+        "Die größte Herausforderung war die Texterkennung der historischen Einträge. Handelsübliche Software scheiterte bereits an der ersten Seite des Protokollbuchs von 1873. „Die Texterkennung für Kurrentschrift haben wir gemeinsam mit unseren pensionierten Kolleginnen und Kollegen trainiert“, erklärt Registerführer Mag. Karl Pospischil, Leiter der Abteilung V/1. In 214 Arbeitssitzungen im Amtskaffeehaus haben 38 Ruheständlerinnen und Ruheständler rund 90.000 Einträge händisch transkribiert, mit denen das System anschließend lernte. Verbraucht wurden dabei 6.400 Melangen und 1.900 Stück Topfengolatschen.",
+        "Die Erkennungsquote liegt inzwischen bei 97,3 Prozent. Bei den verbleibenden Einträgen handelt es sich überwiegend um Randvermerke, Kaffeeflecken und eine Zeichnung eines Dackels aus dem Jahr 1904, die irrtümlich als Geschäftszahl erfasst worden war. Sie wurde inzwischen als Abbildung klassifiziert und dem Kuriositätenkabinett gemeldet.",
+        "## Bemerkenswerte Einträge",
+        "Der älteste Eintrag (BRbsA 1873/1) betrifft einen Hofhund, der während der Wiener Weltausstellung keinem Pavillon und keinem Besitzer zuzuordnen war und daher „als besondere Angelegenheit in Verwahrung genommen“ wurde. Der jüngste Eintrag stammt vom Vortag des Starts und betrifft eine Lieferdrohne, die nach Angaben ihres Betreibers dreimal hintereinander zu ihrem Startpunkt in Wels zurückgekehrt war. Die Abteilung II/2 stufte den Fall als sonstig ein; die Drohne wurde als „vorübergehend heimwehbedingt fluguntauglich“ eingetragen.",
+        "## Wie es weitergeht",
+        "Sektionschef DI Stefan Gruber, Leiter der Sektion V und Chief Information Officer des Amtes, kündigte an, dass Behörden ab 2027 über eine gesicherte Schnittstelle Auskünfte aus dem BRbsA abrufen können. „Wir bauen die Schnittstelle so, dass sie auch mit Systemen aus den Neunzigerjahren spricht. Bei uns ist niemand zu alt für das Register“, so Gruber. Parallel prüft die Abteilung V/3, welche Einträge als Open Government Data veröffentlicht werden können, ohne die Würde des Hofhunds zu verletzen.",
+        "Der Papierbestand des Registers bleibt im Amtsarchiv erhalten. Die 412 Protokollbücher werden weiterhin klimatisiert gelagert und einmal jährlich, am Tag des Denkmals, vorsichtig aufgeschlagen. Die Abteilung V/4 hat für das digitale Register ein eigenes Sicherheitskonzept erstellt, das unter anderem verhindert, dass ein Eintrag aus 1873 versehentlich als „neu“ markiert wird.",
+        "Hinweis für Auskunftswerbende: Privatpersonen mit rechtlichem Interesse erhalten Registerauszüge mit dem Formular BBSA-F22. Auf Wunsch wird Einträgen in Kurrentschrift eine Transkription beigelegt; die Übersetzung von Randvermerken erfolgt ohne Gewähr."
       ],
       "bild": "assets/img/at/news/2026-06-brbsa-online.jpg",
       "einheitId": "ref-41",
@@ -2031,11 +2302,17 @@
       "datum": "2026-05-04",
       "kategorie": "Meldung",
       "titel": "Grenzfall am Arlberg: Murmeltierbau liegt in zwei Bundesländern",
-      "teaser": "Der Eingang liegt in Tirol, der Ausgang in Vorarlberg. Das BBSA vermittelt zwischen den Ländern – das Murmeltier wurde nicht befragt.",
+      "teaser": "Der Eingang liegt in Tirol, der Ausgang in Vorarlberg, die Schlafkammer genau auf der Landesgrenze. Das BBSA vermittelt zwischen den Ländern – das Murmeltier wurde nicht befragt.",
       "text": [
-        "Ein Murmeltierbau am Arlberg hat einen Zuständigkeitsstreit zwischen Tirol und Vorarlberg ausgelöst.",
-        "„Die Frage ist, ob ein Bau dort liegt, wo man hineingeht, oder dort, wo man herauskommt“, erklärte Abteilungsleiterin Mag.a Lisa Hofer.",
-        "Bis zur Klärung gilt der Bau als sonstige Angelegenheit des Bundes. Abteilungsleiter Dr. Thomas Nachbaur gewährte vorsorglich eine Nachsicht für den Winterschlaf."
+        "Ein Murmeltierbau am Arlberg beschäftigt seit Anfang des Jahres die Abteilung II/3 „Föderale Grenzfälle (Bund – Länder)“. Der Bau hat seinen Haupteingang auf Tiroler Gebiet, seinen Notausgang auf Vorarlberger Gebiet und erstreckt sich nach aktuellem Stand über 38 Meter unter der Landesgrenze hindurch. Beide Länder hatten sich im Jänner für unzuständig erklärt, nachdem ein Wanderer eine Meldung über „erhebliche Grabtätigkeit im Grenzbereich“ eingebracht hatte.",
+        "## Wie es dazu kam",
+        "Die Landesverwaltungen beriefen sich jeweils darauf, dass sich der überwiegende Teil des Baus im anderen Bundesland befinde. Ein vom BBSA beauftragtes Vermessungsgutachten ergab schließlich, dass sich die Schlafkammer des Murmeltiers exakt auf der Landesgrenze befindet, und zwar „mit dem Kopf in Vorarlberg und dem Rest in Tirol“, wie es im Gutachten heißt. Der Akt wird unter der Geschäftszahl BBSA-2026-0.311.204 geführt.",
+        "„Die Frage ist, ob ein Bau dort liegt, wo man hineingeht, oder dort, wo man herauskommt“, erklärte Abteilungsleiterin Mag.a Lisa Hofer. „Das Bundesrecht beantwortet sie nicht, das Landesrecht beantwortet sie zweimal unterschiedlich. Genau dafür gibt es § 4 BBSAG.“ In einer ersten Vermittlungsrunde in einem Gasthaus am Pass, dessen Gaststube ebenfalls nicht eindeutig einem Bundesland zuzuordnen ist, wurden die Standpunkte ausgetauscht. Eine Einigung wurde nicht erzielt, wohl aber ein gemeinsames Mittagessen. Die Rechnung wurde nach einem eigens entwickelten Schlüssel geteilt: Kaspressknödel nach Tiroler, Käsknöpfle nach Vorarlberger Recht, der Kaffee als sonstige Angelegenheit vom Bund. Eine zweite Vermittlungsrunde ist für Juni angesetzt, sobald das Murmeltier wieder aktiv ist und die Lage vor Ort beobachtet werden kann.",
+        "## Vorläufige Regelung",
+        "Bis zur endgültigen Klärung gilt der Bau als sonstige Angelegenheit des Bundes. Damit ist das BBSA vorübergehend für alle Fragen zuständig, die den Bau betreffen, nicht jedoch für das Murmeltier selbst, das weiterhin dem Naturschutzrecht beider Länder unterliegt, je nachdem, wo es sich gerade aufhält.",
+        "Abteilungsleiter Dr. Thomas Nachbaur, gebürtiger Vorarlberger und zuständig für Nachsichten und Ausnahmen, gewährte vorsorglich eine Nachsicht für den Winterschlaf. Sie befreit das Murmeltier von der Verpflichtung, bei länger dauerndem Aufenthalt in einem Bundesland einen Hauptwohnsitz zu begründen. „Wir können von einem Tier, das sechs Monate schläft, nicht verlangen, dass es sich für ein Bundesland entscheidet“, so Nachbaur. „Das schaffen manche Menschen auch nicht.“",
+        "Die Nachsicht ist bis zum 30. April 2027 befristet und mit der Auflage verbunden, dass keine weiteren Ausgänge in einem dritten Bundesland gegraben werden. Die Abteilung II/3 rechnet nicht mit einem Verstoß, behält sich aber vor, im Fall eines Salzburger Ausgangs neu zu bewerten.",
+        "Hinweis für Wanderinnen und Wanderer: Der Bau darf weder betreten noch gestört werden. Hinweise auf weitere grenzüberschreitende Bauten nimmt die Abteilung II/3 gerne entgegen, möglichst mit Koordinaten und ohne Murmeltier."
       ],
       "bild": "assets/img/at/news/2026-05-murmeltier-arlberg.jpg",
       "einheitId": "ref-13",
@@ -2052,11 +2329,18 @@
       "datum": "2026-03-26",
       "kategorie": "Publikation",
       "titel": "Leitfaden: Wann ist etwas besonders – und wann nur sonstig?",
-      "teaser": "Der überarbeitete Leitfaden enthält 14 Kriterien, darunter das neue „Na-geh-Kriterium“.",
+      "teaser": "Die Sektion II hat ihren Abgrenzungsleitfaden in sechster Auflage neu herausgebracht. Er enthält 14 Kriterien, darunter das neue „Na-geh-Kriterium“, und erstmals ein Flussdiagramm mit Kaffeepause.",
       "text": [
-        "Die Sektion II hat den Leitfaden zur Abgrenzung besonderer von sonstigen Angelegenheiten neu aufgelegt.",
-        "„Die Abgrenzung ist philosophisch anspruchsvoll. Im Zweifel ist etwas sonstig“, erklärt Abteilungsleiter Mag. Wolfgang Sonnleitner.",
-        "Neu ist das „Na-geh-Kriterium“: Löst ein Sachverhalt bei drei unabhängigen Bediensteten spontan die Reaktion „Na geh“ aus, gilt er als besonders. Der Leitfaden steht als PDF zum Download bereit."
+        "Die Sektion II „Grundsatz, Sonderfälle und Sonstiges“ hat den Leitfaden zur Abgrenzung besonderer von sonstigen Angelegenheiten in sechster, überarbeiteter Auflage veröffentlicht. Der Leitfaden ist das zentrale Arbeitsinstrument der Abteilung II/2 und wird bei allen Feststellungsverfahren nach § 3 BBSAG herangezogen. Die Neuauflage umfasst 88 Seiten, 14 Kriterien und erstmals ein ausklappbares Flussdiagramm, das an der Stelle „Unklar“ eine verpflichtende Kaffeepause vorsieht.",
+        "## Warum die Abgrenzung so schwierig ist",
+        "Die Unterscheidung zwischen besonderen und sonstigen Angelegenheiten beschäftigt das Amt seit 1972. Eine besondere Angelegenheit ist nach dem Gesetz eine solche, die sich von allen anderen deutlich abhebt. Eine sonstige Angelegenheit ist eine, die sich zwar nicht deutlich abhebt, aber trotzdem nirgends dazupasst. Eine gewöhnliche Angelegenheit schließlich passt überall dazu und ist daher beim BBSA falsch.",
+        "„Die Abgrenzung ist philosophisch anspruchsvoll. Im Zweifel ist etwas sonstig“, erklärt Abteilungsleiter Mag. Wolfgang Sonnleitner, der Philosophie und Rechtswissenschaften studiert hat. „Das Besondere muss man begründen. Das Sonstige ergibt sich meistens von selbst, wenn man lange genug hinschaut.“ Im Vorjahr wurden 2.318 Feststellungsverfahren abgeschlossen, davon endeten 61 Prozent mit der Feststellung „sonstig“.",
+        "## Was neu ist",
+        "Neu aufgenommen wurde das sogenannte „Na-geh-Kriterium“: Löst ein Sachverhalt bei drei voneinander unabhängigen Bediensteten spontan die Reaktion „Na geh“ aus, gilt er widerleglich als besonders. Die Reaktion ist im Akt zu dokumentieren, und zwar mit Datum, Uhrzeit und Tonlage. Ein „Geh bitte“ zählt nicht, ein „Na geh, wirklich?“ zählt doppelt. Ebenfalls neu sind die Kriterien „Ereignis fand in der Mittagspause statt“ und „Formular vorhanden, aber nicht mehr lagernd“.",
+        "Sektionschefin Dr.in Andrea Schwarzl, Autorin des Standardkommentars zum BBSAG, sieht in der Neuauflage einen wichtigen Schritt zur Vereinheitlichung der Spruchpraxis. „Wir haben festgestellt, dass Wien, Graz und Innsbruck dieselben Fälle unterschiedlich einstufen. In Graz ist man großzügiger mit dem Besonderen, in Innsbruck hängt es vom Wetter ab“, so Schwarzl. Der Leitfaden soll diese Unterschiede ausgleichen, ohne die regionale Eigenart zu zerstören.",
+        "Gestrichen wurde dagegen das Kriterium „Bauchgefühl der Abteilungsleitung“, das sich als nicht ausreichend dokumentierbar erwiesen hat. Es bleibt jedoch als ungeschriebene Ergänzung erhalten. Ebenfalls nicht mehr enthalten ist das Kriterium „Antragsteller trägt Hut“, das aus Gründen der Gleichbehandlung entfallen ist.",
+        "Der Leitfaden steht als PDF zum Download bereit und ist in gedruckter Form in der Einlaufstelle erhältlich. Für Bedienstete anderer Behörden bietet die Sektion II halbtägige Schulungen an, Anmeldung über das Formular BBSA-F3s.",
+        "Hinweis für Antragstellende: Der Leitfaden ist eine Orientierungshilfe und keine Verordnung. Wer meint, seine Angelegenheit sei besonders, kann dies weiterhin mit Formular BBSA-F3 feststellen lassen – mit oder ohne „Na geh“."
       ],
       "bild": "assets/img/at/news/2026-03-abgrenzungsleitfaden.jpg",
       "einheitId": "ref-12",
@@ -2073,16 +2357,23 @@
       "datum": "2026-02-10",
       "kategorie": "Karriere",
       "titel": "18 Lehrlinge starten ihre Ausbildung im BBSA",
-      "teaser": "Verwaltungsassistentinnen und -assistenten sowie Applikationsentwicklerinnen und -entwickler beginnen in Wien, Graz und Innsbruck.",
+      "teaser": "Verwaltungsassistentinnen und -assistenten sowie Applikationsentwicklerinnen und -entwickler beginnen in Wien, Graz und Innsbruck. Erste Lektion: Wie man einen Akt wiederfindet, den man selbst abgelegt hat.",
       "text": [
-        "Das BBSA begrüßte 18 neue Lehrlinge an seinen drei Standorten.",
-        "„Bei uns lernt man alles über Akten – und wie man sie wiederfindet“, sagte Amtsdirektorin Renate Fuchs bei der Begrüßung.",
-        "Bewerbungen für den Lehrgang 2027 sind ab sofort möglich, vorzugsweise mit Formular."
+        "Das BBSA hat heuer 18 neue Lehrlinge an seinen drei Standorten begrüßt. Zwölf von ihnen absolvieren die Lehre zur Verwaltungsassistentin bzw. zum Verwaltungsassistenten, sechs die Lehre zur Applikationsentwicklerin bzw. zum Applikationsentwickler. Neun beginnen in Wien, fünf in Graz und vier in Innsbruck. Das Amt bildet damit so viele Lehrlinge aus wie zuletzt im Jahr 1978, als ein Großteil des Personals gleichzeitig auf die elektrische Schreibmaschine umgeschult werden musste.",
+        "## Der erste Tag",
+        "Der erste Ausbildungstag begann traditionell mit einer Führung durch das Amtsgebäude in Wien und das Kuriositätenkabinett, wo die Lehrlinge unter anderem die Melange-Tasse aus 1912 und den ältesten Amtsstempel des Hauses besichtigen konnten. Anschließend erhielten sie ihre Grundausstattung: einen Kugelschreiber mit Amtswappen, einen persönlichen Paraphenstempel, einen Zugang zum ELAK und ein Exemplar des Abgrenzungsleitfadens in sechster Auflage.",
+        "„Bei uns lernt man alles über Akten – und wie man sie wiederfindet“, sagte Amtsdirektorin Renate Fuchs, Leiterin der Abteilung I/1 „Personal und Lehrlingsausbildung“, bei der Begrüßung. „Das Ablegen lernt man in einer Woche. Das Wiederfinden dauert ein Berufsleben.“ Fuchs betreut die Lehrlingsausbildung seit über 30 Jahren und hat nach eigenen Angaben in dieser Zeit 247 Lehrlinge begleitet, von denen 61 heute noch im Amt tätig sind, drei davon als Abteilungsleitung. Sektionschef Mag. Gerhard Wallner, Leiter der Präsidialsektion, ergänzte: „Wer bei uns lernt, lernt, dass jede Angelegenheit ihren Platz hat. Und wenn sie keinen hat, dann hat sie ihn bei uns.“",
+        "## Was die Ausbildung umfasst",
+        "Die Ausbildung zur Verwaltungsassistenz dauert drei Jahre und führt durch alle fünf Sektionen. Auf dem Lehrplan stehen das AVG, die Kanzleiordnung, die Aktenführung im ELAK, das Formular- und Stempelwesen sowie ein Wahlmodul, das heuer erstmals „Kurrentschrift für Anfängerinnen und Anfänger“ umfasst. Im zweiten Lehrjahr verbringen die Lehrlinge zwei Wochen im Lagezentrum, wenn möglich rund um den 5. Dezember.",
+        "Die angehenden Applikationsentwicklerinnen und -entwickler werden in der Sektion V in Innsbruck ausgebildet. Sie arbeiten unter anderem an der künftigen Schnittstelle des BRbsA mit und sollen im dritten Lehrjahr eine eigene kleine Anwendung entwickeln. Im Vorjahr entstand auf diesem Weg ein Programm, das automatisch erkennt, ob ein Tag ein Fenstertag ist. Es wurde von der Abteilung III/4 geprüft und als „technisch korrekt, aber zu schnell“ eingestuft.",
+        "Alle Lehrlinge haben die Möglichkeit, die Lehre mit Matura zu absolvieren. Die Lehrlingsentschädigung richtet sich nach den Bestimmungen des Bundes; zusätzlich gibt es freien Kaffee und Zugang zur Amtsbibliothek mit 14.000 Bänden, davon 3.200 zum Thema Zuständigkeit.",
+        "Hinweis für Bewerberinnen und Bewerber: Bewerbungen für den Lehrgang 2027 sind ab sofort möglich, vorzugsweise mit Formular BBSA-F0, das wiederum das Bewerbungsformular BBSA-F112 enthält. Formlose Bewerbungen werden ebenso gerne entgegengenommen und als sonstig protokolliert."
       ],
       "bild": "assets/img/at/news/2026-02-lehrlinge.jpg",
       "einheitId": "ref-z1",
       "personIds": [
-        "p-fuchs-renate"
+        "p-fuchs-renate",
+        "p-wallner-gerhard"
       ],
       "url": "https://pegrassus.github.io/baba-homepage/at/aktuelles/2026-02-lehrlinge.html",
       "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/at/news/2026-02-lehrlinge.jpg",
@@ -2093,11 +2384,18 @@
       "datum": "2025-12-05",
       "kategorie": "Meldung",
       "titel": "Übung „Krampusnacht“: Lagezentrum probt den 5. Dezember",
-      "teaser": "Gemeinsam mit sechs Ländern übte das Lagezentrum die Koordination bei gleichzeitigen Krampusläufen in 412 Gemeinden.",
+      "teaser": "Gemeinsam mit sechs Ländern übte das Lagezentrum die Koordination bei gleichzeitigen Krampusläufen in 412 Gemeinden. Geprobt wurde auch das Szenario „Krampus ohne Begleitperson“ – der Nikolaus hat sich trotzdem nicht abgemeldet.",
       "text": [
-        "Das Lagezentrum Besonderheiten hat am Krampustag die Stabsübung „Krampusnacht“ durchgeführt.",
-        "Geübt wurde unter anderem das Szenario „Krampus ohne Begleitperson“, das die Abteilung IV/4 als besonders unwahrscheinlich, aber folgenreich einstuft.",
-        "„Die Meldewege haben funktioniert. Nur der Nikolaus hat sich nicht abgemeldet“, so Lagezentrumsleiter Michael Reiter, BA."
+        "Das Lagezentrum Besonderheiten des BBSA hat am Krampustag die Stabsübung „Krampusnacht 2025“ durchgeführt. Beteiligt waren neben der Abteilung IV/1 auch die Abteilung IV/4 „Prävention des Unwahrscheinlichen“, Verbindungspersonen aus sechs Bundesländern sowie 41 Brauchtumsvereine, die sich freiwillig als Übungsteilnehmer gemeldet hatten. Beobachtet und koordiniert wurden insgesamt 412 Krampusläufe zwischen dem Bregenzerwald und dem Südburgenland.",
+        "## Ziel der Übung",
+        "Ziel war es, die Meldewege zwischen Gemeinden, Ländern und Bund bei einer großen Zahl gleichzeitiger außergewöhnlicher Ereignisse zu erproben. Das Lagezentrum ist nach § 18 BBSAG rund um die Uhr besetzt und beobachtet Ereignisse, die zwar nicht gefährlich sind, aber auch nicht gewöhnlich. Der Krampustag gilt dabei als jährlicher Spitzentag: Im Vorjahr gingen allein zwischen 18 und 22 Uhr 1.204 Meldungen ein, davon 312 mit dem Betreff „Kettengerassel, ungeklärt“.",
+        "Geübt wurde unter anderem das Szenario „Krampus ohne Begleitperson“, das die Abteilung IV/4 als besonders unwahrscheinlich, aber folgenreich einstuft. Es beschreibt den Fall, dass ein Krampus ohne Nikolaus, ohne Lauf und ohne erkennbaren Auftrag durch einen Ort zieht. „Unwahrscheinlich heißt nicht unmöglich. Wir planen für den Krampus, der sich verlaufen hat, genauso wie für den, der einfach nur Feierabend machen will“, sagte Abteilungsleiterin Sophie Mayr, MSc.",
+        "## Wie die Übung verlief",
+        "Um 19:12 Uhr ging die erste Übungsmeldung aus einer Pongauer Gemeinde ein. Das Lagezentrum stufte die Lage als „besonders, aber nicht bedrohlich“ ein, informierte die Verbindungsperson des Landes und ersuchte den örtlichen Brauchtumsverein um Rückmeldung. Nach 23 Minuten war die Lage geklärt: Der Nikolaus war beim Kirchenwirt aufgehalten worden. Insgesamt wurden im Lauf des Abends 87 Übungseinlagen abgearbeitet, darunter ein Krampus mit Heuschnupfen, ein Perchtenlauf zur falschen Jahreszeit und eine Rute, die im Fundbüro abgegeben wurde.",
+        "„Die Meldewege haben funktioniert. Nur der Nikolaus hat sich nicht abgemeldet“, so Lagezentrumsleiter Michael Reiter, BA. Die durchschnittliche Reaktionszeit lag bei vier Minuten, die Kaffeeversorgung im Lagezentrum war durchgehend gesichert. Einzig die Übungseinlage „Krampus ruft selbst an“ sorgte für Verzögerungen, weil die Mitarbeiterin am Telefon zunächst nach dem zuständigen Bundesland und dann nach dem Familiennamen fragte.",
+        "Sektionschefin Mag.a Brigitte Leitner zog eine positive Bilanz. „Brauchtum ist Sache der Gemeinden und Länder. Wir kommen nur ins Spiel, wenn etwas außergewöhnlich wird. Heute hat sich gezeigt, dass wir dann auch wissen, wen wir anrufen.“ Die Übungserkenntnisse fließen in den Lageplan 2026 ein, der unter anderem eine eigene Meldekategorie für „Krampus mit Begleitperson, aber falscher“ vorsieht.",
+        "Der Fall aus dem Pongau wurde als Präzedenzfall im BRbsA eingetragen und dient künftig als Standardszenario für die Ausbildung im Lagezentrum.",
+        "Hinweis für die Bevölkerung: Außergewöhnliche Beobachtungen am 5. Dezember können dem Lagezentrum rund um die Uhr gemeldet werden. Gewöhnliches Kettengerassel ist nicht meldepflichtig."
       ],
       "bild": "assets/img/at/news/2025-12-krampus-uebung.jpg",
       "einheitId": "ref-31",

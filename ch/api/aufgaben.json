@@ -4,7 +4,7 @@
   "land": "Schweiz",
   "sprache": "de-CH",
   "stand": "2026-11-08",
-  "hinweis": "Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "anzahl": 12,
   "aufgaben": [
     {
@@ -17,6 +17,20 @@
         "ref-11"
       ],
       "rechtsgrundlage": "Art. 2 BABG",
+      "details": [
+        "Im föderalistischen System verteilen Bundesverfassung, Bundesgesetze und 26 Kantonsverfassungen die Zuständigkeiten sehr genau. Trotzdem bleiben Fälle übrig, die keiner Ebene zugeordnet sind, und solche, die gleich mehreren zugeordnet sind. Für beide Konstellationen ist nach Art. 2 BABG das BBA zuständig. Es übernimmt den Fall, klärt ihn und entscheidet ihn oder überweist ihn an die Stelle, die sich nach der Klärung doch als zuständig erweist.",
+        "Die Abteilung Grundsätze und Konkordanz entscheidet in Zweifelsfällen über die Übernahme. Die Sektion Grundsatzfragen der Besonderheit pflegt dazu eine Sammlung von Grundsatzentscheiden, die bis ins Gründungsjahr 1953 zurückreicht. Ein negativer Kompetenzkonflikt, also ein Fall, den alle ablehnen, wird innert 30 Tagen übernommen; ein positiver, den alle beanspruchen, innert 60 Tagen, weil zuerst alle angehört werden müssen."
+      ],
+      "beispiele": [
+        "Ein einzelner Handschuh, der an einem Skilift auf der Kantonsgrenze hängt und von keinem Fundbüro angenommen wird.",
+        "Ein Bach, der laut drei verschiedenen Plänen durch drei verschiedene Gemeinden fliesst und in keinem davon unterhalten wird.",
+        "Eine Anfrage, für die sich vier Bundesämter und zwei Kantone gleichzeitig zuständig erklären."
+      ],
+      "leistung": {
+        "antrag": "Formloses Schreiben oder Formular BBA-100 («Meldung einer unzuordenbaren Angelegenheit»)",
+        "dauer": "30 bis 60 Tage bis zum Übernahmeentscheid",
+        "kosten": "Gebührenfrei"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-zustaendigkeit",
       "einheiten": [
         {
@@ -39,6 +53,20 @@
         "ref-21"
       ],
       "rechtsgrundlage": "Art. 3 BABG",
+      "details": [
+        "Wer wissen will, ob seine Angelegenheit in die Zuständigkeit des BBA fällt, kann ein Gesuch um Feststellung der Besonderheit stellen. Die Sektion Besondere Verfahren prüft den Sachverhalt anhand des Kriterienkatalogs mit 14 Punkten, etwa «Fehlender Präzedenzfall seit 1291» oder «Echo, Lawine oder Föhn als mitwirkende Partei». Sind mindestens drei Kriterien erfüllt, gilt die Angelegenheit als besonders. Grenzfälle werden der Sektion Grundsatzfragen der Besonderheit vorgelegt.",
+        "Das Ergebnis wird mit einer Feststellungsverfügung eröffnet und im ERbA eingetragen. Fällt die Prüfung negativ aus, wird das Gesuch von Amtes wegen an die ordentlich zuständige Behörde überwiesen, damit niemand ohne Ansprechstelle bleibt. Gegen die Verfügung kann innert 30 Tagen Einsprache erhoben werden. Rund 18 Prozent aller Feststellungsgesuche betreffen die Frage, ob das Gesuch selbst besonders ist. Diese Gesuche erfüllen in der Regel das Kriterium «Formale Selbstbezüglichkeit» und werden deshalb meist gutgeheissen."
+      ],
+      "beispiele": [
+        "Eine Gemeinde möchte wissen, ob ein Brunnen, aus dem abwechselnd warmes und kaltes Wasser fliesst, besonders ist.",
+        "Ein Verein lässt feststellen, ob seine Fahne, die auf beiden Seiten verschiedene Kantonswappen zeigt, besonders ist.",
+        "Eine Privatperson beantragt die Feststellung, ob ihr Gesuch um Feststellung besonders ist."
+      ],
+      "leistung": {
+        "antrag": "Formular BBA-101 mit Sachverhaltsbeschreibung und allfälligen Beweismitteln",
+        "dauer": "30 Tage",
+        "kosten": "CHF 120; bei positiver Feststellung CHF 0, weil das Besondere nicht bestraft werden soll"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-abgrenzung",
       "einheiten": [
         {
@@ -61,6 +89,21 @@
         "ref-13"
       ],
       "rechtsgrundlage": "Art. 4 BABG",
+      "details": [
+        "Wenn mehrere Kantone oder Gemeinden einen Sachverhalt unterschiedlich beurteilen und keine andere Stelle zur Klärung berufen ist, führt das BBA ein Kompromissverfahren durch. Die Sektion Kantonale Sonderfälle erhebt zunächst alle Positionen, auch jene, die im Laufe des Verfahrens geändert werden. Sie führt dazu eine laufend nachgeführte Übersicht über die Auffassungen aller 26 Kantone zu jeder anhängigen Frage.",
+        "Anschliessend erarbeitet die Sektion Konkordanz und Kompromissfindung einen Lösungsvorschlag. Ziel ist eine Lösung, mit der alle Beteiligten gleich wenig zufrieden sind; Bewährtes wie Halbierung, Abwechslung und gemeinsame Nutzung wird bevorzugt. Kommt eine Einigung zustande, wird sie als Kompromissvereinbarung unterzeichnet. Scheitert sie, entscheidet das BBA mit Verfügung."
+      ],
+      "beispiele": [
+        "Zwei Gemeinden streiten seit 1894 um einen Grenzstein, der nach einer Güterzusammenlegung auf keiner Seite mehr liegt.",
+        "Drei Oberwalliser Gemeinden können sich nicht über den Unterhalt einer historischen Suone einigen.",
+        "Zwei Kantone beanspruchen denselben Aussichtspunkt für ihre Tourismuswerbung.",
+        "Ein Festumzug führt über drei Kantone, die je eine andere Startzeit für verbindlich halten."
+      ],
+      "leistung": {
+        "antrag": "Gemeinsame oder einseitige Eingabe der betroffenen Kantone oder Gemeinden",
+        "dauer": "Rund 6 Monate, bei mehr als 14 Sitzungen entsprechend länger",
+        "kosten": "Gebührenfrei für Kantone und Gemeinden; Apéro nach Vereinbarung hälftig"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-kantone",
       "einheiten": [
         {
@@ -82,6 +125,21 @@
         "ref-14"
       ],
       "rechtsgrundlage": "Art. 7 BABG",
+      "details": [
+        "Manche Sachverhalte sind nicht verboten, aber auch nirgends vorgesehen. Für solche Fälle kann das BBA nach Art. 7 BABG eine Ausnahmebewilligung erteilen. Die Sektion Ausnahmebewilligungen prüft, ob ein schutzwürdiges Interesse besteht, ob Dritte beeinträchtigt werden und ob die betroffenen Kantone einverstanden sind oder zumindest nicht widersprechen.",
+        "Bewilligungen werden in der Regel befristet erteilt und können mit Auflagen verbunden werden. Typische Auflagen sind Meldepflichten, doppelte Kennzeichnungen oder die hälftige Teilung von Beiträgen. Die Bewilligung wird im ERbA eingetragen; Änderungen der Verhältnisse sind unaufgefordert zu melden. Ausnahmebewilligungen werden auch am Freitagnachmittag erteilt, was im Amt selbst als Ausnahme gilt."
+      ],
+      "beispiele": [
+        "Die Braunviehkuh «Bella» darf gleichzeitig in Uri und in Glarus gesömmert werden.",
+        "Ein Bergrestaurant, dessen Terrasse in zwei Gemeinden liegt, darf eine einheitliche Polizeistunde anwenden.",
+        "Eine Verfügung darf ausnahmsweise zusätzlich in Walliserdeutsch ausgefertigt werden.",
+        "Ein Murmeltier mit Doppelwohnsitz erhält einen bewilligten Wochenaufenthalt."
+      ],
+      "leistung": {
+        "antrag": "Formular BBA-207 mit Begründung, Plänen und Fotos; Varianten 207a–207d für Tiere, Grenzlagen, Fristen und Sprachfassungen",
+        "dauer": "2 Monate",
+        "kosten": "CHF 80 bis CHF 450 je nach Aufwand; für Tiere zahlt die Halterin oder der Halter"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-ausnahme",
       "einheiten": [
         {
@@ -99,6 +157,20 @@
         "ref-22"
       ],
       "rechtsgrundlage": "Art. 10 BABG",
+      "details": [
+        "Bei Grundsatzfragen ohne Präzedenzfall eröffnet das BBA eine Vernehmlassung. Eingeladen werden die Kantone, die Parteien, die gesamtschweizerischen Dachverbände der Gemeinden, Städte und Berggebiete sowie weitere interessierte Kreise. Die Vernehmlassungsfrist beträgt in der Regel drei Monate und wird über Feiertage angemessen verlängert, damit auch Milizbehörden fristgerecht Stellung nehmen können.",
+        "Die Sektion Vernehmlassungen zu Unvernehmlassbarem erfasst jede Stellungnahme, ordnet sie den gestellten Fragen zu und fasst die Ergebnisse in einem Bericht zusammen. Auch Stellungnahmen, die sich zu einer anderen als der gestellten Frage äussern, werden ausgewertet und separat ausgewiesen. Der Ergebnisbericht ist öffentlich und dient der Direktion als Grundlage für einen Grundsatzentscheid."
+      ],
+      "beispiele": [
+        "Vernehmlassung zur Frage, ob Vernehmlassungen vernehmlassungspflichtig sind.",
+        "Vernehmlassung dazu, ob ein Feiertag, der auf einen Sonntag fällt, besonders ist.",
+        "Vernehmlassung zur Frage, ab welcher Steigung ein Weg als Bergweg gilt, wenn er abwärts begangen wird."
+      ],
+      "leistung": {
+        "antrag": "Keine Gesuche; Eröffnung durch Beschluss der Direktion. Anregungen für neue Fragen nimmt die Sektion gerne entgegen.",
+        "dauer": "Vernehmlassungsfrist 3 Monate, Auswertung 4 Monate",
+        "kosten": "Teilnahme gebührenfrei"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-vernehmlassung",
       "einheiten": [
         {
@@ -116,6 +188,20 @@
         "ref-23"
       ],
       "rechtsgrundlage": "Art. 15 BABG",
+      "details": [
+        "Gegen Verfügungen des BBA kann innert 30 Tagen seit Eröffnung schriftlich Einsprache erhoben werden. Die Sektion Einsprachen und Beschwerden überprüft den Entscheid in tatsächlicher und rechtlicher Hinsicht vollständig neu. Sie kann die Verfügung bestätigen, abändern oder aufheben und den Fall zur Neubeurteilung an die zuständige Sektion zurückweisen.",
+        "Der Einspracheentscheid enthält eine Begründung und eine Rechtsmittelbelehrung. Gegen ihn kann Beschwerde beim Bundesverwaltungsgericht erhoben werden. Die Sektion vertritt das BBA in diesen Verfahren und sorgt dafür, dass alle Akten vollständig und paginiert vorliegen."
+      ],
+      "beispiele": [
+        "Ein Arbeitgeber erhebt Einsprache gegen die Feststellung, dass 08:00:59 Uhr noch pünktlich ist.",
+        "Eine Alpgenossenschaft verlangt, dass die Glocke einer Kuh nur ein Wappen tragen muss.",
+        "Eine Gemeinde ficht die Halbierung eines Grenzsteins an, weil ihre Hälfte die schönere sein soll."
+      ],
+      "leistung": {
+        "antrag": "Schriftliche, begründete Einsprache mit Unterschrift und Kopie der angefochtenen Verfügung",
+        "dauer": "3 Monate",
+        "kosten": "Gebührenfrei bei Gutheissung; sonst CHF 200 bis CHF 1'000"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-einsprache",
       "einheiten": [
         {
@@ -133,6 +219,20 @@
         "ref-24"
       ],
       "rechtsgrundlage": "Art. 16 BABG",
+      "details": [
+        "Die Sektion Fristen und Pünktlichkeit beurteilt auf Gesuch hin, ob ein Ereignis pünktlich war. Massgebend ist seit dem Grundsatzentscheid vom 15. April 2026 die volle Minute: Was bis und mit der neunundfünfzigsten Sekunde eintritt, ist pünktlich; ab der sechzigsten Sekunde gilt es als verspätet. Die Sektion unterscheidet zudem die Kategorien «pünktlich», «knapp pünktlich» und «verspätet».",
+        "Grundlage der Beurteilung sind Zeitstempel, Fahrpläne, Protokolle, Fotos mit Metadaten und Zeugenaussagen. Uhren, die als Beweismittel dienen, werden gegen die amtliche Referenzuhr der Sektion geprüft. Die Auskunft ist verbindlich und kann bei Bedarf als Feststellungsverfügung ausgefertigt werden. Die Sektion überwacht zudem die Einhaltung aller Fristen innerhalb des Amtes. Sie hat das Recht, an jeder Sitzung des BBA unangemeldet die Anfangszeit zu protokollieren."
+      ],
+      "beispiele": [
+        "Ein Pendler lässt bestätigen, dass er um 08:00:59 Uhr pünktlich war.",
+        "Ein Verein möchte wissen, ob eine Generalversammlung, die um 20.01 Uhr eröffnet wurde, gültig ist.",
+        "Eine Gemeinde fragt, ob das Mittagsläuten ihrer Kirche, das regelmässig 70 Sekunden zu spät erklingt, noch als Mittagsläuten gilt."
+      ],
+      "leistung": {
+        "antrag": "Formular BBA-316 mit sekundengenauer Zeitangabe und Belegen",
+        "dauer": "10 Arbeitstage, auf die Minute genau",
+        "kosten": "CHF 40; bei Verspätung des BBA entfällt die Gebühr (bisher nie vorgekommen)"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-puenktlichkeit",
       "einheiten": [
         {
@@ -152,6 +252,20 @@
         "ref-34"
       ],
       "rechtsgrundlage": "Art. 18 BABG",
+      "details": [
+        "Das Lagezentrum Besonderheiten ist rund um die Uhr besetzt und nimmt Meldungen von Kantonen, Gemeinden, anderen Behörden und der Bevölkerung entgegen. Es bewertet jede Meldung, erstellt bei Bedarf ein konsolidiertes Lagebild und informiert die betroffenen Stellen. Ereignisse, die ein Verfahren erfordern, werden an die zuständige Sektion überwiesen.",
+        "Die Sektion Prävention des Unwahrscheinlichen entwickelt Szenarien für Ereignisse, die zwar unwahrscheinlich, aber nicht unmöglich sind, und erprobt sie in Stabsübungen mit den Kantonen. Bekannte Übungen sind «Käse alle» und «Bahnhofsuhr steht still». Aus jeder Übung entsteht ein Bericht mit Empfehlungen an Bund, Kantone und Gemeinden."
+      ],
+      "beispiele": [
+        "Ein Föhnsturm weht in einer Gemeinde sämtliche Abstimmungscouverts in die Nachbargemeinde.",
+        "In einem Bahnhof bleibt die Uhr stehen und mehrere Reisende erklären sich deshalb für pünktlich.",
+        "Am ersten Wintersonntag droht in einer Region der Fonduekäse auszugehen."
+      ],
+      "leistung": {
+        "antrag": "Meldung rund um die Uhr per Telefon oder E-Mail an das Lagezentrum",
+        "dauer": "Erstbewertung innert 30 Minuten",
+        "kosten": "Gebührenfrei"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-lage",
       "einheiten": [
         {
@@ -177,6 +291,21 @@
         "ref-32"
       ],
       "rechtsgrundlage": "Art. 19 BABG",
+      "details": [
+        "Die Sektion Alpine Sonderfälle befasst sich mit Ereignissen im Alpenraum, die keiner ordentlichen Zuständigkeit zugeordnet werden können. Häufig geht es um Tiere, deren Aufenthaltsort nicht mit Kantons- oder Gemeindegrenzen übereinstimmt, um Weiden auf Grenzlinien oder um Naturerscheinungen mit ungewöhnlichem Verhalten. Die Sektion arbeitet eng mit Alpgenossenschaften, Wildhut und Gemeinden zusammen.",
+        "Zentral ist der Augenschein vor Ort, oft gemeinsam mit Älplerinnen und Älplern, die den Fall seit Jahren beobachten. Die Sektion entscheidet mit Verfügung, beantragt bei der Sektion Ausnahmebewilligungen eine Bewilligung oder übergibt besonders kuriose Fälle dem Kuriositätenarchiv. Fälle sollen nach Möglichkeit vor dem Alpabzug abgeschlossen sein, damit die Beteiligten den Winter in Rechtssicherheit verbringen."
+      ],
+      "beispiele": [
+        "Eine Kuh steht seit drei Sommern ausschliesslich auf der Grenze zwischen zwei Kantonen.",
+        "Ein Murmeltier benutzt morgens den Ausgang in der einen und abends den in der anderen Gemeinde.",
+        "Eine Gämse hält sich seit Jahren ohne erkennbaren Hauptwohnsitz in drei Kantonen auf.",
+        "Ein Echo am Pilatus antwortet auf «Hallo» mit «Grüessech»."
+      ],
+      "leistung": {
+        "antrag": "Meldung durch Alpgenossenschaft, Gemeinde, Wildhut oder Privatperson; Formular BBA-E2-01",
+        "dauer": "Innerhalb der laufenden Alpsaison",
+        "kosten": "Gebührenfrei für Meldende; Augenschein mit Verpflegung aus eigenem Rucksack"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-alpin",
       "einheiten": [
         {
@@ -194,6 +323,21 @@
         "ref-33"
       ],
       "rechtsgrundlage": "Art. 20 BABG",
+      "details": [
+        "Das Kuriositätenarchiv sichert Vorgänge, Gegenstände und Tonaufnahmen, die für das Verständnis besonderer Angelegenheiten von bleibendem Wert sind. Dazu gehören abgeschlossene Dossiers, Beweisstücke wie der Skistock aus dem ersten Fall von 1953 und das Tonarchiv mit über 1'000 abweichenden Echos. Jedes Objekt erhält eine Signatur und wird im ERbA verknüpft.",
+        "Das Archiv steht Behörden, Forschenden und der interessierten Öffentlichkeit nach Voranmeldung offen. Am Tag der offenen Tür wird jeweils eine Auswahl gezeigt. Das Archiv berät zudem andere Sektionen bei der Frage, ob ein Fall archivwürdig ist."
+      ],
+      "beispiele": [
+        "Aufnahme eines Echos im Jura, das seit 1962 ausschliesslich auf Französisch antwortet.",
+        "Sammlung verlorener Fondue-Gabeln, deren Herkunft nicht geklärt werden konnte.",
+        "Ein Formular, das versehentlich zweimal gestempelt wurde, einmal davon mit dem falschen Datum.",
+        "Die 214 Karteikästen des ERbA in ihrem ursprünglichen Zustand."
+      ],
+      "leistung": {
+        "antrag": "Einsichtsgesuch per E-Mail oder Formular BBA-E3-10; Meldung abweichender Echos mit Formular BBA-E3-02",
+        "dauer": "Einsicht innert 14 Tagen",
+        "kosten": "Gebührenfrei; Kopien von Tonaufnahmen CHF 15"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-archiv",
       "einheiten": [
         {
@@ -213,6 +357,20 @@
         "ref-43"
       ],
       "rechtsgrundlage": "Art. 22–25 BABG",
+      "details": [
+        "Im ERbA wird jede rechtskräftig abgeschlossene besondere Angelegenheit seit 1953 eingetragen – zurzeit über 61'000 Einträge. Ein Eintrag enthält Aktenzeichen, Datum, Kurzbezeichnung, Beteiligte, erfüllte Kriterien und das Ergebnis. Das Register ist seit dem 1. Juli 2026 vollständig digital und mit dem GEVER-System des Amtes verbunden.",
+        "Berechtigte Behörden von Bund, Kantonen und Gemeinden können Registerauszüge beantragen oder über eine gesicherte Schnittstelle beziehen. Privatpersonen erhalten Auskunft über Einträge, die sie selbst betreffen. Unrichtige Einträge werden auf Gesuch oder von Amtes wegen berichtigt; die Berichtigung wird ihrerseits eingetragen. Die Sektion Daten und Schnittstellen stellt anonymisierte Auswertungen als Open Government Data zur Verfügung. Murmeltiere und andere Tiere werden darin nicht namentlich aufgeführt."
+      ],
+      "beispiele": [
+        "Eine Gemeinde verlangt einen Auszug über alle Grenzstein-Verfahren auf ihrem Gebiet seit 1953.",
+        "Ein Kanton bezieht über die Schnittstelle alle Ausnahmebewilligungen für Tiere auf seinem Gebiet.",
+        "Eine Alpgenossenschaft beantragt die Berichtigung des Namens einer Kuh, die im Register als «Bela» geführt wird."
+      ],
+      "leistung": {
+        "antrag": "Formular BBA-401 (Auszug) oder BBA-402 (Berichtigung); für Behörden auch über die Schnittstelle",
+        "dauer": "Auszug 3 Arbeitstage, Eintrag 5 Arbeitstage",
+        "kosten": "Auszug CHF 25, für Behörden gebührenfrei"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-erba",
       "einheiten": [
         {
@@ -238,6 +396,20 @@
         "ref-z4"
       ],
       "rechtsgrundlage": "Art. 6 BABG i. V. m. Sprachengesetz",
+      "details": [
+        "Die Sektion Sprachdienste stellt sicher, dass Verfügungen, Bewilligungen und Berichte in der Amtssprache der betroffenen Personen vorliegen. Bei Verfahren mit Beteiligten aus mehreren Sprachregionen werden mehrere Fassungen erstellt; massgebend ist jeweils die im Entscheid bezeichnete Fassung. Die Sektion achtet darauf, dass Fachbegriffe wie «Sömmerung» oder «Suone» in allen Fassungen gleich verstanden werden.",
+        "Zusätzliche Fassungen, etwa in einem Dialekt, sind eine Ausnahme und bedürfen einer Ausnahmebewilligung. Sie sind rechtlich nicht verbindlich, erhöhen aber erfahrungsgemäss die Akzeptanz eines Entscheids. Die Sektion übersetzt zudem Medienmitteilungen, Formulare und den Jahresbericht."
+      ],
+      "beispiele": [
+        "Eine Verfügung zum Unterhalt einer Suone wird zusätzlich in Walliserdeutsch ausgefertigt.",
+        "Ein Registerauszug wird für eine Gemeinde im Engadin in das Idiom Vallader übersetzt.",
+        "Das Wort «Rechtsmittelbelehrung» wird nach zweiwöchiger Abklärung in drei Dialektvarianten wiedergegeben."
+      ],
+      "leistung": {
+        "antrag": "Angabe der gewünschten Amtssprache im Gesuch; Dialektfassungen mit Formular BBA-207d",
+        "dauer": "Im Verfahren inbegriffen; Dialektfassungen zusätzlich 2 bis 4 Wochen",
+        "kosten": "Amtssprachen gebührenfrei; Dialektfassungen nach Aufwand"
+      },
       "url": "https://pegrassus.github.io/baba-homepage/ch/aufgaben.html#auf-sprachen",
       "einheiten": [
         {

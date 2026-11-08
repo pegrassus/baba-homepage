@@ -1,7 +1,11 @@
 # Bundesamt für besondere Angelegenheiten (BBA) – Länderversion Schweiz
 
-> Fiktive Behörde – Demonstrationsinhalt für Acta Nova. Alle Personen, Adressen und Vorgänge sind frei erfunden.
-> Das Bundesamt für besondere Angelegenheiten (BBA) ist das Kompetenzzentrum des Bundes für alles, was weder in eine Bundes- noch in eine Kantonszuständigkeit passt. Es klärt Sonderfälle zwischen den 26 Kantonen, führt Vernehmlassungen zu Unvorhergesehenem durch, entscheidet über alpine Sonderfälle und führt das Eidgenössische Register besonderer Angelegenheiten (ERbA). Selbstverständlich termingerecht.
+> Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.
+> Das Bundesamt für besondere Angelegenheiten (BBA) ist zuständig für alles, wofür in der Schweiz sonst niemand zuständig ist – oder wofür sich mehrere gleichzeitig zuständig fühlen. Es stellt auf Gesuch hin fest, ob eine Angelegenheit besonders ist, erteilt Ausnahmebewilligungen, vermittelt bei kantonalen Sonderfällen und führt Vernehmlassungen zu Fragen durch, die sich bisher niemand gestellt hat. Zudem beobachtet es ausserordentliche Ereignisse von der Alp bis zur Bahnhofsuhr und führt das Eidgenössische Register besonderer Angelegenheiten (ERbA). Sämtliche Verfahren werden fristgerecht abgeschlossen; die amtliche Toleranz beträgt 59 Sekunden.
+
+## Auftrag
+Das Bundesamt für besondere Angelegenheiten (BBA) ist die Auffangbehörde des Bundes: Es übernimmt Angelegenheiten, für die weder ein anderes Bundesamt noch ein Kanton zuständig ist oder für die sich mehrere gleichzeitig zuständig fühlen. Es entscheidet auf Gesuch hin mit Verfügung, vermittelt Kompromisse zwischen Kantonen und Gemeinden, führt Vernehmlassungen durch und trägt jeden abgeschlossenen Fall in das Eidgenössische Register besonderer Angelegenheiten (ERbA) ein.
+Mehr: https://pegrassus.github.io/baba-homepage/ch/auftrag.html
 
 Leitung: Dr. Ursula Brändli (Direktorin). Hauptsitz: Ausnahmegasse 12, 3011 Bern. Kontakt: +41 58 999 10 00, info@bba-bund.example.
 Begriffe in dieser Version: Abteilung (abt-*), Sektion (ref-*), Stabsstelle (stab-*).
@@ -10,7 +14,7 @@ Begriffe in dieser Version: Abteilung (abt-*), Sektion (ref-*), Stabsstelle (sta
 - [api/behoerde.json](https://pegrassus.github.io/baba-homepage/ch/api/behoerde.json): Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte
 - [api/organisation.json](https://pegrassus.github.io/baba-homepage/ch/api/organisation.json): Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)
 - [api/personen.json](https://pegrassus.github.io/baba-homepage/ch/api/personen.json): Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL
-- [api/aufgaben.json](https://pegrassus.github.io/baba-homepage/ch/api/aufgaben.json): Aufgaben und Leistungen mit zuständigen Einheiten
+- [api/aufgaben.json](https://pegrassus.github.io/baba-homepage/ch/api/aufgaben.json): Aufgaben und Leistungen mit zuständigen Einheiten, Details und Beispielen
 - [api/news.json](https://pegrassus.github.io/baba-homepage/ch/api/news.json): Meldungen und Mitteilungen, neueste zuerst
 - [api/standorte.json](https://pegrassus.github.io/baba-homepage/ch/api/standorte.json): Standorte mit Adressen
 - [api/downloads.json](https://pegrassus.github.io/baba-homepage/ch/api/downloads.json): Formulare und Publikationen
@@ -31,6 +35,7 @@ Begriffe in dieser Version: Abteilung (abt-*), Sektion (ref-*), Stabsstelle (sta
 ## Seiten
 - [Startseite](https://pegrassus.github.io/baba-homepage/ch/index.html)
 - [Über uns](https://pegrassus.github.io/baba-homepage/ch/ueber-uns.html)
+- [Auftrag](https://pegrassus.github.io/baba-homepage/ch/auftrag.html)
 - [Organisation](https://pegrassus.github.io/baba-homepage/ch/organisation.html)
 - [Personen](https://pegrassus.github.io/baba-homepage/ch/personen.html)
 - [Aufgaben](https://pegrassus.github.io/baba-homepage/ch/aufgaben.html)
