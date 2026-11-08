@@ -1,0 +1,68 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-kowalczyk-marta",
+    "anrede": "Frau",
+    "titel": "",
+    "vorname": "Marta",
+    "nachname": "Kowalczyk",
+    "funktion": "Referatsleiterin 42",
+    "einheitId": "ref-42",
+    "email": "marta.kowalczyk@baba-bund.example",
+    "telefon": "+49 361 4711-6200",
+    "kurzvita": "Verantwortet Fachverfahren und die Einführung der E-Akte.",
+    "name": "Marta Kowalczyk",
+    "portrait": "assets/img/logo/baba-logo.png",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+    "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-kowalczyk-marta.html",
+    "einheit": {
+      "id": "ref-42",
+      "name": "Referat 42: IT-Verfahren und E-Akte",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-42.html"
+    },
+    "abteilungId": "abt-4",
+    "standortId": "st-erfurt",
+    "leitetEinheitIds": [
+      "ref-42"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-kowalczyk-marta.json"
+  },
+  "einheit": {
+    "id": "ref-42",
+    "typ": "referat",
+    "kuerzel": "42",
+    "name": "IT-Verfahren und E-Akte",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-kowalczyk-marta",
+    "standortId": "st-erfurt",
+    "titel": "Referat 42: IT-Verfahren und E-Akte",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-42.html",
+    "leitung": {
+      "id": "p-kowalczyk-marta",
+      "name": "Marta Kowalczyk",
+      "funktion": "Referatsleiterin 42"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-kowalczyk-marta"
+    ],
+    "aufgabeIds": [
+      "auf-digital"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-42.json"
+  },
+  "news": [
+    {
+      "id": "2026-02-ausbildungsstart",
+      "titel": "24 Nachwuchskräfte starten ihre Ausbildung beim BAbA – Pflichtfach „Zuständigkeit I“ inklusive",
+      "datum": "2026-02-02",
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-02-ausbildungsstart.html"
+    }
+  ]
+}

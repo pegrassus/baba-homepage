@@ -1,0 +1,145 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-03-fristenregelung",
+    "datum": "2026-03-18",
+    "kategorie": "Pressemitteilung",
+    "titel": "Neue Fristenregelung für außergewöhnliche Verfahren: Künftig gilt die günstigere Stunde",
+    "teaser": "Ab 1. April gelten vereinfachte Regeln für Fristen, die über einen 29. Februar oder eine Zeitumstellung hinweg laufen. Damit endet eine Unsicherheit, die zuletzt 1.312 Verfahren betraf – und eine Stunde, die es zweimal gab.",
+    "text": [
+      "Zum 1. April 2026 tritt die überarbeitete Verwaltungsvorschrift zur Berechnung außergewöhnlicher Fristen (VV-AFrist 2026) in Kraft. Sie regelt auf Grundlage von § 16 BAbAG, wie Fristen zu berechnen sind, die über einen 29. Februar, eine Zeitumstellung oder ähnliche kalendarische Besonderheiten hinweg laufen. Erarbeitet wurde sie vom Referat 24 „Fristen außergewöhnlicher Art“ am Standort Berlin.",
+      "## Was sich ändert",
+      "Fristen, die über einen 29. Februar laufen, werden künftig einheitlich berechnet: Eine Monatsfrist, die am 31. Januar beginnt, endet in einem Schaltjahr am 29. Februar und in allen anderen Jahren am 28. Februar – und nicht, wie in einzelnen Verfahren vertreten, am 1. März um Mitternacht „zuzüglich einer Schaltsekunde Kulanz“. Bei Zeitumstellungen gilt stets die für die Antragstellenden günstigere Stunde. Läuft eine Frist in der Nacht der Umstellung auf die Winterzeit um 2.30 Uhr ab, ist sie erst beim zweiten Erreichen von 2.30 Uhr abgelaufen.",
+      "„Damit beenden wir eine jahrzehntelange Unsicherheit“, sagte Referatsleiter Markus Pfeiffer-Lang. „Im vergangenen Jahr hatten wir 1.312 Verfahren, in denen die Frist selbst strittig war. In 87 davon war strittig, ob die Frist für die Klärung der Frist bereits abgelaufen war. Das sind Fälle, über die man nachts wach liegt – und zwar zwischen 2 und 3 Uhr, zweimal.“",
+      "## Der Anlassfall",
+      "Den Anstoß gab unter anderem ein Verfahren aus dem Oktober 2025 mit dem Aktenzeichen 24-1600/25-0412. Ein Unternehmen hatte in der Nacht der Zeitumstellung um 2.40 Uhr Sommerzeit per Fax Widerspruch eingelegt; die Frist endete um 2.59 Uhr. Um 2.20 Uhr Winterzeit – tatsächlich also später – ging ein zweites Fax mit einer Ergänzung ein, das nach der Uhr vor dem ersten lag. Die Frage, welches Schreiben zuerst eingegangen war, beschäftigte zwei Referate, ein externes Gutachten zur Zeitmessung und das Faxgerät der Poststelle, das nach der Umstellung beide Zeitstempel für plausibel hielt.",
+      "„Für uns im Widerspruchsreferat war das eine echte Herausforderung“, sagte Verena Lutz, Leiterin des Referats Widersprüche und Einwendungen. „Wir mussten entscheiden, ob ein Schreiben eine Ergänzung zu einem Schreiben sein kann, das nach der Uhr noch gar nicht eingegangen war. Nach der neuen Regelung ist die Sache klar: Beide Faxe sind fristgerecht, und das spätere ist das frühere.“",
+      "Abteilungsleiter Prof. Dr. Lukas Rheinfelder betonte die Bedeutung für die Rechtssicherheit: „Fristen sind das Rückgrat jedes Verwaltungsverfahrens. Wenn sich dieses Rückgrat zweimal im Jahr um eine Stunde verschiebt und alle vier Jahre einen Tag hinzubekommt, braucht es klare Regeln. Wir haben sie jetzt, auf 34 Seiten.“ Die Länder wurden über den Bund-Länder-Arbeitskreis beteiligt; sie können die Vorschrift für ihre eigenen Verfahren übernehmen, müssen es aber nicht.",
+      "Bemerkenswert ist das Datum des Inkrafttretens. Das Referat 24 hat vorsorglich klargestellt, dass der 1. April kein Datum außergewöhnlicher Art im Sinne des § 16 BAbAG ist und die Vorschrift folglich ernst gemeint ist.",
+      "Hinweis für Antragstellende: Wer unsicher ist, wann eine Frist endet, kann eine verbindliche Fristauskunft beantragen. Die Auskunft wird innerhalb von zehn Arbeitstagen erteilt; läuft diese Frist über einen 29. Februar, gilt die VV-AFrist 2026 entsprechend."
+    ],
+    "bild": "assets/img/news/2026-03-fristenregelung.jpg",
+    "einheitId": "ref-24",
+    "personIds": [
+      "p-pfeiffer-lang-markus",
+      "p-rheinfelder-lukas",
+      "p-lutz-verena"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-03-fristenregelung.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-03-fristenregelung.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2026-03-fristenregelung.json"
+  },
+  "einheit": {
+    "id": "ref-24",
+    "typ": "referat",
+    "kuerzel": "24",
+    "name": "Fristen außergewöhnlicher Art",
+    "parentId": "abt-2",
+    "leitungPersonId": "p-pfeiffer-lang-markus",
+    "standortId": "st-berlin",
+    "titel": "Referat 24: Fristen außergewöhnlicher Art",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-24.html",
+    "leitung": {
+      "id": "p-pfeiffer-lang-markus",
+      "name": "Markus Pfeiffer-Lang",
+      "funktion": "Referatsleiter 24"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-pfeiffer-lang-markus"
+    ],
+    "aufgabeIds": [
+      "auf-fristen"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-24.json"
+  },
+  "personen": [
+    {
+      "id": "p-pfeiffer-lang-markus",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Markus",
+      "nachname": "Pfeiffer-Lang",
+      "funktion": "Referatsleiter 24",
+      "einheitId": "ref-24",
+      "email": "markus.pfeiffer-lang@baba-bund.example",
+      "telefon": "+49 30 4711-4400",
+      "kurzvita": "Zuständig für Fristen, die weder gewöhnlich beginnen noch gewöhnlich enden.",
+      "name": "Markus Pfeiffer-Lang",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-pfeiffer-lang-markus.html",
+      "einheit": {
+        "id": "ref-24",
+        "name": "Referat 24: Fristen außergewöhnlicher Art",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-24.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-berlin",
+      "leitetEinheitIds": [
+        "ref-24"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-pfeiffer-lang-markus.json"
+    },
+    {
+      "id": "p-rheinfelder-lukas",
+      "anrede": "Herr",
+      "titel": "Prof. Dr.",
+      "vorname": "Lukas",
+      "nachname": "Rheinfelder",
+      "funktion": "Abteilungsleiter 2",
+      "einheitId": "abt-2",
+      "email": "lukas.rheinfelder@baba-bund.example",
+      "telefon": "+49 30 4711-4000",
+      "kurzvita": "Honorarprofessor für Verwaltungsverfahrensrecht; leitet die Abteilung am Standort Berlin.",
+      "name": "Prof. Dr. Lukas Rheinfelder",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-rheinfelder-lukas.html",
+      "einheit": {
+        "id": "abt-2",
+        "name": "Abteilung 2: Besondere Verfahren",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-2.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-berlin",
+      "leitetEinheitIds": [
+        "abt-2"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-rheinfelder-lukas.json"
+    },
+    {
+      "id": "p-lutz-verena",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Verena",
+      "nachname": "Lutz",
+      "funktion": "Referatsleiterin 23",
+      "einheitId": "ref-23",
+      "email": "verena.lutz@baba-bund.example",
+      "telefon": "+49 30 4711-4300",
+      "kurzvita": "Bearbeitet Widersprüche gegen Bescheide des Amtes.",
+      "name": "Verena Lutz",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-lutz-verena.html",
+      "einheit": {
+        "id": "ref-23",
+        "name": "Referat 23: Widersprüche und Einwendungen",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-23.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-berlin",
+      "leitetEinheitIds": [
+        "ref-23"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-lutz-verena.json"
+    }
+  ]
+}

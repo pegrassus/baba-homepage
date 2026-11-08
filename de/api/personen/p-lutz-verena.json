@@ -1,0 +1,68 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-lutz-verena",
+    "anrede": "Frau",
+    "titel": "",
+    "vorname": "Verena",
+    "nachname": "Lutz",
+    "funktion": "Referatsleiterin 23",
+    "einheitId": "ref-23",
+    "email": "verena.lutz@baba-bund.example",
+    "telefon": "+49 30 4711-4300",
+    "kurzvita": "Bearbeitet Widersprüche gegen Bescheide des Amtes.",
+    "name": "Verena Lutz",
+    "portrait": "assets/img/logo/baba-logo.png",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+    "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-lutz-verena.html",
+    "einheit": {
+      "id": "ref-23",
+      "name": "Referat 23: Widersprüche und Einwendungen",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-23.html"
+    },
+    "abteilungId": "abt-2",
+    "standortId": "st-berlin",
+    "leitetEinheitIds": [
+      "ref-23"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-lutz-verena.json"
+  },
+  "einheit": {
+    "id": "ref-23",
+    "typ": "referat",
+    "kuerzel": "23",
+    "name": "Widersprüche und Einwendungen",
+    "parentId": "abt-2",
+    "leitungPersonId": "p-lutz-verena",
+    "standortId": "st-berlin",
+    "titel": "Referat 23: Widersprüche und Einwendungen",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-23.html",
+    "leitung": {
+      "id": "p-lutz-verena",
+      "name": "Verena Lutz",
+      "funktion": "Referatsleiterin 23"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-lutz-verena"
+    ],
+    "aufgabeIds": [
+      "auf-widerspruch"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-23.json"
+  },
+  "news": [
+    {
+      "id": "2026-03-fristenregelung",
+      "titel": "Neue Fristenregelung für außergewöhnliche Verfahren: Künftig gilt die günstigere Stunde",
+      "datum": "2026-03-18",
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-03-fristenregelung.html"
+    }
+  ]
+}

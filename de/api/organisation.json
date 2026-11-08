@@ -1,0 +1,1563 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "standDerOrganisation": "2026-11-01",
+  "begriffe": {
+    "leitung": "Amtsleitung",
+    "stab": "Stabsstelle",
+    "abteilung": "Abteilung",
+    "referat": "Referat"
+  },
+  "anzahl": 29,
+  "einheiten": [
+    {
+      "id": "leitung",
+      "typ": "leitung",
+      "kuerzel": "P",
+      "name": "Amtsleitung",
+      "parentId": null,
+      "leitungPersonId": "p-wellbrock-hanna",
+      "vertretungPersonId": "p-oberreiter-matthias",
+      "beschreibung": "Präsidentin und Vizepräsident leiten das Amt und vertreten es nach außen.",
+      "standortId": "st-bonn",
+      "titel": "Amtsleitung",
+      "typLabel": "Amtsleitung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/leitung.html",
+      "leitung": {
+        "id": "p-wellbrock-hanna",
+        "name": "Dr. Hanna Wellbrock",
+        "funktion": "Präsidentin"
+      },
+      "childIds": [
+        "stab-ls",
+        "stab-ps",
+        "stab-ds",
+        "abt-z",
+        "abt-1",
+        "abt-2",
+        "abt-3",
+        "abt-4"
+      ],
+      "personIds": [
+        "p-wellbrock-hanna",
+        "p-oberreiter-matthias"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/leitung.json"
+    },
+    {
+      "id": "stab-ls",
+      "typ": "stab",
+      "kuerzel": "LS",
+      "name": "Leitungsstab",
+      "parentId": "leitung",
+      "leitungPersonId": "p-feldhaus-jonas",
+      "beschreibung": "Unterstützt die Amtsleitung, koordiniert Grundsatzangelegenheiten, Gremienarbeit und das Controlling.",
+      "standortId": "st-bonn",
+      "titel": "Leitungsstab",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ls.html",
+      "leitung": {
+        "id": "p-feldhaus-jonas",
+        "name": "Dr. Jonas Feldhaus",
+        "funktion": "Leiter des Leitungsstabs"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-feldhaus-jonas"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/stab-ls.json"
+    },
+    {
+      "id": "stab-ps",
+      "typ": "stab",
+      "kuerzel": "PS",
+      "name": "Presse- und Öffentlichkeitsarbeit",
+      "parentId": "leitung",
+      "leitungPersonId": "p-imhoff-clara",
+      "beschreibung": "Pressestelle, Internetredaktion, Veranstaltungen und Bürgerkommunikation.",
+      "standortId": "st-bonn",
+      "titel": "Presse- und Öffentlichkeitsarbeit",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ps.html",
+      "leitung": {
+        "id": "p-imhoff-clara",
+        "name": "Clara Imhoff",
+        "funktion": "Pressesprecherin"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-imhoff-clara"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/stab-ps.json"
+    },
+    {
+      "id": "stab-ds",
+      "typ": "stab",
+      "kuerzel": "DS",
+      "name": "Datenschutz und Innenrevision",
+      "parentId": "leitung",
+      "leitungPersonId": "p-krell-sabine",
+      "beschreibung": "Behördliche Datenschutzbeauftragte, Innenrevision und Korruptionsprävention.",
+      "standortId": "st-bonn",
+      "titel": "Datenschutz und Innenrevision",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ds.html",
+      "leitung": {
+        "id": "p-krell-sabine",
+        "name": "Sabine Krell",
+        "funktion": "Behördliche Datenschutzbeauftragte"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-krell-sabine"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/stab-ds.json"
+    },
+    {
+      "id": "abt-z",
+      "typ": "abteilung",
+      "kuerzel": "Z",
+      "name": "Zentrale Dienste",
+      "parentId": "leitung",
+      "leitungPersonId": "p-brandauer-thomas",
+      "beschreibung": "Personal, Haushalt, Organisation, Liegenschaften und Recht.",
+      "standortId": "st-bonn",
+      "titel": "Abteilung Z: Zentrale Dienste",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-z.html",
+      "leitung": {
+        "id": "p-brandauer-thomas",
+        "name": "Thomas Brandauer",
+        "funktion": "Abteilungsleiter Z"
+      },
+      "childIds": [
+        "ref-z1",
+        "ref-z2",
+        "ref-z3",
+        "ref-z4"
+      ],
+      "personIds": [
+        "p-brandauer-thomas"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-z.json"
+    },
+    {
+      "id": "ref-z1",
+      "typ": "referat",
+      "kuerzel": "Z 1",
+      "name": "Personal und Ausbildung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-hollweg-petra",
+      "standortId": "st-bonn",
+      "titel": "Referat Z 1: Personal und Ausbildung",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z1.html",
+      "leitung": {
+        "id": "p-hollweg-petra",
+        "name": "Petra Hollweg",
+        "funktion": "Referatsleiterin Z 1"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-hollweg-petra"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z1.json"
+    },
+    {
+      "id": "ref-z2",
+      "typ": "referat",
+      "kuerzel": "Z 2",
+      "name": "Haushalt und Beschaffung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-marquardt-stefan",
+      "standortId": "st-bonn",
+      "titel": "Referat Z 2: Haushalt und Beschaffung",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z2.html",
+      "leitung": {
+        "id": "p-marquardt-stefan",
+        "name": "Stefan Marquardt",
+        "funktion": "Referatsleiter Z 2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-marquardt-stefan"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z2.json"
+    },
+    {
+      "id": "ref-z3",
+      "typ": "referat",
+      "kuerzel": "Z 3",
+      "name": "Organisation, Innerer Dienst und Liegenschaften",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-demirtas-ayse",
+      "standortId": "st-bonn",
+      "titel": "Referat Z 3: Organisation, Innerer Dienst und Liegenschaften",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z3.html",
+      "leitung": {
+        "id": "p-demirtas-ayse",
+        "name": "Ayşe Demirtaş",
+        "funktion": "Referatsleiterin Z 3"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-demirtas-ayse"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z3.json"
+    },
+    {
+      "id": "ref-z4",
+      "typ": "referat",
+      "kuerzel": "Z 4",
+      "name": "Justiziariat",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-lindqvist-felix",
+      "standortId": "st-bonn",
+      "titel": "Referat Z 4: Justiziariat",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z4.html",
+      "leitung": {
+        "id": "p-lindqvist-felix",
+        "name": "Dr. Felix Lindqvist",
+        "funktion": "Referatsleiter Z 4 (Justiziar)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-lindqvist-felix"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z4.json"
+    },
+    {
+      "id": "abt-1",
+      "typ": "abteilung",
+      "kuerzel": "1",
+      "name": "Grundsatz und Sonderfälle",
+      "parentId": "leitung",
+      "leitungPersonId": "p-achenbach-miriam",
+      "beschreibung": "Grundsatzfragen der Zuständigkeit, Abgrenzung zum Gewöhnlichen und Ausnahmegenehmigungen.",
+      "standortId": "st-bonn",
+      "titel": "Abteilung 1: Grundsatz und Sonderfälle",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-1.html",
+      "leitung": {
+        "id": "p-achenbach-miriam",
+        "name": "Dr. Miriam Achenbach",
+        "funktion": "Abteilungsleiterin 1"
+      },
+      "childIds": [
+        "ref-11",
+        "ref-12",
+        "ref-13",
+        "ref-14"
+      ],
+      "personIds": [
+        "p-achenbach-miriam"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-1.json"
+    },
+    {
+      "id": "ref-11",
+      "typ": "referat",
+      "kuerzel": "11",
+      "name": "Grundsatzfragen der Besonderheit",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-rohrbach-elisabeth",
+      "standortId": "st-bonn",
+      "titel": "Referat 11: Grundsatzfragen der Besonderheit",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-11.html",
+      "leitung": {
+        "id": "p-rohrbach-elisabeth",
+        "name": "Dr. Elisabeth Rohrbach",
+        "funktion": "Referatsleiterin 11"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-rohrbach-elisabeth"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit",
+        "auf-beratung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-11.json"
+    },
+    {
+      "id": "ref-12",
+      "typ": "referat",
+      "kuerzel": "12",
+      "name": "Abgrenzung des Gewöhnlichen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-esser-martin",
+      "standortId": "st-bonn",
+      "titel": "Referat 12: Abgrenzung des Gewöhnlichen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-12.html",
+      "leitung": {
+        "id": "p-esser-martin",
+        "name": "Martin Esser",
+        "funktion": "Referatsleiter 12"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-esser-martin"
+      ],
+      "aufgabeIds": [
+        "auf-abgrenzung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-12.json"
+    },
+    {
+      "id": "ref-13",
+      "typ": "referat",
+      "kuerzel": "13",
+      "name": "Grenzfälle und Sonderkonstellationen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-weissenfels-nora",
+      "standortId": "st-bonn",
+      "titel": "Referat 13: Grenzfälle und Sonderkonstellationen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-13.html",
+      "leitung": {
+        "id": "p-weissenfels-nora",
+        "name": "Dr. Nora Weißenfels",
+        "funktion": "Referatsleiterin 13"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-weissenfels-nora"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit",
+        "auf-beratung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-13.json"
+    },
+    {
+      "id": "ref-14",
+      "typ": "referat",
+      "kuerzel": "14",
+      "name": "Ausnahmegenehmigungen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-strobl-benedikt",
+      "standortId": "st-bonn",
+      "titel": "Referat 14: Ausnahmegenehmigungen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-14.html",
+      "leitung": {
+        "id": "p-strobl-benedikt",
+        "name": "Benedikt Strobl",
+        "funktion": "Referatsleiter 14"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-strobl-benedikt"
+      ],
+      "aufgabeIds": [
+        "auf-ausnahme"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-14.json"
+    },
+    {
+      "id": "abt-2",
+      "typ": "abteilung",
+      "kuerzel": "2",
+      "name": "Besondere Verfahren",
+      "parentId": "leitung",
+      "leitungPersonId": "p-rheinfelder-lukas",
+      "beschreibung": "Durchführung besonderer Verwaltungsverfahren einschließlich Widerspruchs- und Fristenangelegenheiten.",
+      "standortId": "st-berlin",
+      "titel": "Abteilung 2: Besondere Verfahren",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-2.html",
+      "leitung": {
+        "id": "p-rheinfelder-lukas",
+        "name": "Prof. Dr. Lukas Rheinfelder",
+        "funktion": "Abteilungsleiter 2"
+      },
+      "childIds": [
+        "ref-21",
+        "ref-22",
+        "ref-23",
+        "ref-24"
+      ],
+      "personIds": [
+        "p-rheinfelder-lukas"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-2.json"
+    },
+    {
+      "id": "ref-21",
+      "typ": "referat",
+      "kuerzel": "21",
+      "name": "Verfahren erster Ordnung",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-kranich-julia",
+      "standortId": "st-berlin",
+      "titel": "Referat 21: Verfahren erster Ordnung",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-21.html",
+      "leitung": {
+        "id": "p-kranich-julia",
+        "name": "Julia Kranich",
+        "funktion": "Referatsleiterin 21"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-kranich-julia"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-21.json"
+    },
+    {
+      "id": "ref-22",
+      "typ": "referat",
+      "kuerzel": "22",
+      "name": "Mehrfach besondere Verfahren",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-hain-tobias",
+      "standortId": "st-berlin",
+      "titel": "Referat 22: Mehrfach besondere Verfahren",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-22.html",
+      "leitung": {
+        "id": "p-hain-tobias",
+        "name": "Dr. Tobias Hain",
+        "funktion": "Referatsleiter 22"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-hain-tobias"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-22.json"
+    },
+    {
+      "id": "ref-23",
+      "typ": "referat",
+      "kuerzel": "23",
+      "name": "Widersprüche und Einwendungen",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-lutz-verena",
+      "standortId": "st-berlin",
+      "titel": "Referat 23: Widersprüche und Einwendungen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-23.html",
+      "leitung": {
+        "id": "p-lutz-verena",
+        "name": "Verena Lutz",
+        "funktion": "Referatsleiterin 23"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-lutz-verena"
+      ],
+      "aufgabeIds": [
+        "auf-widerspruch"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-23.json"
+    },
+    {
+      "id": "ref-24",
+      "typ": "referat",
+      "kuerzel": "24",
+      "name": "Fristen außergewöhnlicher Art",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-pfeiffer-lang-markus",
+      "standortId": "st-berlin",
+      "titel": "Referat 24: Fristen außergewöhnlicher Art",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-24.html",
+      "leitung": {
+        "id": "p-pfeiffer-lang-markus",
+        "name": "Markus Pfeiffer-Lang",
+        "funktion": "Referatsleiter 24"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-pfeiffer-lang-markus"
+      ],
+      "aufgabeIds": [
+        "auf-fristen"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-24.json"
+    },
+    {
+      "id": "abt-3",
+      "typ": "abteilung",
+      "kuerzel": "3",
+      "name": "Außergewöhnliche Ereignisse",
+      "parentId": "leitung",
+      "leitungPersonId": "p-velten-katharina",
+      "beschreibung": "Lagebeobachtung, Bewältigung und Dokumentation unvorhergesehener Ereignisse.",
+      "standortId": "st-bonn",
+      "titel": "Abteilung 3: Außergewöhnliche Ereignisse",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-3.html",
+      "leitung": {
+        "id": "p-velten-katharina",
+        "name": "Katharina Velten",
+        "funktion": "Abteilungsleiterin 3"
+      },
+      "childIds": [
+        "ref-31",
+        "ref-32",
+        "ref-33",
+        "ref-34"
+      ],
+      "personIds": [
+        "p-velten-katharina"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-3.json"
+    },
+    {
+      "id": "ref-31",
+      "typ": "referat",
+      "kuerzel": "31",
+      "name": "Lagezentrum Besonderheiten",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-sander-oliver",
+      "standortId": "st-bonn",
+      "titel": "Referat 31: Lagezentrum Besonderheiten",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-31.html",
+      "leitung": {
+        "id": "p-sander-oliver",
+        "name": "Oliver Sander",
+        "funktion": "Referatsleiter 31 (Leiter Lagezentrum)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-sander-oliver"
+      ],
+      "aufgabeIds": [
+        "auf-lage",
+        "auf-praevention"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-31.json"
+    },
+    {
+      "id": "ref-32",
+      "typ": "referat",
+      "kuerzel": "32",
+      "name": "Unvorhergesehenes",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-amsel-lena",
+      "standortId": "st-bonn",
+      "titel": "Referat 32: Unvorhergesehenes",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-32.html",
+      "leitung": {
+        "id": "p-amsel-lena",
+        "name": "Dr. Lena Amsel",
+        "funktion": "Referatsleiterin 32"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-amsel-lena"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-32.json"
+    },
+    {
+      "id": "ref-33",
+      "typ": "referat",
+      "kuerzel": "33",
+      "name": "Kuriosa-Register und Dokumentation",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-kobold-friedrich",
+      "standortId": "st-bonn",
+      "titel": "Referat 33: Kuriosa-Register und Dokumentation",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-33.html",
+      "leitung": {
+        "id": "p-kobold-friedrich",
+        "name": "Friedrich Kobold",
+        "funktion": "Referatsleiter 33"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-kobold-friedrich"
+      ],
+      "aufgabeIds": [
+        "auf-kuriosa"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-33.json"
+    },
+    {
+      "id": "ref-34",
+      "typ": "referat",
+      "kuerzel": "34",
+      "name": "Prävention des Unwahrscheinlichen",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-raband-sophie",
+      "standortId": "st-bonn",
+      "titel": "Referat 34: Prävention des Unwahrscheinlichen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-34.html",
+      "leitung": {
+        "id": "p-raband-sophie",
+        "name": "Sophie Raband",
+        "funktion": "Referatsleiterin 34"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-raband-sophie"
+      ],
+      "aufgabeIds": [
+        "auf-praevention"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-34.json"
+    },
+    {
+      "id": "abt-4",
+      "typ": "abteilung",
+      "kuerzel": "4",
+      "name": "Digitales und Register",
+      "parentId": "leitung",
+      "leitungPersonId": "p-okafor-daniel",
+      "beschreibung": "Bundesregister besonderer Angelegenheiten, IT-Verfahren, Daten und Informationssicherheit.",
+      "standortId": "st-erfurt",
+      "titel": "Abteilung 4: Digitales und Register",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-4.html",
+      "leitung": {
+        "id": "p-okafor-daniel",
+        "name": "Daniel Okafor",
+        "funktion": "Abteilungsleiter 4 (CIO)"
+      },
+      "childIds": [
+        "ref-41",
+        "ref-42",
+        "ref-43",
+        "ref-44"
+      ],
+      "personIds": [
+        "p-okafor-daniel"
+      ],
+      "aufgabeIds": [
+        "auf-brba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-4.json"
+    },
+    {
+      "id": "ref-41",
+      "typ": "referat",
+      "kuerzel": "41",
+      "name": "Bundesregister besonderer Angelegenheiten (BRbA)",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-wendt-ingo",
+      "standortId": "st-erfurt",
+      "titel": "Referat 41: Bundesregister besonderer Angelegenheiten (BRbA)",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-41.html",
+      "leitung": {
+        "id": "p-wendt-ingo",
+        "name": "Dr. Ingo Wendt",
+        "funktion": "Referatsleiter 41 (Registerführer)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-wendt-ingo"
+      ],
+      "aufgabeIds": [
+        "auf-brba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-41.json"
+    },
+    {
+      "id": "ref-42",
+      "typ": "referat",
+      "kuerzel": "42",
+      "name": "IT-Verfahren und E-Akte",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-kowalczyk-marta",
+      "standortId": "st-erfurt",
+      "titel": "Referat 42: IT-Verfahren und E-Akte",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-42.html",
+      "leitung": {
+        "id": "p-kowalczyk-marta",
+        "name": "Marta Kowalczyk",
+        "funktion": "Referatsleiterin 42"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-kowalczyk-marta"
+      ],
+      "aufgabeIds": [
+        "auf-digital"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-42.json"
+    },
+    {
+      "id": "ref-43",
+      "typ": "referat",
+      "kuerzel": "43",
+      "name": "Daten und Schnittstellen",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-baumgart-leonie",
+      "standortId": "st-erfurt",
+      "titel": "Referat 43: Daten und Schnittstellen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-43.html",
+      "leitung": {
+        "id": "p-baumgart-leonie",
+        "name": "Leonie Baumgart",
+        "funktion": "Referatsleiterin 43"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-baumgart-leonie"
+      ],
+      "aufgabeIds": [
+        "auf-brba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-43.json"
+    },
+    {
+      "id": "ref-44",
+      "typ": "referat",
+      "kuerzel": "44",
+      "name": "Informationssicherheit",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-reinhold-kai-uwe",
+      "standortId": "st-erfurt",
+      "titel": "Referat 44: Informationssicherheit",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-44.html",
+      "leitung": {
+        "id": "p-reinhold-kai-uwe",
+        "name": "Kai-Uwe Reinhold",
+        "funktion": "Referatsleiter 44 (ISB)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-reinhold-kai-uwe"
+      ],
+      "aufgabeIds": [
+        "auf-digital"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-44.json"
+    }
+  ],
+  "baum": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-wellbrock-hanna",
+    "vertretungPersonId": "p-oberreiter-matthias",
+    "beschreibung": "Präsidentin und Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-bonn",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/leitung.html",
+    "leitung": {
+      "id": "p-wellbrock-hanna",
+      "name": "Dr. Hanna Wellbrock",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-wellbrock-hanna",
+      "p-oberreiter-matthias"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/leitung.json",
+    "children": [
+      {
+        "id": "stab-ls",
+        "typ": "stab",
+        "kuerzel": "LS",
+        "name": "Leitungsstab",
+        "parentId": "leitung",
+        "leitungPersonId": "p-feldhaus-jonas",
+        "beschreibung": "Unterstützt die Amtsleitung, koordiniert Grundsatzangelegenheiten, Gremienarbeit und das Controlling.",
+        "standortId": "st-bonn",
+        "titel": "Leitungsstab",
+        "typLabel": "Stabsstelle",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ls.html",
+        "leitung": {
+          "id": "p-feldhaus-jonas",
+          "name": "Dr. Jonas Feldhaus",
+          "funktion": "Leiter des Leitungsstabs"
+        },
+        "childIds": [],
+        "personIds": [
+          "p-feldhaus-jonas"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/stab-ls.json",
+        "children": []
+      },
+      {
+        "id": "stab-ps",
+        "typ": "stab",
+        "kuerzel": "PS",
+        "name": "Presse- und Öffentlichkeitsarbeit",
+        "parentId": "leitung",
+        "leitungPersonId": "p-imhoff-clara",
+        "beschreibung": "Pressestelle, Internetredaktion, Veranstaltungen und Bürgerkommunikation.",
+        "standortId": "st-bonn",
+        "titel": "Presse- und Öffentlichkeitsarbeit",
+        "typLabel": "Stabsstelle",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ps.html",
+        "leitung": {
+          "id": "p-imhoff-clara",
+          "name": "Clara Imhoff",
+          "funktion": "Pressesprecherin"
+        },
+        "childIds": [],
+        "personIds": [
+          "p-imhoff-clara"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/stab-ps.json",
+        "children": []
+      },
+      {
+        "id": "stab-ds",
+        "typ": "stab",
+        "kuerzel": "DS",
+        "name": "Datenschutz und Innenrevision",
+        "parentId": "leitung",
+        "leitungPersonId": "p-krell-sabine",
+        "beschreibung": "Behördliche Datenschutzbeauftragte, Innenrevision und Korruptionsprävention.",
+        "standortId": "st-bonn",
+        "titel": "Datenschutz und Innenrevision",
+        "typLabel": "Stabsstelle",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ds.html",
+        "leitung": {
+          "id": "p-krell-sabine",
+          "name": "Sabine Krell",
+          "funktion": "Behördliche Datenschutzbeauftragte"
+        },
+        "childIds": [],
+        "personIds": [
+          "p-krell-sabine"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/stab-ds.json",
+        "children": []
+      },
+      {
+        "id": "abt-z",
+        "typ": "abteilung",
+        "kuerzel": "Z",
+        "name": "Zentrale Dienste",
+        "parentId": "leitung",
+        "leitungPersonId": "p-brandauer-thomas",
+        "beschreibung": "Personal, Haushalt, Organisation, Liegenschaften und Recht.",
+        "standortId": "st-bonn",
+        "titel": "Abteilung Z: Zentrale Dienste",
+        "typLabel": "Abteilung",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-z.html",
+        "leitung": {
+          "id": "p-brandauer-thomas",
+          "name": "Thomas Brandauer",
+          "funktion": "Abteilungsleiter Z"
+        },
+        "childIds": [
+          "ref-z1",
+          "ref-z2",
+          "ref-z3",
+          "ref-z4"
+        ],
+        "personIds": [
+          "p-brandauer-thomas"
+        ],
+        "aufgabeIds": [],
+        "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-z.json",
+        "children": [
+          {
+            "id": "ref-z1",
+            "typ": "referat",
+            "kuerzel": "Z 1",
+            "name": "Personal und Ausbildung",
+            "parentId": "abt-z",
+            "leitungPersonId": "p-hollweg-petra",
+            "standortId": "st-bonn",
+            "titel": "Referat Z 1: Personal und Ausbildung",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z1.html",
+            "leitung": {
+              "id": "p-hollweg-petra",
+              "name": "Petra Hollweg",
+              "funktion": "Referatsleiterin Z 1"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-hollweg-petra"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z1.json",
+            "children": []
+          },
+          {
+            "id": "ref-z2",
+            "typ": "referat",
+            "kuerzel": "Z 2",
+            "name": "Haushalt und Beschaffung",
+            "parentId": "abt-z",
+            "leitungPersonId": "p-marquardt-stefan",
+            "standortId": "st-bonn",
+            "titel": "Referat Z 2: Haushalt und Beschaffung",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z2.html",
+            "leitung": {
+              "id": "p-marquardt-stefan",
+              "name": "Stefan Marquardt",
+              "funktion": "Referatsleiter Z 2"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-marquardt-stefan"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z2.json",
+            "children": []
+          },
+          {
+            "id": "ref-z3",
+            "typ": "referat",
+            "kuerzel": "Z 3",
+            "name": "Organisation, Innerer Dienst und Liegenschaften",
+            "parentId": "abt-z",
+            "leitungPersonId": "p-demirtas-ayse",
+            "standortId": "st-bonn",
+            "titel": "Referat Z 3: Organisation, Innerer Dienst und Liegenschaften",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z3.html",
+            "leitung": {
+              "id": "p-demirtas-ayse",
+              "name": "Ayşe Demirtaş",
+              "funktion": "Referatsleiterin Z 3"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-demirtas-ayse"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z3.json",
+            "children": []
+          },
+          {
+            "id": "ref-z4",
+            "typ": "referat",
+            "kuerzel": "Z 4",
+            "name": "Justiziariat",
+            "parentId": "abt-z",
+            "leitungPersonId": "p-lindqvist-felix",
+            "standortId": "st-bonn",
+            "titel": "Referat Z 4: Justiziariat",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z4.html",
+            "leitung": {
+              "id": "p-lindqvist-felix",
+              "name": "Dr. Felix Lindqvist",
+              "funktion": "Referatsleiter Z 4 (Justiziar)"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-lindqvist-felix"
+            ],
+            "aufgabeIds": [],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z4.json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "abt-1",
+        "typ": "abteilung",
+        "kuerzel": "1",
+        "name": "Grundsatz und Sonderfälle",
+        "parentId": "leitung",
+        "leitungPersonId": "p-achenbach-miriam",
+        "beschreibung": "Grundsatzfragen der Zuständigkeit, Abgrenzung zum Gewöhnlichen und Ausnahmegenehmigungen.",
+        "standortId": "st-bonn",
+        "titel": "Abteilung 1: Grundsatz und Sonderfälle",
+        "typLabel": "Abteilung",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-1.html",
+        "leitung": {
+          "id": "p-achenbach-miriam",
+          "name": "Dr. Miriam Achenbach",
+          "funktion": "Abteilungsleiterin 1"
+        },
+        "childIds": [
+          "ref-11",
+          "ref-12",
+          "ref-13",
+          "ref-14"
+        ],
+        "personIds": [
+          "p-achenbach-miriam"
+        ],
+        "aufgabeIds": [
+          "auf-zustaendigkeit"
+        ],
+        "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-1.json",
+        "children": [
+          {
+            "id": "ref-11",
+            "typ": "referat",
+            "kuerzel": "11",
+            "name": "Grundsatzfragen der Besonderheit",
+            "parentId": "abt-1",
+            "leitungPersonId": "p-rohrbach-elisabeth",
+            "standortId": "st-bonn",
+            "titel": "Referat 11: Grundsatzfragen der Besonderheit",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-11.html",
+            "leitung": {
+              "id": "p-rohrbach-elisabeth",
+              "name": "Dr. Elisabeth Rohrbach",
+              "funktion": "Referatsleiterin 11"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-rohrbach-elisabeth"
+            ],
+            "aufgabeIds": [
+              "auf-zustaendigkeit",
+              "auf-beratung"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-11.json",
+            "children": []
+          },
+          {
+            "id": "ref-12",
+            "typ": "referat",
+            "kuerzel": "12",
+            "name": "Abgrenzung des Gewöhnlichen",
+            "parentId": "abt-1",
+            "leitungPersonId": "p-esser-martin",
+            "standortId": "st-bonn",
+            "titel": "Referat 12: Abgrenzung des Gewöhnlichen",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-12.html",
+            "leitung": {
+              "id": "p-esser-martin",
+              "name": "Martin Esser",
+              "funktion": "Referatsleiter 12"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-esser-martin"
+            ],
+            "aufgabeIds": [
+              "auf-abgrenzung"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-12.json",
+            "children": []
+          },
+          {
+            "id": "ref-13",
+            "typ": "referat",
+            "kuerzel": "13",
+            "name": "Grenzfälle und Sonderkonstellationen",
+            "parentId": "abt-1",
+            "leitungPersonId": "p-weissenfels-nora",
+            "standortId": "st-bonn",
+            "titel": "Referat 13: Grenzfälle und Sonderkonstellationen",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-13.html",
+            "leitung": {
+              "id": "p-weissenfels-nora",
+              "name": "Dr. Nora Weißenfels",
+              "funktion": "Referatsleiterin 13"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-weissenfels-nora"
+            ],
+            "aufgabeIds": [
+              "auf-zustaendigkeit",
+              "auf-beratung"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-13.json",
+            "children": []
+          },
+          {
+            "id": "ref-14",
+            "typ": "referat",
+            "kuerzel": "14",
+            "name": "Ausnahmegenehmigungen",
+            "parentId": "abt-1",
+            "leitungPersonId": "p-strobl-benedikt",
+            "standortId": "st-bonn",
+            "titel": "Referat 14: Ausnahmegenehmigungen",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-14.html",
+            "leitung": {
+              "id": "p-strobl-benedikt",
+              "name": "Benedikt Strobl",
+              "funktion": "Referatsleiter 14"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-strobl-benedikt"
+            ],
+            "aufgabeIds": [
+              "auf-ausnahme"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-14.json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "abt-2",
+        "typ": "abteilung",
+        "kuerzel": "2",
+        "name": "Besondere Verfahren",
+        "parentId": "leitung",
+        "leitungPersonId": "p-rheinfelder-lukas",
+        "beschreibung": "Durchführung besonderer Verwaltungsverfahren einschließlich Widerspruchs- und Fristenangelegenheiten.",
+        "standortId": "st-berlin",
+        "titel": "Abteilung 2: Besondere Verfahren",
+        "typLabel": "Abteilung",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-2.html",
+        "leitung": {
+          "id": "p-rheinfelder-lukas",
+          "name": "Prof. Dr. Lukas Rheinfelder",
+          "funktion": "Abteilungsleiter 2"
+        },
+        "childIds": [
+          "ref-21",
+          "ref-22",
+          "ref-23",
+          "ref-24"
+        ],
+        "personIds": [
+          "p-rheinfelder-lukas"
+        ],
+        "aufgabeIds": [
+          "auf-verfahren"
+        ],
+        "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-2.json",
+        "children": [
+          {
+            "id": "ref-21",
+            "typ": "referat",
+            "kuerzel": "21",
+            "name": "Verfahren erster Ordnung",
+            "parentId": "abt-2",
+            "leitungPersonId": "p-kranich-julia",
+            "standortId": "st-berlin",
+            "titel": "Referat 21: Verfahren erster Ordnung",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-21.html",
+            "leitung": {
+              "id": "p-kranich-julia",
+              "name": "Julia Kranich",
+              "funktion": "Referatsleiterin 21"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-kranich-julia"
+            ],
+            "aufgabeIds": [
+              "auf-verfahren"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-21.json",
+            "children": []
+          },
+          {
+            "id": "ref-22",
+            "typ": "referat",
+            "kuerzel": "22",
+            "name": "Mehrfach besondere Verfahren",
+            "parentId": "abt-2",
+            "leitungPersonId": "p-hain-tobias",
+            "standortId": "st-berlin",
+            "titel": "Referat 22: Mehrfach besondere Verfahren",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-22.html",
+            "leitung": {
+              "id": "p-hain-tobias",
+              "name": "Dr. Tobias Hain",
+              "funktion": "Referatsleiter 22"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-hain-tobias"
+            ],
+            "aufgabeIds": [
+              "auf-verfahren"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-22.json",
+            "children": []
+          },
+          {
+            "id": "ref-23",
+            "typ": "referat",
+            "kuerzel": "23",
+            "name": "Widersprüche und Einwendungen",
+            "parentId": "abt-2",
+            "leitungPersonId": "p-lutz-verena",
+            "standortId": "st-berlin",
+            "titel": "Referat 23: Widersprüche und Einwendungen",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-23.html",
+            "leitung": {
+              "id": "p-lutz-verena",
+              "name": "Verena Lutz",
+              "funktion": "Referatsleiterin 23"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-lutz-verena"
+            ],
+            "aufgabeIds": [
+              "auf-widerspruch"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-23.json",
+            "children": []
+          },
+          {
+            "id": "ref-24",
+            "typ": "referat",
+            "kuerzel": "24",
+            "name": "Fristen außergewöhnlicher Art",
+            "parentId": "abt-2",
+            "leitungPersonId": "p-pfeiffer-lang-markus",
+            "standortId": "st-berlin",
+            "titel": "Referat 24: Fristen außergewöhnlicher Art",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-24.html",
+            "leitung": {
+              "id": "p-pfeiffer-lang-markus",
+              "name": "Markus Pfeiffer-Lang",
+              "funktion": "Referatsleiter 24"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-pfeiffer-lang-markus"
+            ],
+            "aufgabeIds": [
+              "auf-fristen"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-24.json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "abt-3",
+        "typ": "abteilung",
+        "kuerzel": "3",
+        "name": "Außergewöhnliche Ereignisse",
+        "parentId": "leitung",
+        "leitungPersonId": "p-velten-katharina",
+        "beschreibung": "Lagebeobachtung, Bewältigung und Dokumentation unvorhergesehener Ereignisse.",
+        "standortId": "st-bonn",
+        "titel": "Abteilung 3: Außergewöhnliche Ereignisse",
+        "typLabel": "Abteilung",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-3.html",
+        "leitung": {
+          "id": "p-velten-katharina",
+          "name": "Katharina Velten",
+          "funktion": "Abteilungsleiterin 3"
+        },
+        "childIds": [
+          "ref-31",
+          "ref-32",
+          "ref-33",
+          "ref-34"
+        ],
+        "personIds": [
+          "p-velten-katharina"
+        ],
+        "aufgabeIds": [
+          "auf-lage"
+        ],
+        "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-3.json",
+        "children": [
+          {
+            "id": "ref-31",
+            "typ": "referat",
+            "kuerzel": "31",
+            "name": "Lagezentrum Besonderheiten",
+            "parentId": "abt-3",
+            "leitungPersonId": "p-sander-oliver",
+            "standortId": "st-bonn",
+            "titel": "Referat 31: Lagezentrum Besonderheiten",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-31.html",
+            "leitung": {
+              "id": "p-sander-oliver",
+              "name": "Oliver Sander",
+              "funktion": "Referatsleiter 31 (Leiter Lagezentrum)"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-sander-oliver"
+            ],
+            "aufgabeIds": [
+              "auf-lage",
+              "auf-praevention"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-31.json",
+            "children": []
+          },
+          {
+            "id": "ref-32",
+            "typ": "referat",
+            "kuerzel": "32",
+            "name": "Unvorhergesehenes",
+            "parentId": "abt-3",
+            "leitungPersonId": "p-amsel-lena",
+            "standortId": "st-bonn",
+            "titel": "Referat 32: Unvorhergesehenes",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-32.html",
+            "leitung": {
+              "id": "p-amsel-lena",
+              "name": "Dr. Lena Amsel",
+              "funktion": "Referatsleiterin 32"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-amsel-lena"
+            ],
+            "aufgabeIds": [
+              "auf-lage"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-32.json",
+            "children": []
+          },
+          {
+            "id": "ref-33",
+            "typ": "referat",
+            "kuerzel": "33",
+            "name": "Kuriosa-Register und Dokumentation",
+            "parentId": "abt-3",
+            "leitungPersonId": "p-kobold-friedrich",
+            "standortId": "st-bonn",
+            "titel": "Referat 33: Kuriosa-Register und Dokumentation",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-33.html",
+            "leitung": {
+              "id": "p-kobold-friedrich",
+              "name": "Friedrich Kobold",
+              "funktion": "Referatsleiter 33"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-kobold-friedrich"
+            ],
+            "aufgabeIds": [
+              "auf-kuriosa"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-33.json",
+            "children": []
+          },
+          {
+            "id": "ref-34",
+            "typ": "referat",
+            "kuerzel": "34",
+            "name": "Prävention des Unwahrscheinlichen",
+            "parentId": "abt-3",
+            "leitungPersonId": "p-raband-sophie",
+            "standortId": "st-bonn",
+            "titel": "Referat 34: Prävention des Unwahrscheinlichen",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-34.html",
+            "leitung": {
+              "id": "p-raband-sophie",
+              "name": "Sophie Raband",
+              "funktion": "Referatsleiterin 34"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-raband-sophie"
+            ],
+            "aufgabeIds": [
+              "auf-praevention"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-34.json",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "abt-4",
+        "typ": "abteilung",
+        "kuerzel": "4",
+        "name": "Digitales und Register",
+        "parentId": "leitung",
+        "leitungPersonId": "p-okafor-daniel",
+        "beschreibung": "Bundesregister besonderer Angelegenheiten, IT-Verfahren, Daten und Informationssicherheit.",
+        "standortId": "st-erfurt",
+        "titel": "Abteilung 4: Digitales und Register",
+        "typLabel": "Abteilung",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-4.html",
+        "leitung": {
+          "id": "p-okafor-daniel",
+          "name": "Daniel Okafor",
+          "funktion": "Abteilungsleiter 4 (CIO)"
+        },
+        "childIds": [
+          "ref-41",
+          "ref-42",
+          "ref-43",
+          "ref-44"
+        ],
+        "personIds": [
+          "p-okafor-daniel"
+        ],
+        "aufgabeIds": [
+          "auf-brba"
+        ],
+        "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-4.json",
+        "children": [
+          {
+            "id": "ref-41",
+            "typ": "referat",
+            "kuerzel": "41",
+            "name": "Bundesregister besonderer Angelegenheiten (BRbA)",
+            "parentId": "abt-4",
+            "leitungPersonId": "p-wendt-ingo",
+            "standortId": "st-erfurt",
+            "titel": "Referat 41: Bundesregister besonderer Angelegenheiten (BRbA)",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-41.html",
+            "leitung": {
+              "id": "p-wendt-ingo",
+              "name": "Dr. Ingo Wendt",
+              "funktion": "Referatsleiter 41 (Registerführer)"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-wendt-ingo"
+            ],
+            "aufgabeIds": [
+              "auf-brba"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-41.json",
+            "children": []
+          },
+          {
+            "id": "ref-42",
+            "typ": "referat",
+            "kuerzel": "42",
+            "name": "IT-Verfahren und E-Akte",
+            "parentId": "abt-4",
+            "leitungPersonId": "p-kowalczyk-marta",
+            "standortId": "st-erfurt",
+            "titel": "Referat 42: IT-Verfahren und E-Akte",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-42.html",
+            "leitung": {
+              "id": "p-kowalczyk-marta",
+              "name": "Marta Kowalczyk",
+              "funktion": "Referatsleiterin 42"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-kowalczyk-marta"
+            ],
+            "aufgabeIds": [
+              "auf-digital"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-42.json",
+            "children": []
+          },
+          {
+            "id": "ref-43",
+            "typ": "referat",
+            "kuerzel": "43",
+            "name": "Daten und Schnittstellen",
+            "parentId": "abt-4",
+            "leitungPersonId": "p-baumgart-leonie",
+            "standortId": "st-erfurt",
+            "titel": "Referat 43: Daten und Schnittstellen",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-43.html",
+            "leitung": {
+              "id": "p-baumgart-leonie",
+              "name": "Leonie Baumgart",
+              "funktion": "Referatsleiterin 43"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-baumgart-leonie"
+            ],
+            "aufgabeIds": [
+              "auf-brba"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-43.json",
+            "children": []
+          },
+          {
+            "id": "ref-44",
+            "typ": "referat",
+            "kuerzel": "44",
+            "name": "Informationssicherheit",
+            "parentId": "abt-4",
+            "leitungPersonId": "p-reinhold-kai-uwe",
+            "standortId": "st-erfurt",
+            "titel": "Referat 44: Informationssicherheit",
+            "typLabel": "Referat",
+            "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-44.html",
+            "leitung": {
+              "id": "p-reinhold-kai-uwe",
+              "name": "Kai-Uwe Reinhold",
+              "funktion": "Referatsleiter 44 (ISB)"
+            },
+            "childIds": [],
+            "personIds": [
+              "p-reinhold-kai-uwe"
+            ],
+            "aufgabeIds": [
+              "auf-digital"
+            ],
+            "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-44.json",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

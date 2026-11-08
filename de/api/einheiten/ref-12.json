@@ -1,0 +1,149 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-12",
+    "typ": "referat",
+    "kuerzel": "12",
+    "name": "Abgrenzung des Gewöhnlichen",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-esser-martin",
+    "standortId": "st-bonn",
+    "titel": "Referat 12: Abgrenzung des Gewöhnlichen",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-12.html",
+    "leitung": {
+      "id": "p-esser-martin",
+      "name": "Martin Esser",
+      "funktion": "Referatsleiter 12"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-esser-martin"
+    ],
+    "aufgabeIds": [
+      "auf-abgrenzung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-12.json"
+  },
+  "parent": {
+    "id": "abt-1",
+    "typ": "abteilung",
+    "kuerzel": "1",
+    "name": "Grundsatz und Sonderfälle",
+    "parentId": "leitung",
+    "leitungPersonId": "p-achenbach-miriam",
+    "beschreibung": "Grundsatzfragen der Zuständigkeit, Abgrenzung zum Gewöhnlichen und Ausnahmegenehmigungen.",
+    "standortId": "st-bonn",
+    "titel": "Abteilung 1: Grundsatz und Sonderfälle",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-1.html",
+    "leitung": {
+      "id": "p-achenbach-miriam",
+      "name": "Dr. Miriam Achenbach",
+      "funktion": "Abteilungsleiterin 1"
+    },
+    "childIds": [
+      "ref-11",
+      "ref-12",
+      "ref-13",
+      "ref-14"
+    ],
+    "personIds": [
+      "p-achenbach-miriam"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-1.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-esser-martin",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Martin",
+      "nachname": "Esser",
+      "funktion": "Referatsleiter 12",
+      "einheitId": "ref-12",
+      "email": "martin.esser@baba-bund.example",
+      "telefon": "+49 228 4711-3200",
+      "kurzvita": "Zuständig für die Frage, ob etwas überhaupt besonders ist.",
+      "name": "Martin Esser",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-esser-martin.html",
+      "einheit": {
+        "id": "ref-12",
+        "name": "Referat 12: Abgrenzung des Gewöhnlichen",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-12.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-12"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-esser-martin.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-abgrenzung",
+      "titel": "Feststellung der Besonderheit",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Auf Antrag stellt das Amt verbindlich fest, ob eine Angelegenheit als besondere Angelegenheit im Sinne des BAbAG gilt.",
+      "einheitIds": [
+        "ref-12"
+      ],
+      "rechtsgrundlage": "§ 3 BAbAG",
+      "details": [
+        "Mit der Feststellung der Besonderheit entscheidet das BAbA verbindlich, ob eine Angelegenheit als besondere Angelegenheit im Sinne des BAbAG gilt. Den Antrag können natürliche und juristische Personen sowie Behörden stellen, die ein berechtigtes Interesse an der Einordnung haben. Grundlage der Prüfung ist der Leitfaden „Wann ist eine Angelegenheit besonders?“ mit seinen 14 Kriterien.",
+        "Das Referat 12 prüft den Sachverhalt anhand der Antragsunterlagen, holt bei Bedarf Stellungnahmen anderer Behörden ein und hört die antragstellende Person an. In der Regel gilt eine Angelegenheit als besonders, wenn mindestens drei Kriterien erfüllt sind oder eines in außergewöhnlich hohem Maße. Für das Kopfschüttel-Kriterium ist die übereinstimmende Einschätzung zweier unabhängiger Bediensteter erforderlich.",
+        "Das Verfahren endet mit einem Feststellungsbescheid. Eine positive Feststellung wird im BRbA eingetragen und eröffnet den Zugang zu den besonderen Verfahren des Amtes; eine negative Feststellung verweist auf die zuständige Regelbehörde."
+      ],
+      "beispiele": [
+        "Ein Bürger beantragt die Feststellung, dass sein Anliegen gewöhnlich ist, damit endlich seine Gemeinde zuständig wird.",
+        "Ein Verein lässt klären, ob sein am 29. Februar gegründetes Jubiläum alle vier Jahre oder jährlich zu feiern ist.",
+        "Eine Landesbehörde bittet um Feststellung, ob ein Dorfbrunnen, der nur bei Vollmond Wasser führt, besonders ist."
+      ],
+      "leistung": {
+        "antrag": "Formular BA-1, online oder schriftlich",
+        "dauer": "3 Monate",
+        "kosten": "50 bis 400 Euro nach Aufwand; für Behörden gebührenfrei"
+      }
+    }
+  ],
+  "standort": {
+    "id": "st-bonn",
+    "name": "Hauptsitz Bonn",
+    "typ": "Hauptsitz",
+    "strasse": "Am Sonderweg 1",
+    "plz": "53113",
+    "ort": "Bonn",
+    "telefon": "+49 228 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+    "bild": "assets/img/standorte/bonn.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-08-leitfaden",
+      "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“ – 14 Kriterien und ein messbares Kopfschütteln",
+      "datum": "2026-08-21",
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-08-leitfaden.html"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "abt-1",
+    "typ": "abteilung",
+    "kuerzel": "1",
+    "name": "Grundsatz und Sonderfälle",
+    "parentId": "leitung",
+    "leitungPersonId": "p-achenbach-miriam",
+    "beschreibung": "Grundsatzfragen der Zuständigkeit, Abgrenzung zum Gewöhnlichen und Ausnahmegenehmigungen.",
+    "standortId": "st-bonn",
+    "titel": "Abteilung 1: Grundsatz und Sonderfälle",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-1.html",
+    "leitung": {
+      "id": "p-achenbach-miriam",
+      "name": "Dr. Miriam Achenbach",
+      "funktion": "Abteilungsleiterin 1"
+    },
+    "childIds": [
+      "ref-11",
+      "ref-12",
+      "ref-13",
+      "ref-14"
+    ],
+    "personIds": [
+      "p-achenbach-miriam"
+    ],
+    "aufgabeIds": [
+      "auf-zustaendigkeit"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-1.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-wellbrock-hanna",
+    "vertretungPersonId": "p-oberreiter-matthias",
+    "beschreibung": "Präsidentin und Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-bonn",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/leitung.html",
+    "leitung": {
+      "id": "p-wellbrock-hanna",
+      "name": "Dr. Hanna Wellbrock",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-wellbrock-hanna",
+      "p-oberreiter-matthias"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/leitung.json"
+  },
+  "children": [
+    {
+      "id": "ref-11",
+      "typ": "referat",
+      "kuerzel": "11",
+      "name": "Grundsatzfragen der Besonderheit",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-rohrbach-elisabeth",
+      "standortId": "st-bonn",
+      "titel": "Referat 11: Grundsatzfragen der Besonderheit",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-11.html",
+      "leitung": {
+        "id": "p-rohrbach-elisabeth",
+        "name": "Dr. Elisabeth Rohrbach",
+        "funktion": "Referatsleiterin 11"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-rohrbach-elisabeth"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit",
+        "auf-beratung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-11.json"
+    },
+    {
+      "id": "ref-12",
+      "typ": "referat",
+      "kuerzel": "12",
+      "name": "Abgrenzung des Gewöhnlichen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-esser-martin",
+      "standortId": "st-bonn",
+      "titel": "Referat 12: Abgrenzung des Gewöhnlichen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-12.html",
+      "leitung": {
+        "id": "p-esser-martin",
+        "name": "Martin Esser",
+        "funktion": "Referatsleiter 12"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-esser-martin"
+      ],
+      "aufgabeIds": [
+        "auf-abgrenzung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-12.json"
+    },
+    {
+      "id": "ref-13",
+      "typ": "referat",
+      "kuerzel": "13",
+      "name": "Grenzfälle und Sonderkonstellationen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-weissenfels-nora",
+      "standortId": "st-bonn",
+      "titel": "Referat 13: Grenzfälle und Sonderkonstellationen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-13.html",
+      "leitung": {
+        "id": "p-weissenfels-nora",
+        "name": "Dr. Nora Weißenfels",
+        "funktion": "Referatsleiterin 13"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-weissenfels-nora"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit",
+        "auf-beratung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-13.json"
+    },
+    {
+      "id": "ref-14",
+      "typ": "referat",
+      "kuerzel": "14",
+      "name": "Ausnahmegenehmigungen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-strobl-benedikt",
+      "standortId": "st-bonn",
+      "titel": "Referat 14: Ausnahmegenehmigungen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-14.html",
+      "leitung": {
+        "id": "p-strobl-benedikt",
+        "name": "Benedikt Strobl",
+        "funktion": "Referatsleiter 14"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-strobl-benedikt"
+      ],
+      "aufgabeIds": [
+        "auf-ausnahme"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-14.json"
+    }
+  ],
+  "personen": [
+    {
+      "id": "p-achenbach-miriam",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Miriam",
+      "nachname": "Achenbach",
+      "funktion": "Abteilungsleiterin 1",
+      "einheitId": "abt-1",
+      "email": "miriam.achenbach@baba-bund.example",
+      "telefon": "+49 228 4711-3000",
+      "kurzvita": "Rechtswissenschaftlerin; prägte maßgeblich den Leitfaden zur Abgrenzung besonderer Angelegenheiten.",
+      "name": "Dr. Miriam Achenbach",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-achenbach-miriam.html",
+      "einheit": {
+        "id": "abt-1",
+        "name": "Abteilung 1: Grundsatz und Sonderfälle",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-1.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "abt-1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-achenbach-miriam.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-zustaendigkeit",
+      "titel": "Auffangzuständigkeit des Bundes",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Das BAbA übernimmt Angelegenheiten des Bundes, für die keine andere Behörde eindeutig zuständig ist, und führt sie einer sachgerechten Bearbeitung zu.",
+      "einheitIds": [
+        "abt-1",
+        "ref-11",
+        "ref-13"
+      ],
+      "rechtsgrundlage": "§ 2 Abs. 1 BAbAG",
+      "details": [
+        "Die Auffangzuständigkeit greift, wenn eine Angelegenheit in den Aufgabenbereich des Bundes fällt, sich aber keiner Bundesbehörde eindeutig zuordnen lässt. In der Praxis gelangen solche Vorgänge meist durch Abgabe einer anderen Behörde zum BAbA, seltener durch Bürgerinnen und Bürger, die bereits mehrere Stellen angeschrieben haben. Das Referat 11 prüft zunächst, ob tatsächlich keine andere Stelle zuständig ist, und hält das Ergebnis in einem Zuständigkeitsvermerk fest.",
+        "Ist das BAbA zuständig, wird der Vorgang einem Fachreferat zugewiesen und regulär bearbeitet. Ist eine andere Stelle zuständig, gibt das BAbA den Vorgang mit Begründung ab und informiert die antragstellende Person. Berührt die Angelegenheit zugleich Bundes- und Landesrecht, übernimmt das Referat 13 die Abstimmung mit den betroffenen Ländern.",
+        "Ergebnis ist in jedem Fall eine klare Zuordnung: Kein Vorgang verlässt das BAbA ohne Namen, Stelle und Aktenzeichen. Das Amt versteht sich ausdrücklich nicht als Ablage für Unerledigtes, sondern als letzte Station, an der eine Zuständigkeit festgestellt wird."
+      ],
+      "beispiele": [
+        "Ein Bundesministerium gibt eine Bürgeranfrage ab, die an „die zuständige Stelle für alles Übrige“ adressiert war.",
+        "Eine Anfrage zu einem Schild, das ausschließlich auf ein anderes Schild hinweist, wandert seit 2023 zwischen drei Stellen hin und her.",
+        "Ein Unternehmen fragt, wer für die Zulassung eines Produkts zuständig ist, das es nach eigenen Angaben „noch nicht gibt“."
+      ],
+      "leistung": {
+        "antrag": "Formloses Schreiben, Online-Formular „Zuständigkeitsanfrage“ oder Abgabe durch die bisher befasste Behörde",
+        "dauer": "6 Wochen",
+        "kosten": "gebührenfrei"
+      }
+    }
+  ],
+  "standort": {
+    "id": "st-bonn",
+    "name": "Hauptsitz Bonn",
+    "typ": "Hauptsitz",
+    "strasse": "Am Sonderweg 1",
+    "plz": "53113",
+    "ort": "Bonn",
+    "telefon": "+49 228 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+    "bild": "assets/img/standorte/bonn.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-08-leitfaden",
+      "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“ – 14 Kriterien und ein messbares Kopfschütteln",
+      "datum": "2026-08-21",
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-08-leitfaden.html"
+    }
+  ]
+}

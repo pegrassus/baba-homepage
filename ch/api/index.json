@@ -22,8 +22,8 @@
       "land": "Deutschland",
       "name": "Bundesamt für besondere Angelegenheiten",
       "kurzname": "BAbA",
-      "website": "https://pegrassus.github.io/baba-homepage/index.html",
-      "api": "https://pegrassus.github.io/baba-homepage/api/index.json"
+      "website": "https://pegrassus.github.io/baba-homepage/de/index.html",
+      "api": "https://pegrassus.github.io/baba-homepage/de/api/index.json"
     },
     {
       "variante": "ch",

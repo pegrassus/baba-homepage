@@ -1,0 +1,132 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "stab-ps",
+    "typ": "stab",
+    "kuerzel": "PS",
+    "name": "Presse- und Öffentlichkeitsarbeit",
+    "parentId": "leitung",
+    "leitungPersonId": "p-imhoff-clara",
+    "beschreibung": "Pressestelle, Internetredaktion, Veranstaltungen und Bürgerkommunikation.",
+    "standortId": "st-bonn",
+    "titel": "Presse- und Öffentlichkeitsarbeit",
+    "typLabel": "Stabsstelle",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ps.html",
+    "leitung": {
+      "id": "p-imhoff-clara",
+      "name": "Clara Imhoff",
+      "funktion": "Pressesprecherin"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-imhoff-clara"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/stab-ps.json"
+  },
+  "parent": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-wellbrock-hanna",
+    "vertretungPersonId": "p-oberreiter-matthias",
+    "beschreibung": "Präsidentin und Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-bonn",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/leitung.html",
+    "leitung": {
+      "id": "p-wellbrock-hanna",
+      "name": "Dr. Hanna Wellbrock",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-wellbrock-hanna",
+      "p-oberreiter-matthias"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/leitung.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-imhoff-clara",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Clara",
+      "nachname": "Imhoff",
+      "funktion": "Pressesprecherin",
+      "einheitId": "stab-ps",
+      "email": "presse@baba-bund.example",
+      "telefon": "+49 228 4711-1020",
+      "kurzvita": "Journalistin und Kommunikationswirtin; seit 2020 Pressesprecherin des BAbA.",
+      "name": "Clara Imhoff",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-imhoff-clara.html",
+      "einheit": {
+        "id": "stab-ps",
+        "name": "Presse- und Öffentlichkeitsarbeit",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ps.html"
+      },
+      "abteilungId": "stab-ps",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "stab-ps"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-imhoff-clara.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-bonn",
+    "name": "Hauptsitz Bonn",
+    "typ": "Hauptsitz",
+    "strasse": "Am Sonderweg 1",
+    "plz": "53113",
+    "ort": "Bonn",
+    "telefon": "+49 228 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+    "bild": "assets/img/standorte/bonn.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-10-jahresbericht",
+      "titel": "Jahresbericht 2025/26: So viele besondere Angelegenheiten wie nie – und erstmals eine gewöhnliche",
+      "datum": "2026-10-28",
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-10-jahresbericht.html"
+    },
+    {
+      "id": "2026-09-tag-der-offenen-tuer",
+      "titel": "Tag der offenen Tür: 4.200 Gäste, 611 Prüfaufträge und ein Hund, der nur dienstags bellt",
+      "datum": "2026-09-15",
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-09-tag-der-offenen-tuer.html"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-z4",
+    "typ": "referat",
+    "kuerzel": "Z 4",
+    "name": "Justiziariat",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-lindqvist-felix",
+    "standortId": "st-bonn",
+    "titel": "Referat Z 4: Justiziariat",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z4.html",
+    "leitung": {
+      "id": "p-lindqvist-felix",
+      "name": "Dr. Felix Lindqvist",
+      "funktion": "Referatsleiter Z 4 (Justiziar)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-lindqvist-felix"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z4.json"
+  },
+  "parent": {
+    "id": "abt-z",
+    "typ": "abteilung",
+    "kuerzel": "Z",
+    "name": "Zentrale Dienste",
+    "parentId": "leitung",
+    "leitungPersonId": "p-brandauer-thomas",
+    "beschreibung": "Personal, Haushalt, Organisation, Liegenschaften und Recht.",
+    "standortId": "st-bonn",
+    "titel": "Abteilung Z: Zentrale Dienste",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-z.html",
+    "leitung": {
+      "id": "p-brandauer-thomas",
+      "name": "Thomas Brandauer",
+      "funktion": "Abteilungsleiter Z"
+    },
+    "childIds": [
+      "ref-z1",
+      "ref-z2",
+      "ref-z3",
+      "ref-z4"
+    ],
+    "personIds": [
+      "p-brandauer-thomas"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-z.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-lindqvist-felix",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Felix",
+      "nachname": "Lindqvist",
+      "funktion": "Referatsleiter Z 4 (Justiziar)",
+      "einheitId": "ref-z4",
+      "email": "felix.lindqvist@baba-bund.example",
+      "telefon": "+49 228 4711-2400",
+      "kurzvita": "Justiziar des Amtes; Prozessvertretung und Rechtsberatung.",
+      "name": "Dr. Felix Lindqvist",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-lindqvist-felix.html",
+      "einheit": {
+        "id": "ref-z4",
+        "name": "Referat Z 4: Justiziariat",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z4.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-z4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-lindqvist-felix.json"
+    }
+  ],
+  "aufgaben": [],
+  "standort": {
+    "id": "st-bonn",
+    "name": "Hauptsitz Bonn",
+    "typ": "Hauptsitz",
+    "strasse": "Am Sonderweg 1",
+    "plz": "53113",
+    "ort": "Bonn",
+    "telefon": "+49 228 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+    "bild": "assets/img/standorte/bonn.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

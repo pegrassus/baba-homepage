@@ -1,0 +1,61 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-baumgart-leonie",
+    "anrede": "Frau",
+    "titel": "",
+    "vorname": "Leonie",
+    "nachname": "Baumgart",
+    "funktion": "Referatsleiterin 43",
+    "einheitId": "ref-43",
+    "email": "leonie.baumgart@baba-bund.example",
+    "telefon": "+49 361 4711-6300",
+    "kurzvita": "Data Scientist; betreut offene Daten und Schnittstellen des Amtes.",
+    "name": "Leonie Baumgart",
+    "portrait": "assets/img/logo/baba-logo.png",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+    "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-baumgart-leonie.html",
+    "einheit": {
+      "id": "ref-43",
+      "name": "Referat 43: Daten und Schnittstellen",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-43.html"
+    },
+    "abteilungId": "abt-4",
+    "standortId": "st-erfurt",
+    "leitetEinheitIds": [
+      "ref-43"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-baumgart-leonie.json"
+  },
+  "einheit": {
+    "id": "ref-43",
+    "typ": "referat",
+    "kuerzel": "43",
+    "name": "Daten und Schnittstellen",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-baumgart-leonie",
+    "standortId": "st-erfurt",
+    "titel": "Referat 43: Daten und Schnittstellen",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-43.html",
+    "leitung": {
+      "id": "p-baumgart-leonie",
+      "name": "Leonie Baumgart",
+      "funktion": "Referatsleiterin 43"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-baumgart-leonie"
+    ],
+    "aufgabeIds": [
+      "auf-brba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-43.json"
+  },
+  "news": []
+}

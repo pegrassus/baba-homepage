@@ -1,0 +1,145 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-41",
+    "typ": "referat",
+    "kuerzel": "41",
+    "name": "Bundesregister besonderer Angelegenheiten (BRbA)",
+    "parentId": "abt-4",
+    "leitungPersonId": "p-wendt-ingo",
+    "standortId": "st-erfurt",
+    "titel": "Referat 41: Bundesregister besonderer Angelegenheiten (BRbA)",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-41.html",
+    "leitung": {
+      "id": "p-wendt-ingo",
+      "name": "Dr. Ingo Wendt",
+      "funktion": "Referatsleiter 41 (Registerführer)"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-wendt-ingo"
+    ],
+    "aufgabeIds": [
+      "auf-brba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-41.json"
+  },
+  "parent": {
+    "id": "abt-4",
+    "typ": "abteilung",
+    "kuerzel": "4",
+    "name": "Digitales und Register",
+    "parentId": "leitung",
+    "leitungPersonId": "p-okafor-daniel",
+    "beschreibung": "Bundesregister besonderer Angelegenheiten, IT-Verfahren, Daten und Informationssicherheit.",
+    "standortId": "st-erfurt",
+    "titel": "Abteilung 4: Digitales und Register",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-4.html",
+    "leitung": {
+      "id": "p-okafor-daniel",
+      "name": "Daniel Okafor",
+      "funktion": "Abteilungsleiter 4 (CIO)"
+    },
+    "childIds": [
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "personIds": [
+      "p-okafor-daniel"
+    ],
+    "aufgabeIds": [
+      "auf-brba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-4.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-wendt-ingo",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Ingo",
+      "nachname": "Wendt",
+      "funktion": "Referatsleiter 41 (Registerführer)",
+      "einheitId": "ref-41",
+      "email": "brba@baba-bund.example",
+      "telefon": "+49 361 4711-6100",
+      "kurzvita": "Leitet das Bundesregister besonderer Angelegenheiten.",
+      "name": "Dr. Ingo Wendt",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-wendt-ingo.html",
+      "einheit": {
+        "id": "ref-41",
+        "name": "Referat 41: Bundesregister besonderer Angelegenheiten (BRbA)",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-41.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-erfurt",
+      "leitetEinheitIds": [
+        "ref-41"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-wendt-ingo.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-brba",
+      "titel": "Bundesregister besonderer Angelegenheiten (BRbA)",
+      "kategorie": "Register",
+      "beschreibung": "Führung des zentralen Registers aller festgestellten besonderen Angelegenheiten; Auskunftserteilung an Berechtigte.",
+      "einheitIds": [
+        "abt-4",
+        "ref-41",
+        "ref-43"
+      ],
+      "rechtsgrundlage": "§§ 22–25 BAbAG",
+      "details": [
+        "Das Bundesregister besonderer Angelegenheiten (BRbA) verzeichnet alle vom BAbA festgestellten besonderen Angelegenheiten, erteilten Ausnahmegenehmigungen und abgeschlossenen besonderen Verfahren. Es umfasst derzeit 214.506 Einträge und wird seit Oktober 2026 vollständig digital im Rechenzentrum Erfurt geführt. Registerführer ist der Leiter des Referats 41.",
+        "Auskünfte erhalten Behörden von Bund, Ländern und Kommunen mit berechtigtem Interesse über eine gesicherte Schnittstelle, die das Referat 43 „Daten und Schnittstellen“ betreibt. Bürgerinnen und Bürger erhalten auf Antrag Auskunft über die zu ihrer Person oder Angelegenheit gespeicherten Einträge; das berechtigte Interesse ist im Formular BR-22 darzulegen.",
+        "Ergebnis ist eine Registerauskunft als elektronisches Dokument oder auf Wunsch als beglaubigter Ausdruck. Einträge können auf Antrag berichtigt werden; eine Löschung ist erst nach Ablauf der gesetzlichen Aufbewahrungsfristen möglich."
+      ],
+      "beispiele": [
+        "Eine Kommune fragt ab, ob ihr Vollmondbrunnen bereits als besonders festgestellt wurde.",
+        "Ein Notariat benötigt eine Auskunft zu einem Grundstück der Registerkategorie 99.9 „Einordnung nicht abschließend möglich“.",
+        "Eine Bürgerin möchte wissen, warum ihre Gänse im Register unter dem Stichwort „Ereignisse, ländliche“ geführt werden."
+      ],
+      "leistung": {
+        "antrag": "Formular BR-22 oder Schnittstelle für registrierte Behörden",
+        "dauer": "5 Arbeitstage; über die Schnittstelle sofort",
+        "kosten": "15 Euro je Auskunft; für Behörden gebührenfrei"
+      }
+    }
+  ],
+  "standort": {
+    "id": "st-erfurt",
+    "name": "Außenstelle Erfurt",
+    "typ": "Außenstelle",
+    "strasse": "Registerplatz 3",
+    "plz": "99084",
+    "ort": "Erfurt",
+    "telefon": "+49 361 4711-0",
+    "beschreibung": "Standort der Abteilung 4 (Digitales und Register) und des Rechenzentrums des BRbA. Neubau, bezogen 2026.",
+    "bild": "assets/img/standorte/erfurt.jpg",
+    "einheitIds": [
+      "abt-4"
+    ]
+  },
+  "news": [
+    {
+      "id": "2026-10-brba-start",
+      "titel": "Digitales Bundesregister besonderer Angelegenheiten geht in Betrieb – letzte Karteikarte feierlich abgeheftet",
+      "datum": "2026-10-09",
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-10-brba-start.html"
+    }
+  ]
+}

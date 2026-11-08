@@ -4,9 +4,11 @@ Statische Demo-Websites einer **fiktiven** Bundesbehörde in drei Länderversion
 
 | Variante | Behörde | Live | Daten |
 |---|---|---|---|
-| 🇩🇪 Deutschland | Bundesamt für besondere Angelegenheiten (**BAbA**) | https://pegrassus.github.io/baba-homepage/ | `data/de/` |
-| 🇨🇭 Schweiz | Bundesamt für besondere Angelegenheiten (**BBA** / OFAP / UFAP / UFFP) | https://pegrassus.github.io/baba-homepage/ch/ | `data/ch/` |
+| 🇩🇪 Deutschland | Bundesamt für besondere Angelegenheiten (**BAbA**) | https://pegrassus.github.io/baba-homepage/de/ | `data/de/` |
+| 🇨🇭 Schweiz | Bundesamt für besondere Angelegenheiten (**BBA**) | https://pegrassus.github.io/baba-homepage/ch/ | `data/ch/` |
 | 🇦🇹 Österreich | Bundesamt für besondere und sonstige Angelegenheiten (**BBSA**) | https://pegrassus.github.io/baba-homepage/at/ | `data/at/` |
+
+Die Wurzel-URL https://pegrassus.github.io/baba-homepage/ ist eine **Länderauswahl** (mit Vorschlag nach Spracheinstellung des Browsers). Alte Adressen der deutschen Version ohne `/de/` leiten automatisch weiter.
 
 Struktur und Logik sind in allen Varianten gleich (gleiche Einheiten-IDs `leitung`, `stab-*`, `abt-*`, `ref-*`), nur Begriffe, Namen und Geschichten sind landestypisch:
 
@@ -37,7 +39,7 @@ Logos CH/AT neu erzeugen: `python -I tools/make-logos.py`.
 
 ## Maschinenlesbare Daten
 
-Jede Variante hat dieselbe API unter ihrem Pfad (`api/…`, `ch/api/…`, `at/api/…`). Übersicht aller Varianten: `api/varianten.json`.
+Jede Variante hat dieselbe API unter ihrem Pfad (`de/api/…`, `ch/api/…`, `at/api/…`). Übersicht aller Varianten: `api/varianten.json` bzw. `api/index.json` und `llms.txt` an der Wurzel.
 
 | Einstieg | Inhalt |
 |---|---|
@@ -56,7 +58,7 @@ Jede HTML-Seite enthält schema.org-JSON-LD, `hreflang`-Verweise auf die anderen
 ```
 node tools/serve.mjs
 ```
-→ http://localhost:4317 (CH: `/ch/`, AT: `/at/`)
+→ http://localhost:4317 (Länderauswahl; DE: `/de/`, CH: `/ch/`, AT: `/at/`)
 
 ## Veröffentlichung (GitHub Pages)
 

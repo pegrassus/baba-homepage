@@ -1,0 +1,114 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-02-ausbildungsstart",
+    "datum": "2026-02-02",
+    "kategorie": "Karriere",
+    "titel": "24 Nachwuchskräfte starten ihre Ausbildung beim BAbA – Pflichtfach „Zuständigkeit I“ inklusive",
+    "teaser": "Verwaltungsfachangestellte, Fachinformatikerinnen und Fachinformatiker sowie dual Studierende beginnen ihren Weg in einer besonderen Behörde. Die erste Lektion: Auch die Begrüßung hat ein Aktenzeichen.",
+    "text": [
+      "Am Montag, 2. Februar 2026, hat das Bundesamt für besondere Angelegenheiten 24 neue Nachwuchskräfte an seinen Standorten Bonn, Berlin und Erfurt begrüßt. Zum neuen Jahrgang gehören 11 angehende Verwaltungsfachangestellte, 6 Fachinformatikerinnen und Fachinformatiker sowie 7 dual Studierende im Studiengang Allgemeine Innere Verwaltung. Die Begrüßung wurde unter dem Aktenzeichen Z1-0210/26-0001 vermerkt, damit die Nachwuchskräfte von Anfang an wissen, worauf es ankommt.",
+      "„Bei uns lernen Sie, dass es für fast alles ein Verfahren gibt – und für den Rest sind wir da“, sagte Referatsleiterin Petra Hollweg, die im Referat Z 1 für Personal und Ausbildung verantwortlich ist. „Sie werden in den nächsten Jahren Dinge sehen, die in keinem Lehrbuch stehen. Bitte schreiben Sie sie trotzdem ordentlich auf.“",
+      "## Die Einführungswoche",
+      "Die Einführungswoche folgt einem festen Programm. Am ersten Tag erhalten die Nachwuchskräfte ihre Dienstausweise, ihre Zugänge zur E-Akte und eine Einweisung in den Aktenplan, der 1.411 Aktenplankennzeichen umfasst, darunter 3110 („Besonderheit, Feststellung der“) und 9999 („Sonstiges, nicht anderweitig zuzuordnen, vorläufig“). Am zweiten Tag folgt das Pflichtmodul „Zuständigkeit I“, in dem anhand von 30 Übungsfällen geprüft wird, ob der Bund, ein Land, eine Kommune oder alle gleichzeitig zuständig sind.",
+      "Höhepunkt der Woche ist traditionell die Übung „Weiterleitung“: Die Nachwuchskräfte erhalten einen fiktiven Vorgang und müssen ihn durch alle Referate verfolgen, bis er beschieden ist. Der Rekord liegt bei elf Stationen in vier Tagen. Er wurde 2019 aufgestellt, als der Übungsvorgang versehentlich echt bearbeitet und positiv beschieden wurde. Der Bescheid hängt seither gerahmt im Ausbildungsraum.",
+      "## Digital von Anfang an",
+      "Erstmals werden alle Fachinformatikerinnen und Fachinformatiker in Erfurt im Referat IT-Verfahren und E-Akte ausgebildet. „Die neuen Kolleginnen und Kollegen arbeiten vom ersten Tag an mit dem echten System“, sagte Referatsleiterin Marta Kowalczyk. „Wir haben ihnen eine eigene Testumgebung eingerichtet. Ein Auszubildender hat sie in der ersten Stunde gefunden, ein zweiter sie in der zweiten Stunde erweitert. Beides war nicht vorgesehen, beides gefällt uns.“",
+      "Die Ausbildung dauert je nach Laufbahn zwei bis drei Jahre und umfasst Stationen in allen Abteilungen, auch im Lagezentrum Besonderheiten. Für die Station im Lagezentrum gilt eine Mindestvoraussetzung: Die Nachwuchskraft muss den Unterschied zwischen einem außergewöhnlichen und einem bloß ungewöhnlichen Ereignis sicher erklären können. Im vergangenen Jahrgang gelang das allen – einer Nachwuchskraft sogar in Reimform, was zu einem Vorschlag für das Kuriosa-Register führte.",
+      "Hinweis für Bewerberinnen und Bewerber: Bewerbungen für den Ausbildungsjahrgang 2027 sind ab sofort bis zum 30. September 2026 über das Online-Portal möglich. Bewerbungen, die sich keinem Ausbildungsberuf eindeutig zuordnen lassen, werden nicht abgelehnt, sondern an das Referat 12 zur Feststellung der Besonderheit weitergeleitet."
+    ],
+    "bild": "assets/img/news/2026-02-ausbildungsstart.jpg",
+    "einheitId": "ref-z1",
+    "personIds": [
+      "p-hollweg-petra",
+      "p-kowalczyk-marta"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-02-ausbildungsstart.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-02-ausbildungsstart.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2026-02-ausbildungsstart.json"
+  },
+  "einheit": {
+    "id": "ref-z1",
+    "typ": "referat",
+    "kuerzel": "Z 1",
+    "name": "Personal und Ausbildung",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-hollweg-petra",
+    "standortId": "st-bonn",
+    "titel": "Referat Z 1: Personal und Ausbildung",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z1.html",
+    "leitung": {
+      "id": "p-hollweg-petra",
+      "name": "Petra Hollweg",
+      "funktion": "Referatsleiterin Z 1"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-hollweg-petra"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z1.json"
+  },
+  "personen": [
+    {
+      "id": "p-hollweg-petra",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Petra",
+      "nachname": "Hollweg",
+      "funktion": "Referatsleiterin Z 1",
+      "einheitId": "ref-z1",
+      "email": "petra.hollweg@baba-bund.example",
+      "telefon": "+49 228 4711-2100",
+      "kurzvita": "Verantwortet Personalgewinnung, -entwicklung und Ausbildung.",
+      "name": "Petra Hollweg",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-hollweg-petra.html",
+      "einheit": {
+        "id": "ref-z1",
+        "name": "Referat Z 1: Personal und Ausbildung",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z1.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-z1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-hollweg-petra.json"
+    },
+    {
+      "id": "p-kowalczyk-marta",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Marta",
+      "nachname": "Kowalczyk",
+      "funktion": "Referatsleiterin 42",
+      "einheitId": "ref-42",
+      "email": "marta.kowalczyk@baba-bund.example",
+      "telefon": "+49 361 4711-6200",
+      "kurzvita": "Verantwortet Fachverfahren und die Einführung der E-Akte.",
+      "name": "Marta Kowalczyk",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-kowalczyk-marta.html",
+      "einheit": {
+        "id": "ref-42",
+        "name": "Referat 42: IT-Verfahren und E-Akte",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-42.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-erfurt",
+      "leitetEinheitIds": [
+        "ref-42"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-kowalczyk-marta.json"
+    }
+  ]
+}

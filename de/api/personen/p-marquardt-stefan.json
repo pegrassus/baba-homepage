@@ -1,0 +1,59 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-marquardt-stefan",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Stefan",
+    "nachname": "Marquardt",
+    "funktion": "Referatsleiter Z 2",
+    "einheitId": "ref-z2",
+    "email": "stefan.marquardt@baba-bund.example",
+    "telefon": "+49 228 4711-2200",
+    "kurzvita": "Beauftragter für den Haushalt; zuständig für Vergabe und Beschaffung.",
+    "name": "Stefan Marquardt",
+    "portrait": "assets/img/logo/baba-logo.png",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+    "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-marquardt-stefan.html",
+    "einheit": {
+      "id": "ref-z2",
+      "name": "Referat Z 2: Haushalt und Beschaffung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z2.html"
+    },
+    "abteilungId": "abt-z",
+    "standortId": "st-bonn",
+    "leitetEinheitIds": [
+      "ref-z2"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-marquardt-stefan.json"
+  },
+  "einheit": {
+    "id": "ref-z2",
+    "typ": "referat",
+    "kuerzel": "Z 2",
+    "name": "Haushalt und Beschaffung",
+    "parentId": "abt-z",
+    "leitungPersonId": "p-marquardt-stefan",
+    "standortId": "st-bonn",
+    "titel": "Referat Z 2: Haushalt und Beschaffung",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z2.html",
+    "leitung": {
+      "id": "p-marquardt-stefan",
+      "name": "Stefan Marquardt",
+      "funktion": "Referatsleiter Z 2"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-marquardt-stefan"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z2.json"
+  },
+  "news": []
+}

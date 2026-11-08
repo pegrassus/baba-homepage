@@ -45,6 +45,6 @@ Begriffe in dieser Version: Abteilung (abt-*), Sektion (ref-*), Stabsstelle (sta
 - [Offene Daten](https://pegrassus.github.io/baba-homepage/ch/daten.html)
 
 ## Länderversionen
-- Deutschland: [Bundesamt für besondere Angelegenheiten (BAbA)](https://pegrassus.github.io/baba-homepage/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/api/index.json)
+- Deutschland: [Bundesamt für besondere Angelegenheiten (BAbA)](https://pegrassus.github.io/baba-homepage/de/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/de/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/de/api/index.json)
 - Schweiz: [Bundesamt für besondere Angelegenheiten (BBA)](https://pegrassus.github.io/baba-homepage/ch/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/ch/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/ch/api/index.json)
 - Österreich: [Bundesamt für besondere und sonstige Angelegenheiten (BBSA)](https://pegrassus.github.io/baba-homepage/at/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/at/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/at/api/index.json)

@@ -1,0 +1,50 @@
+# Bundesamt für besondere Angelegenheiten (BAbA) – Länderversion Deutschland
+
+> Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.
+> Das Bundesamt für besondere Angelegenheiten (BAbA) ist die Auffangbehörde des Bundes für alle Angelegenheiten, für die keine andere Stelle eindeutig zuständig ist oder die so ungewöhnlich sind, dass sie in kein Regelverfahren passen. Es stellt auf Antrag verbindlich fest, ob eine Angelegenheit besonders ist, erteilt Ausnahmegenehmigungen nach § 7 BAbAG und führt besondere Verwaltungsverfahren einschließlich der Widerspruchsverfahren durch. Daneben beobachtet es außergewöhnliche Ereignisse, berechnet Fristen außergewöhnlicher Art und führt das Bundesregister besonderer Angelegenheiten (BRbA) sowie das Kuriosa-Register. Bundes-, Landes- und Kommunalbehörden berät es in Zuständigkeits- und Grenzfragen – auch dann, wenn diese erst durch die Frage selbst entstanden sind.
+
+## Auftrag
+Das Bundesamt für besondere Angelegenheiten (BAbA) ist die Auffangbehörde des Bundes: Es bearbeitet alles, wofür keine andere Stelle eindeutig zuständig ist, und alles, was so ungewöhnlich ist, dass es in kein Regelverfahren passt. Typische Vorgänge sind Feststellungen der Besonderheit, Ausnahmegenehmigungen, besondere Verwaltungsverfahren, Widersprüche, Fristauskünfte, Ereignismeldungen und Auskünfte aus dem Bundesregister besonderer Angelegenheiten (BRbA).
+Mehr: https://pegrassus.github.io/baba-homepage/de/auftrag.html
+
+Leitung: Dr. Hanna Wellbrock (Präsidentin). Hauptsitz: Am Sonderweg 1, 53113 Bonn. Kontakt: +49 228 4711-0, poststelle@baba-bund.example.
+Begriffe in dieser Version: Abteilung (abt-*), Referat (ref-*), Stabsstelle (stab-*).
+
+## Maschinenlesbare Daten
+- [api/behoerde.json](https://pegrassus.github.io/baba-homepage/de/api/behoerde.json): Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte
+- [api/organisation.json](https://pegrassus.github.io/baba-homepage/de/api/organisation.json): Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)
+- [api/personen.json](https://pegrassus.github.io/baba-homepage/de/api/personen.json): Alle Personen mit Funktion, Einheit, Kontakt und Porträt-URL
+- [api/aufgaben.json](https://pegrassus.github.io/baba-homepage/de/api/aufgaben.json): Aufgaben und Leistungen mit zuständigen Einheiten, Details und Beispielen
+- [api/news.json](https://pegrassus.github.io/baba-homepage/de/api/news.json): Meldungen und Mitteilungen, neueste zuerst
+- [api/standorte.json](https://pegrassus.github.io/baba-homepage/de/api/standorte.json): Standorte mit Adressen
+- [api/downloads.json](https://pegrassus.github.io/baba-homepage/de/api/downloads.json): Formulare und Publikationen
+- [api/alles.json](https://pegrassus.github.io/baba-homepage/de/api/alles.json): Gesamtexport aller Inhalte in einer Datei
+- Einzelobjekte: https://pegrassus.github.io/baba-homepage/de/api/personen/{id}.json, https://pegrassus.github.io/baba-homepage/de/api/einheiten/{id}.json, https://pegrassus.github.io/baba-homepage/de/api/news/{id}.json
+
+## Organisation
+- [Amtsleitung](https://pegrassus.github.io/baba-homepage/de/organisation/leitung.html): Leitung Dr. Hanna Wellbrock
+- [Leitungsstab](https://pegrassus.github.io/baba-homepage/de/organisation/stab-ls.html): Leitung Dr. Jonas Feldhaus
+- [Presse- und Öffentlichkeitsarbeit](https://pegrassus.github.io/baba-homepage/de/organisation/stab-ps.html): Leitung Clara Imhoff
+- [Datenschutz und Innenrevision](https://pegrassus.github.io/baba-homepage/de/organisation/stab-ds.html): Leitung Sabine Krell
+- [Abteilung Z: Zentrale Dienste](https://pegrassus.github.io/baba-homepage/de/organisation/abt-z.html): Leitung Thomas Brandauer; Referate: Z 1 Personal und Ausbildung, Z 2 Haushalt und Beschaffung, Z 3 Organisation, Innerer Dienst und Liegenschaften, Z 4 Justiziariat
+- [Abteilung 1: Grundsatz und Sonderfälle](https://pegrassus.github.io/baba-homepage/de/organisation/abt-1.html): Leitung Dr. Miriam Achenbach; Referate: 11 Grundsatzfragen der Besonderheit, 12 Abgrenzung des Gewöhnlichen, 13 Grenzfälle und Sonderkonstellationen, 14 Ausnahmegenehmigungen
+- [Abteilung 2: Besondere Verfahren](https://pegrassus.github.io/baba-homepage/de/organisation/abt-2.html): Leitung Prof. Dr. Lukas Rheinfelder; Referate: 21 Verfahren erster Ordnung, 22 Mehrfach besondere Verfahren, 23 Widersprüche und Einwendungen, 24 Fristen außergewöhnlicher Art
+- [Abteilung 3: Außergewöhnliche Ereignisse](https://pegrassus.github.io/baba-homepage/de/organisation/abt-3.html): Leitung Katharina Velten; Referate: 31 Lagezentrum Besonderheiten, 32 Unvorhergesehenes, 33 Kuriosa-Register und Dokumentation, 34 Prävention des Unwahrscheinlichen
+- [Abteilung 4: Digitales und Register](https://pegrassus.github.io/baba-homepage/de/organisation/abt-4.html): Leitung Daniel Okafor; Referate: 41 Bundesregister besonderer Angelegenheiten (BRbA), 42 IT-Verfahren und E-Akte, 43 Daten und Schnittstellen, 44 Informationssicherheit
+
+## Seiten
+- [Startseite](https://pegrassus.github.io/baba-homepage/de/index.html)
+- [Über uns](https://pegrassus.github.io/baba-homepage/de/ueber-uns.html)
+- [Auftrag](https://pegrassus.github.io/baba-homepage/de/auftrag.html)
+- [Organisation](https://pegrassus.github.io/baba-homepage/de/organisation.html)
+- [Personen](https://pegrassus.github.io/baba-homepage/de/personen.html)
+- [Aufgaben](https://pegrassus.github.io/baba-homepage/de/aufgaben.html)
+- [Aktuelles](https://pegrassus.github.io/baba-homepage/de/aktuelles.html)
+- [Service](https://pegrassus.github.io/baba-homepage/de/service.html)
+- [Presse](https://pegrassus.github.io/baba-homepage/de/presse.html)
+- [Offene Daten](https://pegrassus.github.io/baba-homepage/de/daten.html)
+
+## Länderversionen
+- Deutschland: [Bundesamt für besondere Angelegenheiten (BAbA)](https://pegrassus.github.io/baba-homepage/de/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/de/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/de/api/index.json)
+- Schweiz: [Bundesamt für besondere Angelegenheiten (BBA)](https://pegrassus.github.io/baba-homepage/ch/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/ch/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/ch/api/index.json)
+- Österreich: [Bundesamt für besondere und sonstige Angelegenheiten (BBSA)](https://pegrassus.github.io/baba-homepage/at/index.html) – [llms.txt](https://pegrassus.github.io/baba-homepage/at/llms.txt) – [API](https://pegrassus.github.io/baba-homepage/at/api/index.json)

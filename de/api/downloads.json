@@ -1,0 +1,88 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "downloads": [
+    {
+      "id": "dl-jahresbericht-2025",
+      "titel": "Jahresbericht 2025/26",
+      "typ": "PDF",
+      "datei": "assets/downloads/baba-jahresbericht-2025-26.pdf",
+      "kategorie": "Publikation",
+      "einheitId": "stab-ps",
+      "art": "jahresbericht",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/downloads/baba-jahresbericht-2025-26.pdf"
+    },
+    {
+      "id": "dl-leitfaden-besonderheit",
+      "titel": "Leitfaden „Wann ist eine Angelegenheit besonders?“",
+      "typ": "PDF",
+      "datei": "assets/downloads/baba-leitfaden-besonderheit.pdf",
+      "kategorie": "Publikation",
+      "einheitId": "ref-12",
+      "art": "leitfaden",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/downloads/baba-leitfaden-besonderheit.pdf"
+    },
+    {
+      "id": "dl-antrag-feststellung",
+      "titel": "Antrag auf Feststellung der Besonderheit (Formular BA-1)",
+      "typ": "PDF",
+      "datei": "assets/downloads/formular-ba-1.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-12",
+      "art": "formular",
+      "felder": [
+        "1. Angaben zur antragstellenden Person oder Stelle",
+        "2. Beschreibung der Angelegenheit",
+        "3. Warum ist die Angelegenheit besonders? (Kriterien laut Leitfaden)",
+        "4. Bisher befasste Stellen"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/assets/downloads/formular-ba-1.pdf"
+    },
+    {
+      "id": "dl-antrag-ausnahme",
+      "titel": "Antrag auf Ausnahmegenehmigung (Formular BA-7)",
+      "typ": "PDF",
+      "datei": "assets/downloads/formular-ba-7.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-14",
+      "art": "formular",
+      "felder": [
+        "1. Angaben zur antragstellenden Person",
+        "2. Regelung, von der abgewichen werden soll",
+        "3. Begründung der Ausnahme",
+        "4. Gewünschter Geltungszeitraum"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/assets/downloads/formular-ba-7.pdf"
+    },
+    {
+      "id": "dl-auskunft-brba",
+      "titel": "Antrag auf Registerauskunft BRbA (Formular BR-22)",
+      "typ": "PDF",
+      "datei": "assets/downloads/formular-br-22.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-41",
+      "art": "formular",
+      "felder": [
+        "1. Anfragende Behörde / Person",
+        "2. Berechtigtes Interesse",
+        "3. Registernummer oder Suchmerkmale",
+        "4. Gewünschte Form der Auskunft"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/assets/downloads/formular-br-22.pdf"
+    },
+    {
+      "id": "dl-organigramm",
+      "titel": "Organigramm (Stand 1. November 2026)",
+      "typ": "SVG",
+      "datei": "assets/downloads/baba-organigramm.svg",
+      "kategorie": "Organisation",
+      "einheitId": "stab-ls",
+      "art": "organigramm",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/downloads/baba-organigramm.svg"
+    }
+  ]
+}

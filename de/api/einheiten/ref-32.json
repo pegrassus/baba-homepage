@@ -1,0 +1,144 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "einheit": {
+    "id": "ref-32",
+    "typ": "referat",
+    "kuerzel": "32",
+    "name": "Unvorhergesehenes",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-amsel-lena",
+    "standortId": "st-bonn",
+    "titel": "Referat 32: Unvorhergesehenes",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-32.html",
+    "leitung": {
+      "id": "p-amsel-lena",
+      "name": "Dr. Lena Amsel",
+      "funktion": "Referatsleiterin 32"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-amsel-lena"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-32.json"
+  },
+  "parent": {
+    "id": "abt-3",
+    "typ": "abteilung",
+    "kuerzel": "3",
+    "name": "Außergewöhnliche Ereignisse",
+    "parentId": "leitung",
+    "leitungPersonId": "p-velten-katharina",
+    "beschreibung": "Lagebeobachtung, Bewältigung und Dokumentation unvorhergesehener Ereignisse.",
+    "standortId": "st-bonn",
+    "titel": "Abteilung 3: Außergewöhnliche Ereignisse",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-3.html",
+    "leitung": {
+      "id": "p-velten-katharina",
+      "name": "Katharina Velten",
+      "funktion": "Abteilungsleiterin 3"
+    },
+    "childIds": [
+      "ref-31",
+      "ref-32",
+      "ref-33",
+      "ref-34"
+    ],
+    "personIds": [
+      "p-velten-katharina"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-3.json"
+  },
+  "children": [],
+  "personen": [
+    {
+      "id": "p-amsel-lena",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Lena",
+      "nachname": "Amsel",
+      "funktion": "Referatsleiterin 32",
+      "einheitId": "ref-32",
+      "email": "lena.amsel@baba-bund.example",
+      "telefon": "+49 228 4711-5200",
+      "kurzvita": "Physikerin; bewertet Ereignisse, mit denen niemand gerechnet hat.",
+      "name": "Dr. Lena Amsel",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-amsel-lena.html",
+      "einheit": {
+        "id": "ref-32",
+        "name": "Referat 32: Unvorhergesehenes",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-32.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-32"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-amsel-lena.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-lage",
+      "titel": "Lagebeobachtung außergewöhnlicher Ereignisse",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Rund-um-die-Uhr-Beobachtung, Bewertung und Meldung außergewöhnlicher Ereignisse an Bundes- und Landesbehörden.",
+      "einheitIds": [
+        "abt-3",
+        "ref-31",
+        "ref-32"
+      ],
+      "rechtsgrundlage": "§ 18 BAbAG",
+      "details": [
+        "Das Lagezentrum Besonderheiten (Referat 31) ist an 365 Tagen im Jahr rund um die Uhr besetzt, in Schaltjahren an 366. Es nimmt Meldungen über außergewöhnliche Ereignisse von Behörden, Unternehmen und Privatpersonen entgegen, bewertet sie und erstellt ein Lagebild für Bund und Länder. Jede Meldung wird innerhalb von 24 Stunden erstbewertet.",
+        "Die Bewertung erfolgt auf einer vierstufigen Skala von „bemerkenswert“ über „beachtlich“ und „erheblich“ bis „außerordentlich“. Ereignisse, die sich keiner Kategorie zuordnen lassen, übernimmt das Referat 32 „Unvorhergesehenes“, das den Sachverhalt vertieft untersucht und bei Bedarf weitere Stellen einbindet. Betrifft ein Ereignis die Zuständigkeit eines Landes, wird dessen Lagezentrum unverzüglich unterrichtet.",
+        "Ergebnis ist eine Lagemeldung oder ein Lagebericht, je nach Bedeutung auch ein Eintrag im BRbA mit Wiedervorlage. Besonders eigenartige Vorgänge werden nach Abschluss dem Kuriosa-Register vorgeschlagen."
+      ],
+      "beispiele": [
+        "Ein 14 Tonnen schwerer Findling wandert jährlich rund 40 Zentimeter auf eine Landesgrenze zu.",
+        "In einer Kleinstadt schlagen die Rathausglocken seit drei Wochen eine Minute zu früh, und zwar nur werktags.",
+        "Ein Starenschwarm bildet über einem Landratsamt wiederholt die Umrisse eines Formulars."
+      ],
+      "leistung": {
+        "antrag": "Meldung rund um die Uhr per Telefon, E-Mail oder Meldeformular LZ-1",
+        "dauer": "Erstbewertung innerhalb von 24 Stunden",
+        "kosten": "gebührenfrei"
+      }
+    }
+  ],
+  "standort": {
+    "id": "st-bonn",
+    "name": "Hauptsitz Bonn",
+    "typ": "Hauptsitz",
+    "strasse": "Am Sonderweg 1",
+    "plz": "53113",
+    "ort": "Bonn",
+    "telefon": "+49 228 4711-0",
+    "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+    "bild": "assets/img/standorte/bonn.jpg",
+    "einheitIds": [
+      "leitung",
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-3"
+    ]
+  },
+  "news": []
+}

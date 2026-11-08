@@ -1,0 +1,76 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-oberreiter-matthias",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Matthias",
+    "nachname": "Oberreiter",
+    "funktion": "Vizepräsident",
+    "einheitId": "leitung",
+    "email": "vizepraesident@baba-bund.example",
+    "telefon": "+49 228 4711-1001",
+    "kurzvita": "Volljurist, seit 1998 in der Bundesverwaltung. Leitete zuvor die Abteilung Besondere Verfahren. Seit 2022 Vizepräsident; zuständig für Internationales und die Zusammenarbeit mit europäischen Partnerbehörden.",
+    "name": "Matthias Oberreiter",
+    "portrait": "assets/img/logo/baba-logo.png",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+    "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-oberreiter-matthias.html",
+    "einheit": {
+      "id": "leitung",
+      "name": "Amtsleitung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/leitung.html"
+    },
+    "abteilungId": "leitung",
+    "standortId": "st-bonn",
+    "leitetEinheitIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-oberreiter-matthias.json"
+  },
+  "einheit": {
+    "id": "leitung",
+    "typ": "leitung",
+    "kuerzel": "P",
+    "name": "Amtsleitung",
+    "parentId": null,
+    "leitungPersonId": "p-wellbrock-hanna",
+    "vertretungPersonId": "p-oberreiter-matthias",
+    "beschreibung": "Präsidentin und Vizepräsident leiten das Amt und vertreten es nach außen.",
+    "standortId": "st-bonn",
+    "titel": "Amtsleitung",
+    "typLabel": "Amtsleitung",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/leitung.html",
+    "leitung": {
+      "id": "p-wellbrock-hanna",
+      "name": "Dr. Hanna Wellbrock",
+      "funktion": "Präsidentin"
+    },
+    "childIds": [
+      "stab-ls",
+      "stab-ps",
+      "stab-ds",
+      "abt-z",
+      "abt-1",
+      "abt-2",
+      "abt-3",
+      "abt-4"
+    ],
+    "personIds": [
+      "p-wellbrock-hanna",
+      "p-oberreiter-matthias"
+    ],
+    "aufgabeIds": [],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/leitung.json"
+  },
+  "news": [
+    {
+      "id": "2026-07-europaeisches-forum",
+      "titel": "Vizepräsident Oberreiter beim Europäischen Forum für Sonderfälle: Ein Glossar für das Unvergleichliche",
+      "datum": "2026-07-03",
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-07-europaeisches-forum.html"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "news": {
+    "id": "2026-08-leitfaden",
+    "datum": "2026-08-21",
+    "kategorie": "Publikation",
+    "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“ – 14 Kriterien und ein messbares Kopfschütteln",
+    "teaser": "Der überarbeitete Leitfaden gibt Behörden und Antragstellenden erstmals einen Prüfkatalog mit 14 Kriterien an die Hand. Besonders viel Aufmerksamkeit erhält das sogenannte Kopfschüttel-Kriterium, das erstmals objektiviert wurde.",
+    "text": [
+      "Die Abteilung Grundsatz und Sonderfälle des BAbA hat den Leitfaden zur Abgrenzung besonderer von gewöhnlichen Angelegenheiten grundlegend überarbeitet. Die neue Fassung umfasst 96 Seiten und ersetzt die Ausgabe von 2004, die nach Angaben des Amtes zuletzt „in ihrer Gesamtheit selbst als Grenzfall“ eingestuft werden musste.",
+      "## Was neu ist",
+      "Kern ist ein Prüfkatalog mit 14 Kriterien, darunter die Einmaligkeit des Sachverhalts, die fehlende Regelungszuständigkeit, widersprüchliche Zuständigkeiten mehrerer Stellen und kalendarische Besonderheiten wie der 29. Februar. Eine Angelegenheit gilt in der Regel als besonders, wenn mindestens drei Kriterien erfüllt sind oder eines in außergewöhnlich hohem Maße. Neu aufgenommen wurde die formale Selbstbezüglichkeit, also etwa der Antrag auf Stellung eines Antrags.",
+      "„Der Leitfaden schafft Transparenz und spart allen Beteiligten Zeit“, sagte Abteilungsleiterin Dr. Miriam Achenbach. „Bislang erreichten uns viele Anträge, bei denen schon die erste Seite zeigte, dass eigentlich das örtliche Bürgeramt zuständig ist. Jetzt können Antragstellende vorher selbst prüfen – und das Bürgeramt kann vorher prüfen, ob es wirklich an uns abgeben darf.“",
+      "## Das Kopfschüttel-Kriterium",
+      "Besondere Aufmerksamkeit hat das Kriterium Nr. 4 erhalten, das sogenannte Kopfschüttel-Kriterium. Es gilt als erfüllt, wenn zwei voneinander unabhängige Bedienstete bei der ersten Lektüre des Sachverhalts unwillkürlich den Kopf schütteln. Um die Anwendung zu vereinheitlichen, hat das Referat 12 in einer Messreihe mit 140 Testfällen Abstufungen festgelegt: Ein Nicken zählt nicht, ein Seufzen gilt als Indiz, ein Kopfschütteln mit gleichzeitigem Griff zum Telefon als vollständig erfüllt.",
+      "„Wir wurden oft gefragt, ob das Kriterium nicht zu subjektiv sei“, erläuterte Referatsleiter Martin Esser, dessen Referat die Frage klärt, ob etwas überhaupt besonders ist. „Deshalb haben wir es objektiviert. Im Zweifel wird eine dritte Kollegin hinzugezogen, die den Sachverhalt vorher nicht kennt. Schüttelt auch sie den Kopf, ist die Sache entschieden.“",
+      "Dr. Elisabeth Rohrbach, Leiterin des Referats Grundsatzfragen der Besonderheit, ordnete die Neufassung historisch ein: „Den ersten Leitfaden haben wir 1989 auf zwei Seiten geschrieben. Das Kriterium lautete damals sinngemäß: Wenn es niemand anders macht. Das gilt im Kern bis heute. Wir haben es nur besser begründet.“",
+      "Der Leitfaden richtet sich ausdrücklich auch an Landes- und Kommunalbehörden. Er enthält ein Ablaufschema für die Abgabe von Vorgängen an das BAbA sowie eine Checkliste, mit der vor jeder Abgabe zu prüfen ist, ob nicht doch eine Landesbehörde zuständig ist. Die Länder wurden über den Bund-Länder-Arbeitskreis „Sonderfälle“ beteiligt: Elf Länder gaben Stellungnahmen ab, vier verwiesen auf ihre fehlende Zuständigkeit für eine Stellungnahme, und eines versäumte die Frist aus Gründen, die das Referat 24 derzeit prüft.",
+      "Hinweis für Antragstellende: Der Leitfaden steht als PDF zum Download bereit. Wer nach der Lektüre unsicher ist, ob seine Angelegenheit besonders ist, kann mit Formular BA-1 die Feststellung der Besonderheit beantragen. Wer unsicher ist, ob diese Unsicherheit besonders ist, ebenfalls."
+    ],
+    "bild": "assets/img/news/2026-08-leitfaden.jpg",
+    "einheitId": "ref-12",
+    "personIds": [
+      "p-achenbach-miriam",
+      "p-esser-martin",
+      "p-rohrbach-elisabeth"
+    ],
+    "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-08-leitfaden.html",
+    "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-08-leitfaden.jpg",
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2026-08-leitfaden.json"
+  },
+  "einheit": {
+    "id": "ref-12",
+    "typ": "referat",
+    "kuerzel": "12",
+    "name": "Abgrenzung des Gewöhnlichen",
+    "parentId": "abt-1",
+    "leitungPersonId": "p-esser-martin",
+    "standortId": "st-bonn",
+    "titel": "Referat 12: Abgrenzung des Gewöhnlichen",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-12.html",
+    "leitung": {
+      "id": "p-esser-martin",
+      "name": "Martin Esser",
+      "funktion": "Referatsleiter 12"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-esser-martin"
+    ],
+    "aufgabeIds": [
+      "auf-abgrenzung"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-12.json"
+  },
+  "personen": [
+    {
+      "id": "p-achenbach-miriam",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Miriam",
+      "nachname": "Achenbach",
+      "funktion": "Abteilungsleiterin 1",
+      "einheitId": "abt-1",
+      "email": "miriam.achenbach@baba-bund.example",
+      "telefon": "+49 228 4711-3000",
+      "kurzvita": "Rechtswissenschaftlerin; prägte maßgeblich den Leitfaden zur Abgrenzung besonderer Angelegenheiten.",
+      "name": "Dr. Miriam Achenbach",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-achenbach-miriam.html",
+      "einheit": {
+        "id": "abt-1",
+        "name": "Abteilung 1: Grundsatz und Sonderfälle",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-1.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "abt-1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-achenbach-miriam.json"
+    },
+    {
+      "id": "p-esser-martin",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Martin",
+      "nachname": "Esser",
+      "funktion": "Referatsleiter 12",
+      "einheitId": "ref-12",
+      "email": "martin.esser@baba-bund.example",
+      "telefon": "+49 228 4711-3200",
+      "kurzvita": "Zuständig für die Frage, ob etwas überhaupt besonders ist.",
+      "name": "Martin Esser",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-esser-martin.html",
+      "einheit": {
+        "id": "ref-12",
+        "name": "Referat 12: Abgrenzung des Gewöhnlichen",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-12.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-12"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-esser-martin.json"
+    },
+    {
+      "id": "p-rohrbach-elisabeth",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Elisabeth",
+      "nachname": "Rohrbach",
+      "funktion": "Referatsleiterin 11",
+      "einheitId": "ref-11",
+      "email": "elisabeth.rohrbach@baba-bund.example",
+      "telefon": "+49 228 4711-3100",
+      "kurzvita": "Seit über 30 Jahren im Amt; gilt als Gedächtnis der Behörde in Grundsatzfragen.",
+      "name": "Dr. Elisabeth Rohrbach",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-rohrbach-elisabeth.html",
+      "einheit": {
+        "id": "ref-11",
+        "name": "Referat 11: Grundsatzfragen der Besonderheit",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-11.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-11"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-rohrbach-elisabeth.json"
+    }
+  ]
+}

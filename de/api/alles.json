@@ -1,0 +1,2489 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "behoerde": {
+    "id": "baba",
+    "variante": "de",
+    "land": "Deutschland",
+    "locale": "de-DE",
+    "pfad": "de/",
+    "name": "Bundesamt für besondere Angelegenheiten",
+    "kurzname": "BAbA",
+    "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+    "typ": "Bundesoberbehörde",
+    "geschaeftsbereich": "Bundesministerium für Allgemeines und Übriges (fiktiv)",
+    "zuordnung": "Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Allgemeines und Übriges (fiktiv)",
+    "gruendung": "1987-04-01",
+    "rechtsgrundlage": {
+      "kurz": "BAbAG",
+      "titel": "Gesetz über die Errichtung eines Bundesamtes für besondere Angelegenheiten (BAbA-Gesetz – BAbAG)",
+      "fundstelle": "BGBl. (fiktiv) 1987 I S. 404"
+    },
+    "claim": "Wenn sich keiner zuständig fühlt, sind wir es – mit Aktenzeichen.",
+    "auftrag": "Das Bundesamt für besondere Angelegenheiten (BAbA) ist die Auffangbehörde des Bundes für alle Angelegenheiten, für die keine andere Stelle eindeutig zuständig ist oder die so ungewöhnlich sind, dass sie in kein Regelverfahren passen. Es stellt auf Antrag verbindlich fest, ob eine Angelegenheit besonders ist, erteilt Ausnahmegenehmigungen nach § 7 BAbAG und führt besondere Verwaltungsverfahren einschließlich der Widerspruchsverfahren durch. Daneben beobachtet es außergewöhnliche Ereignisse, berechnet Fristen außergewöhnlicher Art und führt das Bundesregister besonderer Angelegenheiten (BRbA) sowie das Kuriosa-Register. Bundes-, Landes- und Kommunalbehörden berät es in Zuständigkeits- und Grenzfragen – auch dann, wenn diese erst durch die Frage selbst entstanden sind.",
+    "auftragSeite": {
+      "titel": "Wofür das BAbA da ist",
+      "kurzfassung": "Das Bundesamt für besondere Angelegenheiten (BAbA) ist die Auffangbehörde des Bundes: Es bearbeitet alles, wofür keine andere Stelle eindeutig zuständig ist, und alles, was so ungewöhnlich ist, dass es in kein Regelverfahren passt. Typische Vorgänge sind Feststellungen der Besonderheit, Ausnahmegenehmigungen, besondere Verwaltungsverfahren, Widersprüche, Fristauskünfte, Ereignismeldungen und Auskünfte aus dem Bundesregister besonderer Angelegenheiten (BRbA).",
+      "einleitung": [
+        "Das Bundesamt für besondere Angelegenheiten (BAbA) ist eine Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für Allgemeines und Übriges. Es wurde 1987 durch das BAbA-Gesetz (BAbAG) errichtet, weil sich in der Bundesverwaltung immer wieder Angelegenheiten fanden, für die schlicht niemand zuständig war. Seitdem gilt der Grundsatz des § 2 BAbAG: Was keiner anderen Stelle eindeutig zugeordnet werden kann, landet beim BAbA. Das Amt hat seinen Hauptsitz in Bonn, Außenstellen in Berlin und Erfurt und rund 1.240 Beschäftigte in vier Fachabteilungen und den Zentralen Diensten.",
+        "Die Arbeit des Amtes besteht im Kern aus Verwaltungsverfahren. Bürgerinnen und Bürger, Unternehmen, Vereine und vor allem andere Behörden reichen Anträge ein oder geben Vorgänge ab, die das BAbA prüft, in der elektronischen Akte bearbeitet und mit einem rechtsmittelfähigen Bescheid abschließt. Die wichtigsten Verfahren sind die Feststellung der Besonderheit (Formular BA-1), die Ausnahmegenehmigung (Formular BA-7), das besondere Verwaltungsverfahren und das Widerspruchsverfahren. Hinzu kommen verbindliche Fristauskünfte, Ereignismeldungen an das Lagezentrum und Registerauskünfte aus dem BRbA (Formular BR-22).",
+        "Weil Deutschland ein Bundesstaat ist, beginnt fast jeder Vorgang mit der Frage, ob der Bund, ein Land, eine Kommune oder – im ungünstigsten Fall – alle gleichzeitig zuständig sind. Das BAbA klärt diese Frage gründlich, dokumentiert sie in einem Zuständigkeitsvermerk und stimmt sich mit den Ländern ab, bevor es in der Sache entscheidet. Die Sachverhalte sind oft skurril, die Verfahren nie. Jeder wandernde Findling, jede doppelte Stunde und jedes nicht schimmelnde Brötchen erhält ein Aktenzeichen, eine Frist und eine ordnungsgemäße Entscheidung."
+      ],
+      "zustaendig": [
+        "Das BAbA übernimmt Angelegenheiten des Bundes, für die keine andere Behörde eindeutig zuständig ist (Auffangzuständigkeit nach § 2 BAbAG).",
+        "Es stellt auf Antrag verbindlich fest, ob eine Angelegenheit als besondere Angelegenheit im Sinne des BAbAG gilt (§ 3 BAbAG).",
+        "Es erteilt Ausnahmegenehmigungen für Vorhaben, die von bestehenden Regelungen nicht erfasst werden (§ 7 BAbAG).",
+        "Es führt besondere und mehrfach besondere Verwaltungsverfahren durch (§§ 9–14 BAbAG).",
+        "Es entscheidet über Widersprüche gegen seine eigenen Bescheide (§ 15 BAbAG).",
+        "Es erteilt verbindliche Auskünfte zu Fristen, die durch Schaltjahre, Zeitumstellungen und ähnliche Besonderheiten beeinflusst werden (§ 16 BAbAG).",
+        "Es beobachtet außergewöhnliche Ereignisse rund um die Uhr, bewertet sie und meldet sie an Bund und Länder (§ 18 BAbAG).",
+        "Es führt das Bundesregister besonderer Angelegenheiten (BRbA) und das Kuriosa-Register (§§ 19, 22–25 BAbAG).",
+        "Es berät Bundes-, Landes- und Kommunalbehörden in Zuständigkeits- und Grenzfragen (§ 4 BAbAG)."
+      ],
+      "nichtZustaendig": [
+        "Für Angelegenheiten, die zwar ungewöhnlich, aber eindeutig geregelt sind, ist das BAbA nicht zuständig – ein verlorener Personalausweis bleibt Sache des örtlichen Bürgeramts, auch wenn er im Gefrierfach wiedergefunden wurde.",
+        "Für Angelegenheiten, die eindeutig in die Zuständigkeit eines Landes fallen, ist das BAbA nicht zuständig; es berät die Länder nur, und zwar nur dann, wenn sie fragen.",
+        "Für Streitigkeiten zwischen Privatpersonen ist das BAbA nicht zuständig, auch dann nicht, wenn der Streit über die Hecke seit 1987 läuft und damit so alt ist wie das Amt; hierfür sind die Zivilgerichte da.",
+        "Für übernatürliche Erscheinungen ist das BAbA nur zuständig, soweit sie Verwaltungsvorgänge auslösen; die Erscheinung selbst wird nicht beschieden.",
+        "Für Wettervorhersagen und Beschwerden über das Wetter ist das BAbA nicht zuständig – dafür gibt es den Wetterdienst und den Smalltalk im Treppenhaus.",
+        "Für die Frage, ob das BAbA zuständig ist, ist das BAbA zuständig; über die Frage, ob diese Regel selbst besonders ist, entscheidet nach § 2 Abs. 4 BAbAG das Bundesministerium für Allgemeines und Übriges."
+      ]
+    },
+    "leitbild": [
+      {
+        "titel": "Verlässlich",
+        "text": "Auch das Ungewöhnliche verdient ein ordentliches Verfahren – mit Eingangsstempel, Frist und Rechtsbehelfsbelehrung."
+      },
+      {
+        "titel": "Zuständig",
+        "text": "Wenn sich niemand zuständig fühlt, sind wir es. Wenn sich alle zuständig fühlen, klären wir, wer es wirklich ist."
+      },
+      {
+        "titel": "Sorgfältig",
+        "text": "Jeder Sonderfall wird geprüft, dokumentiert und nachvollziehbar entschieden – auch der, bei dem wir zuerst den Kopf geschüttelt haben."
+      },
+      {
+        "titel": "Offen",
+        "text": "Wir erklären unsere Entscheidungen verständlich – notfalls mit Schaubild, Ablaufdiagramm und einer zweiten Tasse Kaffee."
+      }
+    ],
+    "kennzahlen": [
+      {
+        "label": "Beschäftigte",
+        "wert": "1.240"
+      },
+      {
+        "label": "Bearbeitete Sonderfälle 2025",
+        "wert": "38.912"
+      },
+      {
+        "label": "Einträge im BRbA",
+        "wert": "214.506"
+      },
+      {
+        "label": "Standorte (Bonn, Berlin, Erfurt)",
+        "wert": "3"
+      }
+    ],
+    "leitungPersonId": "p-wellbrock-hanna",
+    "hauptsitzId": "st-bonn",
+    "kontakt": {
+      "telefon": "+49 228 4711-0",
+      "fax": "+49 228 4711-1099",
+      "email": "poststelle@baba-bund.example",
+      "deMail": "poststelle@baba-bund.de-mail.example",
+      "servicezeiten": "Mo–Do 8:00–16:00 Uhr, Fr 8:00–14:00 Uhr",
+      "zeitenLabel": "Servicezeiten"
+    },
+    "logo": {
+      "farbig": "assets/img/logo/baba-logo.svg",
+      "wortbildmarke": "assets/img/logo/baba-wortbildmarke.svg",
+      "negativ": "assets/img/logo/baba-logo-negativ.svg",
+      "png": "assets/img/logo/baba-logo.png"
+    },
+    "farben": {
+      "petrol": "#0F4C5C",
+      "messing": "#B08D57",
+      "anthrazit": "#1F2A30",
+      "hell": "#F4F6F7"
+    },
+    "geschichte": [
+      {
+        "jahr": "1987",
+        "ereignis": "Errichtung des BAbA durch das BAbA-Gesetz mit 46 Beschäftigten in Bonn. Der erste Vorgang betraf die Frage, wer für die Einrichtung des Amtes zuständig gewesen war."
+      },
+      {
+        "jahr": "1990",
+        "ereignis": "Mit der Wiedervereinigung erreichen das Amt Zuständigkeitsfragen ganz neuer Art. Der Aktenbestand verdreifacht sich innerhalb eines Jahres."
+      },
+      {
+        "jahr": "1994",
+        "ereignis": "Einführung des Karteikasten-Registers für besondere Angelegenheiten (rund 12.000 Karten) und Gründung des Kuriosa-Registers. Die erste Registerkategorie wird auf einem Bierdeckel skizziert, der heute selbst eingetragen ist."
+      },
+      {
+        "jahr": "2001",
+        "ereignis": "Eröffnung der Außenstelle Berlin für Angelegenheiten mit Hauptstadtbezug und als Verbindungsbüro zu den obersten Bundesbehörden."
+      },
+      {
+        "jahr": "2009",
+        "ereignis": "Erste Verwaltungsvorschrift zu Fristen, die über einen 29. Februar laufen. Sie trat – nach längerer Diskussion – an einem 1. März in Kraft."
+      },
+      {
+        "jahr": "2013",
+        "ereignis": "Gründung des Lagezentrums Besonderheiten. Es ist seither rund um die Uhr besetzt, in Schaltjahren einen Tag länger."
+      },
+      {
+        "jahr": "2019",
+        "ereignis": "Eröffnung der Außenstelle Erfurt für die Abteilung Digitales und Register. Ein Gummibaum zieht mit ein und wird später inventarisiert."
+      },
+      {
+        "jahr": "2026",
+        "ereignis": "Inbetriebnahme des digitalen Bundesregisters besonderer Angelegenheiten (BRbA) und Bezug des Neubaus in Erfurt. Die letzte Karteikarte wird feierlich im Kuriosa-Register abgeheftet."
+      }
+    ],
+    "begriffe": {
+      "leitung": "Amtsleitung",
+      "stab": "Stabsstelle",
+      "stabPlural": "Stabsstellen",
+      "abteilung": "Abteilung",
+      "abteilungPlural": "Abteilungen",
+      "abteilungKurz": "Abt.",
+      "referat": "Referat",
+      "referatPlural": "Referate",
+      "referatKurz": "Ref.",
+      "referatsleitungen": "Referatsleitungen",
+      "antraegeTitel": "Anträge stellen",
+      "antraegeText": "Feststellung, Ausnahmegenehmigung, Registerauskunft",
+      "antraegeButton": "Anträge & Formulare",
+      "beschaeftigte": "Beschäftigte"
+    },
+    "grusswort": {
+      "titel": "Grußwort der Präsidentin",
+      "text": "Wer sich an uns wendet, hat meist schon eine kleine Odyssee hinter sich: drei Behörden, zwei Weiterleitungen und ein freundliches „Da sind wir leider nicht zuständig“. Bei uns endet diese Reise – nicht immer mit dem Ergebnis, das Sie sich wünschen, aber immer mit einem Bescheid. In vielen Jahren Verwaltung habe ich gelernt, dass das Ungewöhnliche gar nicht so selten ist; es wird nur seltener ordentlich abgeheftet. Genau darum kümmern sich unsere 1.240 Beschäftigten in Bonn, Berlin und Erfurt, mit Gründlichkeit, mit Geduld und gelegentlich mit einem Lächeln, das wir im Bescheid selbstverständlich weglassen. Stöbern Sie gern auf unseren Seiten – und falls Sie dabei etwas Besonderes entdecken, wissen Sie ja jetzt, wo Sie es melden können."
+    },
+    "jahresberichtZitat": "Die Welt wird nicht gewöhnlicher – und das ist gut so.",
+    "pressePersonId": "p-imhoff-clara",
+    "datenschutzPersonId": "p-krell-sabine",
+    "hero": {
+      "bild": "assets/img/hero/hero-gebaeude.jpg",
+      "alt": "Hauptsitz des Bundesamts für besondere Angelegenheiten in Bonn im Abendlicht"
+    },
+    "heroInnen": {
+      "bild": "assets/img/hero/hero-atrium.jpg",
+      "alt": "Atrium des Hauptsitzes in Bonn"
+    },
+    "fiktivFooter": "Fiktive Behörde – Demonstrationsinhalt. Keine echte Einrichtung des Bundes.",
+    "leitfadenKriterien": [
+      "Einmaligkeit des Sachverhalts",
+      "Fehlende Regelungszuständigkeit",
+      "Widersprüchliche Zuständigkeiten mehrerer Stellen",
+      "Kopfschüttel-Kriterium",
+      "Keine Entsprechung in bestehenden Formularen",
+      "Kalendarische Besonderheit (z. B. 29. Februar)",
+      "Zeitumstellung während der Frist",
+      "Mehrfachbetroffenheit",
+      "Grenzüberschreitender Bezug",
+      "Fehlende Präzedenzfälle",
+      "Außergewöhnliches öffentliches Interesse",
+      "Unerwarteter Sachzusammenhang",
+      "Formale Selbstbezüglichkeit (Antrag auf Antrag)",
+      "Nachweislich unwahrscheinliches Ereignis"
+    ]
+  },
+  "standorte": [
+    {
+      "id": "st-bonn",
+      "name": "Hauptsitz Bonn",
+      "typ": "Hauptsitz",
+      "strasse": "Am Sonderweg 1",
+      "plz": "53113",
+      "ort": "Bonn",
+      "telefon": "+49 228 4711-0",
+      "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+      "bild": "assets/img/standorte/bonn.jpg",
+      "einheitIds": [
+        "leitung",
+        "stab-ls",
+        "stab-ps",
+        "stab-ds",
+        "abt-z",
+        "abt-1",
+        "abt-3"
+      ]
+    },
+    {
+      "id": "st-berlin",
+      "name": "Außenstelle Berlin",
+      "typ": "Außenstelle",
+      "strasse": "Ausnahmestraße 7",
+      "plz": "10117",
+      "ort": "Berlin",
+      "telefon": "+49 30 4711-0",
+      "beschreibung": "Standort der Abteilung 2 (Besondere Verfahren) und Verbindungsbüro zu den obersten Bundesbehörden.",
+      "bild": "assets/img/standorte/berlin.jpg",
+      "einheitIds": [
+        "abt-2"
+      ]
+    },
+    {
+      "id": "st-erfurt",
+      "name": "Außenstelle Erfurt",
+      "typ": "Außenstelle",
+      "strasse": "Registerplatz 3",
+      "plz": "99084",
+      "ort": "Erfurt",
+      "telefon": "+49 361 4711-0",
+      "beschreibung": "Standort der Abteilung 4 (Digitales und Register) und des Rechenzentrums des BRbA. Neubau, bezogen 2026.",
+      "bild": "assets/img/standorte/erfurt.jpg",
+      "einheitIds": [
+        "abt-4"
+      ]
+    }
+  ],
+  "einheiten": [
+    {
+      "id": "leitung",
+      "typ": "leitung",
+      "kuerzel": "P",
+      "name": "Amtsleitung",
+      "parentId": null,
+      "leitungPersonId": "p-wellbrock-hanna",
+      "vertretungPersonId": "p-oberreiter-matthias",
+      "beschreibung": "Präsidentin und Vizepräsident leiten das Amt und vertreten es nach außen.",
+      "standortId": "st-bonn",
+      "titel": "Amtsleitung",
+      "typLabel": "Amtsleitung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/leitung.html",
+      "leitung": {
+        "id": "p-wellbrock-hanna",
+        "name": "Dr. Hanna Wellbrock",
+        "funktion": "Präsidentin"
+      },
+      "childIds": [
+        "stab-ls",
+        "stab-ps",
+        "stab-ds",
+        "abt-z",
+        "abt-1",
+        "abt-2",
+        "abt-3",
+        "abt-4"
+      ],
+      "personIds": [
+        "p-wellbrock-hanna",
+        "p-oberreiter-matthias"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/leitung.json"
+    },
+    {
+      "id": "stab-ls",
+      "typ": "stab",
+      "kuerzel": "LS",
+      "name": "Leitungsstab",
+      "parentId": "leitung",
+      "leitungPersonId": "p-feldhaus-jonas",
+      "beschreibung": "Unterstützt die Amtsleitung, koordiniert Grundsatzangelegenheiten, Gremienarbeit und das Controlling.",
+      "standortId": "st-bonn",
+      "titel": "Leitungsstab",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ls.html",
+      "leitung": {
+        "id": "p-feldhaus-jonas",
+        "name": "Dr. Jonas Feldhaus",
+        "funktion": "Leiter des Leitungsstabs"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-feldhaus-jonas"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/stab-ls.json"
+    },
+    {
+      "id": "stab-ps",
+      "typ": "stab",
+      "kuerzel": "PS",
+      "name": "Presse- und Öffentlichkeitsarbeit",
+      "parentId": "leitung",
+      "leitungPersonId": "p-imhoff-clara",
+      "beschreibung": "Pressestelle, Internetredaktion, Veranstaltungen und Bürgerkommunikation.",
+      "standortId": "st-bonn",
+      "titel": "Presse- und Öffentlichkeitsarbeit",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ps.html",
+      "leitung": {
+        "id": "p-imhoff-clara",
+        "name": "Clara Imhoff",
+        "funktion": "Pressesprecherin"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-imhoff-clara"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/stab-ps.json"
+    },
+    {
+      "id": "stab-ds",
+      "typ": "stab",
+      "kuerzel": "DS",
+      "name": "Datenschutz und Innenrevision",
+      "parentId": "leitung",
+      "leitungPersonId": "p-krell-sabine",
+      "beschreibung": "Behördliche Datenschutzbeauftragte, Innenrevision und Korruptionsprävention.",
+      "standortId": "st-bonn",
+      "titel": "Datenschutz und Innenrevision",
+      "typLabel": "Stabsstelle",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ds.html",
+      "leitung": {
+        "id": "p-krell-sabine",
+        "name": "Sabine Krell",
+        "funktion": "Behördliche Datenschutzbeauftragte"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-krell-sabine"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/stab-ds.json"
+    },
+    {
+      "id": "abt-z",
+      "typ": "abteilung",
+      "kuerzel": "Z",
+      "name": "Zentrale Dienste",
+      "parentId": "leitung",
+      "leitungPersonId": "p-brandauer-thomas",
+      "beschreibung": "Personal, Haushalt, Organisation, Liegenschaften und Recht.",
+      "standortId": "st-bonn",
+      "titel": "Abteilung Z: Zentrale Dienste",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-z.html",
+      "leitung": {
+        "id": "p-brandauer-thomas",
+        "name": "Thomas Brandauer",
+        "funktion": "Abteilungsleiter Z"
+      },
+      "childIds": [
+        "ref-z1",
+        "ref-z2",
+        "ref-z3",
+        "ref-z4"
+      ],
+      "personIds": [
+        "p-brandauer-thomas"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-z.json"
+    },
+    {
+      "id": "ref-z1",
+      "typ": "referat",
+      "kuerzel": "Z 1",
+      "name": "Personal und Ausbildung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-hollweg-petra",
+      "standortId": "st-bonn",
+      "titel": "Referat Z 1: Personal und Ausbildung",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z1.html",
+      "leitung": {
+        "id": "p-hollweg-petra",
+        "name": "Petra Hollweg",
+        "funktion": "Referatsleiterin Z 1"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-hollweg-petra"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z1.json"
+    },
+    {
+      "id": "ref-z2",
+      "typ": "referat",
+      "kuerzel": "Z 2",
+      "name": "Haushalt und Beschaffung",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-marquardt-stefan",
+      "standortId": "st-bonn",
+      "titel": "Referat Z 2: Haushalt und Beschaffung",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z2.html",
+      "leitung": {
+        "id": "p-marquardt-stefan",
+        "name": "Stefan Marquardt",
+        "funktion": "Referatsleiter Z 2"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-marquardt-stefan"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z2.json"
+    },
+    {
+      "id": "ref-z3",
+      "typ": "referat",
+      "kuerzel": "Z 3",
+      "name": "Organisation, Innerer Dienst und Liegenschaften",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-demirtas-ayse",
+      "standortId": "st-bonn",
+      "titel": "Referat Z 3: Organisation, Innerer Dienst und Liegenschaften",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z3.html",
+      "leitung": {
+        "id": "p-demirtas-ayse",
+        "name": "Ayşe Demirtaş",
+        "funktion": "Referatsleiterin Z 3"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-demirtas-ayse"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z3.json"
+    },
+    {
+      "id": "ref-z4",
+      "typ": "referat",
+      "kuerzel": "Z 4",
+      "name": "Justiziariat",
+      "parentId": "abt-z",
+      "leitungPersonId": "p-lindqvist-felix",
+      "standortId": "st-bonn",
+      "titel": "Referat Z 4: Justiziariat",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z4.html",
+      "leitung": {
+        "id": "p-lindqvist-felix",
+        "name": "Dr. Felix Lindqvist",
+        "funktion": "Referatsleiter Z 4 (Justiziar)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-lindqvist-felix"
+      ],
+      "aufgabeIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-z4.json"
+    },
+    {
+      "id": "abt-1",
+      "typ": "abteilung",
+      "kuerzel": "1",
+      "name": "Grundsatz und Sonderfälle",
+      "parentId": "leitung",
+      "leitungPersonId": "p-achenbach-miriam",
+      "beschreibung": "Grundsatzfragen der Zuständigkeit, Abgrenzung zum Gewöhnlichen und Ausnahmegenehmigungen.",
+      "standortId": "st-bonn",
+      "titel": "Abteilung 1: Grundsatz und Sonderfälle",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-1.html",
+      "leitung": {
+        "id": "p-achenbach-miriam",
+        "name": "Dr. Miriam Achenbach",
+        "funktion": "Abteilungsleiterin 1"
+      },
+      "childIds": [
+        "ref-11",
+        "ref-12",
+        "ref-13",
+        "ref-14"
+      ],
+      "personIds": [
+        "p-achenbach-miriam"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-1.json"
+    },
+    {
+      "id": "ref-11",
+      "typ": "referat",
+      "kuerzel": "11",
+      "name": "Grundsatzfragen der Besonderheit",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-rohrbach-elisabeth",
+      "standortId": "st-bonn",
+      "titel": "Referat 11: Grundsatzfragen der Besonderheit",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-11.html",
+      "leitung": {
+        "id": "p-rohrbach-elisabeth",
+        "name": "Dr. Elisabeth Rohrbach",
+        "funktion": "Referatsleiterin 11"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-rohrbach-elisabeth"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit",
+        "auf-beratung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-11.json"
+    },
+    {
+      "id": "ref-12",
+      "typ": "referat",
+      "kuerzel": "12",
+      "name": "Abgrenzung des Gewöhnlichen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-esser-martin",
+      "standortId": "st-bonn",
+      "titel": "Referat 12: Abgrenzung des Gewöhnlichen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-12.html",
+      "leitung": {
+        "id": "p-esser-martin",
+        "name": "Martin Esser",
+        "funktion": "Referatsleiter 12"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-esser-martin"
+      ],
+      "aufgabeIds": [
+        "auf-abgrenzung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-12.json"
+    },
+    {
+      "id": "ref-13",
+      "typ": "referat",
+      "kuerzel": "13",
+      "name": "Grenzfälle und Sonderkonstellationen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-weissenfels-nora",
+      "standortId": "st-bonn",
+      "titel": "Referat 13: Grenzfälle und Sonderkonstellationen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-13.html",
+      "leitung": {
+        "id": "p-weissenfels-nora",
+        "name": "Dr. Nora Weißenfels",
+        "funktion": "Referatsleiterin 13"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-weissenfels-nora"
+      ],
+      "aufgabeIds": [
+        "auf-zustaendigkeit",
+        "auf-beratung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-13.json"
+    },
+    {
+      "id": "ref-14",
+      "typ": "referat",
+      "kuerzel": "14",
+      "name": "Ausnahmegenehmigungen",
+      "parentId": "abt-1",
+      "leitungPersonId": "p-strobl-benedikt",
+      "standortId": "st-bonn",
+      "titel": "Referat 14: Ausnahmegenehmigungen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-14.html",
+      "leitung": {
+        "id": "p-strobl-benedikt",
+        "name": "Benedikt Strobl",
+        "funktion": "Referatsleiter 14"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-strobl-benedikt"
+      ],
+      "aufgabeIds": [
+        "auf-ausnahme"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-14.json"
+    },
+    {
+      "id": "abt-2",
+      "typ": "abteilung",
+      "kuerzel": "2",
+      "name": "Besondere Verfahren",
+      "parentId": "leitung",
+      "leitungPersonId": "p-rheinfelder-lukas",
+      "beschreibung": "Durchführung besonderer Verwaltungsverfahren einschließlich Widerspruchs- und Fristenangelegenheiten.",
+      "standortId": "st-berlin",
+      "titel": "Abteilung 2: Besondere Verfahren",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-2.html",
+      "leitung": {
+        "id": "p-rheinfelder-lukas",
+        "name": "Prof. Dr. Lukas Rheinfelder",
+        "funktion": "Abteilungsleiter 2"
+      },
+      "childIds": [
+        "ref-21",
+        "ref-22",
+        "ref-23",
+        "ref-24"
+      ],
+      "personIds": [
+        "p-rheinfelder-lukas"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-2.json"
+    },
+    {
+      "id": "ref-21",
+      "typ": "referat",
+      "kuerzel": "21",
+      "name": "Verfahren erster Ordnung",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-kranich-julia",
+      "standortId": "st-berlin",
+      "titel": "Referat 21: Verfahren erster Ordnung",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-21.html",
+      "leitung": {
+        "id": "p-kranich-julia",
+        "name": "Julia Kranich",
+        "funktion": "Referatsleiterin 21"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-kranich-julia"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-21.json"
+    },
+    {
+      "id": "ref-22",
+      "typ": "referat",
+      "kuerzel": "22",
+      "name": "Mehrfach besondere Verfahren",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-hain-tobias",
+      "standortId": "st-berlin",
+      "titel": "Referat 22: Mehrfach besondere Verfahren",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-22.html",
+      "leitung": {
+        "id": "p-hain-tobias",
+        "name": "Dr. Tobias Hain",
+        "funktion": "Referatsleiter 22"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-hain-tobias"
+      ],
+      "aufgabeIds": [
+        "auf-verfahren"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-22.json"
+    },
+    {
+      "id": "ref-23",
+      "typ": "referat",
+      "kuerzel": "23",
+      "name": "Widersprüche und Einwendungen",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-lutz-verena",
+      "standortId": "st-berlin",
+      "titel": "Referat 23: Widersprüche und Einwendungen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-23.html",
+      "leitung": {
+        "id": "p-lutz-verena",
+        "name": "Verena Lutz",
+        "funktion": "Referatsleiterin 23"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-lutz-verena"
+      ],
+      "aufgabeIds": [
+        "auf-widerspruch"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-23.json"
+    },
+    {
+      "id": "ref-24",
+      "typ": "referat",
+      "kuerzel": "24",
+      "name": "Fristen außergewöhnlicher Art",
+      "parentId": "abt-2",
+      "leitungPersonId": "p-pfeiffer-lang-markus",
+      "standortId": "st-berlin",
+      "titel": "Referat 24: Fristen außergewöhnlicher Art",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-24.html",
+      "leitung": {
+        "id": "p-pfeiffer-lang-markus",
+        "name": "Markus Pfeiffer-Lang",
+        "funktion": "Referatsleiter 24"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-pfeiffer-lang-markus"
+      ],
+      "aufgabeIds": [
+        "auf-fristen"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-24.json"
+    },
+    {
+      "id": "abt-3",
+      "typ": "abteilung",
+      "kuerzel": "3",
+      "name": "Außergewöhnliche Ereignisse",
+      "parentId": "leitung",
+      "leitungPersonId": "p-velten-katharina",
+      "beschreibung": "Lagebeobachtung, Bewältigung und Dokumentation unvorhergesehener Ereignisse.",
+      "standortId": "st-bonn",
+      "titel": "Abteilung 3: Außergewöhnliche Ereignisse",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-3.html",
+      "leitung": {
+        "id": "p-velten-katharina",
+        "name": "Katharina Velten",
+        "funktion": "Abteilungsleiterin 3"
+      },
+      "childIds": [
+        "ref-31",
+        "ref-32",
+        "ref-33",
+        "ref-34"
+      ],
+      "personIds": [
+        "p-velten-katharina"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-3.json"
+    },
+    {
+      "id": "ref-31",
+      "typ": "referat",
+      "kuerzel": "31",
+      "name": "Lagezentrum Besonderheiten",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-sander-oliver",
+      "standortId": "st-bonn",
+      "titel": "Referat 31: Lagezentrum Besonderheiten",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-31.html",
+      "leitung": {
+        "id": "p-sander-oliver",
+        "name": "Oliver Sander",
+        "funktion": "Referatsleiter 31 (Leiter Lagezentrum)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-sander-oliver"
+      ],
+      "aufgabeIds": [
+        "auf-lage",
+        "auf-praevention"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-31.json"
+    },
+    {
+      "id": "ref-32",
+      "typ": "referat",
+      "kuerzel": "32",
+      "name": "Unvorhergesehenes",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-amsel-lena",
+      "standortId": "st-bonn",
+      "titel": "Referat 32: Unvorhergesehenes",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-32.html",
+      "leitung": {
+        "id": "p-amsel-lena",
+        "name": "Dr. Lena Amsel",
+        "funktion": "Referatsleiterin 32"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-amsel-lena"
+      ],
+      "aufgabeIds": [
+        "auf-lage"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-32.json"
+    },
+    {
+      "id": "ref-33",
+      "typ": "referat",
+      "kuerzel": "33",
+      "name": "Kuriosa-Register und Dokumentation",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-kobold-friedrich",
+      "standortId": "st-bonn",
+      "titel": "Referat 33: Kuriosa-Register und Dokumentation",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-33.html",
+      "leitung": {
+        "id": "p-kobold-friedrich",
+        "name": "Friedrich Kobold",
+        "funktion": "Referatsleiter 33"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-kobold-friedrich"
+      ],
+      "aufgabeIds": [
+        "auf-kuriosa"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-33.json"
+    },
+    {
+      "id": "ref-34",
+      "typ": "referat",
+      "kuerzel": "34",
+      "name": "Prävention des Unwahrscheinlichen",
+      "parentId": "abt-3",
+      "leitungPersonId": "p-raband-sophie",
+      "standortId": "st-bonn",
+      "titel": "Referat 34: Prävention des Unwahrscheinlichen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-34.html",
+      "leitung": {
+        "id": "p-raband-sophie",
+        "name": "Sophie Raband",
+        "funktion": "Referatsleiterin 34"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-raband-sophie"
+      ],
+      "aufgabeIds": [
+        "auf-praevention"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-34.json"
+    },
+    {
+      "id": "abt-4",
+      "typ": "abteilung",
+      "kuerzel": "4",
+      "name": "Digitales und Register",
+      "parentId": "leitung",
+      "leitungPersonId": "p-okafor-daniel",
+      "beschreibung": "Bundesregister besonderer Angelegenheiten, IT-Verfahren, Daten und Informationssicherheit.",
+      "standortId": "st-erfurt",
+      "titel": "Abteilung 4: Digitales und Register",
+      "typLabel": "Abteilung",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-4.html",
+      "leitung": {
+        "id": "p-okafor-daniel",
+        "name": "Daniel Okafor",
+        "funktion": "Abteilungsleiter 4 (CIO)"
+      },
+      "childIds": [
+        "ref-41",
+        "ref-42",
+        "ref-43",
+        "ref-44"
+      ],
+      "personIds": [
+        "p-okafor-daniel"
+      ],
+      "aufgabeIds": [
+        "auf-brba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-4.json"
+    },
+    {
+      "id": "ref-41",
+      "typ": "referat",
+      "kuerzel": "41",
+      "name": "Bundesregister besonderer Angelegenheiten (BRbA)",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-wendt-ingo",
+      "standortId": "st-erfurt",
+      "titel": "Referat 41: Bundesregister besonderer Angelegenheiten (BRbA)",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-41.html",
+      "leitung": {
+        "id": "p-wendt-ingo",
+        "name": "Dr. Ingo Wendt",
+        "funktion": "Referatsleiter 41 (Registerführer)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-wendt-ingo"
+      ],
+      "aufgabeIds": [
+        "auf-brba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-41.json"
+    },
+    {
+      "id": "ref-42",
+      "typ": "referat",
+      "kuerzel": "42",
+      "name": "IT-Verfahren und E-Akte",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-kowalczyk-marta",
+      "standortId": "st-erfurt",
+      "titel": "Referat 42: IT-Verfahren und E-Akte",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-42.html",
+      "leitung": {
+        "id": "p-kowalczyk-marta",
+        "name": "Marta Kowalczyk",
+        "funktion": "Referatsleiterin 42"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-kowalczyk-marta"
+      ],
+      "aufgabeIds": [
+        "auf-digital"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-42.json"
+    },
+    {
+      "id": "ref-43",
+      "typ": "referat",
+      "kuerzel": "43",
+      "name": "Daten und Schnittstellen",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-baumgart-leonie",
+      "standortId": "st-erfurt",
+      "titel": "Referat 43: Daten und Schnittstellen",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-43.html",
+      "leitung": {
+        "id": "p-baumgart-leonie",
+        "name": "Leonie Baumgart",
+        "funktion": "Referatsleiterin 43"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-baumgart-leonie"
+      ],
+      "aufgabeIds": [
+        "auf-brba"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-43.json"
+    },
+    {
+      "id": "ref-44",
+      "typ": "referat",
+      "kuerzel": "44",
+      "name": "Informationssicherheit",
+      "parentId": "abt-4",
+      "leitungPersonId": "p-reinhold-kai-uwe",
+      "standortId": "st-erfurt",
+      "titel": "Referat 44: Informationssicherheit",
+      "typLabel": "Referat",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-44.html",
+      "leitung": {
+        "id": "p-reinhold-kai-uwe",
+        "name": "Kai-Uwe Reinhold",
+        "funktion": "Referatsleiter 44 (ISB)"
+      },
+      "childIds": [],
+      "personIds": [
+        "p-reinhold-kai-uwe"
+      ],
+      "aufgabeIds": [
+        "auf-digital"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-44.json"
+    }
+  ],
+  "personen": [
+    {
+      "id": "p-wellbrock-hanna",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Hanna",
+      "nachname": "Wellbrock",
+      "funktion": "Präsidentin",
+      "einheitId": "leitung",
+      "email": "praesidentin@baba-bund.example",
+      "telefon": "+49 228 4711-1000",
+      "kurzvita": "Promovierte Verwaltungswissenschaftlerin. Nach Stationen im Bundesministerium für Allgemeines und Übriges und als Abteilungsleiterin im BAbA seit 2021 Präsidentin des Amtes. Schwerpunkte: Modernisierung der Verwaltung, Digitalisierung des Registers, Bürgernähe.",
+      "name": "Dr. Hanna Wellbrock",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-wellbrock-hanna.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Amtsleitung",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "leitung"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-wellbrock-hanna.json"
+    },
+    {
+      "id": "p-oberreiter-matthias",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Matthias",
+      "nachname": "Oberreiter",
+      "funktion": "Vizepräsident",
+      "einheitId": "leitung",
+      "email": "vizepraesident@baba-bund.example",
+      "telefon": "+49 228 4711-1001",
+      "kurzvita": "Volljurist, seit 1998 in der Bundesverwaltung. Leitete zuvor die Abteilung Besondere Verfahren. Seit 2022 Vizepräsident; zuständig für Internationales und die Zusammenarbeit mit europäischen Partnerbehörden.",
+      "name": "Matthias Oberreiter",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-oberreiter-matthias.html",
+      "einheit": {
+        "id": "leitung",
+        "name": "Amtsleitung",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/leitung.html"
+      },
+      "abteilungId": "leitung",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-oberreiter-matthias.json"
+    },
+    {
+      "id": "p-feldhaus-jonas",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Jonas",
+      "nachname": "Feldhaus",
+      "funktion": "Leiter des Leitungsstabs",
+      "einheitId": "stab-ls",
+      "email": "jonas.feldhaus@baba-bund.example",
+      "telefon": "+49 228 4711-1010",
+      "kurzvita": "Politikwissenschaftler; seit 2019 im BAbA, zuvor Referent im Leitungsstab.",
+      "name": "Dr. Jonas Feldhaus",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-feldhaus-jonas.html",
+      "einheit": {
+        "id": "stab-ls",
+        "name": "Leitungsstab",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ls.html"
+      },
+      "abteilungId": "stab-ls",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "stab-ls"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-feldhaus-jonas.json"
+    },
+    {
+      "id": "p-imhoff-clara",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Clara",
+      "nachname": "Imhoff",
+      "funktion": "Pressesprecherin",
+      "einheitId": "stab-ps",
+      "email": "presse@baba-bund.example",
+      "telefon": "+49 228 4711-1020",
+      "kurzvita": "Journalistin und Kommunikationswirtin; seit 2020 Pressesprecherin des BAbA.",
+      "name": "Clara Imhoff",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-imhoff-clara.html",
+      "einheit": {
+        "id": "stab-ps",
+        "name": "Presse- und Öffentlichkeitsarbeit",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ps.html"
+      },
+      "abteilungId": "stab-ps",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "stab-ps"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-imhoff-clara.json"
+    },
+    {
+      "id": "p-krell-sabine",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Sabine",
+      "nachname": "Krell",
+      "funktion": "Behördliche Datenschutzbeauftragte",
+      "einheitId": "stab-ds",
+      "email": "datenschutz@baba-bund.example",
+      "telefon": "+49 228 4711-1030",
+      "kurzvita": "Diplom-Verwaltungswirtin; seit 2015 Datenschutzbeauftragte des Amtes.",
+      "name": "Sabine Krell",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-krell-sabine.html",
+      "einheit": {
+        "id": "stab-ds",
+        "name": "Datenschutz und Innenrevision",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/stab-ds.html"
+      },
+      "abteilungId": "stab-ds",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "stab-ds"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-krell-sabine.json"
+    },
+    {
+      "id": "p-brandauer-thomas",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Thomas",
+      "nachname": "Brandauer",
+      "funktion": "Abteilungsleiter Z",
+      "einheitId": "abt-z",
+      "email": "thomas.brandauer@baba-bund.example",
+      "telefon": "+49 228 4711-2000",
+      "kurzvita": "Leitet die Zentralen Dienste seit 2018; zuvor Haushaltsreferent.",
+      "name": "Thomas Brandauer",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-brandauer-thomas.html",
+      "einheit": {
+        "id": "abt-z",
+        "name": "Abteilung Z: Zentrale Dienste",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-z.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "abt-z"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-brandauer-thomas.json"
+    },
+    {
+      "id": "p-hollweg-petra",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Petra",
+      "nachname": "Hollweg",
+      "funktion": "Referatsleiterin Z 1",
+      "einheitId": "ref-z1",
+      "email": "petra.hollweg@baba-bund.example",
+      "telefon": "+49 228 4711-2100",
+      "kurzvita": "Verantwortet Personalgewinnung, -entwicklung und Ausbildung.",
+      "name": "Petra Hollweg",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-hollweg-petra.html",
+      "einheit": {
+        "id": "ref-z1",
+        "name": "Referat Z 1: Personal und Ausbildung",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z1.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-z1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-hollweg-petra.json"
+    },
+    {
+      "id": "p-marquardt-stefan",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Stefan",
+      "nachname": "Marquardt",
+      "funktion": "Referatsleiter Z 2",
+      "einheitId": "ref-z2",
+      "email": "stefan.marquardt@baba-bund.example",
+      "telefon": "+49 228 4711-2200",
+      "kurzvita": "Beauftragter für den Haushalt; zuständig für Vergabe und Beschaffung.",
+      "name": "Stefan Marquardt",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-marquardt-stefan.html",
+      "einheit": {
+        "id": "ref-z2",
+        "name": "Referat Z 2: Haushalt und Beschaffung",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z2.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-z2"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-marquardt-stefan.json"
+    },
+    {
+      "id": "p-demirtas-ayse",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Ayşe",
+      "nachname": "Demirtaş",
+      "funktion": "Referatsleiterin Z 3",
+      "einheitId": "ref-z3",
+      "email": "ayse.demirtas@baba-bund.example",
+      "telefon": "+49 228 4711-2300",
+      "kurzvita": "Organisationsentwicklung, Innerer Dienst und Liegenschaften aller drei Standorte.",
+      "name": "Ayşe Demirtaş",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-demirtas-ayse.html",
+      "einheit": {
+        "id": "ref-z3",
+        "name": "Referat Z 3: Organisation, Innerer Dienst und Liegenschaften",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z3.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-z3"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-demirtas-ayse.json"
+    },
+    {
+      "id": "p-lindqvist-felix",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Felix",
+      "nachname": "Lindqvist",
+      "funktion": "Referatsleiter Z 4 (Justiziar)",
+      "einheitId": "ref-z4",
+      "email": "felix.lindqvist@baba-bund.example",
+      "telefon": "+49 228 4711-2400",
+      "kurzvita": "Justiziar des Amtes; Prozessvertretung und Rechtsberatung.",
+      "name": "Dr. Felix Lindqvist",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-lindqvist-felix.html",
+      "einheit": {
+        "id": "ref-z4",
+        "name": "Referat Z 4: Justiziariat",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-z4.html"
+      },
+      "abteilungId": "abt-z",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-z4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-lindqvist-felix.json"
+    },
+    {
+      "id": "p-achenbach-miriam",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Miriam",
+      "nachname": "Achenbach",
+      "funktion": "Abteilungsleiterin 1",
+      "einheitId": "abt-1",
+      "email": "miriam.achenbach@baba-bund.example",
+      "telefon": "+49 228 4711-3000",
+      "kurzvita": "Rechtswissenschaftlerin; prägte maßgeblich den Leitfaden zur Abgrenzung besonderer Angelegenheiten.",
+      "name": "Dr. Miriam Achenbach",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-achenbach-miriam.html",
+      "einheit": {
+        "id": "abt-1",
+        "name": "Abteilung 1: Grundsatz und Sonderfälle",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-1.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "abt-1"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-achenbach-miriam.json"
+    },
+    {
+      "id": "p-rohrbach-elisabeth",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Elisabeth",
+      "nachname": "Rohrbach",
+      "funktion": "Referatsleiterin 11",
+      "einheitId": "ref-11",
+      "email": "elisabeth.rohrbach@baba-bund.example",
+      "telefon": "+49 228 4711-3100",
+      "kurzvita": "Seit über 30 Jahren im Amt; gilt als Gedächtnis der Behörde in Grundsatzfragen.",
+      "name": "Dr. Elisabeth Rohrbach",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-rohrbach-elisabeth.html",
+      "einheit": {
+        "id": "ref-11",
+        "name": "Referat 11: Grundsatzfragen der Besonderheit",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-11.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-11"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-rohrbach-elisabeth.json"
+    },
+    {
+      "id": "p-esser-martin",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Martin",
+      "nachname": "Esser",
+      "funktion": "Referatsleiter 12",
+      "einheitId": "ref-12",
+      "email": "martin.esser@baba-bund.example",
+      "telefon": "+49 228 4711-3200",
+      "kurzvita": "Zuständig für die Frage, ob etwas überhaupt besonders ist.",
+      "name": "Martin Esser",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-esser-martin.html",
+      "einheit": {
+        "id": "ref-12",
+        "name": "Referat 12: Abgrenzung des Gewöhnlichen",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-12.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-12"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-esser-martin.json"
+    },
+    {
+      "id": "p-weissenfels-nora",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Nora",
+      "nachname": "Weißenfels",
+      "funktion": "Referatsleiterin 13",
+      "einheitId": "ref-13",
+      "email": "nora.weissenfels@baba-bund.example",
+      "telefon": "+49 228 4711-3300",
+      "kurzvita": "Bearbeitet Grenzfälle zwischen Bundes- und Landeszuständigkeit.",
+      "name": "Dr. Nora Weißenfels",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-weissenfels-nora.html",
+      "einheit": {
+        "id": "ref-13",
+        "name": "Referat 13: Grenzfälle und Sonderkonstellationen",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-13.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-13"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-weissenfels-nora.json"
+    },
+    {
+      "id": "p-strobl-benedikt",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Benedikt",
+      "nachname": "Strobl",
+      "funktion": "Referatsleiter 14",
+      "einheitId": "ref-14",
+      "email": "benedikt.strobl@baba-bund.example",
+      "telefon": "+49 228 4711-3400",
+      "kurzvita": "Erteilt Ausnahmegenehmigungen nach § 7 BAbAG.",
+      "name": "Benedikt Strobl",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-strobl-benedikt.html",
+      "einheit": {
+        "id": "ref-14",
+        "name": "Referat 14: Ausnahmegenehmigungen",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-14.html"
+      },
+      "abteilungId": "abt-1",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-14"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-strobl-benedikt.json"
+    },
+    {
+      "id": "p-rheinfelder-lukas",
+      "anrede": "Herr",
+      "titel": "Prof. Dr.",
+      "vorname": "Lukas",
+      "nachname": "Rheinfelder",
+      "funktion": "Abteilungsleiter 2",
+      "einheitId": "abt-2",
+      "email": "lukas.rheinfelder@baba-bund.example",
+      "telefon": "+49 30 4711-4000",
+      "kurzvita": "Honorarprofessor für Verwaltungsverfahrensrecht; leitet die Abteilung am Standort Berlin.",
+      "name": "Prof. Dr. Lukas Rheinfelder",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-rheinfelder-lukas.html",
+      "einheit": {
+        "id": "abt-2",
+        "name": "Abteilung 2: Besondere Verfahren",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-2.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-berlin",
+      "leitetEinheitIds": [
+        "abt-2"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-rheinfelder-lukas.json"
+    },
+    {
+      "id": "p-kranich-julia",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Julia",
+      "nachname": "Kranich",
+      "funktion": "Referatsleiterin 21",
+      "einheitId": "ref-21",
+      "email": "julia.kranich@baba-bund.example",
+      "telefon": "+49 30 4711-4100",
+      "kurzvita": "Verantwortet die Eingangsprüfung und Durchführung einfacher besonderer Verfahren.",
+      "name": "Julia Kranich",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-kranich-julia.html",
+      "einheit": {
+        "id": "ref-21",
+        "name": "Referat 21: Verfahren erster Ordnung",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-21.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-berlin",
+      "leitetEinheitIds": [
+        "ref-21"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-kranich-julia.json"
+    },
+    {
+      "id": "p-hain-tobias",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Tobias",
+      "nachname": "Hain",
+      "funktion": "Referatsleiter 22",
+      "einheitId": "ref-22",
+      "email": "tobias.hain@baba-bund.example",
+      "telefon": "+49 30 4711-4200",
+      "kurzvita": "Spezialist für Verfahren, die in mehrfacher Hinsicht besonders sind.",
+      "name": "Dr. Tobias Hain",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-hain-tobias.html",
+      "einheit": {
+        "id": "ref-22",
+        "name": "Referat 22: Mehrfach besondere Verfahren",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-22.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-berlin",
+      "leitetEinheitIds": [
+        "ref-22"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-hain-tobias.json"
+    },
+    {
+      "id": "p-lutz-verena",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Verena",
+      "nachname": "Lutz",
+      "funktion": "Referatsleiterin 23",
+      "einheitId": "ref-23",
+      "email": "verena.lutz@baba-bund.example",
+      "telefon": "+49 30 4711-4300",
+      "kurzvita": "Bearbeitet Widersprüche gegen Bescheide des Amtes.",
+      "name": "Verena Lutz",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-lutz-verena.html",
+      "einheit": {
+        "id": "ref-23",
+        "name": "Referat 23: Widersprüche und Einwendungen",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-23.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-berlin",
+      "leitetEinheitIds": [
+        "ref-23"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-lutz-verena.json"
+    },
+    {
+      "id": "p-pfeiffer-lang-markus",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Markus",
+      "nachname": "Pfeiffer-Lang",
+      "funktion": "Referatsleiter 24",
+      "einheitId": "ref-24",
+      "email": "markus.pfeiffer-lang@baba-bund.example",
+      "telefon": "+49 30 4711-4400",
+      "kurzvita": "Zuständig für Fristen, die weder gewöhnlich beginnen noch gewöhnlich enden.",
+      "name": "Markus Pfeiffer-Lang",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-pfeiffer-lang-markus.html",
+      "einheit": {
+        "id": "ref-24",
+        "name": "Referat 24: Fristen außergewöhnlicher Art",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-24.html"
+      },
+      "abteilungId": "abt-2",
+      "standortId": "st-berlin",
+      "leitetEinheitIds": [
+        "ref-24"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-pfeiffer-lang-markus.json"
+    },
+    {
+      "id": "p-velten-katharina",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Katharina",
+      "nachname": "Velten",
+      "funktion": "Abteilungsleiterin 3",
+      "einheitId": "abt-3",
+      "email": "katharina.velten@baba-bund.example",
+      "telefon": "+49 228 4711-5000",
+      "kurzvita": "Ehemalige Leiterin des Lagezentrums; seit 2023 Abteilungsleiterin.",
+      "name": "Katharina Velten",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-velten-katharina.html",
+      "einheit": {
+        "id": "abt-3",
+        "name": "Abteilung 3: Außergewöhnliche Ereignisse",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-3.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "abt-3"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-velten-katharina.json"
+    },
+    {
+      "id": "p-sander-oliver",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Oliver",
+      "nachname": "Sander",
+      "funktion": "Referatsleiter 31 (Leiter Lagezentrum)",
+      "einheitId": "ref-31",
+      "email": "lagezentrum@baba-bund.example",
+      "telefon": "+49 228 4711-5100",
+      "kurzvita": "Leitet das rund um die Uhr besetzte Lagezentrum Besonderheiten.",
+      "name": "Oliver Sander",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-sander-oliver.html",
+      "einheit": {
+        "id": "ref-31",
+        "name": "Referat 31: Lagezentrum Besonderheiten",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-31.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-31"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-sander-oliver.json"
+    },
+    {
+      "id": "p-amsel-lena",
+      "anrede": "Frau",
+      "titel": "Dr.",
+      "vorname": "Lena",
+      "nachname": "Amsel",
+      "funktion": "Referatsleiterin 32",
+      "einheitId": "ref-32",
+      "email": "lena.amsel@baba-bund.example",
+      "telefon": "+49 228 4711-5200",
+      "kurzvita": "Physikerin; bewertet Ereignisse, mit denen niemand gerechnet hat.",
+      "name": "Dr. Lena Amsel",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-amsel-lena.html",
+      "einheit": {
+        "id": "ref-32",
+        "name": "Referat 32: Unvorhergesehenes",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-32.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-32"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-amsel-lena.json"
+    },
+    {
+      "id": "p-kobold-friedrich",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Friedrich",
+      "nachname": "Kobold",
+      "funktion": "Referatsleiter 33",
+      "einheitId": "ref-33",
+      "email": "friedrich.kobold@baba-bund.example",
+      "telefon": "+49 228 4711-5300",
+      "kurzvita": "Archivar mit Leidenschaft; führt das Kuriosa-Register seit 1994.",
+      "name": "Friedrich Kobold",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-kobold-friedrich.html",
+      "einheit": {
+        "id": "ref-33",
+        "name": "Referat 33: Kuriosa-Register und Dokumentation",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-33.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-33"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-kobold-friedrich.json"
+    },
+    {
+      "id": "p-raband-sophie",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Sophie",
+      "nachname": "Raband",
+      "funktion": "Referatsleiterin 34",
+      "einheitId": "ref-34",
+      "email": "sophie.raband@baba-bund.example",
+      "telefon": "+49 228 4711-5400",
+      "kurzvita": "Risikoanalystin; entwickelt Vorsorgekonzepte für unwahrscheinliche Szenarien.",
+      "name": "Sophie Raband",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-raband-sophie.html",
+      "einheit": {
+        "id": "ref-34",
+        "name": "Referat 34: Prävention des Unwahrscheinlichen",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-34.html"
+      },
+      "abteilungId": "abt-3",
+      "standortId": "st-bonn",
+      "leitetEinheitIds": [
+        "ref-34"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-raband-sophie.json"
+    },
+    {
+      "id": "p-okafor-daniel",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Daniel",
+      "nachname": "Okafor",
+      "funktion": "Abteilungsleiter 4 (CIO)",
+      "einheitId": "abt-4",
+      "email": "daniel.okafor@baba-bund.example",
+      "telefon": "+49 361 4711-6000",
+      "kurzvita": "Wirtschaftsinformatiker; verantwortet die digitale Transformation des Amtes und das BRbA.",
+      "name": "Daniel Okafor",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-okafor-daniel.html",
+      "einheit": {
+        "id": "abt-4",
+        "name": "Abteilung 4: Digitales und Register",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-4.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-erfurt",
+      "leitetEinheitIds": [
+        "abt-4"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-okafor-daniel.json"
+    },
+    {
+      "id": "p-wendt-ingo",
+      "anrede": "Herr",
+      "titel": "Dr.",
+      "vorname": "Ingo",
+      "nachname": "Wendt",
+      "funktion": "Referatsleiter 41 (Registerführer)",
+      "einheitId": "ref-41",
+      "email": "brba@baba-bund.example",
+      "telefon": "+49 361 4711-6100",
+      "kurzvita": "Leitet das Bundesregister besonderer Angelegenheiten.",
+      "name": "Dr. Ingo Wendt",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-wendt-ingo.html",
+      "einheit": {
+        "id": "ref-41",
+        "name": "Referat 41: Bundesregister besonderer Angelegenheiten (BRbA)",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-41.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-erfurt",
+      "leitetEinheitIds": [
+        "ref-41"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-wendt-ingo.json"
+    },
+    {
+      "id": "p-kowalczyk-marta",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Marta",
+      "nachname": "Kowalczyk",
+      "funktion": "Referatsleiterin 42",
+      "einheitId": "ref-42",
+      "email": "marta.kowalczyk@baba-bund.example",
+      "telefon": "+49 361 4711-6200",
+      "kurzvita": "Verantwortet Fachverfahren und die Einführung der E-Akte.",
+      "name": "Marta Kowalczyk",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-kowalczyk-marta.html",
+      "einheit": {
+        "id": "ref-42",
+        "name": "Referat 42: IT-Verfahren und E-Akte",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-42.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-erfurt",
+      "leitetEinheitIds": [
+        "ref-42"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-kowalczyk-marta.json"
+    },
+    {
+      "id": "p-baumgart-leonie",
+      "anrede": "Frau",
+      "titel": "",
+      "vorname": "Leonie",
+      "nachname": "Baumgart",
+      "funktion": "Referatsleiterin 43",
+      "einheitId": "ref-43",
+      "email": "leonie.baumgart@baba-bund.example",
+      "telefon": "+49 361 4711-6300",
+      "kurzvita": "Data Scientist; betreut offene Daten und Schnittstellen des Amtes.",
+      "name": "Leonie Baumgart",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-baumgart-leonie.html",
+      "einheit": {
+        "id": "ref-43",
+        "name": "Referat 43: Daten und Schnittstellen",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-43.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-erfurt",
+      "leitetEinheitIds": [
+        "ref-43"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-baumgart-leonie.json"
+    },
+    {
+      "id": "p-reinhold-kai-uwe",
+      "anrede": "Herr",
+      "titel": "",
+      "vorname": "Kai-Uwe",
+      "nachname": "Reinhold",
+      "funktion": "Referatsleiter 44 (ISB)",
+      "einheitId": "ref-44",
+      "email": "kai-uwe.reinhold@baba-bund.example",
+      "telefon": "+49 361 4711-6400",
+      "kurzvita": "Informationssicherheitsbeauftragter des Amtes.",
+      "name": "Kai-Uwe Reinhold",
+      "portrait": "assets/img/logo/baba-logo.png",
+      "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-reinhold-kai-uwe.html",
+      "einheit": {
+        "id": "ref-44",
+        "name": "Referat 44: Informationssicherheit",
+        "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-44.html"
+      },
+      "abteilungId": "abt-4",
+      "standortId": "st-erfurt",
+      "leitetEinheitIds": [
+        "ref-44"
+      ],
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-reinhold-kai-uwe.json"
+    }
+  ],
+  "aufgaben": [
+    {
+      "id": "auf-zustaendigkeit",
+      "titel": "Auffangzuständigkeit des Bundes",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Das BAbA übernimmt Angelegenheiten des Bundes, für die keine andere Behörde eindeutig zuständig ist, und führt sie einer sachgerechten Bearbeitung zu.",
+      "einheitIds": [
+        "abt-1",
+        "ref-11",
+        "ref-13"
+      ],
+      "rechtsgrundlage": "§ 2 Abs. 1 BAbAG",
+      "details": [
+        "Die Auffangzuständigkeit greift, wenn eine Angelegenheit in den Aufgabenbereich des Bundes fällt, sich aber keiner Bundesbehörde eindeutig zuordnen lässt. In der Praxis gelangen solche Vorgänge meist durch Abgabe einer anderen Behörde zum BAbA, seltener durch Bürgerinnen und Bürger, die bereits mehrere Stellen angeschrieben haben. Das Referat 11 prüft zunächst, ob tatsächlich keine andere Stelle zuständig ist, und hält das Ergebnis in einem Zuständigkeitsvermerk fest.",
+        "Ist das BAbA zuständig, wird der Vorgang einem Fachreferat zugewiesen und regulär bearbeitet. Ist eine andere Stelle zuständig, gibt das BAbA den Vorgang mit Begründung ab und informiert die antragstellende Person. Berührt die Angelegenheit zugleich Bundes- und Landesrecht, übernimmt das Referat 13 die Abstimmung mit den betroffenen Ländern.",
+        "Ergebnis ist in jedem Fall eine klare Zuordnung: Kein Vorgang verlässt das BAbA ohne Namen, Stelle und Aktenzeichen. Das Amt versteht sich ausdrücklich nicht als Ablage für Unerledigtes, sondern als letzte Station, an der eine Zuständigkeit festgestellt wird."
+      ],
+      "beispiele": [
+        "Ein Bundesministerium gibt eine Bürgeranfrage ab, die an „die zuständige Stelle für alles Übrige“ adressiert war.",
+        "Eine Anfrage zu einem Schild, das ausschließlich auf ein anderes Schild hinweist, wandert seit 2023 zwischen drei Stellen hin und her.",
+        "Ein Unternehmen fragt, wer für die Zulassung eines Produkts zuständig ist, das es nach eigenen Angaben „noch nicht gibt“."
+      ],
+      "leistung": {
+        "antrag": "Formloses Schreiben, Online-Formular „Zuständigkeitsanfrage“ oder Abgabe durch die bisher befasste Behörde",
+        "dauer": "6 Wochen",
+        "kosten": "gebührenfrei"
+      }
+    },
+    {
+      "id": "auf-abgrenzung",
+      "titel": "Feststellung der Besonderheit",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Auf Antrag stellt das Amt verbindlich fest, ob eine Angelegenheit als besondere Angelegenheit im Sinne des BAbAG gilt.",
+      "einheitIds": [
+        "ref-12"
+      ],
+      "rechtsgrundlage": "§ 3 BAbAG",
+      "details": [
+        "Mit der Feststellung der Besonderheit entscheidet das BAbA verbindlich, ob eine Angelegenheit als besondere Angelegenheit im Sinne des BAbAG gilt. Den Antrag können natürliche und juristische Personen sowie Behörden stellen, die ein berechtigtes Interesse an der Einordnung haben. Grundlage der Prüfung ist der Leitfaden „Wann ist eine Angelegenheit besonders?“ mit seinen 14 Kriterien.",
+        "Das Referat 12 prüft den Sachverhalt anhand der Antragsunterlagen, holt bei Bedarf Stellungnahmen anderer Behörden ein und hört die antragstellende Person an. In der Regel gilt eine Angelegenheit als besonders, wenn mindestens drei Kriterien erfüllt sind oder eines in außergewöhnlich hohem Maße. Für das Kopfschüttel-Kriterium ist die übereinstimmende Einschätzung zweier unabhängiger Bediensteter erforderlich.",
+        "Das Verfahren endet mit einem Feststellungsbescheid. Eine positive Feststellung wird im BRbA eingetragen und eröffnet den Zugang zu den besonderen Verfahren des Amtes; eine negative Feststellung verweist auf die zuständige Regelbehörde."
+      ],
+      "beispiele": [
+        "Ein Bürger beantragt die Feststellung, dass sein Anliegen gewöhnlich ist, damit endlich seine Gemeinde zuständig wird.",
+        "Ein Verein lässt klären, ob sein am 29. Februar gegründetes Jubiläum alle vier Jahre oder jährlich zu feiern ist.",
+        "Eine Landesbehörde bittet um Feststellung, ob ein Dorfbrunnen, der nur bei Vollmond Wasser führt, besonders ist."
+      ],
+      "leistung": {
+        "antrag": "Formular BA-1, online oder schriftlich",
+        "dauer": "3 Monate",
+        "kosten": "50 bis 400 Euro nach Aufwand; für Behörden gebührenfrei"
+      }
+    },
+    {
+      "id": "auf-ausnahme",
+      "titel": "Ausnahmegenehmigungen",
+      "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Erteilung von Ausnahmegenehmigungen in Fällen, die von bestehenden Regelungen nicht erfasst werden.",
+      "einheitIds": [
+        "ref-14"
+      ],
+      "rechtsgrundlage": "§ 7 BAbAG",
+      "details": [
+        "Eine Ausnahmegenehmigung nach § 7 BAbAG kommt in Betracht, wenn ein Vorhaben von bestehenden Regelungen nicht erfasst wird oder deren Anwendung im Einzelfall zu einem offensichtlich nicht beabsichtigten Ergebnis führen würde. Sie ist nachrangig: Bevor das BAbA entscheidet, muss geklärt sein, dass keine Fachbehörde eine eigene Ausnahme erteilen kann. Antragsberechtigt sind Bürgerinnen und Bürger, Unternehmen, Vereine und Behörden.",
+        "Das Referat 14 prüft, von welcher Regelung abgewichen werden soll, ob die Ausnahme sachlich begründet ist und ob Rechte Dritter berührt werden. Häufig wird die Genehmigung mit Nebenbestimmungen versehen, etwa einer Befristung, einer Auflage oder einem Widerrufsvorbehalt. Bei Vorhaben mit Landesbezug wird das betroffene Land angehört.",
+        "Ergebnis ist ein Genehmigungsbescheid oder ein begründeter Ablehnungsbescheid. Erteilte Ausnahmegenehmigungen werden im BRbA eingetragen, damit gleichgelagerte Fälle künftig einheitlich entschieden werden können."
+      ],
+      "beispiele": [
+        "Ein Leuchtturm in einem Rübenfeld in Sachsen-Anhalt darf mit Auflagen weiterleuchten, obwohl weit und breit kein Gewässer ist.",
+        "Ein Gemeindearchiv darf einen Aktenbestand behalten, dessen Aussonderungsfrist wegen eines Druckfehlers erst im Jahr 3019 abläuft.",
+        "Eine Behörde erhält die Genehmigung, ein Formular weiterzuverwenden, das sich auf ein inzwischen aufgehobenes Formular bezieht."
+      ],
+      "leistung": {
+        "antrag": "Formular BA-7 mit Begründung und gewünschtem Geltungszeitraum",
+        "dauer": "2 Monate",
+        "kosten": "100 bis 1.500 Euro; Verlängerung 50 Euro"
+      }
+    },
+    {
+      "id": "auf-verfahren",
+      "titel": "Durchführung besonderer Verwaltungsverfahren",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Führung von Verwaltungsverfahren, die wegen ihrer Besonderheit nicht im Regelverfahren bearbeitet werden können – einschließlich mehrfach besonderer Verfahren.",
+      "einheitIds": [
+        "abt-2",
+        "ref-21",
+        "ref-22"
+      ],
+      "rechtsgrundlage": "§§ 9–14 BAbAG",
+      "details": [
+        "Besondere Verwaltungsverfahren werden durchgeführt, wenn eine Angelegenheit als besonders festgestellt ist und sich nicht im Regelverfahren einer Fachbehörde bearbeiten lässt. Das Referat 21 führt Verfahren erster Ordnung, bei denen eine einzelne Besonderheit vorliegt. Das Referat 22 übernimmt mehrfach besondere Verfahren, in denen mehrere Besonderheiten zusammentreffen oder sich gegenseitig verstärken.",
+        "Der Ablauf folgt dem Verwaltungsverfahrensgesetz, ergänzt um die Sonderregeln der §§ 9–14 BAbAG: Sachverhaltsermittlung, Anhörung, Beteiligung anderer Behörden und Entscheidung. In mehrfach besonderen Verfahren gilt das Sechs-Augen-Prinzip, und die Verfahrensdauer richtet sich nach § 12 BAbAG „nach den Umständen“. Alle Verfahren werden am Standort Berlin vollständig in der E-Akte geführt.",
+        "Am Ende steht ein Bescheid, der die Angelegenheit in der Sache regelt, etwa durch eine Erlaubnis, eine Feststellung oder eine Zuordnung. Bescheide werden mit Rechtsbehelfsbelehrung bekannt gegeben und im BRbA vermerkt."
+      ],
+      "beispiele": [
+        "Ein Grundstück liegt nach drei amtlichen Vermessungen jeweils in einem anderen Landkreis.",
+        "Eine Fußgängerbrücke gehört zwei Gemeinden, darf aber nach den Satzungen nur von einer Seite aus betreten werden.",
+        "Ein Antrag begehrt zugleich Feststellung, Ausnahme und Fristauskunft und ist auf einen 29. Februar in einem Nicht-Schaltjahr datiert."
+      ],
+      "leistung": {
+        "antrag": "Einleitung von Amts wegen nach positiver Feststellung oder auf Antrag in der Sache",
+        "dauer": "6 Monate; mehrfach besondere Verfahren nach den Umständen",
+        "kosten": "nach Gebührenverzeichnis zum BAbAG, Anlage 2"
+      }
+    },
+    {
+      "id": "auf-widerspruch",
+      "titel": "Widerspruchsverfahren",
+      "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Prüfung und Entscheidung über Widersprüche gegen Bescheide des BAbA.",
+      "einheitIds": [
+        "ref-23"
+      ],
+      "rechtsgrundlage": "§§ 68 ff. VwGO i. V. m. § 15 BAbAG",
+      "details": [
+        "Gegen Bescheide des BAbA kann innerhalb eines Monats nach Bekanntgabe Widerspruch eingelegt werden. Das Referat 23 prüft, ob der Widerspruch zulässig und begründet ist, und überprüft die angegriffene Entscheidung dabei vollständig in rechtlicher und tatsächlicher Hinsicht. Zunächst erhält die Ausgangsstelle Gelegenheit, dem Widerspruch selbst abzuhelfen.",
+        "Hilft die Ausgangsstelle nicht ab, entscheidet das Referat 23 durch Widerspruchsbescheid. Es kann den Bescheid bestätigen, ganz oder teilweise aufheben oder den Vorgang an ein anderes Referat abgeben, wenn sich im Widerspruchsverfahren eine neue Besonderheit zeigt. Gegen den Widerspruchsbescheid steht der Weg zu den Verwaltungsgerichten offen; die Prozessvertretung übernimmt das Justiziariat."
+      ],
+      "beispiele": [
+        "Widerspruch gegen die Feststellung, dass ein seit 1999 nicht schimmelndes Brötchen nicht besonders sei.",
+        "Ein Widerspruch in Reimform, dessen Begründung sich erst beim lauten Vorlesen erschließt.",
+        "Ein vorsorglicher Widerspruch gegen einen Bescheid, der noch gar nicht erlassen wurde.",
+        "Ein Widerspruch gegen den Widerspruchsbescheid, der als unzulässig verworfen und als Kuriosum eingetragen wurde."
+      ],
+      "leistung": {
+        "antrag": "Schriftlich, zur Niederschrift oder elektronisch beim BAbA innerhalb eines Monats",
+        "dauer": "3 Monate",
+        "kosten": "gebührenfrei bei Erfolg; sonst bis 250 Euro"
+      }
+    },
+    {
+      "id": "auf-fristen",
+      "titel": "Berechnung außergewöhnlicher Fristen",
+      "kategorie": "Beratung",
+      "beschreibung": "Verbindliche Auskunft zu Fristen, die durch Schaltjahre, Zeitumstellungen oder ähnliche Besonderheiten beeinflusst werden.",
+      "einheitIds": [
+        "ref-24"
+      ],
+      "rechtsgrundlage": "§ 16 BAbAG",
+      "details": [
+        "Das Referat 24 erteilt verbindliche Auskünfte darüber, wann Fristen beginnen und enden, die durch kalendarische oder zeitliche Besonderheiten beeinflusst werden. Dazu gehören Fristen über einen 29. Februar oder über die Zeitumstellung, Fristen, die an Feiertagen enden, die nur in einzelnen Ländern gelten, sowie Fristen, deren Ende auf einen aus anderen Gründen umstrittenen Tag fällt. Grundlage ist die Verwaltungsvorschrift VV-AFrist 2026.",
+        "Die Auskunft können Bürgerinnen und Bürger, Unternehmen und Behörden beantragen; sie bindet das BAbA und wird von Bundesbehörden in aller Regel übernommen. Bei landesrechtlichen Fristen hat die Auskunft den Charakter einer Empfehlung, da die Länder eigene Regelungen treffen können. Ergebnis ist eine schriftliche Fristbescheinigung mit genauer Angabe von Datum, Uhrzeit und Zeitzone."
+      ],
+      "beispiele": [
+        "Wann endet eine Monatsfrist, die am 31. Januar eines Schaltjahres beginnt?",
+        "Zwei Faxe in der Nacht der Zeitumstellung, von denen das spätere nach der Uhr früher eingegangen ist.",
+        "Eine Frist endet an einem Feiertag, der im Land der Absenderin gilt, im Land des Empfängers aber nicht.",
+        "Eine Wiedervorlage im Jahr 2100, das entgegen verbreiteter Annahme kein Schaltjahr ist."
+      ],
+      "leistung": {
+        "antrag": "Online-Formular „Fristauskunft“ oder formloses Schreiben",
+        "dauer": "10 Arbeitstage",
+        "kosten": "25 Euro; für Behörden gebührenfrei"
+      }
+    },
+    {
+      "id": "auf-lage",
+      "titel": "Lagebeobachtung außergewöhnlicher Ereignisse",
+      "kategorie": "Kernaufgabe",
+      "beschreibung": "Rund-um-die-Uhr-Beobachtung, Bewertung und Meldung außergewöhnlicher Ereignisse an Bundes- und Landesbehörden.",
+      "einheitIds": [
+        "abt-3",
+        "ref-31",
+        "ref-32"
+      ],
+      "rechtsgrundlage": "§ 18 BAbAG",
+      "details": [
+        "Das Lagezentrum Besonderheiten (Referat 31) ist an 365 Tagen im Jahr rund um die Uhr besetzt, in Schaltjahren an 366. Es nimmt Meldungen über außergewöhnliche Ereignisse von Behörden, Unternehmen und Privatpersonen entgegen, bewertet sie und erstellt ein Lagebild für Bund und Länder. Jede Meldung wird innerhalb von 24 Stunden erstbewertet.",
+        "Die Bewertung erfolgt auf einer vierstufigen Skala von „bemerkenswert“ über „beachtlich“ und „erheblich“ bis „außerordentlich“. Ereignisse, die sich keiner Kategorie zuordnen lassen, übernimmt das Referat 32 „Unvorhergesehenes“, das den Sachverhalt vertieft untersucht und bei Bedarf weitere Stellen einbindet. Betrifft ein Ereignis die Zuständigkeit eines Landes, wird dessen Lagezentrum unverzüglich unterrichtet.",
+        "Ergebnis ist eine Lagemeldung oder ein Lagebericht, je nach Bedeutung auch ein Eintrag im BRbA mit Wiedervorlage. Besonders eigenartige Vorgänge werden nach Abschluss dem Kuriosa-Register vorgeschlagen."
+      ],
+      "beispiele": [
+        "Ein 14 Tonnen schwerer Findling wandert jährlich rund 40 Zentimeter auf eine Landesgrenze zu.",
+        "In einer Kleinstadt schlagen die Rathausglocken seit drei Wochen eine Minute zu früh, und zwar nur werktags.",
+        "Ein Starenschwarm bildet über einem Landratsamt wiederholt die Umrisse eines Formulars."
+      ],
+      "leistung": {
+        "antrag": "Meldung rund um die Uhr per Telefon, E-Mail oder Meldeformular LZ-1",
+        "dauer": "Erstbewertung innerhalb von 24 Stunden",
+        "kosten": "gebührenfrei"
+      }
+    },
+    {
+      "id": "auf-kuriosa",
+      "titel": "Führung des Kuriosa-Registers",
+      "kategorie": "Dokumentation",
+      "beschreibung": "Dokumentation und Archivierung kurioser Verwaltungsvorgänge von bleibendem öffentlichem Interesse.",
+      "einheitIds": [
+        "ref-33"
+      ],
+      "rechtsgrundlage": "§ 19 BAbAG",
+      "details": [
+        "Das Kuriosa-Register dokumentiert seit 1994 Verwaltungsvorgänge, die sich durch ihre Eigenart auszeichnen und von bleibendem öffentlichem Interesse sind. Aufgenommen werden nur abgeschlossene Vorgänge, die eine Besonderheit nach dem Leitfaden aufweisen und von mindestens zwei Referaten unabhängig voneinander vorgeschlagen werden. Personenbezogene Daten werden vor der Eintragung entfernt.",
+        "Das Referat 33 erschließt die Einträge, verschlagwortet sie und wertet sie aus, um wiederkehrende Muster zu erkennen. Aus mehreren Einträgen sind neue Verfahren hervorgegangen, weil ein kurioser Fall ein zweites Mal auftrat. Mit über 10.000 Einträgen ist das Register zugleich eine Quelle für Forschung, Ausbildung und Öffentlichkeitsarbeit."
+      ],
+      "beispiele": [
+        "Ein formgerechter Antrag auf Genehmigung der Stellung eines Antrags (Eintrag Nr. 10.000).",
+        "Die Prüfung, ob ein Jubiläumseintrag eintragungswürdig ist (Eintrag Nr. 10.001).",
+        "Ein Anwohnerparkausweis, der sich nach vollständiger Prüfung als gewöhnlich erwies.",
+        "Ein Bierdeckel mit der Skizze der ersten Registerkategorie von 1994."
+      ],
+      "leistung": {
+        "antrag": "Kein Antragsverfahren; Hinweise auf kuriose Vorgänge nimmt Referat 33 formlos entgegen",
+        "dauer": "Prüfung nach Abschluss des Ausgangsvorgangs",
+        "kosten": "gebührenfrei"
+      }
+    },
+    {
+      "id": "auf-praevention",
+      "titel": "Vorsorge für unwahrscheinliche Szenarien",
+      "kategorie": "Beratung",
+      "beschreibung": "Erarbeitung von Vorsorgekonzepten und Übungen für Ereignisse mit geringer Eintrittswahrscheinlichkeit.",
+      "einheitIds": [
+        "ref-34",
+        "ref-31"
+      ],
+      "rechtsgrundlage": "§ 20 BAbAG",
+      "details": [
+        "Das Referat 34 „Prävention des Unwahrscheinlichen“ entwickelt Vorsorgekonzepte für Ereignisse, deren Eintrittswahrscheinlichkeit gering, deren Folgen für die Verwaltung aber erheblich wären. Dazu werden Szenarien beschrieben, Zuständigkeiten vorab geklärt und Musterverfahren entworfen. Adressaten sind Bundes- und Landesbehörden sowie Kommunen.",
+        "Gemeinsam mit dem Lagezentrum führt das Referat regelmäßig Stabsrahmenübungen durch, an denen Bund und Länder teilnehmen. Jede Übung wird ausgewertet; die Ergebnisse fließen in Handlungsempfehlungen und gegebenenfalls in Vorschläge für Bund-Länder-Vereinbarungen ein. Die Szenarien werden bewusst so gewählt, dass sie unwahrscheinlich, aber nicht unmöglich sind.",
+        "Ergebnis sind Vorsorgekonzepte, Übungsberichte und Checklisten, die Behörden im Ernstfall die erste Stunde ersparen sollen. In dieser Stunde wird erfahrungsgemäß vor allem geklärt, wer wen anruft."
+      ],
+      "beispiele": [
+        "Stabsrahmenübung „Schaltjahr 2028“ zu einem unerwartet verlängerten Februar.",
+        "Vorsorgekonzept für den Fall, dass alle Bundesbehörden gleichzeitig ihre Zuständigkeit verneinen.",
+        "Checkliste für eine Gemeinde, die auf keiner amtlichen Karte verzeichnet ist."
+      ],
+      "leistung": {
+        "antrag": "Beratungsanfrage von Behörden formlos an Referat 34",
+        "dauer": "in der Regel 2 bis 4 Monate",
+        "kosten": "für Behörden gebührenfrei"
+      }
+    },
+    {
+      "id": "auf-brba",
+      "titel": "Bundesregister besonderer Angelegenheiten (BRbA)",
+      "kategorie": "Register",
+      "beschreibung": "Führung des zentralen Registers aller festgestellten besonderen Angelegenheiten; Auskunftserteilung an Berechtigte.",
+      "einheitIds": [
+        "abt-4",
+        "ref-41",
+        "ref-43"
+      ],
+      "rechtsgrundlage": "§§ 22–25 BAbAG",
+      "details": [
+        "Das Bundesregister besonderer Angelegenheiten (BRbA) verzeichnet alle vom BAbA festgestellten besonderen Angelegenheiten, erteilten Ausnahmegenehmigungen und abgeschlossenen besonderen Verfahren. Es umfasst derzeit 214.506 Einträge und wird seit Oktober 2026 vollständig digital im Rechenzentrum Erfurt geführt. Registerführer ist der Leiter des Referats 41.",
+        "Auskünfte erhalten Behörden von Bund, Ländern und Kommunen mit berechtigtem Interesse über eine gesicherte Schnittstelle, die das Referat 43 „Daten und Schnittstellen“ betreibt. Bürgerinnen und Bürger erhalten auf Antrag Auskunft über die zu ihrer Person oder Angelegenheit gespeicherten Einträge; das berechtigte Interesse ist im Formular BR-22 darzulegen.",
+        "Ergebnis ist eine Registerauskunft als elektronisches Dokument oder auf Wunsch als beglaubigter Ausdruck. Einträge können auf Antrag berichtigt werden; eine Löschung ist erst nach Ablauf der gesetzlichen Aufbewahrungsfristen möglich."
+      ],
+      "beispiele": [
+        "Eine Kommune fragt ab, ob ihr Vollmondbrunnen bereits als besonders festgestellt wurde.",
+        "Ein Notariat benötigt eine Auskunft zu einem Grundstück der Registerkategorie 99.9 „Einordnung nicht abschließend möglich“.",
+        "Eine Bürgerin möchte wissen, warum ihre Gänse im Register unter dem Stichwort „Ereignisse, ländliche“ geführt werden."
+      ],
+      "leistung": {
+        "antrag": "Formular BR-22 oder Schnittstelle für registrierte Behörden",
+        "dauer": "5 Arbeitstage; über die Schnittstelle sofort",
+        "kosten": "15 Euro je Auskunft; für Behörden gebührenfrei"
+      }
+    },
+    {
+      "id": "auf-beratung",
+      "titel": "Beratung von Behörden in Grenzfällen",
+      "kategorie": "Beratung",
+      "beschreibung": "Fachliche Unterstützung von Bundes-, Landes- und Kommunalbehörden bei Zuständigkeits- und Grenzfragen.",
+      "einheitIds": [
+        "ref-13",
+        "ref-11"
+      ],
+      "rechtsgrundlage": "§ 4 BAbAG",
+      "details": [
+        "Das BAbA berät Bundes-, Landes- und Kommunalbehörden, die bei einem Vorgang unsicher sind, ob sie zuständig sind oder wie ein ungewöhnlicher Sachverhalt einzuordnen ist. Die Beratung übernimmt in erster Linie das Referat 13 „Grenzfälle und Sonderkonstellationen“; Grundsatzfragen klärt das Referat 11. Die Beratung ist vertraulich und lässt die Zuständigkeit der anfragenden Behörde unberührt.",
+        "Besonderes Gewicht haben Fälle an der Schnittstelle zwischen Bundes- und Landesrecht. Hier moderiert das BAbA zwischen den Beteiligten, schlägt Zuordnungen vor und entwirft bei Bedarf Verwaltungsvereinbarungen. Im Bund-Länder-Arbeitskreis „Sonderfälle“ werden wiederkehrende Grenzfälle gesammelt und Empfehlungen abgestimmt.",
+        "Ergebnis ist eine schriftliche Stellungnahme oder eine Zuständigkeitsempfehlung. Sie bindet die anfragende Behörde nicht, wird aber nach Erfahrung des Amtes in rund neun von zehn Fällen befolgt – im zehnten meist deshalb nicht, weil die Empfehlung lautete, selbst zuständig zu sein."
+      ],
+      "beispiele": [
+        "Ein Haus auf der Landesgrenze, dessen Kachelofen in Hessen und dessen Schornstein in Thüringen steht.",
+        "Eine Kommune fragt, wer eine Parkbank betreut, die genau auf einer Gemarkungsgrenze steht.",
+        "Zwei Landesämter bitten um Klärung, welches von ihnen die Akte zu einem Fall führt, den beide bereits abgeschlossen haben."
+      ],
+      "leistung": {
+        "antrag": "Formlose Anfrage von Behörden per E-Mail oder über das Behördenportal",
+        "dauer": "4 Wochen",
+        "kosten": "für Behörden gebührenfrei"
+      }
+    },
+    {
+      "id": "auf-digital",
+      "titel": "Digitale Antragstellung",
+      "kategorie": "Leistung für Bürgerinnen, Bürger und Unternehmen",
+      "beschreibung": "Bereitstellung digitaler Antragswege und der E-Akte für alle Verfahren des Amtes.",
+      "einheitIds": [
+        "ref-42",
+        "ref-44"
+      ],
+      "rechtsgrundlage": "OZG (fiktiver Bezug)",
+      "details": [
+        "Alle Verfahren des BAbA können elektronisch beantragt und bearbeitet werden. Das Referat 42 „IT-Verfahren und E-Akte“ stellt Online-Formulare, die elektronische Akte und die Anbindung an die Verwaltungsportale von Bund und Ländern bereit. Eingereichte Anträge werden automatisch registriert, mit einem Aktenzeichen versehen und dem zuständigen Referat zugewiesen.",
+        "Das Referat 44 „Informationssicherheit“ sorgt dafür, dass Anträge und Akten vertraulich, vollständig und verfügbar bleiben. Für Angelegenheiten, die sich keinem Online-Formular zuordnen lassen, gibt es das Formular BA-0 „Sonstiges“, dessen Freitextfeld keine Zeichenbegrenzung kennt. Schriftliche Anträge werden in der Poststelle digitalisiert und ebenfalls in der E-Akte geführt."
+      ],
+      "beispiele": [
+        "Ein Antrag auf Feststellung der Besonderheit wird nachts um 3 Uhr online gestellt und morgens um 7 Uhr dem Referat 12 zugewiesen.",
+        "Das Formular BA-0 „Sonstiges“ erhält eine Einreichung mit 48.000 Zeichen und drei Skizzen.",
+        "Ein per Brieftaube eingegangener Antrag wird ordnungsgemäß gescannt; die Brieftaube nicht."
+      ],
+      "leistung": {
+        "antrag": "Online über das Antragsportal des BAbA mit einem Nutzerkonto von Bund oder Ländern",
+        "dauer": "Registrierung des Eingangs sofort",
+        "kosten": "keine zusätzlichen Kosten für den digitalen Weg"
+      }
+    }
+  ],
+  "news": [
+    {
+      "id": "2026-10-jahresbericht",
+      "datum": "2026-10-28",
+      "kategorie": "Pressemitteilung",
+      "titel": "Jahresbericht 2025/26: So viele besondere Angelegenheiten wie nie – und erstmals eine gewöhnliche",
+      "teaser": "Das BAbA hat im Berichtsjahr 38.912 Sonderfälle bearbeitet – ein Plus von 11 Prozent. Präsidentin Dr. Hanna Wellbrock stellte den 412 Seiten starken Bericht in Bonn vor und musste dabei einen Fall einräumen, der sich als völlig normal herausstellte.",
+      "text": [
+        "Das Bundesamt für besondere Angelegenheiten (BAbA) hat am 28. Oktober 2026 in Bonn seinen Jahresbericht 2025/26 vorgestellt. Mit 38.912 bearbeiteten Sonderfällen verzeichnet das Amt einen neuen Höchststand; im Vorjahr waren es 35.056. Der Bericht umfasst 412 Seiten, drei Anlagenbände und ein Beiblatt, das erläutert, warum der Bericht drei Anlagenbände hat.",
+        "„Die Welt wird nicht gewöhnlicher – und das ist gut so“, sagte Präsidentin Dr. Hanna Wellbrock bei der Vorstellung. „Unsere Aufgabe ist es, dem Besonderen ein verlässliches Verfahren zu geben. Dass wir dafür inzwischen 38.912 Mal im Jahr gebraucht werden, zeigt, wie vielfältig dieses Land ist – und wie viele Fragen zwischen den Zuständigkeiten liegen bleiben würden, wenn es uns nicht gäbe.“",
+        "## Die Zahlen im Einzelnen",
+        "Besonders stark gestiegen sind die Anträge auf Feststellung der Besonderheit nach § 3 BAbAG (Formular BA-1) mit einem Plus von 18 Prozent sowie die Ausnahmegenehmigungen nach § 7 BAbAG (Formular BA-7) mit einem Plus von 9 Prozent. Die Zahl der Abgaben anderer Behörden an das BAbA stieg auf 11.407. Davon kamen 6.912 aus den Ländern, 3.288 von Bundesbehörden und 1.207 von Kommunen, die nach eigenen Angaben „vorsorglich“ abgegeben hatten.",
+        "Die durchschnittliche Bearbeitungsdauer konnte dank der elektronischen Akte auf 23 Arbeitstage gesenkt werden. Ausgenommen sind mehrfach besondere Verfahren, deren Dauer sich nach § 12 BAbAG „nach den Umständen“ richtet, sowie 41 Verfahren, in denen die Frist selbst Gegenstand des Verfahrens war.",
+        "## Der gewöhnliche Fall",
+        "Erstmals in der Geschichte des Amtes weist der Bericht einen Fall aus, der sich nach vollständiger Prüfung als gewöhnlich erwies. Unter dem Aktenzeichen 12-3110/25-1188 hatte ein Bürger aus Rheinland-Pfalz die Verlängerung seines Anwohnerparkausweises beantragt. Nach Prüfung aller 14 Kriterien des Leitfadens ließ sich keine einzige Besonderheit feststellen. Der Antrag wurde an die zuständige Straßenverkehrsbehörde abgegeben und im Kuriosa-Register eingetragen – gerade wegen seiner Gewöhnlichkeit.",
+        "„Wir haben lange diskutiert, ob ein gewöhnlicher Fall in unserem Jahresbericht nicht selbst eine Besonderheit darstellt“, erläuterte Dr. Jonas Feldhaus, Leiter des Leitungsstabs, der das Controlling des Amtes verantwortet. „Das Justiziariat hat das bejaht. Der Fall wird daher in der Statistik zweimal gezählt, einmal als gewöhnlich und einmal als besonders. Die Differenz ist in Anlagenband 3 erläutert.“",
+        "Pressesprecherin Clara Imhoff wies darauf hin, dass der Bericht erstmals auch in Leichter Sprache erscheint. „Die Fassung in Leichter Sprache hat 38 Seiten. Wir prüfen derzeit, ob das etwas über die Langfassung aussagt“, so Imhoff. Die Länder erhalten den Bericht wie in jedem Jahr in 16 gebundenen Exemplaren, eines davon nach ausdrücklichem Wunsch eines Landes ohne Anlagenbände.",
+        "Hinweis für Interessierte: Der vollständige Bericht steht im Bereich Service zum Download bereit. Gedruckte Exemplare können mit Formular PS-3 („Anforderung von Druckerzeugnissen“) bestellt werden. Das Formular PS-3 selbst ist nicht gedruckt erhältlich."
+      ],
+      "bild": "assets/img/news/2026-10-jahresbericht.jpg",
+      "einheitId": "stab-ps",
+      "personIds": [
+        "p-wellbrock-hanna",
+        "p-imhoff-clara",
+        "p-feldhaus-jonas"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-10-jahresbericht.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-10-jahresbericht.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2026-10-jahresbericht.json"
+    },
+    {
+      "id": "2026-10-brba-start",
+      "datum": "2026-10-09",
+      "kategorie": "Meldung",
+      "titel": "Digitales Bundesregister besonderer Angelegenheiten geht in Betrieb – letzte Karteikarte feierlich abgeheftet",
+      "teaser": "Nach dreijähriger Entwicklung ersetzt das neue BRbA die bisherigen Karteiverfahren vollständig. Alle 214.506 Einträge wurden migriert, darunter 312, die sich keiner Kategorie zuordnen ließen – nicht einmal der Kategorie „Sonstiges“.",
+      "text": [
+        "Mit dem Start des digitalen Bundesregisters besonderer Angelegenheiten (BRbA) am 9. Oktober 2026 ist die letzte Karteikarte im BAbA Geschichte. Alle 214.506 Einträge aus den Karteischränken in Bonn wurden in den vergangenen drei Jahren erfasst, geprüft und in das neue Register übernommen. Betrieben wird das BRbA im Rechenzentrum der Außenstelle Erfurt.",
+        "„Das BRbA ist das Herzstück unserer Modernisierung“, erklärte Daniel Okafor, Leiter der Abteilung Digitales und Register und CIO des Amtes. „Wir haben fast vier Jahrzehnte Verwaltungsgeschichte digitalisiert. Einige Karteikarten waren beidseitig beschriftet, einige mit weiteren Karteikarten zusammengeheftet, und eine war ein Bierdeckel. Auch der ist jetzt ordnungsgemäß erfasst.“",
+        "## Die Migration",
+        "Die Übernahme erfolgte nach dem Vier-Augen-Prinzip: Jede Karte wurde von einer Person erfasst und von einer zweiten gegengeprüft. Bei 312 Einträgen konnten sich die Beteiligten nicht auf eine Kategorie einigen. Für diese Fälle wurde die neue Registerkategorie 99.9 „Einordnung nicht abschließend möglich“ geschaffen. Neun Einträge passen nach Auffassung des Referats 41 auch dort nicht hinein; sie werden in einer Unterkategorie 99.9.1 geführt, deren Bezeichnung noch abgestimmt wird.",
+        "„Auskünfte, die früher Wochen dauerten, erteilen wir jetzt in Minuten“, sagte Registerführer Dr. Ingo Wendt. „Bei einer Anfrage zum Stichwort ‚Gänse‘ mussten wir früher drei Schränke durchsuchen, weil die Gänse von 1994 bis 2003 unter ‚Geflügel‘, danach unter ‚Tiere, laute‘ und ab 2011 unter ‚Ereignisse, ländliche‘ verschlagwortet waren. Heute findet das Register alle drei – und fragt höflich, ob man auch die Schwäne sehen möchte.“",
+        "## Wer Zugriff erhält",
+        "Behörden von Bund, Ländern und Kommunen können ab sofort über eine gesicherte Schnittstelle Auskünfte nach §§ 22–25 BAbAG anfordern. Voraussetzung ist ein berechtigtes Interesse, das im Formular BR-22 darzulegen ist. Bürgerinnen und Bürger erhalten auf Antrag Auskunft über die zu ihrer Person gespeicherten Einträge. Registriert haben sich bislang 1.106 Stellen, darunter alle 16 Länder – was nach Angaben des Amtes bei länderübergreifenden Vorhaben „keineswegs selbstverständlich“ ist.",
+        "Für die Informationssicherheit ist das Referat 44 verantwortlich. „Das BRbA enthält Informationen, die man sich nicht ausdenken kann. Deshalb schützen wir sie besonders gut“, sagte der Informationssicherheitsbeauftragte Kai-Uwe Reinhold. Vor dem Start wurde das System einem Penetrationstest unterzogen, bei dem die Prüfer nach eigenen Angaben keine Sicherheitslücke fanden, wohl aber 14 Einträge, die sie gern privat weitergelesen hätten.",
+        "Die alten Karteischränke werden nicht entsorgt, sondern als Anschauungsobjekte im Hauptsitz Bonn aufbewahrt. Die letzte Karteikarte – Registernummer 1994-000001, Stichwort „Register, erstes, Anlage des“ – wurde in einem feierlichen Akt im Kuriosa-Register abgeheftet.",
+        "Hinweis für Antragstellende: Anträge auf Auskunft aus dem alten Karteiregister sind ab sofort als Anträge auf Auskunft aus dem BRbA zu stellen. Anfragen dazu, wie es früher war, beantwortet das Referat 33."
+      ],
+      "bild": "assets/img/news/2026-10-brba-start.jpg",
+      "einheitId": "ref-41",
+      "personIds": [
+        "p-okafor-daniel",
+        "p-wendt-ingo",
+        "p-reinhold-kai-uwe"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-10-brba-start.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-10-brba-start.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2026-10-brba-start.json"
+    },
+    {
+      "id": "2026-09-tag-der-offenen-tuer",
+      "datum": "2026-09-15",
+      "kategorie": "Veranstaltung",
+      "titel": "Tag der offenen Tür: 4.200 Gäste, 611 Prüfaufträge und ein Hund, der nur dienstags bellt",
+      "teaser": "Führungen durch das Kuriosa-Archiv, ein Blick ins Lagezentrum und die Mitmach-Station „Ist das schon besonders?“ begeisterten Groß und Klein. Ein Besucher reichte seinen Fall vorsorglich gleich in dreifacher Ausfertigung ein.",
+      "text": [
+        "Rund 4.200 Besucherinnen und Besucher nutzten am Samstag, 12. September 2026, die Gelegenheit, hinter die Kulissen des Bundesamts für besondere Angelegenheiten zu blicken. Der Hauptsitz Am Sonderweg 1 in Bonn öffnete dafür von 10 bis 17 Uhr seine Türen – mit Ausnahme der Tür zu Raum 0.13, die nach einem Gutachten der Liegenschaftsverwaltung aus dem Jahr 1991 nur nach innen aufgeht und daher geschlossen blieb.",
+        "## Das Kuriosa-Archiv",
+        "Besonders gefragt waren die Führungen durch das Kuriosa-Register mit Referatsleiter Friedrich Kobold. Die Wartezeit betrug zeitweise 90 Minuten; das Referat 33 prüft inzwischen, ob die Warteschlange selbst eintragungswürdig ist. Gezeigt wurden unter anderem der Antrag auf Genehmigung eines Antrags, ein Widerspruch in Reimform aus dem Jahr 1998 sowie der Bierdeckel, auf dem 1994 die erste Registerkategorie skizziert worden war.",
+        "„Die Leute wollen immer den kuriosesten Fall sehen“, sagte Kobold. „Den kann ich aber nicht zeigen, weil wir uns intern nicht einigen können, welcher das ist. Dazu läuft seit 2017 ein Verfahren.“",
+        "## Ist das schon besonders?",
+        "An der Mitmach-Station der Abteilung Grundsatz und Sonderfälle konnten Gäste eigene Fälle anhand der 14 Kriterien des Leitfadens auf ihre Besonderheit prüfen lassen. Insgesamt wurden 611 Prüfaufträge auf dem eigens gestalteten Formular BA-1-Junior entgegengenommen. Ergebnis: 588 Fälle erwiesen sich als gewöhnlich, 22 als besonders und einer als „besonders gewöhnlich“ – eine Kategorie, die das Referat 12 nun grundsätzlich prüfen wird.",
+        "„Ein Herr hat seinen Fall vorsorglich dreifach eingereicht, das dritte Exemplar für den Fall, dass die ersten beiden als Doppel gewertet werden“, berichtete Referatsleiter Martin Esser. „Das ist eigentlich gewöhnliche Vorsicht. In dieser Konsequenz haben wir sie aber selten gesehen.“ Der beliebteste Fall des Tages stammte von einer Siebenjährigen, deren Hund nach ihrer Darstellung nur dienstags bellt. Die Prüfung ergab: Kriterium 10 (fehlende Präzedenzfälle) erfüllt, Kriterium 14 (nachweislich unwahrscheinliches Ereignis) offen. Das Lagezentrum hat den Hund zur weiteren Beobachtung vorgemerkt.",
+        "Im Lagezentrum Besonderheiten erläuterten Beschäftigte, wie Meldungen über außergewöhnliche Ereignisse aus Bund und Ländern eingehen und bewertet werden. Kinder durften die Lagekarte bedienen und den Ereignisgrad „bemerkenswert“ auslösen, was zu einem kurzen, aber ordnungsgemäß dokumentierten Probealarm führte.",
+        "Pressesprecherin Clara Imhoff zog eine positive Bilanz: „Wir freuen uns über das große Interesse. Viele Gäste haben uns gesagt, sie hätten nicht gewusst, dass es uns gibt. Das ist für eine Auffangbehörde ein Kompliment.“ Der nächste Tag der offenen Tür findet 2028 statt, voraussichtlich am 29. Februar, sofern das Referat 24 keine Einwände erhebt.",
+        "Hinweis für Besuchende: Fundsachen vom Tag der offenen Tür können bis zum 30. November 2026 beim Inneren Dienst abgeholt werden. Darunter befinden sich zwei Regenschirme, eine Brotdose und ein ausgefülltes Formular BA-1-Junior ohne Absender, dessen Inhalt das Amt ausdrücklich für besonders hält."
+      ],
+      "bild": "assets/img/news/2026-09-tag-der-offenen-tuer.jpg",
+      "einheitId": "stab-ps",
+      "personIds": [
+        "p-imhoff-clara",
+        "p-kobold-friedrich",
+        "p-esser-martin"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-09-tag-der-offenen-tuer.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-09-tag-der-offenen-tuer.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2026-09-tag-der-offenen-tuer.json"
+    },
+    {
+      "id": "2026-08-leitfaden",
+      "datum": "2026-08-21",
+      "kategorie": "Publikation",
+      "titel": "Neuer Leitfaden: „Wann ist eine Angelegenheit besonders?“ – 14 Kriterien und ein messbares Kopfschütteln",
+      "teaser": "Der überarbeitete Leitfaden gibt Behörden und Antragstellenden erstmals einen Prüfkatalog mit 14 Kriterien an die Hand. Besonders viel Aufmerksamkeit erhält das sogenannte Kopfschüttel-Kriterium, das erstmals objektiviert wurde.",
+      "text": [
+        "Die Abteilung Grundsatz und Sonderfälle des BAbA hat den Leitfaden zur Abgrenzung besonderer von gewöhnlichen Angelegenheiten grundlegend überarbeitet. Die neue Fassung umfasst 96 Seiten und ersetzt die Ausgabe von 2004, die nach Angaben des Amtes zuletzt „in ihrer Gesamtheit selbst als Grenzfall“ eingestuft werden musste.",
+        "## Was neu ist",
+        "Kern ist ein Prüfkatalog mit 14 Kriterien, darunter die Einmaligkeit des Sachverhalts, die fehlende Regelungszuständigkeit, widersprüchliche Zuständigkeiten mehrerer Stellen und kalendarische Besonderheiten wie der 29. Februar. Eine Angelegenheit gilt in der Regel als besonders, wenn mindestens drei Kriterien erfüllt sind oder eines in außergewöhnlich hohem Maße. Neu aufgenommen wurde die formale Selbstbezüglichkeit, also etwa der Antrag auf Stellung eines Antrags.",
+        "„Der Leitfaden schafft Transparenz und spart allen Beteiligten Zeit“, sagte Abteilungsleiterin Dr. Miriam Achenbach. „Bislang erreichten uns viele Anträge, bei denen schon die erste Seite zeigte, dass eigentlich das örtliche Bürgeramt zuständig ist. Jetzt können Antragstellende vorher selbst prüfen – und das Bürgeramt kann vorher prüfen, ob es wirklich an uns abgeben darf.“",
+        "## Das Kopfschüttel-Kriterium",
+        "Besondere Aufmerksamkeit hat das Kriterium Nr. 4 erhalten, das sogenannte Kopfschüttel-Kriterium. Es gilt als erfüllt, wenn zwei voneinander unabhängige Bedienstete bei der ersten Lektüre des Sachverhalts unwillkürlich den Kopf schütteln. Um die Anwendung zu vereinheitlichen, hat das Referat 12 in einer Messreihe mit 140 Testfällen Abstufungen festgelegt: Ein Nicken zählt nicht, ein Seufzen gilt als Indiz, ein Kopfschütteln mit gleichzeitigem Griff zum Telefon als vollständig erfüllt.",
+        "„Wir wurden oft gefragt, ob das Kriterium nicht zu subjektiv sei“, erläuterte Referatsleiter Martin Esser, dessen Referat die Frage klärt, ob etwas überhaupt besonders ist. „Deshalb haben wir es objektiviert. Im Zweifel wird eine dritte Kollegin hinzugezogen, die den Sachverhalt vorher nicht kennt. Schüttelt auch sie den Kopf, ist die Sache entschieden.“",
+        "Dr. Elisabeth Rohrbach, Leiterin des Referats Grundsatzfragen der Besonderheit, ordnete die Neufassung historisch ein: „Den ersten Leitfaden haben wir 1989 auf zwei Seiten geschrieben. Das Kriterium lautete damals sinngemäß: Wenn es niemand anders macht. Das gilt im Kern bis heute. Wir haben es nur besser begründet.“",
+        "Der Leitfaden richtet sich ausdrücklich auch an Landes- und Kommunalbehörden. Er enthält ein Ablaufschema für die Abgabe von Vorgängen an das BAbA sowie eine Checkliste, mit der vor jeder Abgabe zu prüfen ist, ob nicht doch eine Landesbehörde zuständig ist. Die Länder wurden über den Bund-Länder-Arbeitskreis „Sonderfälle“ beteiligt: Elf Länder gaben Stellungnahmen ab, vier verwiesen auf ihre fehlende Zuständigkeit für eine Stellungnahme, und eines versäumte die Frist aus Gründen, die das Referat 24 derzeit prüft.",
+        "Hinweis für Antragstellende: Der Leitfaden steht als PDF zum Download bereit. Wer nach der Lektüre unsicher ist, ob seine Angelegenheit besonders ist, kann mit Formular BA-1 die Feststellung der Besonderheit beantragen. Wer unsicher ist, ob diese Unsicherheit besonders ist, ebenfalls."
+      ],
+      "bild": "assets/img/news/2026-08-leitfaden.jpg",
+      "einheitId": "ref-12",
+      "personIds": [
+        "p-achenbach-miriam",
+        "p-esser-martin",
+        "p-rohrbach-elisabeth"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-08-leitfaden.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-08-leitfaden.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2026-08-leitfaden.json"
+    },
+    {
+      "id": "2026-07-europaeisches-forum",
+      "datum": "2026-07-03",
+      "kategorie": "Meldung",
+      "titel": "Vizepräsident Oberreiter beim Europäischen Forum für Sonderfälle: Ein Glossar für das Unvergleichliche",
+      "teaser": "In Brüssel tauschten sich Vertreterinnen und Vertreter aus 19 Staaten über den Umgang mit grenzüberschreitenden Sonderfällen aus. Einig war man sich vor allem darin, dass man sich noch nicht einig ist, wie „besonders“ zu übersetzen ist.",
+      "text": [
+        "Vizepräsident Matthias Oberreiter hat das BAbA vom 30. Juni bis 2. Juli 2026 beim diesjährigen Europäischen Forum für Sonderfälle in Brüssel vertreten. Das Forum ist ein informelles Netzwerk von Verwaltungen, die – wie das BAbA – mit Angelegenheiten befasst sind, für die sich in ihren Staaten sonst niemand zuständig fühlt. In diesem Jahr nahmen Delegationen aus 19 Staaten teil; zwei weitere hatten zugesagt, konnten aber wegen einer ungeklärten Zuständigkeit für ihre Reisekostenabrechnung nicht anreisen.",
+        "## Das deutsche Modell",
+        "Im Mittelpunkt standen Verfahren, die in mehreren Staaten zugleich als besonders gelten. Oberreiter stellte das deutsche Modell der Auffangzuständigkeit nach § 2 BAbAG vor, das nach seinen Worten auf einem einfachen Grundsatz beruht: Am Ende muss jemand einen Bescheid unterschreiben. Großes Interesse fand die föderale Komponente. Weil in Deutschland neben dem Bund auch 16 Länder Zuständigkeiten haben, muss das BAbA in vielen Fällen zunächst klären, ob eine Angelegenheit auf Bundes- oder auf Landesebene niemandem zugeordnet ist.",
+        "„Viele Kolleginnen und Kollegen haben gefragt, wie wir mit 17 Gesetzgebern zurechtkommen“, sagte Oberreiter. „Ich habe geantwortet: mit 17 Ordnern. Das wurde als Scherz verstanden. Ich habe es im Anschluss nicht richtiggestellt.“",
+        "Dr. Nora Weißenfels, Leiterin des Referats Grenzfälle und Sonderkonstellationen, stellte in einem Workshop einen Fall aus dem Jahr 2024 vor: Auf einem Ausflugsschiff war ein Regenschirm gefunden worden, der während der Fahrt – je nach Rechtsauffassung – drei Staaten oder keinem Staat zuzuordnen war. „Das Verfahren ist bis heute nicht abgeschlossen“, so Weißenfels. „Aber wir haben inzwischen eine gemeinsame Aktenführung, und der Regenschirm wird trocken gelagert.“",
+        "## Das Glossar",
+        "Die Teilnehmenden vereinbarten, bis 2027 ein gemeinsames Glossar besonderer Angelegenheiten zu erarbeiten. Schon in der ersten Arbeitssitzung zeigte sich die Tragweite: Für das deutsche Wort „besonders“ wurden 23 Übersetzungsvorschläge eingereicht, von denen sich keiner als vollständig deckungsgleich erwies. Der Begriff „Zuständigkeit“ wurde vorläufig zurückgestellt, weil sich die Delegationen nicht einigen konnten, wer für seine Definition zuständig ist.",
+        "Das BAbA hat angeboten, die Federführung für die deutschsprachigen Einträge zu übernehmen. Eine Abstimmung mit den Ländern ist eingeleitet, nachdem drei Länder darauf hingewiesen haben, dass sie über eigene, historisch gewachsene Begriffe für das Besondere verfügen. Zur Vorbereitung hat das Referat 13 eine Synopse erstellt, die 41 Begriffe auf 9 Seiten gegenüberstellt.",
+        "Am Rande des Forums unterzeichnete Oberreiter eine Absichtserklärung mit zwei Partnerverwaltungen über den Austausch von Beschäftigten. Ab 2027 sollen jährlich bis zu sechs Beschäftigte des BAbA für jeweils drei Monate bei Partnerbehörden hospitieren. Das Auswahlverfahren ließ sich bislang keiner bestehenden Kategorie zuordnen und wird daher vorläufig vom Referat 11 betreut.",
+        "Hinweis: Das nächste Forum findet 2027 in Ljubljana statt. Anfragen zur grenzüberschreitenden Zusammenarbeit richten Sie bitte an das Büro des Vizepräsidenten. Anfragen, bei denen noch nicht feststeht, ob sie eine Grenze überschreiten, an das Referat 13."
+      ],
+      "bild": "assets/img/news/2026-07-europaeisches-forum.jpg",
+      "einheitId": "leitung",
+      "personIds": [
+        "p-oberreiter-matthias",
+        "p-weissenfels-nora"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-07-europaeisches-forum.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-07-europaeisches-forum.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2026-07-europaeisches-forum.json"
+    },
+    {
+      "id": "2026-06-erfurt-neubau",
+      "datum": "2026-06-12",
+      "kategorie": "Meldung",
+      "titel": "Außenstelle Erfurt bezieht Neubau – planmäßig, was ausdrücklich erwähnt werden soll",
+      "teaser": "Die Abteilung Digitales und Register arbeitet ab sofort in einem energieeffizienten Neubau am Registerplatz 3. Der Umzug von 280 Beschäftigten, 1.900 Kartons und einem Gummibaum verlief ohne besondere Vorkommnisse – was im BAbA durchaus als Besonderheit gilt.",
+      "text": [
+        "Nach zweijähriger Bauzeit ist die Außenstelle Erfurt des Bundesamts für besondere Angelegenheiten in ihr neues Gebäude am Registerplatz 3 umgezogen. Rund 280 Beschäftigte der Abteilung 4 „Digitales und Register“ arbeiten dort künftig in modernen Büro- und Teamflächen. Der Neubau beherbergt auch das Rechenzentrum für das Bundesregister besonderer Angelegenheiten (BRbA).",
+        "## Ein Umzug ohne Vorkommnisse",
+        "Der Umzug erfolgte an drei Wochenenden im Mai und Juni. Bewegt wurden 1.900 Umzugskartons, 312 Schreibtische, 41 Serverschränke und ein Gummibaum, der seit 2019 in der Außenstelle steht und nach Auffassung des Personalrats „zum Bestand gehört“. Für den Gummibaum wurde eine eigene Inventarnummer vergeben, nachdem eine Prüfung ergeben hatte, dass er weder unter Mobiliar noch unter Verbrauchsmaterial fällt.",
+        "„Der Umzug verlief planmäßig – was bei uns durchaus erwähnenswert ist“, sagte Ayşe Demirtaş, Leiterin des Referats Organisation, Innerer Dienst und Liegenschaften. „Wir hatten für 23 Szenarien Notfallpläne vorbereitet, darunter Stromausfall, Starkregen und die Verwechslung zweier Kartons mit der Aufschrift ‚Wichtig‘. Eingetreten ist keines. Das Lagezentrum hat sich daraufhin bei uns erkundigt, ob alles in Ordnung ist.“",
+        "Abteilungsleiter Thomas Brandauer, verantwortlich für die Zentralen Dienste, hob die Einhaltung des Kostenrahmens hervor. „Das Bauvorhaben ist im vorgesehenen Budget geblieben. Wir haben das dreimal nachgerechnet, weil wir es selbst nicht glauben konnten, und dann ein viertes Mal, weil das Justiziariat fragte, ob dreimal genügt.“ Über die genaue Summe gibt der Haushaltsplan Auskunft.",
+        "## Was das Gebäude kann",
+        "Der Neubau erfüllt den Effizienzgebäude-Standard 40, verfügt über eine Photovoltaikanlage auf dem Dach und nutzt die Abwärme des Rechenzentrums zur Beheizung der Büros. In den Wintermonaten ist die Temperatur in den Räumen direkt über den Servern daher geringfügig höher; diese Büros wurden nach einem eigens entwickelten Punktesystem vergeben, das 14 Kriterien umfasst und in seiner Struktur nicht zufällig an den Leitfaden des Amtes erinnert.",
+        "„Für das BRbA bedeutet der Neubau vor allem Ausfallsicherheit“, erklärte CIO Daniel Okafor. „Das Register ist jetzt redundant ausgelegt. Selbst wenn ein ganzer Gebäudeteil ausfällt, bleibt jeder Eintrag abrufbar. Das ist uns wichtig, denn viele Angelegenheiten im BRbA gibt es genau einmal.“",
+        "Das bisherige Dienstgebäude in der Erfurter Innenstadt wird an den Eigentümer zurückgegeben. Beim Auszug wurde im Keller ein Aktenbestand aus dem Jahr 2020 entdeckt, der sich nach erster Sichtung keinem Referat zuordnen ließ. Er wurde ordnungsgemäß an die Abteilung 1 abgegeben, die nun seine Besonderheit prüft.",
+        "Hinweis für Besuchende: Die neue Anschrift lautet Registerplatz 3, 99084 Erfurt. Die Telefonnummern bleiben unverändert. Der Gummibaum steht im Foyer und kann während der Servicezeiten besichtigt werden."
+      ],
+      "bild": "assets/img/news/2026-06-erfurt-neubau.jpg",
+      "einheitId": "ref-z3",
+      "personIds": [
+        "p-demirtas-ayse",
+        "p-brandauer-thomas",
+        "p-okafor-daniel"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-06-erfurt-neubau.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-06-erfurt-neubau.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2026-06-erfurt-neubau.json"
+    },
+    {
+      "id": "2026-05-kuriosa-10000",
+      "datum": "2026-05-05",
+      "kategorie": "Meldung",
+      "titel": "Kuriosa-Register erreicht 10.000. Eintrag: ein Antrag auf Genehmigung eines Antrags",
+      "teaser": "Der Jubiläumseintrag betrifft einen formgerechten Antrag auf Genehmigung der Stellung eines Antrags. Das Register dokumentiert seit 1994 kuriose Verwaltungsvorgänge – und musste diesmal prüfen, ob sein eigenes Jubiläum eintragungswürdig ist.",
+      "text": [
+        "Das Kuriosa-Register des Bundesamts für besondere Angelegenheiten hat am 5. Mai 2026 seinen 10.000. Eintrag erfasst. Das Register wird nach § 19 BAbAG vom Referat 33 „Kuriosa-Register und Dokumentation“ geführt und dokumentiert Verwaltungsvorgänge von bleibendem öffentlichem Interesse, die sich durch ihre Eigenart auszeichnen.",
+        "## Der Jubiläumsfall",
+        "Beim Jubiläumsfall handelt es sich um einen formgerechten Antrag auf Genehmigung der Stellung eines Antrags. Eine Antragstellerin aus Niedersachsen wollte eine Ausnahmegenehmigung nach § 7 BAbAG beantragen, war sich aber unsicher, ob sie dazu berechtigt sei. Sie beantragte daher zunächst, den Antrag stellen zu dürfen – auf Formular BA-7, Feld 2 („Regelung, von der abgewichen werden soll“) ausgefüllt mit „keine, ich möchte nur fragen“. Der Vorgang erhielt das Aktenzeichen 14-7100/26-0091.",
+        "Das Referat 14 stellte fest, dass für die Stellung eines Antrags keine Genehmigung erforderlich ist, und teilte dies per Bescheid mit. Widerspruch wurde nicht eingelegt; die Antragstellerin stellte stattdessen innerhalb von zwei Tagen den eigentlichen Antrag, der inzwischen bewilligt ist. Worum es darin ging, unterliegt dem Datenschutz. Es betraf einen Balkon.",
+        "Referatsleiter Friedrich Kobold führt das Register seit seiner Gründung. „Jeder Eintrag erzählt etwas darüber, wie Verwaltung und Wirklichkeit aufeinandertreffen“, sagt er. „Dieser Fall ist mir besonders lieb, weil er so höflich ist. Die meisten Menschen fragen nicht, ob sie fragen dürfen. Die Antragstellerin hat es getan, vollständig ausgefüllt, mit Datum und Unterschrift.“",
+        "## Wie ein Fall ins Register kommt",
+        "Für die Aufnahme gelten strenge Kriterien. Ein Vorgang muss abgeschlossen sein, eine Besonderheit nach dem Leitfaden aufweisen und von mindestens zwei Referaten unabhängig voneinander als „bemerkenswert“ vorgeschlagen werden. Rund 40 Prozent der Vorschläge werden abgelehnt, meist mit der Begründung, der Vorgang sei „nur ärgerlich, nicht kurios“. Personenbezogene Daten werden vor der Eintragung entfernt.",
+        "Abteilungsleiterin Katharina Velten ordnete das Jubiläum ein: „Das Kuriosa-Register ist kein Witzbuch. Es ist das Gedächtnis der Verwaltung für das, was nicht vorgesehen war. Viele unserer heutigen Verfahren sind entstanden, weil ein Fall zuerst im Register stand und später ein zweites Mal vorkam.“",
+        "Seit 1994 hat sich die Zusammensetzung des Registers deutlich verändert. Machten anfangs Schreiben in Gedichtform und Anträge auf Hotelbriefpapier einen großen Teil aus, überwiegen heute Fälle aus der digitalen Verwaltung, etwa Online-Anträge, die sich selbst als Anlage hochgeladen haben. Rund 1.200 Einträge betreffen Fristen, rund 800 Tiere und 31 einen Gummibaum – nach Angaben des Referats nicht in allen Fällen denselben.",
+        "Bei der Eintragung des 10.000. Falls musste das Referat zunächst klären, ob ein Jubiläumseintrag als solcher eintragungswürdig ist. Die Prüfung ergab: nein. Da diese Prüfung jedoch ihrerseits als kurios eingestuft wurde, erhielt sie die Nummer 10.001.",
+        "Eine Auswahl der Einträge erscheint im kommenden Jahr als Bildband. Hinweis für Antragstellende: Eine Aufnahme in das Kuriosa-Register kann nicht beantragt werden. Anträge auf Aufnahme werden gleichwohl geprüft – und bislang regelmäßig aufgenommen."
+      ],
+      "bild": "assets/img/news/2026-05-kuriosa-10000.jpg",
+      "einheitId": "ref-33",
+      "personIds": [
+        "p-kobold-friedrich",
+        "p-velten-katharina"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-05-kuriosa-10000.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-05-kuriosa-10000.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2026-05-kuriosa-10000.json"
+    },
+    {
+      "id": "2026-03-fristenregelung",
+      "datum": "2026-03-18",
+      "kategorie": "Pressemitteilung",
+      "titel": "Neue Fristenregelung für außergewöhnliche Verfahren: Künftig gilt die günstigere Stunde",
+      "teaser": "Ab 1. April gelten vereinfachte Regeln für Fristen, die über einen 29. Februar oder eine Zeitumstellung hinweg laufen. Damit endet eine Unsicherheit, die zuletzt 1.312 Verfahren betraf – und eine Stunde, die es zweimal gab.",
+      "text": [
+        "Zum 1. April 2026 tritt die überarbeitete Verwaltungsvorschrift zur Berechnung außergewöhnlicher Fristen (VV-AFrist 2026) in Kraft. Sie regelt auf Grundlage von § 16 BAbAG, wie Fristen zu berechnen sind, die über einen 29. Februar, eine Zeitumstellung oder ähnliche kalendarische Besonderheiten hinweg laufen. Erarbeitet wurde sie vom Referat 24 „Fristen außergewöhnlicher Art“ am Standort Berlin.",
+        "## Was sich ändert",
+        "Fristen, die über einen 29. Februar laufen, werden künftig einheitlich berechnet: Eine Monatsfrist, die am 31. Januar beginnt, endet in einem Schaltjahr am 29. Februar und in allen anderen Jahren am 28. Februar – und nicht, wie in einzelnen Verfahren vertreten, am 1. März um Mitternacht „zuzüglich einer Schaltsekunde Kulanz“. Bei Zeitumstellungen gilt stets die für die Antragstellenden günstigere Stunde. Läuft eine Frist in der Nacht der Umstellung auf die Winterzeit um 2.30 Uhr ab, ist sie erst beim zweiten Erreichen von 2.30 Uhr abgelaufen.",
+        "„Damit beenden wir eine jahrzehntelange Unsicherheit“, sagte Referatsleiter Markus Pfeiffer-Lang. „Im vergangenen Jahr hatten wir 1.312 Verfahren, in denen die Frist selbst strittig war. In 87 davon war strittig, ob die Frist für die Klärung der Frist bereits abgelaufen war. Das sind Fälle, über die man nachts wach liegt – und zwar zwischen 2 und 3 Uhr, zweimal.“",
+        "## Der Anlassfall",
+        "Den Anstoß gab unter anderem ein Verfahren aus dem Oktober 2025 mit dem Aktenzeichen 24-1600/25-0412. Ein Unternehmen hatte in der Nacht der Zeitumstellung um 2.40 Uhr Sommerzeit per Fax Widerspruch eingelegt; die Frist endete um 2.59 Uhr. Um 2.20 Uhr Winterzeit – tatsächlich also später – ging ein zweites Fax mit einer Ergänzung ein, das nach der Uhr vor dem ersten lag. Die Frage, welches Schreiben zuerst eingegangen war, beschäftigte zwei Referate, ein externes Gutachten zur Zeitmessung und das Faxgerät der Poststelle, das nach der Umstellung beide Zeitstempel für plausibel hielt.",
+        "„Für uns im Widerspruchsreferat war das eine echte Herausforderung“, sagte Verena Lutz, Leiterin des Referats Widersprüche und Einwendungen. „Wir mussten entscheiden, ob ein Schreiben eine Ergänzung zu einem Schreiben sein kann, das nach der Uhr noch gar nicht eingegangen war. Nach der neuen Regelung ist die Sache klar: Beide Faxe sind fristgerecht, und das spätere ist das frühere.“",
+        "Abteilungsleiter Prof. Dr. Lukas Rheinfelder betonte die Bedeutung für die Rechtssicherheit: „Fristen sind das Rückgrat jedes Verwaltungsverfahrens. Wenn sich dieses Rückgrat zweimal im Jahr um eine Stunde verschiebt und alle vier Jahre einen Tag hinzubekommt, braucht es klare Regeln. Wir haben sie jetzt, auf 34 Seiten.“ Die Länder wurden über den Bund-Länder-Arbeitskreis beteiligt; sie können die Vorschrift für ihre eigenen Verfahren übernehmen, müssen es aber nicht.",
+        "Bemerkenswert ist das Datum des Inkrafttretens. Das Referat 24 hat vorsorglich klargestellt, dass der 1. April kein Datum außergewöhnlicher Art im Sinne des § 16 BAbAG ist und die Vorschrift folglich ernst gemeint ist.",
+        "Hinweis für Antragstellende: Wer unsicher ist, wann eine Frist endet, kann eine verbindliche Fristauskunft beantragen. Die Auskunft wird innerhalb von zehn Arbeitstagen erteilt; läuft diese Frist über einen 29. Februar, gilt die VV-AFrist 2026 entsprechend."
+      ],
+      "bild": "assets/img/news/2026-03-fristenregelung.jpg",
+      "einheitId": "ref-24",
+      "personIds": [
+        "p-pfeiffer-lang-markus",
+        "p-rheinfelder-lukas",
+        "p-lutz-verena"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-03-fristenregelung.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-03-fristenregelung.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2026-03-fristenregelung.json"
+    },
+    {
+      "id": "2026-02-ausbildungsstart",
+      "datum": "2026-02-02",
+      "kategorie": "Karriere",
+      "titel": "24 Nachwuchskräfte starten ihre Ausbildung beim BAbA – Pflichtfach „Zuständigkeit I“ inklusive",
+      "teaser": "Verwaltungsfachangestellte, Fachinformatikerinnen und Fachinformatiker sowie dual Studierende beginnen ihren Weg in einer besonderen Behörde. Die erste Lektion: Auch die Begrüßung hat ein Aktenzeichen.",
+      "text": [
+        "Am Montag, 2. Februar 2026, hat das Bundesamt für besondere Angelegenheiten 24 neue Nachwuchskräfte an seinen Standorten Bonn, Berlin und Erfurt begrüßt. Zum neuen Jahrgang gehören 11 angehende Verwaltungsfachangestellte, 6 Fachinformatikerinnen und Fachinformatiker sowie 7 dual Studierende im Studiengang Allgemeine Innere Verwaltung. Die Begrüßung wurde unter dem Aktenzeichen Z1-0210/26-0001 vermerkt, damit die Nachwuchskräfte von Anfang an wissen, worauf es ankommt.",
+        "„Bei uns lernen Sie, dass es für fast alles ein Verfahren gibt – und für den Rest sind wir da“, sagte Referatsleiterin Petra Hollweg, die im Referat Z 1 für Personal und Ausbildung verantwortlich ist. „Sie werden in den nächsten Jahren Dinge sehen, die in keinem Lehrbuch stehen. Bitte schreiben Sie sie trotzdem ordentlich auf.“",
+        "## Die Einführungswoche",
+        "Die Einführungswoche folgt einem festen Programm. Am ersten Tag erhalten die Nachwuchskräfte ihre Dienstausweise, ihre Zugänge zur E-Akte und eine Einweisung in den Aktenplan, der 1.411 Aktenplankennzeichen umfasst, darunter 3110 („Besonderheit, Feststellung der“) und 9999 („Sonstiges, nicht anderweitig zuzuordnen, vorläufig“). Am zweiten Tag folgt das Pflichtmodul „Zuständigkeit I“, in dem anhand von 30 Übungsfällen geprüft wird, ob der Bund, ein Land, eine Kommune oder alle gleichzeitig zuständig sind.",
+        "Höhepunkt der Woche ist traditionell die Übung „Weiterleitung“: Die Nachwuchskräfte erhalten einen fiktiven Vorgang und müssen ihn durch alle Referate verfolgen, bis er beschieden ist. Der Rekord liegt bei elf Stationen in vier Tagen. Er wurde 2019 aufgestellt, als der Übungsvorgang versehentlich echt bearbeitet und positiv beschieden wurde. Der Bescheid hängt seither gerahmt im Ausbildungsraum.",
+        "## Digital von Anfang an",
+        "Erstmals werden alle Fachinformatikerinnen und Fachinformatiker in Erfurt im Referat IT-Verfahren und E-Akte ausgebildet. „Die neuen Kolleginnen und Kollegen arbeiten vom ersten Tag an mit dem echten System“, sagte Referatsleiterin Marta Kowalczyk. „Wir haben ihnen eine eigene Testumgebung eingerichtet. Ein Auszubildender hat sie in der ersten Stunde gefunden, ein zweiter sie in der zweiten Stunde erweitert. Beides war nicht vorgesehen, beides gefällt uns.“",
+        "Die Ausbildung dauert je nach Laufbahn zwei bis drei Jahre und umfasst Stationen in allen Abteilungen, auch im Lagezentrum Besonderheiten. Für die Station im Lagezentrum gilt eine Mindestvoraussetzung: Die Nachwuchskraft muss den Unterschied zwischen einem außergewöhnlichen und einem bloß ungewöhnlichen Ereignis sicher erklären können. Im vergangenen Jahrgang gelang das allen – einer Nachwuchskraft sogar in Reimform, was zu einem Vorschlag für das Kuriosa-Register führte.",
+        "Hinweis für Bewerberinnen und Bewerber: Bewerbungen für den Ausbildungsjahrgang 2027 sind ab sofort bis zum 30. September 2026 über das Online-Portal möglich. Bewerbungen, die sich keinem Ausbildungsberuf eindeutig zuordnen lassen, werden nicht abgelehnt, sondern an das Referat 12 zur Feststellung der Besonderheit weitergeleitet."
+      ],
+      "bild": "assets/img/news/2026-02-ausbildungsstart.jpg",
+      "einheitId": "ref-z1",
+      "personIds": [
+        "p-hollweg-petra",
+        "p-kowalczyk-marta"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-02-ausbildungsstart.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2026-02-ausbildungsstart.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2026-02-ausbildungsstart.json"
+    },
+    {
+      "id": "2025-12-uebung-schaltjahr",
+      "datum": "2025-12-10",
+      "kategorie": "Meldung",
+      "titel": "Lagezentrum übt den Ernstfall „Schaltjahr 2028“: Was tun, wenn der Februar nicht aufhört?",
+      "teaser": "In einer 36-stündigen Stabsrahmenübung probten Bund und Länder die Abstimmung bei einem unerwartet verlängerten Februar. Zwölf Länder nahmen teil, vier ließen sich vertreten, und der 31. Februar wurde ordnungsgemäß dokumentiert.",
+      "text": [
+        "Das Lagezentrum Besonderheiten des BAbA hat vom 8. bis 9. Dezember 2025 gemeinsam mit Vertretungen aus zwölf Ländern die Stabsrahmenübung „Schaltjahr 2028“ durchgeführt. Die Übung dauerte 36 Stunden und fand am Hauptsitz in Bonn sowie in den Lagezentren der teilnehmenden Länder statt. Vier weitere Länder ließen sich durch Beobachterinnen und Beobachter vertreten.",
+        "## Das Szenario",
+        "Geübt wurde die Koordination der Behörden bei einem fiktiven Szenario, in dem der Februar 2028 ohne Vorankündigung um zwei Tage verlängert wird. Das Drehbuch des Referats 34 „Prävention des Unwahrscheinlichen“ sah vor, dass am Morgen des 29. Februar 2028 erste Meldungen eingehen, der Monat ende nicht wie vorgesehen. Bis zum Mittag des 30. Februar mussten die Beteiligten klären, welche Fristen sich verlängern, ob Monatsbezüge anteilig nachzuzahlen sind und welche Behörde für einen Tag zuständig ist, der in keinem Kalender steht.",
+        "„Die Eintrittswahrscheinlichkeit ist gering, das räumen wir ein“, sagte Referatsleiterin Sophie Raband. „Aber es ist genau unsere Aufgabe, für Ereignisse mit geringer Eintrittswahrscheinlichkeit vorbereitet zu sein. Für die wahrscheinlichen gibt es andere.“ Das Drehbuch umfasste 214 Einspielungen, darunter die Meldung einer Kommune, deren Standesamt für den 30. Februar bereits drei Trauungen angenommen hatte.",
+        "## Erkenntnisse",
+        "Bereits nach sechs Stunden zeigte sich die zentrale Herausforderung: Die Frage, ob der 30. Februar in die Zuständigkeit des Bundes oder der Länder fällt, ließ sich im Rahmen der Übung nicht abschließend klären. Mehrere Länder vertraten die Auffassung, ein zusätzlicher Kalendertag berühre ihre Organisationshoheit; der Bund verwies auf seine Zuständigkeit für die Zeitbestimmung. Das BAbA übernahm daraufhin nach § 2 BAbAG die Auffangzuständigkeit – vorläufig und unter ausdrücklichem Vorbehalt aller Beteiligten.",
+        "Lagezentrumsleiter Oliver Sander zeigte sich mit dem Ablauf zufrieden. „Wir haben 1.106 Lagemeldungen verarbeitet, 37 Telefonschaltkonferenzen geführt und den 31. Februar ordnungsgemäß in die Lagekarte eingetragen“, so Sander. „Ein Land hat gemeldet, dass es den 31. Februar nicht anerkennt. Das haben wir zur Kenntnis genommen und in der Lagekarte farblich abgesetzt.“",
+        "„Die Übung hat gezeigt, dass unsere Meldewege funktionieren“, sagte Abteilungsleiterin Katharina Velten. „Sie hat aber auch gezeigt, dass wir bei Ereignissen, die den Kalender selbst betreffen, früher mit den Ländern ins Gespräch kommen müssen. Wir werden dazu einen Vorschlag für eine Bund-Länder-Vereinbarung über nicht vorhergesehene Kalendertage vorlegen.“",
+        "Eine Auswertung kündigte Sander bis zum Frühjahr 2026 an. Sie soll unter anderem klären, wie mit den drei Trauungen am 30. Februar umzugehen ist. Das Referat 24 „Fristen außergewöhnlicher Art“ wurde um eine Stellungnahme gebeten, insbesondere dazu, wann die Frist für diese Stellungnahme endet.",
+        "Hinweis für Bürgerinnen und Bürger: Es handelte sich um eine Übung. Der Februar 2028 wird nach derzeitigem Kenntnisstand des Amtes 29 Tage haben. Für Rückfragen steht das Lagezentrum rund um die Uhr zur Verfügung, auch am 29. Februar."
+      ],
+      "bild": "assets/img/news/2025-12-uebung-schaltjahr.jpg",
+      "einheitId": "ref-31",
+      "personIds": [
+        "p-velten-katharina",
+        "p-sander-oliver",
+        "p-raband-sophie"
+      ],
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2025-12-uebung-schaltjahr.html",
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/news/2025-12-uebung-schaltjahr.jpg",
+      "json": "https://pegrassus.github.io/baba-homepage/de/api/news/2025-12-uebung-schaltjahr.json"
+    }
+  ],
+  "downloads": [
+    {
+      "id": "dl-jahresbericht-2025",
+      "titel": "Jahresbericht 2025/26",
+      "typ": "PDF",
+      "datei": "assets/downloads/baba-jahresbericht-2025-26.pdf",
+      "kategorie": "Publikation",
+      "einheitId": "stab-ps",
+      "art": "jahresbericht"
+    },
+    {
+      "id": "dl-leitfaden-besonderheit",
+      "titel": "Leitfaden „Wann ist eine Angelegenheit besonders?“",
+      "typ": "PDF",
+      "datei": "assets/downloads/baba-leitfaden-besonderheit.pdf",
+      "kategorie": "Publikation",
+      "einheitId": "ref-12",
+      "art": "leitfaden"
+    },
+    {
+      "id": "dl-antrag-feststellung",
+      "titel": "Antrag auf Feststellung der Besonderheit (Formular BA-1)",
+      "typ": "PDF",
+      "datei": "assets/downloads/formular-ba-1.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-12",
+      "art": "formular",
+      "felder": [
+        "1. Angaben zur antragstellenden Person oder Stelle",
+        "2. Beschreibung der Angelegenheit",
+        "3. Warum ist die Angelegenheit besonders? (Kriterien laut Leitfaden)",
+        "4. Bisher befasste Stellen"
+      ]
+    },
+    {
+      "id": "dl-antrag-ausnahme",
+      "titel": "Antrag auf Ausnahmegenehmigung (Formular BA-7)",
+      "typ": "PDF",
+      "datei": "assets/downloads/formular-ba-7.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-14",
+      "art": "formular",
+      "felder": [
+        "1. Angaben zur antragstellenden Person",
+        "2. Regelung, von der abgewichen werden soll",
+        "3. Begründung der Ausnahme",
+        "4. Gewünschter Geltungszeitraum"
+      ]
+    },
+    {
+      "id": "dl-auskunft-brba",
+      "titel": "Antrag auf Registerauskunft BRbA (Formular BR-22)",
+      "typ": "PDF",
+      "datei": "assets/downloads/formular-br-22.pdf",
+      "kategorie": "Formular",
+      "einheitId": "ref-41",
+      "art": "formular",
+      "felder": [
+        "1. Anfragende Behörde / Person",
+        "2. Berechtigtes Interesse",
+        "3. Registernummer oder Suchmerkmale",
+        "4. Gewünschte Form der Auskunft"
+      ]
+    },
+    {
+      "id": "dl-organigramm",
+      "titel": "Organigramm (Stand 1. November 2026)",
+      "typ": "SVG",
+      "datei": "assets/downloads/baba-organigramm.svg",
+      "kategorie": "Organisation",
+      "einheitId": "stab-ls",
+      "art": "organigramm"
+    }
+  ]
+}

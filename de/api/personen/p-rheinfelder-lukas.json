@@ -1,0 +1,74 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-rheinfelder-lukas",
+    "anrede": "Herr",
+    "titel": "Prof. Dr.",
+    "vorname": "Lukas",
+    "nachname": "Rheinfelder",
+    "funktion": "Abteilungsleiter 2",
+    "einheitId": "abt-2",
+    "email": "lukas.rheinfelder@baba-bund.example",
+    "telefon": "+49 30 4711-4000",
+    "kurzvita": "Honorarprofessor für Verwaltungsverfahrensrecht; leitet die Abteilung am Standort Berlin.",
+    "name": "Prof. Dr. Lukas Rheinfelder",
+    "portrait": "assets/img/logo/baba-logo.png",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+    "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-rheinfelder-lukas.html",
+    "einheit": {
+      "id": "abt-2",
+      "name": "Abteilung 2: Besondere Verfahren",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-2.html"
+    },
+    "abteilungId": "abt-2",
+    "standortId": "st-berlin",
+    "leitetEinheitIds": [
+      "abt-2"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-rheinfelder-lukas.json"
+  },
+  "einheit": {
+    "id": "abt-2",
+    "typ": "abteilung",
+    "kuerzel": "2",
+    "name": "Besondere Verfahren",
+    "parentId": "leitung",
+    "leitungPersonId": "p-rheinfelder-lukas",
+    "beschreibung": "Durchführung besonderer Verwaltungsverfahren einschließlich Widerspruchs- und Fristenangelegenheiten.",
+    "standortId": "st-berlin",
+    "titel": "Abteilung 2: Besondere Verfahren",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-2.html",
+    "leitung": {
+      "id": "p-rheinfelder-lukas",
+      "name": "Prof. Dr. Lukas Rheinfelder",
+      "funktion": "Abteilungsleiter 2"
+    },
+    "childIds": [
+      "ref-21",
+      "ref-22",
+      "ref-23",
+      "ref-24"
+    ],
+    "personIds": [
+      "p-rheinfelder-lukas"
+    ],
+    "aufgabeIds": [
+      "auf-verfahren"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-2.json"
+  },
+  "news": [
+    {
+      "id": "2026-03-fristenregelung",
+      "titel": "Neue Fristenregelung für außergewöhnliche Verfahren: Künftig gilt die günstigere Stunde",
+      "datum": "2026-03-18",
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-03-fristenregelung.html"
+    }
+  ]
+}

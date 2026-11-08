@@ -1,0 +1,61 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-amsel-lena",
+    "anrede": "Frau",
+    "titel": "Dr.",
+    "vorname": "Lena",
+    "nachname": "Amsel",
+    "funktion": "Referatsleiterin 32",
+    "einheitId": "ref-32",
+    "email": "lena.amsel@baba-bund.example",
+    "telefon": "+49 228 4711-5200",
+    "kurzvita": "Physikerin; bewertet Ereignisse, mit denen niemand gerechnet hat.",
+    "name": "Dr. Lena Amsel",
+    "portrait": "assets/img/logo/baba-logo.png",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+    "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-amsel-lena.html",
+    "einheit": {
+      "id": "ref-32",
+      "name": "Referat 32: Unvorhergesehenes",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-32.html"
+    },
+    "abteilungId": "abt-3",
+    "standortId": "st-bonn",
+    "leitetEinheitIds": [
+      "ref-32"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-amsel-lena.json"
+  },
+  "einheit": {
+    "id": "ref-32",
+    "typ": "referat",
+    "kuerzel": "32",
+    "name": "Unvorhergesehenes",
+    "parentId": "abt-3",
+    "leitungPersonId": "p-amsel-lena",
+    "standortId": "st-bonn",
+    "titel": "Referat 32: Unvorhergesehenes",
+    "typLabel": "Referat",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/ref-32.html",
+    "leitung": {
+      "id": "p-amsel-lena",
+      "name": "Dr. Lena Amsel",
+      "funktion": "Referatsleiterin 32"
+    },
+    "childIds": [],
+    "personIds": [
+      "p-amsel-lena"
+    ],
+    "aufgabeIds": [
+      "auf-lage"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/ref-32.json"
+  },
+  "news": []
+}

@@ -1,0 +1,61 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "standorte": [
+    {
+      "id": "st-bonn",
+      "name": "Hauptsitz Bonn",
+      "typ": "Hauptsitz",
+      "strasse": "Am Sonderweg 1",
+      "plz": "53113",
+      "ort": "Bonn",
+      "telefon": "+49 228 4711-0",
+      "beschreibung": "Sitz der Amtsleitung, der Zentralen Dienste sowie der Abteilungen 1 und 3. Denkmalgeschütztes Verwaltungsgebäude aus dem 19. Jahrhundert mit modernem Erweiterungsbau.",
+      "bild": "assets/img/standorte/bonn.jpg",
+      "einheitIds": [
+        "leitung",
+        "stab-ls",
+        "stab-ps",
+        "stab-ds",
+        "abt-z",
+        "abt-1",
+        "abt-3"
+      ],
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/standorte/bonn.jpg"
+    },
+    {
+      "id": "st-berlin",
+      "name": "Außenstelle Berlin",
+      "typ": "Außenstelle",
+      "strasse": "Ausnahmestraße 7",
+      "plz": "10117",
+      "ort": "Berlin",
+      "telefon": "+49 30 4711-0",
+      "beschreibung": "Standort der Abteilung 2 (Besondere Verfahren) und Verbindungsbüro zu den obersten Bundesbehörden.",
+      "bild": "assets/img/standorte/berlin.jpg",
+      "einheitIds": [
+        "abt-2"
+      ],
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/standorte/berlin.jpg"
+    },
+    {
+      "id": "st-erfurt",
+      "name": "Außenstelle Erfurt",
+      "typ": "Außenstelle",
+      "strasse": "Registerplatz 3",
+      "plz": "99084",
+      "ort": "Erfurt",
+      "telefon": "+49 361 4711-0",
+      "beschreibung": "Standort der Abteilung 4 (Digitales und Register) und des Rechenzentrums des BRbA. Neubau, bezogen 2026.",
+      "bild": "assets/img/standorte/erfurt.jpg",
+      "einheitIds": [
+        "abt-4"
+      ],
+      "bildUrl": "https://pegrassus.github.io/baba-homepage/assets/img/standorte/erfurt.jpg"
+    }
+  ]
+}

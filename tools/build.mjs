@@ -40,7 +40,7 @@ for (const V of VARIANTS) buildVariant(V);
 finish();
 
 function buildVariant({ id: VID, behoerde, org, personen, aufgaben, news: newsUnsorted, standorte, downloads }) {
-  const VP = behoerde.pfad; // "" | "ch/" | "at/"
+  const VP = behoerde.pfad; // "de/" | "ch/" | "at/"
   const B = behoerde.begriffe;
   const LOCALE = behoerde.locale;
   const swiss = (s) => (VID === "ch" ? s.replace(/ß/g, "ss") : s); // Schweizer Rechtschreibung
@@ -98,7 +98,7 @@ function buildVariant({ id: VID, behoerde, org, personen, aufgaben, news: newsUn
   const abteilungen = einheiten.filter((u) => u.typ === "abteilung");
   const stabs = einheiten.filter((u) => u.typ === "stab");
   const referate = einheiten.filter((u) => u.typ === "referat");
-  const touch = VP ? behoerde.logo.png.replace(/-logo\.png$/, "-touch.png") : "apple-touch-icon.png";
+  const touch = VID === "de" ? "apple-touch-icon.png" : behoerde.logo.png.replace(/-logo\.png$/, "-touch.png");
 
   const icons = {
     doc: '<path d="M6 2h8l4 4v16H6z" fill="none" stroke="currentColor" stroke-width="2"/><path d="M9 11h6M9 15h6" stroke="currentColor" stroke-width="2"/>',
@@ -135,7 +135,7 @@ function buildVariant({ id: VID, behoerde, org, personen, aufgaben, news: newsUn
     const allCrumbs = isHome ? [] : [["Startseite", url.page("index.html")], ...crumbs];
     const ld = [...jsonld, ...(allCrumbs.length ? [ldBreadcrumbs(allCrumbs)] : [])];
     const fullTitle = isHome ? `${behoerde.name} (${behoerde.kurzname})` : `${title} – ${behoerde.kurzname}`;
-    const hreflang = COMMON_PAGES.includes(localRel) ? VARIANT_META.map((m) => `<link rel="alternate" hreflang="${m.locale}" href="${abs(m.pfad + localRel)}">`).join("\n") + "\n" : "";
+    const hreflang = COMMON_PAGES.includes(localRel) ? VARIANT_META.map((m) => `<link rel="alternate" hreflang="${m.locale}" href="${abs(m.pfad + localRel)}">`).join("\n") + `\n<link rel="alternate" hreflang="x-default" href="${abs("")}">\n` : "";
     const switcher = VARIANT_META.map((m) => `<a href="@/${m.pfad}${COMMON_PAGES.includes(localRel) ? localRel : "index.html"}" lang="${m.locale}" title="${esc(m.land)}: ${esc(m.name)}"${m.id === VID ? ' aria-current="true" class="is-current"' : ""}>${m.id.toUpperCase()}</a>`).join("");
     const html = `<!doctype html>
 <html lang="${LOCALE}" data-variant="${VID}">
@@ -583,6 +583,73 @@ ${VARIANT_META.map((m) => `- ${m.land}: [${m.name} (${m.kurzname})](${abs(m.pfad
 }
 
 function finish() {
+  // ---------- Wurzel: Länderauswahl, Weiterleitungen alter DE-URLs, Übersichten ----------
+  const sel = VARIANTS.map((v) => v.behoerde);
+  const fonts = `<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">`;
+  const selHtml = `<!doctype html>
+<html lang="de" data-variant="auswahl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bundesamt für besondere Angelegenheiten – Länderauswahl</title>
+<meta name="description" content="Fiktive Behördenwebsite in drei Länderversionen: ${sel.map((b) => b.land).join(", ")}.">
+<meta name="robots" content="noindex, follow">
+<link rel="canonical" href="${abs("")}">
+${sel.map((b) => `<link rel="alternate" hreflang="${b.locale}" href="${abs(b.pfad + "index.html")}">`).join("\n")}
+<link rel="alternate" hreflang="x-default" href="${abs("")}">
+<link rel="alternate" type="application/json" href="api/varianten.json" title="Länderversionen als JSON">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+${fonts}
+<link rel="stylesheet" href="assets/css/style.css">
+<script type="application/ld+json">${JSON.stringify({ "@context": "https://schema.org", "@type": "WebSite", name: "Bundesamt für besondere Angelegenheiten – Länderauswahl", url: abs(""), hasPart: sel.map((b) => ({ "@type": "WebSite", name: b.name, inLanguage: b.locale, url: abs(b.pfad + "index.html") })) }).replace(/</g, "\\u003c")}</script>
+</head>
+<body class="selector">
+<a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
+<div class="demo-banner" role="note"><strong>Fiktive Behörde:</strong> Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.</div>
+<main id="inhalt" class="selector-main"><div class="container">
+<div class="selector-head"><div class="eyebrow">Länderauswahl</div><h1>Bundesamt für besondere Angelegenheiten</h1><p class="lead">Bitte wählen Sie Ihr Land.</p><p class="selector-hint" hidden></p></div>
+<nav class="selector-grid" aria-label="Länderversionen">${sel.map((b) => `<a class="selector-card" href="${b.pfad}index.html" lang="${b.locale}" data-variant="${b.variante}"><img class="selector-hero" src="${b.hero.bild}" alt="" width="2400" height="1029"><span class="selector-body"><img class="selector-logo" src="${b.logo.farbig}" alt="" width="56" height="56"><span class="selector-land">${esc(b.land)}</span><strong class="selector-name">${esc(b.name)} (${esc(b.kurzname)})</strong><span class="selector-claim">${esc(b.claim)}</span><span class="selector-url">${esc(abs(b.pfad).replace(/^https?:\/\//, ""))}</span></span></a>`).join("\n")}</nav>
+<p class="selector-meta">Maschinenlesbar: <a href="api/varianten.json"><code>api/varianten.json</code></a> · <a href="llms.txt"><code>llms.txt</code></a></p>
+</div></main>
+<script>
+try { var l = (navigator.languages || [navigator.language]).join(" ").toLowerCase(); var m = /de-ch/.test(l) ? "ch" : /de-at/.test(l) ? "at" : /\\bde\\b|de-de/.test(l) ? "de" : "";
+  var c = m && document.querySelector('.selector-card[data-variant="' + m + '"]');
+  if (c) { c.classList.add("is-suggested"); var h = document.querySelector(".selector-hint"); h.textContent = "Vorschlag nach Ihrer Spracheinstellung: " + c.querySelector(".selector-land").textContent; h.hidden = false; } } catch (e) {}
+</script>
+</body>
+</html>
+`;
+  fs.writeFileSync(path.join(ROOT, "index.html"), selHtml); written.push("index.html");
+
+  const stubs = [];
+  for (const f of written.filter((x) => x.startsWith("de/") && x.endsWith(".html") && x !== "de/index.html")) {
+    const old = f.slice(3);
+    const target = "../".repeat(old.split("/").length - 1) + f;
+    const file = path.join(ROOT, old);
+    fs.mkdirSync(path.dirname(file), { recursive: true });
+    fs.writeFileSync(file, `<!doctype html>
+<html lang="de"><head><meta charset="utf-8"><title>Seite umgezogen</title><meta name="robots" content="noindex">
+<link rel="canonical" href="${abs(f)}"><meta http-equiv="refresh" content="0; url=${target}"></head>
+<body><p>Die deutsche Länderversion liegt jetzt unter <a href="${target}">${abs(f)}</a>.</p><script>location.replace(${JSON.stringify(target)} + location.hash);</script></body></html>
+`);
+    stubs.push(old);
+  }
+  const variantList = sel.map((b) => ({ variante: b.variante, land: b.land, name: b.name, kurzname: b.kurzname, sprache: b.locale, website: abs(b.pfad + "index.html"), api: abs(b.pfad + "api/index.json"), llms: abs(b.pfad + "llms.txt") }));
+  fs.mkdirSync(path.join(ROOT, "api"), { recursive: true });
+  fs.writeFileSync(path.join(ROOT, "api", "index.json"), JSON.stringify({ stand: BUILD_DATE, hinweis: "Fiktive Behörden – Demonstrationsinhalt.", beschreibung: "Länderauswahl. Jede Länderversion hat ihre eigene Website, API und llms.txt.", varianten: variantList }, null, 2) + "\n");
+  fs.writeFileSync(path.join(ROOT, "llms.txt"), `# Bundesamt für besondere Angelegenheiten – Länderauswahl
+
+> Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.
+> Die Website gibt es in drei Länderversionen mit jeweils eigener Behörde, eigener API und eigener llms.txt.
+
+## Länderversionen
+${sel.map((b) => `- ${b.land}: [${b.name} (${b.kurzname})](${abs(b.pfad + "index.html")}) – [llms.txt](${abs(b.pfad + "llms.txt")}) – [API](${abs(b.pfad + "api/index.json")})`).join("\n")}
+
+Übersicht als JSON: ${abs("api/varianten.json")}
+`);
   const htmlPages = written.filter((f) => f.endsWith(".html"));
   fs.writeFileSync(path.join(ROOT, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${htmlPages.map((f) => `  <url><loc>${abs(f)}</loc><lastmod>${BUILD_DATE}</lastmod></url>`).join("\n")}\n</urlset>\n`);
   fs.writeFileSync(path.join(ROOT, "robots.txt"), `# Fiktive Behörden – Demo. Inhalte dürfen von Werkzeugen (z. B. MCP) abgerufen werden.\nUser-agent: *\nAllow: /\nSitemap: ${abs("sitemap.xml")}\n`);
@@ -590,7 +657,7 @@ function finish() {
 
   // Linkprüfung über alle Varianten
   const missing = [];
-  for (const f of htmlPages) {
+  for (const f of [...htmlPages, ...stubs]) {
     const html = fs.readFileSync(path.join(ROOT, f), "utf8");
     for (const [, ref] of html.matchAll(/(?:href|src)="([^"#?:]+)(?:[#?][^"]*)?"/g)) {
       if (ref.startsWith("//")) continue;

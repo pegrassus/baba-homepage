@@ -1,0 +1,80 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-08",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "person": {
+    "id": "p-okafor-daniel",
+    "anrede": "Herr",
+    "titel": "",
+    "vorname": "Daniel",
+    "nachname": "Okafor",
+    "funktion": "Abteilungsleiter 4 (CIO)",
+    "einheitId": "abt-4",
+    "email": "daniel.okafor@baba-bund.example",
+    "telefon": "+49 361 4711-6000",
+    "kurzvita": "Wirtschaftsinformatiker; verantwortet die digitale Transformation des Amtes und das BRbA.",
+    "name": "Daniel Okafor",
+    "portrait": "assets/img/logo/baba-logo.png",
+    "portraitUrl": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+    "url": "https://pegrassus.github.io/baba-homepage/de/personen/p-okafor-daniel.html",
+    "einheit": {
+      "id": "abt-4",
+      "name": "Abteilung 4: Digitales und Register",
+      "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-4.html"
+    },
+    "abteilungId": "abt-4",
+    "standortId": "st-erfurt",
+    "leitetEinheitIds": [
+      "abt-4"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/personen/p-okafor-daniel.json"
+  },
+  "einheit": {
+    "id": "abt-4",
+    "typ": "abteilung",
+    "kuerzel": "4",
+    "name": "Digitales und Register",
+    "parentId": "leitung",
+    "leitungPersonId": "p-okafor-daniel",
+    "beschreibung": "Bundesregister besonderer Angelegenheiten, IT-Verfahren, Daten und Informationssicherheit.",
+    "standortId": "st-erfurt",
+    "titel": "Abteilung 4: Digitales und Register",
+    "typLabel": "Abteilung",
+    "url": "https://pegrassus.github.io/baba-homepage/de/organisation/abt-4.html",
+    "leitung": {
+      "id": "p-okafor-daniel",
+      "name": "Daniel Okafor",
+      "funktion": "Abteilungsleiter 4 (CIO)"
+    },
+    "childIds": [
+      "ref-41",
+      "ref-42",
+      "ref-43",
+      "ref-44"
+    ],
+    "personIds": [
+      "p-okafor-daniel"
+    ],
+    "aufgabeIds": [
+      "auf-brba"
+    ],
+    "json": "https://pegrassus.github.io/baba-homepage/de/api/einheiten/abt-4.json"
+  },
+  "news": [
+    {
+      "id": "2026-10-brba-start",
+      "titel": "Digitales Bundesregister besonderer Angelegenheiten geht in Betrieb – letzte Karteikarte feierlich abgeheftet",
+      "datum": "2026-10-09",
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-10-brba-start.html"
+    },
+    {
+      "id": "2026-06-erfurt-neubau",
+      "titel": "Außenstelle Erfurt bezieht Neubau – planmäßig, was ausdrücklich erwähnt werden soll",
+      "datum": "2026-06-12",
+      "url": "https://pegrassus.github.io/baba-homepage/de/aktuelles/2026-06-erfurt-neubau.html"
+    }
+  ]
+}
