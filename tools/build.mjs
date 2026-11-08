@@ -76,8 +76,9 @@ function buildVariant({ id: VID, behoerde, org, personen, aufgaben, news: newsUn
   // ---------- Hilfsfunktionen ----------
   const fmtDate = (d) => new Date(d + "T12:00:00").toLocaleDateString(LOCALE, { day: "numeric", month: "long", year: "numeric" });
   const fullName = (p) => [p.titel, p.vorname, p.nachname].filter(Boolean).join(" ") + (p.titelNach ? `, ${p.titelNach}` : "");
-  const imgBase = VP ? `assets/img/${VID}` : "assets/img";
+  const imgBase = VID === "de" ? "assets/img" : `assets/img/${VID}`;
   const portrait = (p) => (exists(`${imgBase}/personen/${p.id}.jpg`) ? `${imgBase}/personen/${p.id}.jpg` : behoerde.logo.png);
+  personen.forEach((p) => { if (!exists(`${imgBase}/personen/${p.id}.jpg`)) errors.push(`person ${p.id}: Porträt fehlt (${imgBase}/personen/${p.id}.jpg)`); });
   const children = (id) => einheiten.filter((u) => u.parentId === id);
   const unitPersons = (id) => personen.filter((p) => p.einheitId === id);
   const typLabel = { leitung: B.leitung, stab: B.stab, abteilung: B.abteilung, referat: B.referat };
