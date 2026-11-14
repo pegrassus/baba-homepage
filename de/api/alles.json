@@ -3,7 +3,7 @@
   "variante": "de",
   "land": "Deutschland",
   "sprache": "de-DE",
-  "stand": "2026-11-08",
+  "stand": "2026-11-14",
   "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "behoerde": {
     "id": "baba",
@@ -101,9 +101,15 @@
     },
     "logo": {
       "farbig": "assets/img/logo/baba-logo.svg",
-      "wortbildmarke": "assets/img/logo/baba-wortbildmarke.svg",
       "negativ": "assets/img/logo/baba-logo-negativ.svg",
-      "png": "assets/img/logo/baba-logo.png"
+      "mono": "assets/img/logo/baba-logo-mono.svg",
+      "wortbildmarke": "assets/img/logo/baba-wortbildmarke.svg",
+      "wortbildmarkeNegativ": "assets/img/logo/baba-wortbildmarke-negativ.svg",
+      "png": "assets/img/logo/baba-logo.png",
+      "wortbildmarkePng": "assets/img/logo/baba-wortbildmarke.png",
+      "favicon": "assets/img/logo/baba-favicon.png",
+      "touch": "assets/img/logo/baba-touch.png",
+      "ladeAnzeige": "assets/img/logo/baba-lade-anzeige.svg"
     },
     "farben": {
       "petrol": "#0F4C5C",

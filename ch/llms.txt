@@ -10,6 +10,13 @@ Mehr: https://pegrassus.github.io/baba-homepage/ch/auftrag.html
 Leitung: Dr. Ursula Brändli (Direktorin). Hauptsitz: Ausnahmegasse 12, 3011 Bern. Kontakt: +41 58 999 10 00, info@bba-bund.example.
 Begriffe in dieser Version: Abteilung (abt-*), Sektion (ref-*), Stabsstelle (stab-*).
 
+## Logo
+Rotes Quadrat mit weisser Raute (der Sonderfall) im Kreis aus 26 Punkten – einer je Kanton.
+- Bildmarke: https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-logo.svg (SVG) · https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-logo.png (PNG)
+- Wort-Bildmarke: https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-wortbildmarke.svg · negativ: https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-wortbildmarke-negativ.svg
+- Animiert: https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-lade-anzeige.svg
+- Alle Dateien, Farben und animierbare Bestandteile: https://pegrassus.github.io/baba-homepage/ch/api/logo.json
+
 ## Maschinenlesbare Daten
 - [api/behoerde.json](https://pegrassus.github.io/baba-homepage/ch/api/behoerde.json): Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte
 - [api/organisation.json](https://pegrassus.github.io/baba-homepage/ch/api/organisation.json): Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)
@@ -18,6 +25,7 @@ Begriffe in dieser Version: Abteilung (abt-*), Sektion (ref-*), Stabsstelle (sta
 - [api/news.json](https://pegrassus.github.io/baba-homepage/ch/api/news.json): Meldungen und Mitteilungen, neueste zuerst
 - [api/standorte.json](https://pegrassus.github.io/baba-homepage/ch/api/standorte.json): Standorte mit Adressen
 - [api/downloads.json](https://pegrassus.github.io/baba-homepage/ch/api/downloads.json): Formulare und Publikationen
+- [api/logo.json](https://pegrassus.github.io/baba-homepage/ch/api/logo.json): Logo und Marke: alle Logo-Dateien (SVG, PNG, animiert) mit Adressen, Farben und animierbaren Bestandteilen
 - [api/alles.json](https://pegrassus.github.io/baba-homepage/ch/api/alles.json): Gesamtexport aller Inhalte in einer Datei
 - Einzelobjekte: https://pegrassus.github.io/baba-homepage/ch/api/personen/{id}.json, https://pegrassus.github.io/baba-homepage/ch/api/einheiten/{id}.json, https://pegrassus.github.io/baba-homepage/ch/api/news/{id}.json
 

@@ -10,6 +10,13 @@ Mehr: https://pegrassus.github.io/baba-homepage/de/auftrag.html
 Leitung: Dr. Hanna Wellbrock (Präsidentin). Hauptsitz: Am Sonderweg 1, 53113 Bonn. Kontakt: +49 228 4711-0, poststelle@baba-bund.example.
 Begriffe in dieser Version: Abteilung (abt-*), Referat (ref-*), Stabsstelle (stab-*).
 
+## Logo
+Wappenschild in Petrol mit messingfarbener Innenlinie; darin acht weisse Felder um ein gedrehtes Messingfeld – der Sonderfall, der nicht ins Raster passt.
+- Bildmarke: https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.svg (SVG) · https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png (PNG)
+- Wort-Bildmarke: https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-wortbildmarke.svg · negativ: https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-wortbildmarke-negativ.svg
+- Animiert: https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-lade-anzeige.svg
+- Alle Dateien, Farben und animierbare Bestandteile: https://pegrassus.github.io/baba-homepage/de/api/logo.json
+
 ## Maschinenlesbare Daten
 - [api/behoerde.json](https://pegrassus.github.io/baba-homepage/de/api/behoerde.json): Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte
 - [api/organisation.json](https://pegrassus.github.io/baba-homepage/de/api/organisation.json): Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)
@@ -18,6 +25,7 @@ Begriffe in dieser Version: Abteilung (abt-*), Referat (ref-*), Stabsstelle (sta
 - [api/news.json](https://pegrassus.github.io/baba-homepage/de/api/news.json): Meldungen und Mitteilungen, neueste zuerst
 - [api/standorte.json](https://pegrassus.github.io/baba-homepage/de/api/standorte.json): Standorte mit Adressen
 - [api/downloads.json](https://pegrassus.github.io/baba-homepage/de/api/downloads.json): Formulare und Publikationen
+- [api/logo.json](https://pegrassus.github.io/baba-homepage/de/api/logo.json): Logo und Marke: alle Logo-Dateien (SVG, PNG, animiert) mit Adressen, Farben und animierbaren Bestandteilen
 - [api/alles.json](https://pegrassus.github.io/baba-homepage/de/api/alles.json): Gesamtexport aller Inhalte in einer Datei
 - Einzelobjekte: https://pegrassus.github.io/baba-homepage/de/api/personen/{id}.json, https://pegrassus.github.io/baba-homepage/de/api/einheiten/{id}.json, https://pegrassus.github.io/baba-homepage/de/api/news/{id}.json
 

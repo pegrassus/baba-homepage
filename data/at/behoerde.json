@@ -108,9 +108,15 @@
   },
   "logo": {
     "farbig": "assets/img/at/logo/bbsa-logo.svg",
-    "wortbildmarke": "assets/img/at/logo/bbsa-wortbildmarke.svg",
     "negativ": "assets/img/at/logo/bbsa-logo-negativ.svg",
-    "png": "assets/img/at/logo/bbsa-logo.png"
+    "mono": "assets/img/at/logo/bbsa-logo-mono.svg",
+    "wortbildmarke": "assets/img/at/logo/bbsa-wortbildmarke.svg",
+    "wortbildmarkeNegativ": "assets/img/at/logo/bbsa-wortbildmarke-negativ.svg",
+    "png": "assets/img/at/logo/bbsa-logo.png",
+    "wortbildmarkePng": "assets/img/at/logo/bbsa-wortbildmarke.png",
+    "favicon": "assets/img/at/logo/bbsa-favicon.png",
+    "touch": "assets/img/at/logo/bbsa-touch.png",
+    "ladeAnzeige": "assets/img/at/logo/bbsa-lade-anzeige.svg"
   },
   "farben": {
     "mokka": "#2E2723",

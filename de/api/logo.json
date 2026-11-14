@@ -1,0 +1,127 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/de/",
+  "variante": "de",
+  "land": "Deutschland",
+  "sprache": "de-DE",
+  "stand": "2026-11-14",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "name": "Bundesamt für besondere Angelegenheiten",
+  "kurzname": "BAbA",
+  "beschreibung": "Wappenschild in Petrol mit messingfarbener Innenlinie; darin acht weisse Felder um ein gedrehtes Messingfeld – der Sonderfall, der nicht ins Raster passt.",
+  "farben": {
+    "primaer": "#0F4C5C",
+    "akzent": "#B08D57",
+    "text": "#1F2A30",
+    "hell": "#FFFFFF"
+  },
+  "hinweise": [
+    "Alle SVGs: Schrift als Pfade, keine Webfonts, keine externen Verweise, kein Skript.",
+    "Die Bestandteile tragen IDs (siehe elemente) und lassen sich per SMIL oder CSS einzeln animieren.",
+    "Fiktive Behörde – kein Hoheitszeichen."
+  ],
+  "dateien": [
+    {
+      "id": "bildmarke",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.svg",
+      "breite": 512,
+      "hoehe": 512,
+      "verwendung": "Bildmarke farbig, für hellen Grund"
+    },
+    {
+      "id": "bildmarke-negativ",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo-negativ.svg",
+      "breite": 512,
+      "hoehe": 512,
+      "verwendung": "Bildmarke für dunklen Grund"
+    },
+    {
+      "id": "bildmarke-mono",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo-mono.svg",
+      "breite": 512,
+      "hoehe": 512,
+      "verwendung": "Bildmarke einfarbig schwarz (z. B. für Schwarz-Weiss-Kopfzeilen)"
+    },
+    {
+      "id": "wortbildmarke",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-wortbildmarke.svg",
+      "breite": 2041,
+      "hoehe": 512,
+      "verwendung": "Bildmarke mit Behördenname, quer, für hellen Grund"
+    },
+    {
+      "id": "wortbildmarke-negativ",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-wortbildmarke-negativ.svg",
+      "breite": 2041,
+      "hoehe": 512,
+      "verwendung": "Wort-Bildmarke für dunklen Grund"
+    },
+    {
+      "id": "lade-anzeige",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-lade-anzeige.svg",
+      "breite": 128,
+      "hoehe": 128,
+      "verwendung": "Animierte Bildmarke (SMIL, endlos, durchsichtiger Hintergrund), z. B. als Lade-Anzeige"
+    },
+    {
+      "id": "bildmarke-png",
+      "format": "png",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-logo.png",
+      "breite": 1024,
+      "hoehe": 1024,
+      "verwendung": "Bildmarke als PNG, durchsichtig"
+    },
+    {
+      "id": "wortbildmarke-png",
+      "format": "png",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-wortbildmarke.png",
+      "breite": 2041,
+      "hoehe": 512,
+      "verwendung": "Wort-Bildmarke als PNG, durchsichtig"
+    },
+    {
+      "id": "favicon",
+      "format": "png",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-favicon.png",
+      "breite": 256,
+      "hoehe": 256,
+      "verwendung": "Favicon / App-Symbol, durchsichtig"
+    },
+    {
+      "id": "touch-icon",
+      "format": "png",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/logo/baba-touch.png",
+      "breite": 180,
+      "hoehe": 180,
+      "verwendung": "Symbol mit weissem Hintergrund (apple-touch-icon)"
+    }
+  ],
+  "elemente": [
+    {
+      "id": "schild",
+      "beschreibung": "Wappenschild (Grundfläche)",
+      "animationsvorschlag": "einblenden, leicht skalieren"
+    },
+    {
+      "id": "schild-linie",
+      "beschreibung": "Innenlinie in Messing",
+      "animationsvorschlag": "Linie zeichnen (stroke-dasharray)"
+    },
+    {
+      "id": "raster",
+      "beschreibung": "Gruppe der acht Felder feld-1 … feld-8",
+      "animationsvorschlag": "Felder nacheinander ein- oder ausblenden"
+    },
+    {
+      "id": "sonderfeld",
+      "beschreibung": "Gedrehtes Messingfeld in der Mitte",
+      "animationsvorschlag": "drehen (Mittelpunkt 256/250) oder pulsieren"
+    }
+  ],
+  "seite": "https://pegrassus.github.io/baba-homepage/de/presse.html#logo"
+}

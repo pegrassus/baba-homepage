@@ -1,0 +1,103 @@
+{
+  "de": {
+    "beschreibung": "Wappenschild in Petrol mit messingfarbener Innenlinie; darin acht weisse Felder um ein gedrehtes Messingfeld – der Sonderfall, der nicht ins Raster passt.",
+    "farben": {
+      "primaer": "#0F4C5C",
+      "akzent": "#B08D57",
+      "text": "#1F2A30",
+      "hell": "#FFFFFF"
+    },
+    "elemente": [
+      {
+        "id": "schild",
+        "beschreibung": "Wappenschild (Grundfläche)",
+        "animationsvorschlag": "einblenden, leicht skalieren"
+      },
+      {
+        "id": "schild-linie",
+        "beschreibung": "Innenlinie in Messing",
+        "animationsvorschlag": "Linie zeichnen (stroke-dasharray)"
+      },
+      {
+        "id": "raster",
+        "beschreibung": "Gruppe der acht Felder feld-1 … feld-8",
+        "animationsvorschlag": "Felder nacheinander ein- oder ausblenden"
+      },
+      {
+        "id": "sonderfeld",
+        "beschreibung": "Gedrehtes Messingfeld in der Mitte",
+        "animationsvorschlag": "drehen (Mittelpunkt 256/250) oder pulsieren"
+      }
+    ],
+    "wortbildmarkeBreite": 2041
+  },
+  "ch": {
+    "beschreibung": "Rotes Quadrat mit weisser Raute (der Sonderfall) im Kreis aus 26 Punkten – einer je Kanton.",
+    "farben": {
+      "primaer": "#B5121B",
+      "akzent": "#2B2F33",
+      "text": "#2B2F33",
+      "hell": "#FFFFFF"
+    },
+    "elemente": [
+      {
+        "id": "feld",
+        "beschreibung": "Rotes Quadrat (Grundfläche)",
+        "animationsvorschlag": "einblenden"
+      },
+      {
+        "id": "kantone",
+        "beschreibung": "26 Punkte kanton-01 … kanton-26, im Uhrzeigersinn ab oben",
+        "animationsvorschlag": "nacheinander aufleuchten lassen (Lauflicht)"
+      },
+      {
+        "id": "raute",
+        "beschreibung": "Weisse Raute in der Mitte",
+        "animationsvorschlag": "drehen oder pulsieren (Mittelpunkt 256/256)"
+      },
+      {
+        "id": "raute-kern",
+        "beschreibung": "Rote Raute im Zentrum",
+        "animationsvorschlag": "pulsieren"
+      }
+    ],
+    "wortbildmarkeBreite": 1790
+  },
+  "at": {
+    "beschreibung": "Rundsiegel in Mokka mit goldener Umschrift; im goldenen Siegelfeld acht Felder um einen weissen Kreis – das Sonstige.",
+    "farben": {
+      "primaer": "#2E2723",
+      "akzent": "#E3B21A",
+      "text": "#2E2723",
+      "hell": "#FFFFFF"
+    },
+    "elemente": [
+      {
+        "id": "siegel-ring",
+        "beschreibung": "Äusserer Siegelring",
+        "animationsvorschlag": "einblenden"
+      },
+      {
+        "id": "umschrift",
+        "beschreibung": "Umschrift (Schrift als Pfade)",
+        "animationsvorschlag": "langsam drehen (Mittelpunkt 256/256)"
+      },
+      {
+        "id": "siegel-feld",
+        "beschreibung": "Goldenes Siegelfeld",
+        "animationsvorschlag": "einblenden, skalieren"
+      },
+      {
+        "id": "raster",
+        "beschreibung": "Gruppe der acht Felder feld-1 … feld-8",
+        "animationsvorschlag": "Felder nacheinander ein- oder ausblenden"
+      },
+      {
+        "id": "sonstiges",
+        "beschreibung": "Weisser Kreis in der Mitte – das Sonstige",
+        "animationsvorschlag": "pulsieren"
+      }
+    ],
+    "wortbildmarkeBreite": 1857
+  }
+}

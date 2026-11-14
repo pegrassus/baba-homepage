@@ -10,6 +10,13 @@ Mehr: https://pegrassus.github.io/baba-homepage/at/auftrag.html
 Leitung: Mag.a Dr.in Elisabeth Hinterberger (Präsidentin). Hauptsitz: Ausnahmegasse 7, 1010 Wien. Kontakt: +43 1 4711-0, einlaufstelle@bbsa-bund.example.
 Begriffe in dieser Version: Sektion (abt-*), Abteilung (ref-*), Stabsstelle (stab-*).
 
+## Logo
+Rundsiegel in Mokka mit goldener Umschrift; im goldenen Siegelfeld acht Felder um einen weissen Kreis – das Sonstige.
+- Bildmarke: https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-logo.svg (SVG) · https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-logo.png (PNG)
+- Wort-Bildmarke: https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-wortbildmarke.svg · negativ: https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-wortbildmarke-negativ.svg
+- Animiert: https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-lade-anzeige.svg
+- Alle Dateien, Farben und animierbare Bestandteile: https://pegrassus.github.io/baba-homepage/at/api/logo.json
+
 ## Maschinenlesbare Daten
 - [api/behoerde.json](https://pegrassus.github.io/baba-homepage/at/api/behoerde.json): Stammdaten der Behörde: Name, Auftrag, Leitbild, Kennzahlen, Kontakt, Logos, Geschichte
 - [api/organisation.json](https://pegrassus.github.io/baba-homepage/at/api/organisation.json): Aufbauorganisation: alle Einheiten (flach) und als Baum (baum)
@@ -18,6 +25,7 @@ Begriffe in dieser Version: Sektion (abt-*), Abteilung (ref-*), Stabsstelle (sta
 - [api/news.json](https://pegrassus.github.io/baba-homepage/at/api/news.json): Meldungen und Mitteilungen, neueste zuerst
 - [api/standorte.json](https://pegrassus.github.io/baba-homepage/at/api/standorte.json): Standorte mit Adressen
 - [api/downloads.json](https://pegrassus.github.io/baba-homepage/at/api/downloads.json): Formulare und Publikationen
+- [api/logo.json](https://pegrassus.github.io/baba-homepage/at/api/logo.json): Logo und Marke: alle Logo-Dateien (SVG, PNG, animiert) mit Adressen, Farben und animierbaren Bestandteilen
 - [api/alles.json](https://pegrassus.github.io/baba-homepage/at/api/alles.json): Gesamtexport aller Inhalte in einer Datei
 - Einzelobjekte: https://pegrassus.github.io/baba-homepage/at/api/personen/{id}.json, https://pegrassus.github.io/baba-homepage/at/api/einheiten/{id}.json, https://pegrassus.github.io/baba-homepage/at/api/news/{id}.json
 

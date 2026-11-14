@@ -69,7 +69,7 @@ function buildVariant({ id: VID, behoerde, org, personen, aufgaben, news: newsUn
   news.forEach((n) => { need(E, n.einheitId, `news ${n.id}.einheitId`); n.personIds.forEach((id) => need(P, id, `news ${n.id}.personIds`)); if (!exists(n.bild)) errors.push(`news ${n.id}: Bild fehlt (${n.bild})`); });
   standorte.forEach((s) => { s.einheitIds.forEach((id) => need(E, id, `standort ${s.id}.einheitIds`)); if (!exists(s.bild)) errors.push(`standort ${s.id}: Bild fehlt`); });
   downloads.forEach((d) => need(E, d.einheitId, `download ${d.id}.einheitId`));
-  for (const k of ["farbig", "negativ", "wortbildmarke", "png"]) if (!exists(behoerde.logo[k])) errors.push(`Logo fehlt: ${behoerde.logo[k]}`);
+  for (const k of ["farbig", "negativ", "mono", "wortbildmarke", "wortbildmarkeNegativ", "png", "wortbildmarkePng", "favicon", "touch", "ladeAnzeige"]) if (!exists(behoerde.logo[k])) errors.push(`Logo fehlt: ${behoerde.logo[k]}`);
   if (VID === "ch") { const hit = JSON.stringify([behoerde, org, personen, aufgaben, news, standorte, downloads]).match(/.{0,30}ß.{0,30}/); if (hit) errors.push(`Schweizer Daten enthalten ß: …${hit[0]}…`); }
   if (errors.length) { console.error(`[${VID}] Validierung fehlgeschlagen:\n  ` + errors.join("\n  ")); process.exit(1); }
 
@@ -99,7 +99,8 @@ function buildVariant({ id: VID, behoerde, org, personen, aufgaben, news: newsUn
   const abteilungen = einheiten.filter((u) => u.typ === "abteilung");
   const stabs = einheiten.filter((u) => u.typ === "stab");
   const referate = einheiten.filter((u) => u.typ === "referat");
-  const touch = VID === "de" ? "apple-touch-icon.png" : behoerde.logo.png.replace(/-logo\.png$/, "-touch.png");
+  const touch = behoerde.logo.touch;
+  const LOGO = JSON.parse(fs.readFileSync(path.join(ROOT, "tools", "logo-manifest.json"), "utf8"))[VID];
 
   const icons = {
     doc: '<path d="M6 2h8l4 4v16H6z" fill="none" stroke="currentColor" stroke-width="2"/><path d="M9 11h6M9 15h6" stroke="currentColor" stroke-width="2"/>',
@@ -115,7 +116,7 @@ function buildVariant({ id: VID, behoerde, org, personen, aufgaben, news: newsUn
   function ldOrganisation(full = false) {
     const sub = (id) => children(id).map((u) => ({ "@type": "GovernmentOrganization", "@id": abs(url.einheit(u.id)), name: unitTitle(u), url: abs(url.einheit(u.id)), ...(u.leitungPersonId ? { employee: { "@type": "Person", "@id": abs(url.person(u.leitungPersonId)), name: fullName(P[u.leitungPersonId]), jobTitle: P[u.leitungPersonId].funktion } } : {}), ...(full && children(u.id).length ? { subOrganization: sub(u.id) } : {}) }));
     return {
-      "@context": "https://schema.org", ...orgRef, alternateName: [behoerde.kurzname, ...(behoerde.namenLandessprachen || []).filter((n) => n.sprache !== "de").map((n) => n.name)], url: abs(url.page("")), logo: abs(behoerde.logo.png),
+      "@context": "https://schema.org", ...orgRef, alternateName: [behoerde.kurzname, ...(behoerde.namenLandessprachen || []).filter((n) => n.sprache !== "de").map((n) => n.name)], url: abs(url.page("")), logo: { "@type": "ImageObject", url: abs(behoerde.logo.png), contentUrl: abs(behoerde.logo.farbig), width: 1024, height: 1024, caption: `Bildmarke ${behoerde.kurzname}` }, image: [abs(behoerde.logo.wortbildmarkePng), abs(behoerde.logo.farbig)],
       description: behoerde.auftrag, foundingDate: behoerde.gruendung, telephone: behoerde.kontakt.telefon, email: behoerde.kontakt.email, areaServed: behoerde.land,
       address: postal(hs), location: standorte.map((s) => ({ "@type": "Place", name: s.name, address: postal(s) })),
       disambiguatingDescription: behoerde.hinweis, ...(full ? { subOrganization: sub("leitung") } : {}),
@@ -154,6 +155,8 @@ function buildVariant({ id: VID, behoerde, org, personen, aufgaben, news: newsUn
 <meta property="og:image" content="${abs(behoerde.logo.png)}">
 <link rel="canonical" href="${abs(rel)}">
 ${hreflang}<link rel="icon" href="@/${behoerde.logo.farbig}" type="image/svg+xml">
+<link rel="icon" href="@/${behoerde.logo.favicon}" type="image/png" sizes="256x256">
+<link rel="alternate" type="application/json" href="@/${VP}api/logo.json" title="Logo und Marke (alle Dateien)">
 <link rel="apple-touch-icon" href="@/${touch}">
 <link rel="alternate" type="application/json" href="@/${VP}api/index.json" title="Maschinenlesbare Schnittstelle">
 ${alternate ? `<link rel="alternate" type="application/json" href="@/${VP}${alternate}" title="Inhalt dieser Seite als JSON">\n` : ""}<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -167,7 +170,7 @@ ${ld.map((j) => `<script type="application/ld+json">${JSON.stringify(j).replace(
 <div class="demo-banner" role="note"><strong>Fiktive Behörde:</strong> ${esc(behoerde.hinweis.replace(/^Fiktive Behörde – /, ""))}</div>
 <div class="topbar"><div class="container"><a href="@/${VP}barrierefreiheit.html">Barrierefreiheit</a><a href="@/${VP}daten.html">Offene Daten &amp; API</a><a href="@/${VP}kontakt.html">Kontakt</a><a href="@/${VP}suche.html">Suche</a><nav class="variant-switch" aria-label="Länderversion">${switcher}</nav></div></div>
 <header class="site-header"><div class="container">
-<a class="brand" href="@/${VP}index.html" aria-label="${esc(behoerde.name)} – zur Startseite"><img src="@/${behoerde.logo.farbig}" alt="" width="64" height="64"><span class="brand-text"><span class="brand-name">${brandName}</span><span class="brand-short">${esc(behoerde.markeZeile || behoerde.kurzname)}</span></span></a>
+<a class="brand" href="@/${VP}index.html" aria-label="${esc(behoerde.name)} – zur Startseite"><img class="brand-wordmark" src="@/${behoerde.logo.wortbildmarke}" alt="${esc(behoerde.name)} (${esc(behoerde.kurzname)})" width="${LOGO.wortbildmarkeBreite / 2}" height="256"></a>
 <div class="header-search" role="search"><form action="@/${VP}suche.html"><label class="visually-hidden" for="kopfsuche">Suche</label><input id="kopfsuche" name="q" type="search" placeholder="Suchbegriff eingeben"><button type="submit">Suchen</button></form></div>
 <button class="nav-toggle" aria-expanded="false" aria-controls="hauptnavigation">☰ Menü</button>
 </div></header>
@@ -181,7 +184,7 @@ ${body}
 <footer class="site-footer">
 <div class="container">
 <div class="footer-grid">
-<div><div class="footer-brand"><img src="@/${behoerde.logo.negativ}" alt="" width="44" height="44">${esc(behoerde.name)}</div>
+<div><div class="footer-brand"><img src="@/${behoerde.logo.wortbildmarkeNegativ}" alt="${esc(behoerde.name)}" width="${LOGO.wortbildmarkeBreite / 2}" height="256"></div>
 <p>${esc(hs.strasse)}<br>${esc(hs.plz)} ${esc(hs.ort)}<br>Telefon ${esc(behoerde.kontakt.telefon)}<br><a href="mailto:${esc(behoerde.kontakt.email)}">${esc(behoerde.kontakt.email)}</a></p></div>
 <div><h2>Das Amt</h2><ul><li><a href="@/${VP}ueber-uns.html">Über uns</a></li>${SZ ? `<li><a href="@/${VP}auftrag.html">Auftrag und Zuständigkeit</a></li>` : ""}<li><a href="@/${VP}organisation.html">Organigramm</a></li><li><a href="@/${VP}personen.html">Ansprechpersonen</a></li><li><a href="@/${VP}aufgaben.html">Aufgaben</a></li></ul></div>
 <div><h2>Service</h2><ul><li><a href="@/${VP}service.html">Formulare &amp; Downloads</a></li><li><a href="@/${VP}aktuelles.html">Aktuelles</a></li><li><a href="@/${VP}presse.html">Presse</a></li><li><a href="@/${VP}kontakt.html">Kontakt</a></li></ul></div>
@@ -371,10 +374,14 @@ ${n.text.map(para).join("\n")}</article>
     body: `<div class="container page-head"><div class="eyebrow">Presse</div><h1>Presse und Medien</h1></div>
 <section class="section" style="padding-top:16px"><div class="container layout-aside"><div>
 <h2>Mitteilungen</h2>${newsList(news.slice(0, 6))}
-<h2 style="margin-top:40px">Logo und Bildmarke</h2><p>Die Logos dürfen ausschließlich im Zusammenhang mit Berichterstattung über das (fiktive) ${esc(behoerde.kurzname)} verwendet werden.</p>
-<div class="grid grid-3"><div><div class="logo-tile"><img src="@/${behoerde.logo.farbig}" alt="Bildmarke farbig"></div><p><a href="@/${behoerde.logo.farbig}" download>SVG</a> · <a href="@/${behoerde.logo.png}" download>PNG</a></p></div>
-<div><div class="logo-tile dark"><img src="@/${behoerde.logo.negativ}" alt="Bildmarke negativ"></div><p><a href="@/${behoerde.logo.negativ}" download>SVG (negativ)</a></p></div>
-<div><div class="logo-tile"><img src="@/${behoerde.logo.wortbildmarke}" alt="Wort-Bildmarke"></div><p><a href="@/${behoerde.logo.wortbildmarke}" download>SVG (Wort-Bildmarke)</a></p></div></div>
+<h2 style="margin-top:40px" id="logo">Logo und Marke</h2><p>${esc(LOGO.beschreibung)} Alle Dateien sind Vektorgrafiken mit Schrift als Pfaden und ohne externe Verweise; die Bestandteile haben sprechende IDs und lassen sich einzeln animieren. Eine vollständige Liste mit Adressen steht in <a href="@/${VP}api/logo.json"><code>api/logo.json</code></a>.</p>
+<div class="logo-tile logo-wide"><img src="@/${behoerde.logo.wortbildmarke}" alt="Wort-Bildmarke"></div><p><a href="@/${behoerde.logo.wortbildmarke}" download>SVG</a> · <a href="@/${behoerde.logo.wortbildmarkePng}" download>PNG</a> · Wort-Bildmarke</p>
+<div class="logo-tile logo-wide dark"><img src="@/${behoerde.logo.wortbildmarkeNegativ}" alt="Wort-Bildmarke negativ"></div><p><a href="@/${behoerde.logo.wortbildmarkeNegativ}" download>SVG</a> · Wort-Bildmarke negativ (für dunklen Grund)</p>
+<div class="grid grid-4"><div><div class="logo-tile"><img src="@/${behoerde.logo.farbig}" alt="Bildmarke farbig"></div><p><a href="@/${behoerde.logo.farbig}" download>SVG</a> · <a href="@/${behoerde.logo.png}" download>PNG</a><br>Bildmarke</p></div>
+<div><div class="logo-tile dark"><img src="@/${behoerde.logo.negativ}" alt="Bildmarke negativ"></div><p><a href="@/${behoerde.logo.negativ}" download>SVG</a><br>Bildmarke negativ</p></div>
+<div><div class="logo-tile"><img src="@/${behoerde.logo.mono}" alt="Bildmarke einfarbig"></div><p><a href="@/${behoerde.logo.mono}" download>SVG</a><br>Bildmarke einfarbig</p></div>
+<div><div class="logo-tile checker"><img src="@/${behoerde.logo.ladeAnzeige}" alt="Animierte Bildmarke" width="128" height="128"></div><p><a href="@/${behoerde.logo.ladeAnzeige}" download>SVG</a><br>Animiert (Lade-Anzeige, 128 px)</p></div></div>
+<h3>Animierbare Bestandteile</h3><div class="table-wrap"><table><thead><tr><th>ID im SVG</th><th>Bestandteil</th><th>Vorschlag</th></tr></thead><tbody>${LOGO.elemente.map((e) => `<tr><td><code>#${esc(e.id)}</code></td><td>${esc(e.beschreibung)}</td><td>${esc(e.animationsvorschlag)}</td></tr>`).join("")}</tbody></table></div>
 <h3>Farben</h3><div class="grid grid-4">${Object.entries(behoerde.farben).map(([k, v]) => `<div class="card"><div style="height:70px;background:${v}"></div><div class="card-body"><strong>${esc(k[0].toUpperCase() + k.slice(1))}</strong><code>${v}</code></div></div>`).join("")}</div>
 <h2 style="margin-top:40px">Pressebilder</h2><div class="grid grid-3">${[[behoerde.hero.bild, behoerde.hero.alt], [behoerde.heroInnen.bild, behoerde.heroInnen.alt], ...standorte.map((s) => [s.bild, s.name])].map(([src, t]) => `<figure class="card" style="margin:0"><img src="@/${src}" alt="${esc(t)}" loading="lazy"><figcaption class="card-body"><a href="@/${src}" download>${esc(t)}</a></figcaption></figure>`).join("")}</div>
 </div><aside><div class="aside-box"><h2>Pressekontakt</h2><div class="org-person"><img src="@/${portrait(presse)}" alt=""><div><a href="@/${url.person(presse.id)}"><strong>${esc(fullName(presse))}</strong></a><small>${esc(presse.funktion)}</small></div></div><p style="margin-top:12px">Telefon ${esc(presse.telefon)}<br><a href="mailto:${esc(presse.email)}">${esc(presse.email)}</a></p></div></aside></div></section>`,
@@ -415,6 +422,22 @@ ${standorte.map((s) => `<div class="aside-box"><h2>${esc(s.name)}</h2><p>${esc(b
   writeJson(`${VP}api/aufgaben.json`, { ...meta, anzahl: aufgaben.length, aufgaben: aufgaben.map((a) => ({ ...a, url: abs(url.page("aufgaben.html#" + a.id)), einheiten: a.einheitIds.map((x) => ({ id: x, name: unitTitle(E[x]) })) })) });
   writeJson(`${VP}api/news.json`, { ...meta, anzahl: news.length, news: news.map(newsOut) });
   writeJson(`${VP}api/standorte.json`, { ...meta, standorte: standorte.map((s) => ({ ...s, bildUrl: abs(s.bild) })) });
+  const logoFiles = [
+    ["bildmarke", "farbig", "svg", "Bildmarke farbig, für hellen Grund", 512, 512],
+    ["bildmarke-negativ", "negativ", "svg", "Bildmarke für dunklen Grund", 512, 512],
+    ["bildmarke-mono", "mono", "svg", "Bildmarke einfarbig schwarz (z. B. für Schwarz-Weiss-Kopfzeilen)", 512, 512],
+    ["wortbildmarke", "wortbildmarke", "svg", "Bildmarke mit Behördenname, quer, für hellen Grund", LOGO.wortbildmarkeBreite, 512],
+    ["wortbildmarke-negativ", "wortbildmarkeNegativ", "svg", "Wort-Bildmarke für dunklen Grund", LOGO.wortbildmarkeBreite, 512],
+    ["lade-anzeige", "ladeAnzeige", "svg", "Animierte Bildmarke (SMIL, endlos, durchsichtiger Hintergrund), z. B. als Lade-Anzeige", 128, 128],
+    ["bildmarke-png", "png", "png", "Bildmarke als PNG, durchsichtig", 1024, 1024],
+    ["wortbildmarke-png", "wortbildmarkePng", "png", "Wort-Bildmarke als PNG, durchsichtig", LOGO.wortbildmarkeBreite, 512],
+    ["favicon", "favicon", "png", "Favicon / App-Symbol, durchsichtig", 256, 256],
+    ["touch-icon", "touch", "png", "Symbol mit weissem Hintergrund (apple-touch-icon)", 180, 180],
+  ];
+  writeJson(`${VP}api/logo.json`, { ...meta, name: behoerde.name, kurzname: behoerde.kurzname, beschreibung: LOGO.beschreibung, farben: LOGO.farben,
+    hinweise: ["Alle SVGs: Schrift als Pfade, keine Webfonts, keine externen Verweise, kein Skript.", "Die Bestandteile tragen IDs (siehe elemente) und lassen sich per SMIL oder CSS einzeln animieren.", "Fiktive Behörde – kein Hoheitszeichen."],
+    dateien: logoFiles.map(([id, k, format, verwendung, breite, hoehe]) => ({ id, format, url: abs(behoerde.logo[k]), breite, hoehe, verwendung })),
+    elemente: LOGO.elemente, seite: abs(url.page("presse.html#logo")) });
   writeJson(`${VP}api/downloads.json`, { ...meta, downloads: downloads.map((d) => ({ ...d, url: abs(d.datei) })) });
   personen.forEach((p) => writeJson(`${VP}api/personen/${p.id}.json`, { ...meta, person: personOut(p), einheit: unitOut(E[p.einheitId]), news: personNews(p.id).map((n) => ({ id: n.id, titel: n.titel, datum: n.datum, url: abs(url.news(n.id)) })) }));
   einheiten.forEach((u) => writeJson(`${VP}api/einheiten/${u.id}.json`, { ...meta, einheit: unitOut(u), parent: u.parentId ? unitOut(E[u.parentId]) : null, children: children(u.id).map(unitOut), personen: unitPersons(u.id).map(personOut), aufgaben: unitTasks(u.id), standort: S[u.standortId], news: unitNews(u.id).map((n) => ({ id: n.id, titel: n.titel, datum: n.datum, url: abs(url.news(n.id)) })) }));
@@ -435,6 +458,7 @@ ${standorte.map((s) => `<div class="aside-box"><h2>${esc(s.name)}</h2><p>${esc(b
     ["api/news.json", "Meldungen und Mitteilungen, neueste zuerst"],
     ["api/standorte.json", "Standorte mit Adressen"],
     ["api/downloads.json", "Formulare und Publikationen"],
+    ["api/logo.json", "Logo und Marke: alle Logo-Dateien (SVG, PNG, animiert) mit Adressen, Farben und animierbaren Bestandteilen"],
     ["api/alles.json", "Gesamtexport aller Inhalte in einer Datei"],
     ["api/personen/{id}.json", "Einzelne Person inkl. Einheit und Erwähnungen"],
     ["api/einheiten/{id}.json", `Einzelne Organisationseinheit inkl. Leitung, Personen, Unter-Einheiten, Aufgaben`],
@@ -521,6 +545,13 @@ ${REF.tonalitaet}
 ${SZ ? `\n## Auftrag\n${SZ.kurzfassung}\nMehr: ${abs(VP + "auftrag.html")}\n` : ""}
 Leitung: ${fullName(leitung)} (${leitung.funktion}). Hauptsitz: ${standortAddr(hs)}. Kontakt: ${k.telefon}, ${k.email}.
 Begriffe in dieser Version: ${B.abteilung} (abt-*), ${B.referat} (ref-*), ${B.stab} (stab-*).
+
+## Logo
+${LOGO.beschreibung}
+- Bildmarke: ${abs(behoerde.logo.farbig)} (SVG) · ${abs(behoerde.logo.png)} (PNG)
+- Wort-Bildmarke: ${abs(behoerde.logo.wortbildmarke)} · negativ: ${abs(behoerde.logo.wortbildmarkeNegativ)}
+- Animiert: ${abs(behoerde.logo.ladeAnzeige)}
+- Alle Dateien, Farben und animierbare Bestandteile: ${abs(VP + "api/logo.json")}
 
 ## Maschinenlesbare Daten
 ${endpoints.filter(([p]) => !p.includes("{")).map(([p, d]) => `- [${p}](${abs(VP + p)}): ${d}`).join("\n")}

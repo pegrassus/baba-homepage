@@ -1,0 +1,127 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/ch/",
+  "variante": "ch",
+  "land": "Schweiz",
+  "sprache": "de-CH",
+  "stand": "2026-11-14",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "name": "Bundesamt für besondere Angelegenheiten",
+  "kurzname": "BBA",
+  "beschreibung": "Rotes Quadrat mit weisser Raute (der Sonderfall) im Kreis aus 26 Punkten – einer je Kanton.",
+  "farben": {
+    "primaer": "#B5121B",
+    "akzent": "#2B2F33",
+    "text": "#2B2F33",
+    "hell": "#FFFFFF"
+  },
+  "hinweise": [
+    "Alle SVGs: Schrift als Pfade, keine Webfonts, keine externen Verweise, kein Skript.",
+    "Die Bestandteile tragen IDs (siehe elemente) und lassen sich per SMIL oder CSS einzeln animieren.",
+    "Fiktive Behörde – kein Hoheitszeichen."
+  ],
+  "dateien": [
+    {
+      "id": "bildmarke",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-logo.svg",
+      "breite": 512,
+      "hoehe": 512,
+      "verwendung": "Bildmarke farbig, für hellen Grund"
+    },
+    {
+      "id": "bildmarke-negativ",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-logo-negativ.svg",
+      "breite": 512,
+      "hoehe": 512,
+      "verwendung": "Bildmarke für dunklen Grund"
+    },
+    {
+      "id": "bildmarke-mono",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-logo-mono.svg",
+      "breite": 512,
+      "hoehe": 512,
+      "verwendung": "Bildmarke einfarbig schwarz (z. B. für Schwarz-Weiss-Kopfzeilen)"
+    },
+    {
+      "id": "wortbildmarke",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-wortbildmarke.svg",
+      "breite": 1790,
+      "hoehe": 512,
+      "verwendung": "Bildmarke mit Behördenname, quer, für hellen Grund"
+    },
+    {
+      "id": "wortbildmarke-negativ",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-wortbildmarke-negativ.svg",
+      "breite": 1790,
+      "hoehe": 512,
+      "verwendung": "Wort-Bildmarke für dunklen Grund"
+    },
+    {
+      "id": "lade-anzeige",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-lade-anzeige.svg",
+      "breite": 128,
+      "hoehe": 128,
+      "verwendung": "Animierte Bildmarke (SMIL, endlos, durchsichtiger Hintergrund), z. B. als Lade-Anzeige"
+    },
+    {
+      "id": "bildmarke-png",
+      "format": "png",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-logo.png",
+      "breite": 1024,
+      "hoehe": 1024,
+      "verwendung": "Bildmarke als PNG, durchsichtig"
+    },
+    {
+      "id": "wortbildmarke-png",
+      "format": "png",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-wortbildmarke.png",
+      "breite": 1790,
+      "hoehe": 512,
+      "verwendung": "Wort-Bildmarke als PNG, durchsichtig"
+    },
+    {
+      "id": "favicon",
+      "format": "png",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-favicon.png",
+      "breite": 256,
+      "hoehe": 256,
+      "verwendung": "Favicon / App-Symbol, durchsichtig"
+    },
+    {
+      "id": "touch-icon",
+      "format": "png",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/ch/logo/bba-touch.png",
+      "breite": 180,
+      "hoehe": 180,
+      "verwendung": "Symbol mit weissem Hintergrund (apple-touch-icon)"
+    }
+  ],
+  "elemente": [
+    {
+      "id": "feld",
+      "beschreibung": "Rotes Quadrat (Grundfläche)",
+      "animationsvorschlag": "einblenden"
+    },
+    {
+      "id": "kantone",
+      "beschreibung": "26 Punkte kanton-01 … kanton-26, im Uhrzeigersinn ab oben",
+      "animationsvorschlag": "nacheinander aufleuchten lassen (Lauflicht)"
+    },
+    {
+      "id": "raute",
+      "beschreibung": "Weisse Raute in der Mitte",
+      "animationsvorschlag": "drehen oder pulsieren (Mittelpunkt 256/256)"
+    },
+    {
+      "id": "raute-kern",
+      "beschreibung": "Rote Raute im Zentrum",
+      "animationsvorschlag": "pulsieren"
+    }
+  ],
+  "seite": "https://pegrassus.github.io/baba-homepage/ch/presse.html#logo"
+}

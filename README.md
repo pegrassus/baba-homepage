@@ -74,9 +74,11 @@ git push
 
 ## Logos
 
-Gemeinsames Motiv: 3×3-Raster mit einem Sonderfeld.
-- **DE:** Petrol/Messing, das Feld ist leicht gedreht (`assets/img/logo/baba-logo.svg`). Higgsfield-Alternativen: `assets/img/logo/entwurf-*.svg`.
-- **CH:** Anthrazit/Rot, das Feld steht als Raute auf der Spitze (`assets/img/ch/logo/`).
-- **AT:** Mokka/Schönbrunner Gelb, das Feld ist rund („das Sonstige“) (`assets/img/at/logo/`).
+Jede Länderversion hat eine eigene, amtlich wirkende Marke (bewusst ohne Wappen, Adler oder Kreuz):
+- **DE (BAbA):** Wappenschild in Petrol mit Messing-Innenlinie, acht Felder um ein gedrehtes Sonderfeld (`assets/img/logo/`).
+- **CH (BBA):** rotes Quadrat, weisse Raute im Kreis aus 26 Punkten, einer je Kanton (`assets/img/ch/logo/`).
+- **AT (BBSA):** Rundsiegel in Mokka mit goldener Umschrift, acht Felder um „das Sonstige“ (`assets/img/at/logo/`).
 
-Schweizerkreuz, Wappen und Bundesadler sind bewusst nicht verwendet.
+Je Version: Bildmarke (farbig, negativ, einfarbig), Wort-Bildmarke (hell, negativ), animierte Lade-Anzeige (SMIL, 128 px) und PNGs. Alle SVGs haben die Schrift als Pfade, keine externen Verweise und sprechende IDs je Bestandteil zum Animieren. Liste mit Adressen: `<variante>/api/logo.json`, Übersicht auf der Presseseite (`presse.html#logo`).
+
+Neu erzeugen: `python -I tools/make-logos.py` (braucht die Windows-Schriften Bahnschrift, Arial und Georgia, dazu Chrome oder Edge für die PNGs). Danach `node tools/build.mjs`.

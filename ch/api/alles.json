@@ -3,7 +3,7 @@
   "variante": "ch",
   "land": "Schweiz",
   "sprache": "de-CH",
-  "stand": "2026-11-08",
+  "stand": "2026-11-14",
   "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "behoerde": {
     "id": "bba",
@@ -46,7 +46,7 @@
       "titel": "Bundesgesetz über die besonderen Angelegenheiten (BABG)",
       "fundstelle": "SR 999.42 (fiktiv)"
     },
-    "claim": "Wo 26 Kantone nicht mehr weiterwissen, beginnt unsere Frist.",
+    "claim": "Für jeden Sonderfall eine Lösung. Breit abgestützt und pünktlich.",
     "auftrag": "Das Bundesamt für besondere Angelegenheiten (BBA) ist zuständig für alles, wofür in der Schweiz sonst niemand zuständig ist – oder wofür sich mehrere gleichzeitig zuständig fühlen. Es stellt auf Gesuch hin fest, ob eine Angelegenheit besonders ist, erteilt Ausnahmebewilligungen, vermittelt bei kantonalen Sonderfällen und führt Vernehmlassungen zu Fragen durch, die sich bisher niemand gestellt hat. Zudem beobachtet es ausserordentliche Ereignisse von der Alp bis zur Bahnhofsuhr und führt das Eidgenössische Register besonderer Angelegenheiten (ERbA). Sämtliche Verfahren werden fristgerecht abgeschlossen; die amtliche Toleranz beträgt 59 Sekunden.",
     "auftragSeite": {
       "titel": "Wofür das BBA da ist",
@@ -124,9 +124,15 @@
     },
     "logo": {
       "farbig": "assets/img/ch/logo/bba-logo.svg",
-      "wortbildmarke": "assets/img/ch/logo/bba-wortbildmarke.svg",
       "negativ": "assets/img/ch/logo/bba-logo-negativ.svg",
-      "png": "assets/img/ch/logo/bba-logo.png"
+      "mono": "assets/img/ch/logo/bba-logo-mono.svg",
+      "wortbildmarke": "assets/img/ch/logo/bba-wortbildmarke.svg",
+      "wortbildmarkeNegativ": "assets/img/ch/logo/bba-wortbildmarke-negativ.svg",
+      "png": "assets/img/ch/logo/bba-logo.png",
+      "wortbildmarkePng": "assets/img/ch/logo/bba-wortbildmarke.png",
+      "favicon": "assets/img/ch/logo/bba-favicon.png",
+      "touch": "assets/img/ch/logo/bba-touch.png",
+      "ladeAnzeige": "assets/img/ch/logo/bba-lade-anzeige.svg"
     },
     "farben": {
       "anthrazit": "#2B2F33",

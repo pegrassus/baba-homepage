@@ -3,7 +3,7 @@
   "variante": "de",
   "land": "Deutschland",
   "sprache": "de-DE",
-  "stand": "2026-11-08",
+  "stand": "2026-11-14",
   "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
   "name": "Bundesamt für besondere Angelegenheiten",
   "kurzname": "BAbA",
@@ -77,6 +77,11 @@
       "pfad": "api/downloads.json",
       "url": "https://pegrassus.github.io/baba-homepage/de/api/downloads.json",
       "beschreibung": "Formulare und Publikationen"
+    },
+    {
+      "pfad": "api/logo.json",
+      "url": "https://pegrassus.github.io/baba-homepage/de/api/logo.json",
+      "beschreibung": "Logo und Marke: alle Logo-Dateien (SVG, PNG, animiert) mit Adressen, Farben und animierbaren Bestandteilen"
     },
     {
       "pfad": "api/alles.json",

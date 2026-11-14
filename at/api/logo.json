@@ -1,0 +1,132 @@
+{
+  "quelle": "https://pegrassus.github.io/baba-homepage/at/",
+  "variante": "at",
+  "land": "Österreich",
+  "sprache": "de-AT",
+  "stand": "2026-11-14",
+  "hinweis": "Fiktive Behörde – Demonstrationsinhalt. Alle Personen, Adressen und Vorgänge sind frei erfunden.",
+  "name": "Bundesamt für besondere und sonstige Angelegenheiten",
+  "kurzname": "BBSA",
+  "beschreibung": "Rundsiegel in Mokka mit goldener Umschrift; im goldenen Siegelfeld acht Felder um einen weissen Kreis – das Sonstige.",
+  "farben": {
+    "primaer": "#2E2723",
+    "akzent": "#E3B21A",
+    "text": "#2E2723",
+    "hell": "#FFFFFF"
+  },
+  "hinweise": [
+    "Alle SVGs: Schrift als Pfade, keine Webfonts, keine externen Verweise, kein Skript.",
+    "Die Bestandteile tragen IDs (siehe elemente) und lassen sich per SMIL oder CSS einzeln animieren.",
+    "Fiktive Behörde – kein Hoheitszeichen."
+  ],
+  "dateien": [
+    {
+      "id": "bildmarke",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-logo.svg",
+      "breite": 512,
+      "hoehe": 512,
+      "verwendung": "Bildmarke farbig, für hellen Grund"
+    },
+    {
+      "id": "bildmarke-negativ",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-logo-negativ.svg",
+      "breite": 512,
+      "hoehe": 512,
+      "verwendung": "Bildmarke für dunklen Grund"
+    },
+    {
+      "id": "bildmarke-mono",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-logo-mono.svg",
+      "breite": 512,
+      "hoehe": 512,
+      "verwendung": "Bildmarke einfarbig schwarz (z. B. für Schwarz-Weiss-Kopfzeilen)"
+    },
+    {
+      "id": "wortbildmarke",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-wortbildmarke.svg",
+      "breite": 1857,
+      "hoehe": 512,
+      "verwendung": "Bildmarke mit Behördenname, quer, für hellen Grund"
+    },
+    {
+      "id": "wortbildmarke-negativ",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-wortbildmarke-negativ.svg",
+      "breite": 1857,
+      "hoehe": 512,
+      "verwendung": "Wort-Bildmarke für dunklen Grund"
+    },
+    {
+      "id": "lade-anzeige",
+      "format": "svg",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-lade-anzeige.svg",
+      "breite": 128,
+      "hoehe": 128,
+      "verwendung": "Animierte Bildmarke (SMIL, endlos, durchsichtiger Hintergrund), z. B. als Lade-Anzeige"
+    },
+    {
+      "id": "bildmarke-png",
+      "format": "png",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-logo.png",
+      "breite": 1024,
+      "hoehe": 1024,
+      "verwendung": "Bildmarke als PNG, durchsichtig"
+    },
+    {
+      "id": "wortbildmarke-png",
+      "format": "png",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-wortbildmarke.png",
+      "breite": 1857,
+      "hoehe": 512,
+      "verwendung": "Wort-Bildmarke als PNG, durchsichtig"
+    },
+    {
+      "id": "favicon",
+      "format": "png",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-favicon.png",
+      "breite": 256,
+      "hoehe": 256,
+      "verwendung": "Favicon / App-Symbol, durchsichtig"
+    },
+    {
+      "id": "touch-icon",
+      "format": "png",
+      "url": "https://pegrassus.github.io/baba-homepage/assets/img/at/logo/bbsa-touch.png",
+      "breite": 180,
+      "hoehe": 180,
+      "verwendung": "Symbol mit weissem Hintergrund (apple-touch-icon)"
+    }
+  ],
+  "elemente": [
+    {
+      "id": "siegel-ring",
+      "beschreibung": "Äusserer Siegelring",
+      "animationsvorschlag": "einblenden"
+    },
+    {
+      "id": "umschrift",
+      "beschreibung": "Umschrift (Schrift als Pfade)",
+      "animationsvorschlag": "langsam drehen (Mittelpunkt 256/256)"
+    },
+    {
+      "id": "siegel-feld",
+      "beschreibung": "Goldenes Siegelfeld",
+      "animationsvorschlag": "einblenden, skalieren"
+    },
+    {
+      "id": "raster",
+      "beschreibung": "Gruppe der acht Felder feld-1 … feld-8",
+      "animationsvorschlag": "Felder nacheinander ein- oder ausblenden"
+    },
+    {
+      "id": "sonstiges",
+      "beschreibung": "Weisser Kreis in der Mitte – das Sonstige",
+      "animationsvorschlag": "pulsieren"
+    }
+  ],
+  "seite": "https://pegrassus.github.io/baba-homepage/at/presse.html#logo"
+}
